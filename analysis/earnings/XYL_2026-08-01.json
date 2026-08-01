@@ -1,0 +1,194 @@
+{
+  "symbol": "XYL",
+  "company": "Xylem Inc",
+  "thesis": "scarcity_next_wave",
+  "conviction": "LOW",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:26:02.723272+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 58,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-07-28",
+    "eps_actual": 1.46,
+    "eps_estimate": 1.34,
+    "eps_surprise": 0.12,
+    "eps_surprise_pct": 0.09,
+    "revenue_actual": 2336000000,
+    "revenue_estimate": 2345097192,
+    "revenue_surprise_pct": 0,
+    "eps_prior_year": 1.26,
+    "revenue_prior_year": 2301000000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-04-27",
+    "eps_estimate": 1.2,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 7,
+    "misses": 0,
+    "meet": 1,
+    "beat_rate": 87.5
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 16.22,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 1.37
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 1.42
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 1.12
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 1.46
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 4.25,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 2268000000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 2397000000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 2125000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 2336000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.0688,
+    "avg_revenue_surprise_pct": 1.12,
+    "estimate_accuracy_eps_pct": 5.9
+  },
+  "flags": [
+    "consistent_beater"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-10-31",
+      "eps_actual": 1.11,
+      "eps_est": 1.11,
+      "eps_surprise": 0,
+      "eps_surprise_pct": 0,
+      "revenue_actual": 2104000000,
+      "revenue_est": 2170000000,
+      "revenue_surprise_pct": -0.03,
+      "eps_prior_year": 0.99,
+      "revenue_prior_year": 2076000000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-02-04",
+      "eps_actual": 1.18,
+      "eps_est": 1.13,
+      "eps_surprise": 0.05,
+      "eps_surprise_pct": 0.04,
+      "revenue_actual": 2256000000,
+      "revenue_est": 2180000000,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 0.99,
+      "revenue_prior_year": 2118000000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-04-29",
+      "eps_actual": 1.03,
+      "eps_est": 0.95,
+      "eps_surprise": 0.08,
+      "eps_surprise_pct": 0.08,
+      "revenue_actual": 2069000000,
+      "revenue_est": 2040000000,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 0.9,
+      "revenue_prior_year": 2033000000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-07-31",
+      "eps_actual": 1.26,
+      "eps_est": 1.14,
+      "eps_surprise": 0.12,
+      "eps_surprise_pct": 0.11,
+      "revenue_actual": 2301000000,
+      "revenue_est": 2208559934,
+      "revenue_surprise_pct": 0.04,
+      "eps_prior_year": 1.09,
+      "revenue_prior_year": 2169000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-10-28",
+      "eps_actual": 1.37,
+      "eps_est": 1.24,
+      "eps_surprise": 0.13,
+      "eps_surprise_pct": 0.1,
+      "revenue_actual": 2268000000,
+      "revenue_est": 2221433460,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 1.11,
+      "revenue_prior_year": 2104000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-10",
+      "eps_actual": 1.42,
+      "eps_est": 1.41,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0.01,
+      "revenue_actual": 2397000000,
+      "revenue_est": 2375550250,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 1.18,
+      "revenue_prior_year": 2256000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-04-28",
+      "eps_actual": 1.12,
+      "eps_est": 1.08,
+      "eps_surprise": 0.04,
+      "eps_surprise_pct": 0.04,
+      "revenue_actual": 2125000000,
+      "revenue_est": 2109561928,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 1.03,
+      "revenue_prior_year": 2069000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-07-28",
+      "eps_actual": 1.46,
+      "eps_est": 1.34,
+      "eps_surprise": 0.12,
+      "eps_surprise_pct": 0.09,
+      "revenue_actual": 2336000000,
+      "revenue_est": 2345097192,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 1.26,
+      "revenue_prior_year": 2301000000
+    }
+  ],
+  "ticker_notes": "Novel water scarcity for data centers; early stage thesis"
+}

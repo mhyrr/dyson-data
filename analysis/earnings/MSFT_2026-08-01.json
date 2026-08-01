@@ -1,0 +1,195 @@
+{
+  "symbol": "MSFT",
+  "company": "Microsoft Corp",
+  "thesis": "sma_quality",
+  "conviction": "MEDIUM",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:26:03.012030+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 60,
+  "last_quarter": {
+    "period": "Q4 2026",
+    "date": "2026-07-29",
+    "eps_actual": 4.74,
+    "eps_estimate": 4.23,
+    "eps_surprise": 0.51,
+    "eps_surprise_pct": 0.12,
+    "revenue_actual": 90007000000,
+    "revenue_estimate": 87612420200,
+    "revenue_surprise_pct": 0.03,
+    "eps_prior_year": 3.86,
+    "revenue_prior_year": 76441000000
+  },
+  "next_quarter": {
+    "period": "Q3 2027",
+    "date": "2027-04-28",
+    "eps_estimate": 4.8,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 8,
+    "misses": 0,
+    "meet": 0,
+    "beat_rate": 100.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 19.87,
+    "recent_quarters": [
+      {
+        "period": "Q1 2026",
+        "eps": 4.13
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 4.14
+      },
+      {
+        "period": "Q3 2026",
+        "eps": 4.27
+      },
+      {
+        "period": "Q4 2026",
+        "eps": 4.74
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 16.36,
+    "recent_quarters": [
+      {
+        "period": "Q1 2026",
+        "revenue": 77673000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 81273000000
+      },
+      {
+        "period": "Q3 2026",
+        "revenue": 82886000000
+      },
+      {
+        "period": "Q4 2026",
+        "revenue": 90007000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.2888,
+    "avg_revenue_surprise_pct": 2.25,
+    "estimate_accuracy_eps_pct": 7.93
+  },
+  "flags": [
+    "consistent_beater",
+    "large_surprises"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q1 2025",
+      "date": "2024-10-30",
+      "eps_actual": 3.3,
+      "eps_est": 3.1,
+      "eps_surprise": 0.2,
+      "eps_surprise_pct": 0.06,
+      "revenue_actual": 65585000000,
+      "revenue_est": 64510000000,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 2.99,
+      "revenue_prior_year": 56517000000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-01-29",
+      "eps_actual": 3.23,
+      "eps_est": 3.1,
+      "eps_surprise": 0.13,
+      "eps_surprise_pct": 0.04,
+      "revenue_actual": 69632000000,
+      "revenue_est": 68810000000,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 2.93,
+      "revenue_prior_year": 62020000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-04-30",
+      "eps_actual": 3.46,
+      "eps_est": 3.22,
+      "eps_surprise": 0.24,
+      "eps_surprise_pct": 0.07,
+      "revenue_actual": 70066000000,
+      "revenue_est": 68420000000,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 2.94,
+      "revenue_prior_year": 61858000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2025-07-30",
+      "eps_actual": 3.65,
+      "eps_est": 3.37,
+      "eps_surprise": 0.28,
+      "eps_surprise_pct": 0.08,
+      "revenue_actual": 76441000000,
+      "revenue_est": 73767066798,
+      "revenue_surprise_pct": 0.04,
+      "eps_prior_year": 2.95,
+      "revenue_prior_year": 64727000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2025-10-29",
+      "eps_actual": 4.13,
+      "eps_est": 3.66,
+      "eps_surprise": 0.47,
+      "eps_surprise_pct": 0.13,
+      "revenue_actual": 77673000000,
+      "revenue_est": 75217441670,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 3.37,
+      "revenue_prior_year": 65585000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-01-28",
+      "eps_actual": 4.14,
+      "eps_est": 3.86,
+      "eps_surprise": 0.28,
+      "eps_surprise_pct": 0.07,
+      "revenue_actual": 81273000000,
+      "revenue_est": 80254968220,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 3.23,
+      "revenue_prior_year": 69632000000
+    },
+    {
+      "period": "Q3 2026",
+      "date": "2026-04-29",
+      "eps_actual": 4.27,
+      "eps_est": 4.07,
+      "eps_surprise": 0.2,
+      "eps_surprise_pct": 0.05,
+      "revenue_actual": 82886000000,
+      "revenue_est": 81420914784,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 3.46,
+      "revenue_prior_year": 70066000000
+    },
+    {
+      "period": "Q4 2026",
+      "date": "2026-07-29",
+      "eps_actual": 4.74,
+      "eps_est": 4.23,
+      "eps_surprise": 0.51,
+      "eps_surprise_pct": 0.12,
+      "revenue_actual": 90007000000,
+      "revenue_est": 87612420200,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 3.86,
+      "revenue_prior_year": 76441000000
+    }
+  ],
+  "ticker_notes": "Quality at 200-day SMA; cloud+AI+enterprise moat; already own 3 shares"
+}

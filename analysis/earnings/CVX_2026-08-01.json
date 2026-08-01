@@ -1,0 +1,195 @@
+{
+  "symbol": "CVX",
+  "company": "Chevron Corp",
+  "thesis": "buffett_value",
+  "conviction": "MEDIUM",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:26:04.767165+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 58,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-07-31",
+    "eps_actual": 6.06,
+    "eps_estimate": 5.27,
+    "eps_surprise": 0.79,
+    "eps_surprise_pct": 0.15,
+    "revenue_actual": 70055000000,
+    "revenue_estimate": 62364772824,
+    "revenue_surprise_pct": 0.12,
+    "eps_prior_year": 1.77,
+    "revenue_prior_year": 44822000000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-04-30",
+    "eps_estimate": 3.46,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 6,
+    "misses": 1,
+    "meet": 1,
+    "beat_rate": 75.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 5.05,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 1.85
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 1.52
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 1.41
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 6.06
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 4.5,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 49726000000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 46873000000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 48607000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 70055000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.1975,
+    "avg_revenue_surprise_pct": 1.38,
+    "estimate_accuracy_eps_pct": 10.83
+  },
+  "flags": [
+    "consistent_beater",
+    "large_surprises"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-11-01",
+      "eps_actual": 2.51,
+      "eps_est": 2.43,
+      "eps_surprise": 0.08,
+      "eps_surprise_pct": 0.03,
+      "revenue_actual": 50669000000,
+      "revenue_est": 48990000000,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 3.05,
+      "revenue_prior_year": 54080000000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-01-31",
+      "eps_actual": 2.06,
+      "eps_est": 2.11,
+      "eps_surprise": -0.05,
+      "eps_surprise_pct": -0.02,
+      "revenue_actual": 52226000000,
+      "revenue_est": 48410000000,
+      "revenue_surprise_pct": 0.08,
+      "eps_prior_year": 3.45,
+      "revenue_prior_year": 47180000000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-05-02",
+      "eps_actual": 2.18,
+      "eps_est": 2.18,
+      "eps_surprise": 0,
+      "eps_surprise_pct": 0,
+      "revenue_actual": 47610000000,
+      "revenue_est": 48080000000,
+      "revenue_surprise_pct": -0.01,
+      "eps_prior_year": 2.93,
+      "revenue_prior_year": 48716000000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-08-01",
+      "eps_actual": 1.77,
+      "eps_est": 1.7,
+      "eps_surprise": 0.07,
+      "eps_surprise_pct": 0.04,
+      "revenue_actual": 44822000000,
+      "revenue_est": 45876704942,
+      "revenue_surprise_pct": -0.02,
+      "eps_prior_year": 2.55,
+      "revenue_prior_year": 51181000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-10-31",
+      "eps_actual": 1.85,
+      "eps_est": 1.69,
+      "eps_surprise": 0.16,
+      "eps_surprise_pct": 0.09,
+      "revenue_actual": 49726000000,
+      "revenue_est": 49883170116,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 2.51,
+      "revenue_prior_year": 50669000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-01-30",
+      "eps_actual": 1.52,
+      "eps_est": 1.44,
+      "eps_surprise": 0.08,
+      "eps_surprise_pct": 0.06,
+      "revenue_actual": 46873000000,
+      "revenue_est": 48567440842,
+      "revenue_surprise_pct": -0.03,
+      "eps_prior_year": 2.06,
+      "revenue_prior_year": 52226000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-05-01",
+      "eps_actual": 1.41,
+      "eps_est": 0.96,
+      "eps_surprise": 0.45,
+      "eps_surprise_pct": 0.47,
+      "revenue_actual": 48607000000,
+      "revenue_est": 51632508936,
+      "revenue_surprise_pct": -0.06,
+      "eps_prior_year": 2.18,
+      "revenue_prior_year": 47610000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-07-31",
+      "eps_actual": 6.06,
+      "eps_est": 5.27,
+      "eps_surprise": 0.79,
+      "eps_surprise_pct": 0.15,
+      "revenue_actual": 70055000000,
+      "revenue_est": 62364772824,
+      "revenue_surprise_pct": 0.12,
+      "eps_prior_year": 1.77,
+      "revenue_prior_year": 44822000000
+    }
+  ],
+  "ticker_notes": "4.5% yield; $2B Permian FCF growth 2026; <$50 breakeven; 38yr dividend growth; Buffett top-5 holding"
+}

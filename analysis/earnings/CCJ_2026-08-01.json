@@ -1,0 +1,195 @@
+{
+  "symbol": "CCJ",
+  "company": "Cameco Corp",
+  "thesis": "scarcity",
+  "conviction": "MEDIUM",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:25:55.604620+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 47,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-07-31",
+    "eps_actual": 0.13,
+    "eps_estimate": 0.36,
+    "eps_surprise": -0.23,
+    "eps_surprise_pct": -0.64,
+    "revenue_actual": 588000000,
+    "revenue_estimate": 534360000,
+    "revenue_surprise_pct": 0.1,
+    "eps_prior_year": 0.51,
+    "revenue_prior_year": 633576000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-05-04",
+    "eps_estimate": 0.48,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 4,
+    "misses": 4,
+    "meet": 0,
+    "beat_rate": 50.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 145.28,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 0.05
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 0.36
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 0.34
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 0.13
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 14.09,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 446693000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 861388000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 616118000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 588000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": -0.0488,
+    "avg_revenue_surprise_pct": 2.62,
+    "estimate_accuracy_eps_pct": 47.85
+  },
+  "flags": [
+    "high_eps_growth",
+    "hard_to_estimate"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-11-07",
+      "eps_actual": -0.01,
+      "eps_est": 0.18,
+      "eps_surprise": -0.19,
+      "eps_surprise_pct": -1.06,
+      "revenue_actual": 528510000,
+      "revenue_est": 533000000,
+      "revenue_surprise_pct": -0.01,
+      "eps_prior_year": 0.24,
+      "revenue_prior_year": 428622000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-02-20",
+      "eps_actual": 0.26,
+      "eps_est": 0.23,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.13,
+      "revenue_actual": 845860000,
+      "revenue_est": 744030000,
+      "revenue_surprise_pct": 0.14,
+      "eps_prior_year": 0.15,
+      "revenue_prior_year": 620123000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-05-01",
+      "eps_actual": 0.11,
+      "eps_est": 0.19,
+      "eps_surprise": -0.08,
+      "eps_surprise_pct": -0.42,
+      "revenue_actual": 549632000,
+      "revenue_est": 806820000,
+      "revenue_surprise_pct": -0.32,
+      "eps_prior_year": 0.1,
+      "revenue_prior_year": 470384000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-07-31",
+      "eps_actual": 0.51,
+      "eps_est": 0.36,
+      "eps_surprise": 0.15,
+      "eps_surprise_pct": 0.42,
+      "revenue_actual": 633576000,
+      "revenue_est": 630720000,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 0.1,
+      "revenue_prior_year": 437109000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-11-05",
+      "eps_actual": 0.05,
+      "eps_est": 0.23,
+      "eps_surprise": -0.18,
+      "eps_surprise_pct": -0.78,
+      "revenue_actual": 446693000,
+      "revenue_est": 541660000,
+      "revenue_surprise_pct": -0.18,
+      "eps_prior_year": -0.01,
+      "revenue_prior_year": 528510000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-13",
+      "eps_actual": 0.36,
+      "eps_est": 0.28,
+      "eps_surprise": 0.08,
+      "eps_surprise_pct": 0.29,
+      "revenue_actual": 861388000,
+      "revenue_est": 692040000,
+      "revenue_surprise_pct": 0.24,
+      "eps_prior_year": 0.26,
+      "revenue_prior_year": 845860000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-05-05",
+      "eps_actual": 0.34,
+      "eps_est": 0.31,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.1,
+      "revenue_actual": 616118000,
+      "revenue_est": 494940000,
+      "revenue_surprise_pct": 0.24,
+      "eps_prior_year": 0.11,
+      "revenue_prior_year": 549632000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-07-31",
+      "eps_actual": 0.13,
+      "eps_est": 0.36,
+      "eps_surprise": -0.23,
+      "eps_surprise_pct": -0.64,
+      "revenue_actual": 588000000,
+      "revenue_est": 534360000,
+      "revenue_surprise_pct": 0.1,
+      "eps_prior_year": 0.51,
+      "revenue_prior_year": 633576000
+    }
+  ],
+  "ticker_notes": "Westinghouse stake; uranium structural deficit; already own URA"
+}

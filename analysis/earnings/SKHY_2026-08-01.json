@@ -1,0 +1,77 @@
+{
+  "symbol": "SKHY",
+  "company": "SK Hynix ADR",
+  "thesis": "memory_cycle+hbm",
+  "conviction": "MEDIUM-HIGH",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:26:05.329332+00:00",
+  "quarters_analyzed": 1,
+  "total_history_quarters": 1,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-07-29",
+    "eps_actual": 87.56,
+    "eps_estimate": null,
+    "eps_surprise": null,
+    "eps_surprise_pct": null,
+    "revenue_actual": 52826000000,
+    "revenue_estimate": null,
+    "revenue_surprise_pct": null,
+    "eps_prior_year": null,
+    "revenue_prior_year": null
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-05-13",
+    "eps_estimate": null,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 0,
+    "misses": 0,
+    "meet": 1,
+    "beat_rate": 0.0
+  },
+  "eps_trend": {
+    "sequential_trend": null,
+    "avg_yoy_growth_pct": null,
+    "recent_quarters": [
+      {
+        "period": "Q2 2026",
+        "eps": 87.56
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": null,
+    "avg_yoy_growth_pct": null,
+    "recent_quarters": [
+      {
+        "period": "Q2 2026",
+        "revenue": 52826000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": null,
+    "avg_revenue_surprise_pct": null,
+    "estimate_accuracy_eps_pct": null
+  },
+  "flags": [],
+  "all_recent_quarters": [
+    {
+      "period": "Q2 2026",
+      "date": "2026-07-29",
+      "eps_actual": 87.56,
+      "eps_est": null,
+      "eps_surprise": null,
+      "eps_surprise_pct": null,
+      "revenue_actual": 52826000000,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": null,
+      "revenue_prior_year": null
+    }
+  ],
+  "ticker_notes": "NEW Jul 13: Nasdaq ADR listed 7/10 ($149 offer, $26.5B raised, 10 ADR = 1 Seoul share). 4.8-5.4x fwd vs MU 6.6x with 60-70% Rubin HBM4 share; 2027 HBM talks stalled w/ suppliers demanding doubles. RENT NOT OWN \u2014 hard exits: DDR5 spot flat/down 2+ wks, customer inventory >8wks, or 2027 contracts sett"
+}

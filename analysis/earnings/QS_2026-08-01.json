@@ -1,0 +1,192 @@
+{
+  "symbol": "QS",
+  "company": "QuantumScape",
+  "thesis": "solid_state_battery+powerco_license",
+  "conviction": "LOW",
+  "action": "WATCH",
+  "analysis_time": "2026-08-01T15:26:01.849777+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 23,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-07-22",
+    "eps_actual": -0.16,
+    "eps_estimate": -0.18,
+    "eps_surprise": 0.02,
+    "eps_surprise_pct": 0.11,
+    "revenue_actual": 0,
+    "revenue_estimate": null,
+    "revenue_surprise_pct": null,
+    "eps_prior_year": -0.2,
+    "revenue_prior_year": 0
+  },
+  "next_quarter": {
+    "period": "Q2 2027",
+    "date": "2027-07-21",
+    "eps_estimate": null,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 3,
+    "misses": 4,
+    "meet": 1,
+    "beat_rate": 37.5
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 15.64,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": -0.18
+      },
+      {
+        "period": "Q4 2025",
+        "eps": -0.17
+      },
+      {
+        "period": "Q1 2026",
+        "eps": -0.16
+      },
+      {
+        "period": "Q2 2026",
+        "eps": -0.16
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "decelerating",
+    "avg_yoy_growth_pct": null,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 0
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 0
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 0
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 0
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": -0.0025,
+    "avg_revenue_surprise_pct": null,
+    "estimate_accuracy_eps_pct": 6.54
+  },
+  "flags": [],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-10-23",
+      "eps_actual": -0.23,
+      "eps_est": -0.21,
+      "eps_surprise": -0.02,
+      "eps_surprise_pct": -0.1,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -0.23,
+      "revenue_prior_year": 0
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-02-12",
+      "eps_actual": -0.22,
+      "eps_est": -0.21,
+      "eps_surprise": -0.01,
+      "eps_surprise_pct": -0.05,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -0.23,
+      "revenue_prior_year": 0
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-04-23",
+      "eps_actual": -0.21,
+      "eps_est": -0.19,
+      "eps_surprise": -0.02,
+      "eps_surprise_pct": -0.11,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -0.24,
+      "revenue_prior_year": 0
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-07-23",
+      "eps_actual": -0.2,
+      "eps_est": -0.19,
+      "eps_surprise": -0.01,
+      "eps_surprise_pct": -0.05,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -0.25,
+      "revenue_prior_year": 0
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-10-22",
+      "eps_actual": -0.18,
+      "eps_est": -0.19,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0.05,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -0.23,
+      "revenue_prior_year": 0
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-11",
+      "eps_actual": -0.17,
+      "eps_est": -0.17,
+      "eps_surprise": 0,
+      "eps_surprise_pct": 0,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -0.22,
+      "revenue_prior_year": 0
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-04-22",
+      "eps_actual": -0.16,
+      "eps_est": -0.17,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0.06,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -0.21,
+      "revenue_prior_year": 0
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-07-22",
+      "eps_actual": -0.16,
+      "eps_est": -0.18,
+      "eps_surprise": 0.02,
+      "eps_surprise_pct": 0.11,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -0.2,
+      "revenue_prior_year": 0
+    }
+  ],
+  "ticker_notes": "NEW Jul 23 (thesis/2026_jul_23_solid_state_storage_battery_thesis.html). NOT held (notional only) - leave at zero until a catalyst. The only true solid-state name. Bull: ~$859M liquidity / ~$790M net cash, capex CUT to $27-37M = ~3-3.5yr runway into ~2029 (no funding cliff); Cobra separator on sched"
+}

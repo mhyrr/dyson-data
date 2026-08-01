@@ -1,0 +1,196 @@
+{
+  "symbol": "OKLO",
+  "company": "Oklo Inc",
+  "thesis": "smr_spec",
+  "conviction": "SPECULATIVE",
+  "action": "BUY-SMALL",
+  "analysis_time": "2026-08-01T15:25:59.332889+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 8,
+  "last_quarter": {
+    "period": "Q1 2026",
+    "date": "2026-05-12",
+    "eps_actual": -0.19,
+    "eps_estimate": -0.19,
+    "eps_surprise": 0,
+    "eps_surprise_pct": 0,
+    "revenue_actual": 0,
+    "revenue_estimate": null,
+    "revenue_surprise_pct": null,
+    "eps_prior_year": -0.07,
+    "revenue_prior_year": 0
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-05-11",
+    "eps_estimate": -0.21,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 1,
+    "misses": 5,
+    "meet": 2,
+    "beat_rate": 12.5
+  },
+  "eps_trend": {
+    "sequential_trend": "decelerating",
+    "avg_yoy_growth_pct": -1260.53,
+    "recent_quarters": [
+      {
+        "period": "Q2 2025",
+        "eps": -0.18
+      },
+      {
+        "period": "Q3 2025",
+        "eps": -0.2
+      },
+      {
+        "period": "Q4 2025",
+        "eps": -0.27
+      },
+      {
+        "period": "Q1 2026",
+        "eps": -0.19
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "decelerating",
+    "avg_yoy_growth_pct": null,
+    "recent_quarters": [
+      {
+        "period": "Q2 2025",
+        "revenue": 0
+      },
+      {
+        "period": "Q3 2025",
+        "revenue": 0
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 0
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 0
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": -0.0343,
+    "avg_revenue_surprise_pct": null,
+    "estimate_accuracy_eps_pct": 35.59
+  },
+  "flags": [
+    "consistent_misser",
+    "eps_declining",
+    "hard_to_estimate"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q2 2024",
+      "date": "2024-08-13",
+      "eps_actual": -5.17,
+      "eps_est": null,
+      "eps_surprise": null,
+      "eps_surprise_pct": null,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -0.06,
+      "revenue_prior_year": 0
+    },
+    {
+      "period": "Q3 2024",
+      "date": "2024-11-14",
+      "eps_actual": -0.08,
+      "eps_est": -0.07,
+      "eps_surprise": -0.01,
+      "eps_surprise_pct": -0.14,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -0.13,
+      "revenue_prior_year": 0
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-03-24",
+      "eps_actual": -0.09,
+      "eps_est": -0.07,
+      "eps_surprise": -0.02,
+      "eps_surprise_pct": -0.29,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": null,
+      "revenue_prior_year": null
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-05-13",
+      "eps_actual": -0.07,
+      "eps_est": -0.1,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.3,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -0.34,
+      "revenue_prior_year": 0
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-08-11",
+      "eps_actual": -0.18,
+      "eps_est": -0.11,
+      "eps_surprise": -0.07,
+      "eps_surprise_pct": -0.64,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -5.17,
+      "revenue_prior_year": 0
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-11-11",
+      "eps_actual": -0.2,
+      "eps_est": -0.13,
+      "eps_surprise": -0.07,
+      "eps_surprise_pct": -0.54,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -0.08,
+      "revenue_prior_year": 0
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-03-17",
+      "eps_actual": -0.27,
+      "eps_est": -0.17,
+      "eps_surprise": -0.1,
+      "eps_surprise_pct": -0.59,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -0.09,
+      "revenue_prior_year": 0
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-05-12",
+      "eps_actual": -0.19,
+      "eps_est": -0.19,
+      "eps_surprise": 0,
+      "eps_surprise_pct": 0,
+      "revenue_actual": 0,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": -0.07,
+      "revenue_prior_year": 0
+    }
+  ],
+  "ticker_notes": "NEW Jul 13: $49 vs $194 Oct'25 peak (-75%) \u2014 the floorless lottery de-floored itself. Meta prepayment + Equinix interest real; NRC milestones are the 3-yr path. Sized to lose ($2K max), no averaging down"
+}

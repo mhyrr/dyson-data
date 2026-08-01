@@ -1,0 +1,195 @@
+{
+  "symbol": "BMY",
+  "company": "Bristol-Myers Squibb",
+  "thesis": "buffett_value",
+  "conviction": "MEDIUM-HIGH",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:26:04.188347+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 58,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-07-30",
+    "eps_actual": 2.04,
+    "eps_estimate": 1.61,
+    "eps_surprise": 0.43,
+    "eps_surprise_pct": 0.27,
+    "revenue_actual": 12973000000,
+    "revenue_estimate": 11698609520,
+    "revenue_surprise_pct": 0.11,
+    "eps_prior_year": 1.46,
+    "revenue_prior_year": 12269000000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-04-29",
+    "eps_estimate": 1.4,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 8,
+    "misses": 0,
+    "meet": 0,
+    "beat_rate": 100.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 11.65,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 1.63
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 1.26
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 1.58
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 2.04
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 2.95,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 12222000000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 12502000000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 11489000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 12973000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.2375,
+    "avg_revenue_surprise_pct": 5.75,
+    "estimate_accuracy_eps_pct": 16.65
+  },
+  "flags": [
+    "consistent_beater",
+    "large_surprises"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-10-31",
+      "eps_actual": 1.8,
+      "eps_est": 1.49,
+      "eps_surprise": 0.31,
+      "eps_surprise_pct": 0.21,
+      "revenue_actual": 11892000000,
+      "revenue_est": 11280000000,
+      "revenue_surprise_pct": 0.05,
+      "eps_prior_year": 2,
+      "revenue_prior_year": 10966000000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-02-06",
+      "eps_actual": 1.67,
+      "eps_est": 1.47,
+      "eps_surprise": 0.2,
+      "eps_surprise_pct": 0.14,
+      "revenue_actual": 12342000000,
+      "revenue_est": 11560000000,
+      "revenue_surprise_pct": 0.07,
+      "eps_prior_year": 1.7,
+      "revenue_prior_year": 11477000000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-04-24",
+      "eps_actual": 1.8,
+      "eps_est": 1.49,
+      "eps_surprise": 0.31,
+      "eps_surprise_pct": 0.21,
+      "revenue_actual": 11201000000,
+      "revenue_est": 10690000000,
+      "revenue_surprise_pct": 0.05,
+      "eps_prior_year": -4.4,
+      "revenue_prior_year": 11865000000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-07-31",
+      "eps_actual": 1.46,
+      "eps_est": 1.15,
+      "eps_surprise": 0.31,
+      "eps_surprise_pct": 0.27,
+      "revenue_actual": 12300000000,
+      "revenue_est": 11385856108,
+      "revenue_surprise_pct": 0.08,
+      "eps_prior_year": 2.07,
+      "revenue_prior_year": 12201000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-10-30",
+      "eps_actual": 1.63,
+      "eps_est": 1.51,
+      "eps_surprise": 0.12,
+      "eps_surprise_pct": 0.08,
+      "revenue_actual": 12222000000,
+      "revenue_est": 11811914932,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 1.8,
+      "revenue_prior_year": 11892000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-05",
+      "eps_actual": 1.26,
+      "eps_est": 1.19,
+      "eps_surprise": 0.07,
+      "eps_surprise_pct": 0.06,
+      "revenue_actual": 12502000000,
+      "revenue_est": 12265836568,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 1.67,
+      "revenue_prior_year": 12342000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-04-30",
+      "eps_actual": 1.58,
+      "eps_est": 1.43,
+      "eps_surprise": 0.15,
+      "eps_surprise_pct": 0.1,
+      "revenue_actual": 11489000000,
+      "revenue_est": 10917843408,
+      "revenue_surprise_pct": 0.05,
+      "eps_prior_year": 1.8,
+      "revenue_prior_year": 11201000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-07-30",
+      "eps_actual": 2.04,
+      "eps_est": 1.61,
+      "eps_surprise": 0.43,
+      "eps_surprise_pct": 0.27,
+      "revenue_actual": 12973000000,
+      "revenue_est": 11698609520,
+      "revenue_surprise_pct": 0.11,
+      "eps_prior_year": 1.46,
+      "revenue_prior_year": 12269000000
+    }
+  ],
+  "ticker_notes": "9x forward P/E; 4.5% yield; Opdivo+Breyanzi growth; 56% below fair value estimates; deep value pharma"
+}

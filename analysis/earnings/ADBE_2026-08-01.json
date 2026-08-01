@@ -1,0 +1,195 @@
+{
+  "symbol": "ADBE",
+  "company": "Adobe Inc",
+  "thesis": "sma_quality",
+  "conviction": "MEDIUM",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:26:00.989449+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 58,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-06-11",
+    "eps_actual": 5.96,
+    "eps_estimate": 5.6,
+    "eps_surprise": 0.36,
+    "eps_surprise_pct": 0.06,
+    "revenue_actual": 6618000000,
+    "revenue_estimate": 6453117928,
+    "revenue_surprise_pct": 0.03,
+    "eps_prior_year": 5.06,
+    "revenue_prior_year": 5873000000
+  },
+  "next_quarter": {
+    "period": "Q2 2027",
+    "date": "2027-06-10",
+    "eps_estimate": 5.54,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 8,
+    "misses": 0,
+    "meet": 0,
+    "beat_rate": 100.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 14.79,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 5.31
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 5.5
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 6.06
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 5.96
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 11.05,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 5988000000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 6194000000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 6398000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 6618000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.3075,
+    "avg_revenue_surprise_pct": 1.38,
+    "estimate_accuracy_eps_pct": 6.05
+  },
+  "flags": [
+    "consistent_beater",
+    "large_surprises"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-09-12",
+      "eps_actual": 4.65,
+      "eps_est": 4.53,
+      "eps_surprise": 0.12,
+      "eps_surprise_pct": 0.03,
+      "revenue_actual": 5408000000,
+      "revenue_est": 5370000000,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 4.09,
+      "revenue_prior_year": 4890000000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2024-12-11",
+      "eps_actual": 4.81,
+      "eps_est": 4.66,
+      "eps_surprise": 0.15,
+      "eps_surprise_pct": 0.03,
+      "revenue_actual": 5606000000,
+      "revenue_est": 5540000000,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 4.27,
+      "revenue_prior_year": 5048000000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-03-12",
+      "eps_actual": 5.08,
+      "eps_est": 4.97,
+      "eps_surprise": 0.11,
+      "eps_surprise_pct": 0.02,
+      "revenue_actual": 5714000000,
+      "revenue_est": 5660000000,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 4.48,
+      "revenue_prior_year": 5182000000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-06-12",
+      "eps_actual": 5.06,
+      "eps_est": 4.97,
+      "eps_surprise": 0.09,
+      "eps_surprise_pct": 0.02,
+      "revenue_actual": 5873000000,
+      "revenue_est": 5800000000,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 4.48,
+      "revenue_prior_year": 5309000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-09-11",
+      "eps_actual": 5.31,
+      "eps_est": 4.79,
+      "eps_surprise": 0.52,
+      "eps_surprise_pct": 0.11,
+      "revenue_actual": 5988000000,
+      "revenue_est": 5905309844,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 4.65,
+      "revenue_prior_year": 5408000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2025-12-10",
+      "eps_actual": 5.5,
+      "eps_est": 4.99,
+      "eps_surprise": 0.51,
+      "eps_surprise_pct": 0.1,
+      "revenue_actual": 6194000000,
+      "revenue_est": 6106091356,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 4.81,
+      "revenue_prior_year": 5606000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-03-12",
+      "eps_actual": 6.06,
+      "eps_est": 5.46,
+      "eps_surprise": 0.6,
+      "eps_surprise_pct": 0.11,
+      "revenue_actual": 6398000000,
+      "revenue_est": 6278149942,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 5.08,
+      "revenue_prior_year": 5714000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-06-11",
+      "eps_actual": 5.96,
+      "eps_est": 5.6,
+      "eps_surprise": 0.36,
+      "eps_surprise_pct": 0.06,
+      "revenue_actual": 6618000000,
+      "revenue_est": 6453117928,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 5.06,
+      "revenue_prior_year": 5873000000
+    }
+  ],
+  "ticker_notes": "Quality at 200-day SMA; Firefly AI monetization; creative monopoly"
+}

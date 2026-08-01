@@ -1,0 +1,196 @@
+{
+  "symbol": "DE",
+  "company": "Deere & Company",
+  "thesis": "buffett_value+cyclical_bottom",
+  "conviction": "MEDIUM-HIGH",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:25:59.899167+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 58,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-05-21",
+    "eps_actual": 6.55,
+    "eps_estimate": 5.76,
+    "eps_surprise": 0.79,
+    "eps_surprise_pct": 0.14,
+    "revenue_actual": 13369000000,
+    "revenue_estimate": 11484176856,
+    "revenue_surprise_pct": 0.16,
+    "eps_prior_year": 6.64,
+    "revenue_prior_year": 12763000000
+  },
+  "next_quarter": {
+    "period": "Q2 2027",
+    "date": "2027-05-20",
+    "eps_estimate": 6.78,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 8,
+    "misses": 0,
+    "meet": 0,
+    "beat_rate": 100.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": -27.23,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 4.75
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 3.93
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 2.42
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 6.55
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": -8.82,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 12018000000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 12394000000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 9611000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 13369000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.4575,
+    "avg_revenue_surprise_pct": 19.12,
+    "estimate_accuracy_eps_pct": 10.55
+  },
+  "flags": [
+    "consistent_beater",
+    "large_surprises",
+    "eps_declining"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-08-15",
+      "eps_actual": 6.29,
+      "eps_est": 5.77,
+      "eps_surprise": 0.52,
+      "eps_surprise_pct": 0.09,
+      "revenue_actual": 13152000000,
+      "revenue_est": 10944000000,
+      "revenue_surprise_pct": 0.2,
+      "eps_prior_year": 10.2,
+      "revenue_prior_year": 15801000000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2024-11-21",
+      "eps_actual": 4.55,
+      "eps_est": 3.87,
+      "eps_surprise": 0.68,
+      "eps_surprise_pct": 0.18,
+      "revenue_actual": 11143000000,
+      "revenue_est": 9340000000,
+      "revenue_surprise_pct": 0.19,
+      "eps_prior_year": 8.26,
+      "revenue_prior_year": 15412000000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-02-13",
+      "eps_actual": 3.19,
+      "eps_est": 3.11,
+      "eps_surprise": 0.08,
+      "eps_surprise_pct": 0.03,
+      "revenue_actual": 8508000000,
+      "revenue_est": 7690000000,
+      "revenue_surprise_pct": 0.11,
+      "eps_prior_year": 6.23,
+      "revenue_prior_year": 12185000000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-05-15",
+      "eps_actual": 6.64,
+      "eps_est": 5.64,
+      "eps_surprise": 1,
+      "eps_surprise_pct": 0.18,
+      "revenue_actual": 12763000000,
+      "revenue_est": 10790000000,
+      "revenue_surprise_pct": 0.18,
+      "eps_prior_year": 8.53,
+      "revenue_prior_year": 15235000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-08-14",
+      "eps_actual": 4.75,
+      "eps_est": 4.6,
+      "eps_surprise": 0.15,
+      "eps_surprise_pct": 0.03,
+      "revenue_actual": 12018000000,
+      "revenue_est": 10300289904,
+      "revenue_surprise_pct": 0.17,
+      "eps_prior_year": 6.29,
+      "revenue_prior_year": 13152000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2025-11-26",
+      "eps_actual": 3.93,
+      "eps_est": 3.88,
+      "eps_surprise": 0.05,
+      "eps_surprise_pct": 0.01,
+      "revenue_actual": 12394000000,
+      "revenue_est": 9882882600,
+      "revenue_surprise_pct": 0.25,
+      "eps_prior_year": 4.55,
+      "revenue_prior_year": 11143000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-02-19",
+      "eps_actual": 2.42,
+      "eps_est": 2.03,
+      "eps_surprise": 0.39,
+      "eps_surprise_pct": 0.19,
+      "revenue_actual": 9611000000,
+      "revenue_est": 7542644284,
+      "revenue_surprise_pct": 0.27,
+      "eps_prior_year": 3.19,
+      "revenue_prior_year": 8508000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-05-21",
+      "eps_actual": 6.55,
+      "eps_est": 5.76,
+      "eps_surprise": 0.79,
+      "eps_surprise_pct": 0.14,
+      "revenue_actual": 13369000000,
+      "revenue_est": 11484176856,
+      "revenue_surprise_pct": 0.16,
+      "eps_prior_year": 6.64,
+      "revenue_prior_year": 12763000000
+    }
+  ],
+  "ticker_notes": "Mgmt called 2026 'the bottom'; widest moat in ag; precision tech lock-in; buy trough sell recovery"
+}

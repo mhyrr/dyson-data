@@ -1,0 +1,1836 @@
+{
+  "run_time": "2026-08-01T15:22:03.960046+00:00",
+  "days_ahead": 45,
+  "days_back": 14,
+  "total_tickers": 41,
+  "summary": {
+    "imminent": 0,
+    "this_week": 0,
+    "next_2_weeks": 0,
+    "this_month": 0,
+    "no_date": 1,
+    "reported": 0
+  },
+  "imminent_tickers": [],
+  "this_week_tickers": [],
+  "calendar": [
+    {
+      "symbol": "GLW",
+      "company": "Corning Inc",
+      "thesis": "blackwell_supply_chain",
+      "conviction": "MEDIUM-HIGH",
+      "action": "BUY",
+      "timeframe": "2026",
+      "next_earnings": "2027-04-27",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 0.87,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-28",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 0.78,
+      "last_earnings_eps_est": 0.75,
+      "last_earnings_eps_surprise": 0.03,
+      "last_earnings_revenue_actual": 4738000000,
+      "last_earnings_revenue_surprise": 117973424,
+      "source": "stockanalysis.com",
+      "notes": "CPO fiber backbone; 5x rack density increase; Rubin transition",
+      "recent_headlines": [
+        {
+          "title": "Corning (GLW) Stock May Be 34% Undervalued Following Soft Q3 Guidance",
+          "date": "Fri, 31 Jul 2026 20:09:16 +0000"
+        },
+        {
+          "title": "Is GLW Stock Attractive After Its AI Rally and Earnings Momentum?",
+          "date": "Fri, 31 Jul 2026 17:44:00 +0000"
+        },
+        {
+          "title": "Corning Delivers Strong FCF Results, But Investors Play GLW Stock's Drop With an Unusual Short-Put Play",
+          "date": "Wed, 29 Jul 2026 17:30:02 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.04,
+      "last_earnings_revenue_surprise_pct": 0.03,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-07-28",
+          "eps_actual": 0.78,
+          "eps_est": 0.75,
+          "eps_surprise": 0.03,
+          "revenue_actual": 4738000000,
+          "revenue_surprise_pct": 0.03
+        }
+      ],
+      "days_until_earnings": 268,
+      "status": "future"
+    },
+    {
+      "symbol": "XYL",
+      "company": "Xylem Inc",
+      "thesis": "scarcity_next_wave",
+      "conviction": "LOW",
+      "action": "BUY",
+      "timeframe": "2026",
+      "next_earnings": "2027-04-27",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 1.2,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-28",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 1.46,
+      "last_earnings_eps_est": 1.34,
+      "last_earnings_eps_surprise": 0.12,
+      "last_earnings_revenue_actual": 2336000000,
+      "last_earnings_revenue_surprise": -9097192,
+      "source": "stockanalysis.com",
+      "notes": "Novel water scarcity for data centers; early stage thesis",
+      "recent_headlines": [
+        {
+          "title": "Is BMI Stock Worth Buying After Its Q2 Earnings Beat and Pullback?",
+          "date": "Wed, 29 Jul 2026 12:13:00 +0000"
+        },
+        {
+          "title": "Xylem (XYL) Is Up 6.8% After Raising 2026 Profit Outlook Despite Lower Sales Guidance",
+          "date": "Wed, 29 Jul 2026 10:08:36 +0000"
+        },
+        {
+          "title": "Xylem Q2 Earnings Call Highlights",
+          "date": "Tue, 28 Jul 2026 21:04:15 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.09,
+      "last_earnings_revenue_surprise_pct": 0,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-07-28",
+          "eps_actual": 1.46,
+          "eps_est": 1.34,
+          "eps_surprise": 0.12,
+          "revenue_actual": 2336000000,
+          "revenue_surprise_pct": 0
+        }
+      ],
+      "days_until_earnings": 268,
+      "status": "future"
+    },
+    {
+      "symbol": "MSFT",
+      "company": "Microsoft Corp",
+      "thesis": "sma_quality",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "12-24mo",
+      "next_earnings": "2027-04-28",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ3 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 4.8,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-29",
+      "last_earnings_period": "QQ4 2026",
+      "last_earnings_eps_actual": 4.74,
+      "last_earnings_eps_est": 4.23,
+      "last_earnings_eps_surprise": 0.51,
+      "last_earnings_revenue_actual": 90007000000,
+      "last_earnings_revenue_surprise": 2394579712,
+      "source": "stockanalysis.com",
+      "notes": "Quality at 200-day SMA; cloud+AI+enterprise moat; already own 3 shares",
+      "recent_headlines": [
+        {
+          "title": "The Real AI Cost Question That Defines The Next Quarter of Alphabet Vs. Microsoft",
+          "date": "Sat, 01 Aug 2026 13:51:20 +0000"
+        },
+        {
+          "title": "AI Isn\u2019t a Catch-All Trade for Stocks in This Earnings Season",
+          "date": "Sat, 01 Aug 2026 12:00:00 +0000"
+        },
+        {
+          "title": "WEC Energy Group Q2 Earnings Call Highlights",
+          "date": "Sat, 01 Aug 2026 06:03:41 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.12,
+      "last_earnings_revenue_surprise_pct": 0.03,
+      "recent_quarters": [
+        {
+          "period": "QQ4 2026",
+          "date": "2026-07-29",
+          "eps_actual": 4.74,
+          "eps_est": 4.23,
+          "eps_surprise": 0.51,
+          "revenue_actual": 90007000000,
+          "revenue_surprise_pct": 0.03
+        }
+      ],
+      "schedule_date": "2026-07-29",
+      "schedule_status": "reported",
+      "days_until_earnings": 269,
+      "status": "future"
+    },
+    {
+      "symbol": "AMZN",
+      "company": "Amazon.com",
+      "thesis": "sma_quality",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "12-18mo",
+      "next_earnings": "2027-04-28",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 2.27,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-30",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 5.75,
+      "last_earnings_eps_est": 1.82,
+      "last_earnings_eps_surprise": 3.93,
+      "last_earnings_revenue_actual": 200606000000,
+      "last_earnings_revenue_surprise": 4584243200,
+      "source": "stockanalysis.com",
+      "notes": "Quality at 200-day SMA; AWS + Trainium custom chips",
+      "recent_headlines": [
+        {
+          "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Google Rebounds After Sell-Off",
+          "date": "Sat, 01 Aug 2026 12:00:21 +0000"
+        },
+        {
+          "title": "AI Isn\u2019t a Catch-All Trade for Stocks in This Earnings Season",
+          "date": "Sat, 01 Aug 2026 12:00:00 +0000"
+        },
+        {
+          "title": "AMZN Sued Over Alleged \u2018Greenwashing\u2019 Of Seafood Labels \u2014 Consumers Challenge Amazon\u2019s Sustainability Claims, Says Report",
+          "date": "Sat, 01 Aug 2026 00:30:45 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 2.16,
+      "last_earnings_revenue_surprise_pct": 0.02,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-07-30",
+          "eps_actual": 5.75,
+          "eps_est": 1.82,
+          "eps_surprise": 3.93,
+          "revenue_actual": 200606000000,
+          "revenue_surprise_pct": 0.02
+        }
+      ],
+      "schedule_date": "2026-07-30",
+      "schedule_status": "reported",
+      "days_until_earnings": 269,
+      "status": "future"
+    },
+    {
+      "symbol": "MPWR",
+      "company": "Monolithic Power Systems",
+      "thesis": "blackwell_supply_chain",
+      "conviction": "MEDIUM",
+      "action": "HOLD",
+      "timeframe": "2026",
+      "next_earnings": "2027-04-29",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 5.53,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-30",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 6.5,
+      "last_earnings_eps_est": 5.65,
+      "last_earnings_eps_surprise": 0.85,
+      "last_earnings_revenue_actual": 980642000,
+      "last_earnings_revenue_surprise": 78732696,
+      "source": "stockanalysis.com",
+      "notes": "DOWNGRADED Jul 13: board-level is the losing layer (custom silicon hollows the VRM socket); -21% in a month + accounting-error disclosure overhang. Hold 3sh, add only 1150-1250 if at all",
+      "recent_headlines": [
+        {
+          "title": "Monolithic Power Systems Q2 Earnings Call Highlights",
+          "date": "Sat, 01 Aug 2026 00:03:04 +0000"
+        },
+        {
+          "title": "MPWR Q2 Deep Dive: Data Center and Communications Growth Drive Outperformance, Automotive Expands",
+          "date": "Fri, 31 Jul 2026 22:35:57 +0000"
+        },
+        {
+          "title": "Monolithic Power Stock Jumps 9.1% as AI Revenue Explodes",
+          "date": "Fri, 31 Jul 2026 19:44:38 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.15,
+      "last_earnings_revenue_surprise_pct": 0.09,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-07-30",
+          "eps_actual": 6.5,
+          "eps_est": 5.65,
+          "eps_surprise": 0.85,
+          "revenue_actual": 980642000,
+          "revenue_surprise_pct": 0.09
+        }
+      ],
+      "days_until_earnings": 270,
+      "status": "future"
+    },
+    {
+      "symbol": "HUBB",
+      "company": "Hubbell Inc",
+      "thesis": "scarcity_next_wave+800v",
+      "conviction": "MEDIUM-HIGH",
+      "action": "BUY",
+      "timeframe": "2026",
+      "next_earnings": "2027-04-29",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 4.43,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-28",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 5.52,
+      "last_earnings_eps_est": 5.4,
+      "last_earnings_eps_surprise": 0.12,
+      "last_earnings_revenue_actual": 1711000000,
+      "last_earnings_revenue_surprise": 28380048,
+      "source": "stockanalysis.com",
+      "notes": "Jul 13: $491 \u2014 below the May 28 sub-$478 line's revised zone after the pullback. T&D + DC dual driver, ~25x fwd (cheapest of the quality power names). Initiate half $5K here, complete sub-$478",
+      "recent_headlines": [
+        {
+          "title": "Hubbell Inc (HUBB) (Q2 2026) Earnings Call Highlights: Strong Double-Digit Growth and Raised ...",
+          "date": "Sat, 01 Aug 2026 01:00:53 +0000"
+        },
+        {
+          "title": "Hubbell (HUBB) Could Be 12% Undervalued On Raised 2026 Guidance",
+          "date": "Wed, 29 Jul 2026 18:12:14 +0000"
+        },
+        {
+          "title": "Hubbell Incorporated Q2 2026 Earnings Call Summary",
+          "date": "Tue, 28 Jul 2026 19:02:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.02,
+      "last_earnings_revenue_surprise_pct": 0.02,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-07-28",
+          "eps_actual": 5.52,
+          "eps_est": 5.4,
+          "eps_surprise": 0.12,
+          "revenue_actual": 1711000000,
+          "revenue_surprise_pct": 0.02
+        }
+      ],
+      "days_until_earnings": 270,
+      "status": "future"
+    },
+    {
+      "symbol": "MRK",
+      "company": "Merck & Co",
+      "thesis": "buffett_value",
+      "conviction": "HIGH",
+      "action": "BUY",
+      "timeframe": "12-18mo",
+      "next_earnings": "2027-04-29",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 2.45,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-04-30",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": -1.28,
+      "last_earnings_eps_est": -1.48,
+      "last_earnings_eps_surprise": 0.2,
+      "last_earnings_revenue_actual": 16286000000,
+      "last_earnings_revenue_surprise": 428933280,
+      "source": "stockanalysis.com",
+      "notes": "Keytruda franchise + Winrevair $2B peak; P/E 14x vs 25x historical; 74% discount to avg multiple; 3.5% yield",
+      "recent_headlines": [
+        {
+          "title": "MRNA Q2 Earnings Meet, Stock Down on Norovirus Vaccine Setback",
+          "date": "Fri, 31 Jul 2026 18:04:00 +0000"
+        },
+        {
+          "title": "Moderna Stock Has Doubled This Year. Can Earnings Keep the Rally Alive?",
+          "date": "Fri, 31 Jul 2026 17:11:00 +0000"
+        },
+        {
+          "title": "Should You Buy, Sell or Hold Merck Stock Ahead of Q2 Earnings?",
+          "date": "Thu, 30 Jul 2026 17:15:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.14,
+      "last_earnings_revenue_surprise_pct": 0.03,
+      "recent_quarters": [],
+      "days_until_earnings": 270,
+      "status": "future"
+    },
+    {
+      "symbol": "BMY",
+      "company": "Bristol-Myers Squibb",
+      "thesis": "buffett_value",
+      "conviction": "MEDIUM-HIGH",
+      "action": "BUY",
+      "timeframe": "12-18mo",
+      "next_earnings": "2027-04-29",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 1.4,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-30",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 2.04,
+      "last_earnings_eps_est": 1.61,
+      "last_earnings_eps_surprise": 0.43,
+      "last_earnings_revenue_actual": 12973000000,
+      "last_earnings_revenue_surprise": 1274390528,
+      "source": "stockanalysis.com",
+      "notes": "9x forward P/E; 4.5% yield; Opdivo+Breyanzi growth; 56% below fair value estimates; deep value pharma",
+      "recent_headlines": [
+        {
+          "title": "BMY Q2 Deep Dive: Growth Portfolio and Pipeline Progress Drive Upgraded Outlook",
+          "date": "Sat, 01 Aug 2026 04:43:57 +0000"
+        },
+        {
+          "title": "Bristol Myers Squibb Q2 Earnings Call Highlights",
+          "date": "Sat, 01 Aug 2026 04:02:47 +0000"
+        },
+        {
+          "title": "BMY Q2 Earnings Call Highlights Growth Portfolio Momentum",
+          "date": "Fri, 31 Jul 2026 14:00:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.27,
+      "last_earnings_revenue_surprise_pct": 0.11,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-07-30",
+          "eps_actual": 2.04,
+          "eps_est": 1.61,
+          "eps_surprise": 0.43,
+          "revenue_actual": 12973000000,
+          "revenue_surprise_pct": 0.11
+        }
+      ],
+      "days_until_earnings": 270,
+      "status": "future"
+    },
+    {
+      "symbol": "NVT",
+      "company": "nVent Electric",
+      "thesis": "ai_infra_discovery",
+      "conviction": "MEDIUM",
+      "action": "WAIT",
+      "timeframe": "2026",
+      "next_earnings": "2027-04-30",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 1.45,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-31",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 1.45,
+      "last_earnings_eps_est": 1.16,
+      "last_earnings_eps_surprise": 0.29,
+      "last_earnings_revenue_actual": 1471000000,
+      "last_earnings_revenue_surprise": 216572832,
+      "source": "stockanalysis.com",
+      "notes": "Past original entry $80-85 (current $142). Q1 prints 5/1. DC 45% of mix. Initiate $4-5K only on post-print pullback to $120s",
+      "recent_headlines": [
+        {
+          "title": "nVent Electric Q2 Earnings Call Highlights",
+          "date": "Fri, 31 Jul 2026 22:03:49 +0000"
+        },
+        {
+          "title": "nVent Electric PLC (NVT) (Q2 2026) Earnings Call Highlights: Record Sales and EPS Soar on Data ...",
+          "date": "Fri, 31 Jul 2026 21:00:59 +0000"
+        },
+        {
+          "title": "nVent Electric plc Q2 2026 Earnings Call Summary",
+          "date": "Fri, 31 Jul 2026 16:57:57 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.25,
+      "last_earnings_revenue_surprise_pct": 0.17,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-07-31",
+          "eps_actual": 1.45,
+          "eps_est": 1.16,
+          "eps_surprise": 0.29,
+          "revenue_actual": 1471000000,
+          "revenue_surprise_pct": 0.17
+        }
+      ],
+      "days_until_earnings": 271,
+      "status": "future"
+    },
+    {
+      "symbol": "CVX",
+      "company": "Chevron Corp",
+      "thesis": "buffett_value",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "12-18mo",
+      "next_earnings": "2027-04-30",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 3.46,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-31",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 6.06,
+      "last_earnings_eps_est": 5.27,
+      "last_earnings_eps_surprise": 0.79,
+      "last_earnings_revenue_actual": 70055000000,
+      "last_earnings_revenue_surprise": 7690227200,
+      "source": "stockanalysis.com",
+      "notes": "4.5% yield; $2B Permian FCF growth 2026; <$50 breakeven; 38yr dividend growth; Buffett top-5 holding",
+      "recent_headlines": [
+        {
+          "title": "Chevron Just Crushed Earnings. Here's What It Means for the Dividend.",
+          "date": "Sat, 01 Aug 2026 11:50:00 +0000"
+        },
+        {
+          "title": "Chevron Corp (CVX) (Q2 2026) Earnings Call Highlights: Record Production and Strategic Wins ...",
+          "date": "Fri, 31 Jul 2026 23:00:52 +0000"
+        },
+        {
+          "title": "Chevron Corporation Q2 2026 Earnings Call Summary",
+          "date": "Fri, 31 Jul 2026 20:47:23 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.15,
+      "last_earnings_revenue_surprise_pct": 0.12,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-07-31",
+          "eps_actual": 6.06,
+          "eps_est": 5.27,
+          "eps_surprise": 0.79,
+          "revenue_actual": 70055000000,
+          "revenue_surprise_pct": 0.12
+        }
+      ],
+      "days_until_earnings": 271,
+      "status": "future"
+    },
+    {
+      "symbol": "FN",
+      "company": "Fabrinet",
+      "thesis": "blackwell_supply_chain+tpu",
+      "conviction": "HIGH",
+      "action": "BUY-TRANCHED",
+      "timeframe": "2026",
+      "next_earnings": "2027-05-03",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ3 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 4.23,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-04",
+      "last_earnings_period": "QQ3 2026",
+      "last_earnings_eps_actual": 3.72,
+      "last_earnings_eps_est": 3.53,
+      "last_earnings_eps_surprise": 0.19,
+      "last_earnings_revenue_actual": 1214000000,
+      "last_earnings_revenue_surprise": 23668400,
+      "source": "stockanalysis.com",
+      "notes": "CORRECTED Jul 14: -37% is NOT just sector \u2014 May 4 FQ3 showed Datacom (the NVIDIA/1.6T leg) -6% QoQ on component supply constraints, GM -30bp, OCF down/capex up, flat EPS guide = de-rate from 50x to ~3",
+      "recent_headlines": [
+        {
+          "title": "NVT Likely to Beat Q2 Earnings Estimates: Buy, Sell or Hold the Stock?",
+          "date": "Tue, 28 Jul 2026 15:21:00 +0000"
+        },
+        {
+          "title": "Fabrinet to Announce Fourth Quarter and Fiscal Year 2026 Financial Results on August 17, 2026",
+          "date": "Mon, 27 Jul 2026 20:15:00 +0000"
+        },
+        {
+          "title": "COHR's Post-Earnings Pullback Has Strengthened the Investment Case",
+          "date": "Wed, 15 Jul 2026 17:09:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.05,
+      "last_earnings_revenue_surprise_pct": 0.02,
+      "recent_quarters": [],
+      "days_until_earnings": 274,
+      "status": "future"
+    },
+    {
+      "symbol": "POWL",
+      "company": "Powell Industries",
+      "thesis": "ai_infra+pmi",
+      "conviction": "HIGH",
+      "action": "WATCH",
+      "timeframe": "2026",
+      "next_earnings": "2027-05-03",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ2 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 1.48,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-04",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 1.25,
+      "last_earnings_eps_est": 1.34,
+      "last_earnings_eps_surprise": -0.09,
+      "last_earnings_revenue_actual": 296615000,
+      "last_earnings_revenue_surprise": -2322920,
+      "source": "stockanalysis.com",
+      "notes": "Jul 13: $232 \u2014 nearly in the flush zone. Aug 4 FQ3 print (cons EPS ~$1.47) is the trigger: b-t-b wobble to $210-225 initiates $5-7K; below $190 (~30x fwd) real position. Founder selling + 33% O&G back",
+      "recent_headlines": [
+        {
+          "title": "Powell Industries Gears Up to Report Q3 Earnings: What's in the Cards?",
+          "date": "Wed, 29 Jul 2026 15:18:00 +0000"
+        },
+        {
+          "title": "Powell Industries Announces Date and Conference Call for Fiscal 2026 Third Quarter Results",
+          "date": "Mon, 20 Jul 2026 20:15:00 +0000"
+        },
+        {
+          "title": "Powell Industries (POWL) Stock Looks Reasonable On Growth But Stretched On Earnings",
+          "date": "Sat, 18 Jul 2026 19:07:35 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": -0.07,
+      "last_earnings_revenue_surprise_pct": -0.01,
+      "recent_quarters": [],
+      "days_until_earnings": 274,
+      "status": "future"
+    },
+    {
+      "symbol": "BWXT",
+      "company": "BWX Technologies",
+      "thesis": "scarcity_next_wave",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "2026",
+      "next_earnings": "2027-05-03",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 1.18,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-04",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": 1.12,
+      "last_earnings_eps_est": 0.92,
+      "last_earnings_eps_surprise": 0.2,
+      "last_earnings_revenue_actual": 860217000,
+      "last_earnings_revenue_surprise": 25579240,
+      "source": "stockanalysis.com",
+      "notes": "Naval nuclear monopoly; HALEU optionality; defense + energy",
+      "recent_headlines": [
+        {
+          "title": "BWX Technologies to Report Q2 Results: What's in Store for the Stock?",
+          "date": "Fri, 31 Jul 2026 18:11:00 +0000"
+        },
+        {
+          "title": "Vertiv vs. BWX Technologies: What Revenue Trends Tell Investors About the Impact of Artificial Intelligence on These Companies",
+          "date": "Thu, 30 Jul 2026 22:16:01 +0000"
+        },
+        {
+          "title": "BWX Technologies vs. Archer Aviation: What Do the Revenue Trends of These Aerospace and Defense Companies Tell Investors?",
+          "date": "Mon, 27 Jul 2026 20:06:01 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.22,
+      "last_earnings_revenue_surprise_pct": 0.03,
+      "recent_quarters": [],
+      "days_until_earnings": 274,
+      "status": "future"
+    },
+    {
+      "symbol": "WMB",
+      "company": "Williams Companies",
+      "thesis": "ai_infra+molecules",
+      "conviction": "MEDIUM-HIGH",
+      "action": "BUY",
+      "timeframe": "12-24mo",
+      "next_earnings": "2027-05-03",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 0.66,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-04",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": 0.73,
+      "last_earnings_eps_est": 0.62,
+      "last_earnings_eps_surprise": 0.11,
+      "last_earnings_revenue_actual": 3030000000,
+      "last_earnings_revenue_surprise": -253975120,
+      "source": "stockanalysis.com",
+      "notes": "NEW Jul 13: molecules frontier \u2014 $7.3B power-innovation projects in execution (NEO 682MW 2H28, Atlas NE-DC pipeline YE26) + 6GW backlog; 101GW BTM gas announced industry-wide. Turbines are scarce; who",
+      "recent_headlines": [
+        {
+          "title": "Enbridge (ENB) Q2 Earnings and Revenues Surpass Estimates",
+          "date": "Fri, 31 Jul 2026 12:45:02 +0000"
+        },
+        {
+          "title": "Insights Into The Williams Companies (WMB) Q2: Wall Street Projections for Key Metrics",
+          "date": "Thu, 30 Jul 2026 13:15:10 +0000"
+        },
+        {
+          "title": "South Bow Corporation (SOBO) Earnings Expected to Grow: Should You Buy?",
+          "date": "Wed, 29 Jul 2026 14:00:10 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.18,
+      "last_earnings_revenue_surprise_pct": -0.08,
+      "recent_quarters": [],
+      "days_until_earnings": 274,
+      "status": "future"
+    },
+    {
+      "symbol": "ETN",
+      "company": "Eaton Corp",
+      "thesis": "ai_infra+pmi+blackwell+800v",
+      "conviction": "HIGH",
+      "action": "ADD-STAGED",
+      "timeframe": "2026",
+      "next_earnings": "2027-05-04",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 3.5,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-31",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 3.15,
+      "last_earnings_eps_est": 3.08,
+      "last_earnings_eps_surprise": 0.07,
+      "last_earnings_revenue_actual": 8531000000,
+      "last_earnings_revenue_surprise": 406669088,
+      "source": "stockanalysis.com",
+      "notes": "MEMO #5 (Jul 13): $407 back IN the add zone. Add ~$3.5K now (17->~25sh) funded by VRT 50->30 trim; complete to $12-14K on Aug 4 margin print (~150bp seq lift is the tell). Transformers/switchgear unre",
+      "recent_headlines": [
+        {
+          "title": "Eaton Corp PLC (ETN) (Q2 2026) Earnings Call Highlights: Record Revenue and Raised Guidance ...",
+          "date": "Fri, 31 Jul 2026 23:01:28 +0000"
+        },
+        {
+          "title": "Eaton Stock Jumps on AI Relief After Earnings Beat",
+          "date": "Fri, 31 Jul 2026 20:41:00 +0000"
+        },
+        {
+          "title": "Eaton Q2 Earnings Call Highlights",
+          "date": "Fri, 31 Jul 2026 19:04:20 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.02,
+      "last_earnings_revenue_surprise_pct": 0.05,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-07-31",
+          "eps_actual": 3.15,
+          "eps_est": 3.08,
+          "eps_surprise": 0.07,
+          "revenue_actual": 8531000000,
+          "revenue_surprise_pct": 0.05
+        }
+      ],
+      "days_until_earnings": 275,
+      "status": "future"
+    },
+    {
+      "symbol": "CCJ",
+      "company": "Cameco Corp",
+      "thesis": "scarcity",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "2026",
+      "next_earnings": "2027-05-04",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 0.48,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-31",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 0.13,
+      "last_earnings_eps_est": 0.36,
+      "last_earnings_eps_surprise": -0.23,
+      "last_earnings_revenue_actual": 588000000,
+      "last_earnings_revenue_surprise": 53640000,
+      "source": "stockanalysis.com",
+      "notes": "Westinghouse stake; uranium structural deficit; already own URA",
+      "recent_headlines": [
+        {
+          "title": "Cameco Corp (CCJ) (Q2 2026) Earnings Call Highlights: Record Uranium Prices and Strategic ...",
+          "date": "Fri, 31 Jul 2026 19:01:11 +0000"
+        },
+        {
+          "title": "Cameco Q2 Earnings Call Highlights",
+          "date": "Fri, 31 Jul 2026 17:04:24 +0000"
+        },
+        {
+          "title": "Cameco (CCJ) Q2 Earnings Miss Estimates",
+          "date": "Fri, 31 Jul 2026 11:45:01 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": -0.64,
+      "last_earnings_revenue_surprise_pct": 0.1,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-07-31",
+          "eps_actual": 0.13,
+          "eps_est": 0.36,
+          "eps_surprise": -0.23,
+          "revenue_actual": 588000000,
+          "revenue_surprise_pct": 0.1
+        }
+      ],
+      "days_until_earnings": 275,
+      "status": "future"
+    },
+    {
+      "symbol": "LEU",
+      "company": "Centrus Energy",
+      "thesis": "sma_quality+scarcity",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "2028",
+      "next_earnings": "2027-05-04",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 0.83,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-05",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": 1.05,
+      "last_earnings_eps_est": 0.32,
+      "last_earnings_eps_surprise": 0.73,
+      "last_earnings_revenue_actual": 76700000,
+      "last_earnings_revenue_surprise": -2039032,
+      "source": "stockanalysis.com",
+      "notes": "RE-RATED Jul 13: -65% from $464 high to $171 while FY26 rev guide RAISED to $450-500M, HALEU/Tech Solutions +47%, $2.4B contingent LEU commitments, Piketon expansion. 3-yr horizon matches 2028-30 SMR ",
+      "recent_headlines": [
+        {
+          "title": "Do Lower Earnings Estimates Put Centrus Energy\u2019s (LEU) Nuclear Fuel Growth Narrative to the Test?",
+          "date": "Thu, 30 Jul 2026 18:11:17 +0000"
+        },
+        {
+          "title": "Centrus Energy (LEU) Faces A Valuation Test Following EPS Estimate Cuts",
+          "date": "Thu, 30 Jul 2026 05:09:06 +0000"
+        },
+        {
+          "title": "Centrus Energy to Report Q2 Earnings: What's in Store for the Stock?",
+          "date": "Wed, 29 Jul 2026 14:34:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 2.28,
+      "last_earnings_revenue_surprise_pct": -0.03,
+      "recent_quarters": [],
+      "days_until_earnings": 275,
+      "status": "future"
+    },
+    {
+      "symbol": "PFE",
+      "company": "Pfizer Inc",
+      "thesis": "buffett_value",
+      "conviction": "HIGH",
+      "action": "BUY",
+      "timeframe": "12-24mo",
+      "next_earnings": "2027-05-04",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 0.74,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-05",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": 0.75,
+      "last_earnings_eps_est": 0.72,
+      "last_earnings_eps_surprise": 0.03,
+      "last_earnings_revenue_actual": 14451000000,
+      "last_earnings_revenue_surprise": 645447744,
+      "source": "stockanalysis.com",
+      "notes": "6.5% dividend yield; 31% below fair value; Seagen oncology pipeline; 55yr dividend streak; forward P/E ~9x",
+      "recent_headlines": [
+        {
+          "title": "Pfizer Yields 6.8%, Trades at 8.5X Earnings, and Has a Promising Late-Stage Weight Loss Drug. Why Are So Many Investors Still Ignoring the Stock?",
+          "date": "Fri, 31 Jul 2026 19:29:00 +0000"
+        },
+        {
+          "title": "Amgen Q2 Earnings Preview: Will the Beat Streak Continue?",
+          "date": "Fri, 31 Jul 2026 17:16:00 +0000"
+        },
+        {
+          "title": "Bristol Myers Stock Rises. Why the Drugmaker Is Lifting Its Earnings Guidance.",
+          "date": "Thu, 30 Jul 2026 18:27:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.04,
+      "last_earnings_revenue_surprise_pct": 0.05,
+      "recent_quarters": [],
+      "days_until_earnings": 275,
+      "status": "future"
+    },
+    {
+      "symbol": "CIFR",
+      "company": "Cipher Digital",
+      "thesis": "neo_cloud+ai_infra",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "2026",
+      "next_earnings": "2027-05-04",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 0.07,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-05",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": -0.28,
+      "last_earnings_eps_est": -0.08,
+      "last_earnings_eps_surprise": -0.2,
+      "last_earnings_revenue_actual": 34838000,
+      "last_earnings_revenue_surprise": -1099424,
+      "source": "stockanalysis.com",
+      "notes": "$5.5B AWS lease + Google deal; HPC revenue starts Aug 2026; analysts see 80-100% upside; binding contracts not LOIs; IREN companion play",
+      "recent_headlines": [
+        {
+          "title": "Cipher Digital (CIFR) Earnings on Deck; Hedge Fund Sentiment Improves",
+          "date": "Tue, 21 Jul 2026 19:01:19 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": -2.5,
+      "last_earnings_revenue_surprise_pct": -0.03,
+      "recent_quarters": [],
+      "days_until_earnings": 275,
+      "status": "future"
+    },
+    {
+      "symbol": "ATKR",
+      "company": "Atkore Inc",
+      "thesis": "ai_infra_discovery+electrical",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "2027",
+      "next_earnings": "2027-05-04",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ2 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": null,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-05",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 1.23,
+      "last_earnings_eps_est": 0.96,
+      "last_earnings_eps_surprise": 0.27,
+      "last_earnings_revenue_actual": 731377000,
+      "last_earnings_revenue_surprise": 20035424,
+      "source": "stockanalysis.com",
+      "notes": "NEW Jul 13: 11.5x fwd P/E \u2014 the only cheap name in a layer that re-rated to 35-60x (POWL 48x, HPS.A 60x). Conduit/cable-tray content scales with every DC MW. The hair: PVC pricing pressure \u2014 that's wh",
+      "recent_headlines": [
+        {
+          "title": "Atkore Inc. Declares Quarterly Dividend",
+          "date": "Thu, 30 Jul 2026 21:15:00 +0000"
+        },
+        {
+          "title": "Atkore Inc. Announces Third Quarter Fiscal Year 2026 Earnings Release Date and Conference Call",
+          "date": "Thu, 16 Jul 2026 03:59:00 +0000"
+        },
+        {
+          "title": "A Look Back at Electrical Systems Stocks\u2019 Q1 Earnings: Atkore (NYSE:ATKR) Vs The Rest Of The Pack",
+          "date": "Mon, 01 Jun 2026 23:12:51 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.28,
+      "last_earnings_revenue_surprise_pct": 0.03,
+      "recent_quarters": [],
+      "days_until_earnings": 275,
+      "status": "future"
+    },
+    {
+      "symbol": "COHR",
+      "company": "Coherent Corp",
+      "thesis": "ai_infra+scarcity+blackwell+tpu",
+      "conviction": "HIGH",
+      "action": "BUY",
+      "timeframe": "2026",
+      "next_earnings": "2027-05-05",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ3 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 1.91,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-06",
+      "last_earnings_period": "QQ3 2026",
+      "last_earnings_eps_actual": 1.41,
+      "last_earnings_eps_est": 1.36,
+      "last_earnings_eps_surprise": 0.05,
+      "last_earnings_revenue_actual": 1806000000,
+      "last_earnings_revenue_surprise": 25747648,
+      "source": "stockanalysis.com",
+      "notes": "Silicon photonics + 1.6T; vertically integrated; dual ecosystem play",
+      "recent_headlines": [
+        {
+          "title": "AXT Q2 Earnings Call Highlights",
+          "date": "Thu, 30 Jul 2026 22:04:04 +0000"
+        },
+        {
+          "title": "4 Business Services Firms Poised to Top Estimates This Earnings Season",
+          "date": "Thu, 30 Jul 2026 15:08:00 +0000"
+        },
+        {
+          "title": "Symbotic Gears Up to Report Q3 Earnings: Here's What to Expect",
+          "date": "Thu, 30 Jul 2026 14:20:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.04,
+      "last_earnings_revenue_surprise_pct": 0.01,
+      "recent_quarters": [],
+      "days_until_earnings": 276,
+      "status": "future"
+    },
+    {
+      "symbol": "KTOS",
+      "company": "Kratos Defense",
+      "thesis": "defense_tech",
+      "conviction": "HIGH",
+      "action": "BUY",
+      "timeframe": "12-24mo",
+      "next_earnings": "2027-05-05",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 0.15,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-06",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": 0.16,
+      "last_earnings_eps_est": 0.12,
+      "last_earnings_eps_surprise": 0.04,
+      "last_earnings_revenue_actual": 371000000,
+      "last_earnings_revenue_surprise": 26359704,
+      "source": "stockanalysis.com",
+      "notes": "RE-RATED Jul 13: -64% from $134 to $48 w/ NO split, NO break \u2014 Q1 rev +22.6%, FY26 guide raised to $1.70-1.76B, b-t-b 1.6x, record $2.01B backlog, Golden Dome + MACH-TB 2.0 + Iran tailwinds. Drone-hyp",
+      "recent_headlines": [
+        {
+          "title": "ARK Buys Millions In Falling Space Names. SpaceX Preps Classified Mission.",
+          "date": "Wed, 29 Jul 2026 20:13:57 +0000"
+        },
+        {
+          "title": "Kratos (KTOS) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+          "date": "Tue, 28 Jul 2026 14:00:28 +0000"
+        },
+        {
+          "title": "Kratos Defense & Security Solutions Schedules Second Quarter 2026 Earnings Conference Call for Tuesday, August 4th",
+          "date": "Thu, 23 Jul 2026 12:00:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.33,
+      "last_earnings_revenue_surprise_pct": 0.08,
+      "recent_quarters": [],
+      "days_until_earnings": 276,
+      "status": "future"
+    },
+    {
+      "symbol": "FLNC",
+      "company": "Fluence Energy",
+      "thesis": "grid_storage_integrator+ai_datacenter+itc2033",
+      "conviction": "MEDIUM",
+      "action": "HOLD",
+      "timeframe": "2026-2027",
+      "next_earnings": "2027-05-05",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ2 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": -0.12,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-06",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": -0.16,
+      "last_earnings_eps_est": -0.18,
+      "last_earnings_eps_surprise": 0.02,
+      "last_earnings_revenue_actual": 464891000,
+      "last_earnings_revenue_surprise": -151770976,
+      "source": "stockanalysis.com",
+      "notes": "NEW Jul 23 (thesis/2026_jul_23_solid_state_storage_battery_thesis.html). Orphan holding now tracked: 120sh, ~flat vs $15.40 cost. NOT solid-state \u2014 Li-ion grid-storage integrator. Bull: $5.6B record b",
+      "recent_headlines": [
+        {
+          "title": "Analysts Estimate Fluence Energy, Inc. (FLNC) to Report a Decline in Earnings: What to Look Out for",
+          "date": "Wed, 29 Jul 2026 14:00:39 +0000"
+        },
+        {
+          "title": "FLNC, CSIQ, NRGV Stocks Get Citi\u2019s Attention Ahead Of Quarterly Earnings \u2013 Firm Says Energy Storage Demand To Drive Upside",
+          "date": "Wed, 22 Jul 2026 14:44:44 +0000"
+        },
+        {
+          "title": "Fluence Energy, Inc. Announces Fiscal Year Third Quarter Earnings Release Date, Conference Call and Webcast",
+          "date": "Mon, 20 Jul 2026 13:00:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.11,
+      "last_earnings_revenue_surprise_pct": -0.25,
+      "recent_quarters": [],
+      "days_until_earnings": 276,
+      "status": "future"
+    },
+    {
+      "symbol": "IREN",
+      "company": "Iren Ltd",
+      "thesis": "investment_plan",
+      "conviction": "MEDIUM",
+      "action": "ADD",
+      "timeframe": "2026",
+      "next_earnings": "2027-05-06",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ3 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 0.62,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-07",
+      "last_earnings_period": "QQ3 2026",
+      "last_earnings_eps_actual": -0.33,
+      "last_earnings_eps_est": -0.24,
+      "last_earnings_eps_surprise": -0.09,
+      "last_earnings_revenue_actual": 144800000,
+      "last_earnings_revenue_surprise": -73234296,
+      "source": "stockanalysis.com",
+      "notes": "Microsoft contracted revenue; add to existing 80 shares to reach $10K",
+      "recent_headlines": [
+        {
+          "title": "Applied Digital Set to Report Q4 Earnings: Hold or Fold the Stock?",
+          "date": "Thu, 23 Jul 2026 15:49:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": -0.36,
+      "last_earnings_revenue_surprise_pct": -0.34,
+      "recent_quarters": [],
+      "days_until_earnings": 277,
+      "status": "future"
+    },
+    {
+      "symbol": "WPM",
+      "company": "Wheaton Precious Metals",
+      "thesis": "scarcity",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "2026",
+      "next_earnings": "2027-05-06",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 1.16,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-07",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": 1.28,
+      "last_earnings_eps_est": 1.21,
+      "last_earnings_eps_surprise": 0.07,
+      "last_earnings_revenue_actual": 901469000,
+      "last_earnings_revenue_surprise": 56302456,
+      "source": "stockanalysis.com",
+      "notes": "Silver streaming model; precious metals scarcity hedge",
+      "recent_headlines": [
+        {
+          "title": "International Flavors Set to Report Q2 Earnings: What's in Store?",
+          "date": "Fri, 31 Jul 2026 14:44:00 +0000"
+        },
+        {
+          "title": "Analysts Estimate Alpha Metallurgical (AMR) to Report a Decline in Earnings: What to Look Out for",
+          "date": "Fri, 31 Jul 2026 14:00:02 +0000"
+        },
+        {
+          "title": "Wheaton Precious Metals Corp. (WPM) Earnings Expected to Grow: Should You Buy?",
+          "date": "Thu, 30 Jul 2026 14:00:24 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.06,
+      "last_earnings_revenue_surprise_pct": 0.07,
+      "recent_quarters": [],
+      "days_until_earnings": 277,
+      "status": "future"
+    },
+    {
+      "symbol": "MP",
+      "company": "MP Materials",
+      "thesis": "sma_quality+scarcity",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "12mo",
+      "next_earnings": "2027-05-06",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 0.16,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-07",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": 0.03,
+      "last_earnings_eps_est": -0.04,
+      "last_earnings_eps_surprise": 0.07,
+      "last_earnings_revenue_actual": 90649000,
+      "last_earnings_revenue_surprise": 15298200,
+      "source": "stockanalysis.com",
+      "notes": "RE-RATED Jul 13: $52 after -15% month; DoD deal ($400M pref, NdPr floor $110/kg, warrants at $30.03) = hard floor under the stock. Entry 48-55; floor-protected pullback in a validated theme",
+      "recent_headlines": [
+        {
+          "title": "MP Materials Corp. (MP) Earnings Expected to Grow: Should You Buy?",
+          "date": "Thu, 30 Jul 2026 14:00:10 +0000"
+        },
+        {
+          "title": "HudBay Minerals (HBM) Misses Q2 Earnings and Revenue Estimates",
+          "date": "Wed, 29 Jul 2026 11:30:05 +0000"
+        },
+        {
+          "title": "Washington Has Quietly Built A Stock Portfolio That Nobody Can Size: Report",
+          "date": "Sun, 26 Jul 2026 15:49:19 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 1.75,
+      "last_earnings_revenue_surprise_pct": 0.2,
+      "recent_quarters": [],
+      "days_until_earnings": 277,
+      "status": "future"
+    },
+    {
+      "symbol": "Q",
+      "company": "Qnity Electronics",
+      "thesis": "ai_infra+materials",
+      "conviction": "MEDIUM-HIGH",
+      "action": "BUY",
+      "timeframe": "2027",
+      "next_earnings": "2027-05-11",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 1.04,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-12",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": 1.08,
+      "last_earnings_eps_est": 0.92,
+      "last_earnings_eps_surprise": 0.16,
+      "last_earnings_revenue_actual": 1315000000,
+      "last_earnings_revenue_surprise": 44265600,
+      "source": "stockanalysis.com",
+      "notes": "NEW Jul 13: DuPont electronics-materials spin (Nov 2025). $144, -19% off high; ~32x fwd BELOW 40x+ peers (ENTG); CMP pads/slurries + photoresists + adv packaging materials. Consumables = f(wafer start",
+      "recent_headlines": [
+        {
+          "title": "Earnings Preview: What to Expect From Qnity Electronics' Report",
+          "date": "Thu, 23 Jul 2026 09:30:23 +0000"
+        },
+        {
+          "title": "Qnity Schedules Second Quarter 2026 Earnings Release and Conference Call",
+          "date": "Tue, 07 Jul 2026 10:30:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.17,
+      "last_earnings_revenue_surprise_pct": 0.03,
+      "recent_quarters": [],
+      "days_until_earnings": 282,
+      "status": "future"
+    },
+    {
+      "symbol": "OKLO",
+      "company": "Oklo Inc",
+      "thesis": "smr_spec",
+      "conviction": "SPECULATIVE",
+      "action": "BUY-SMALL",
+      "timeframe": "2029",
+      "next_earnings": "2027-05-11",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": -0.21,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-12",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": -0.19,
+      "last_earnings_eps_est": -0.19,
+      "last_earnings_eps_surprise": 0,
+      "last_earnings_revenue_actual": 0,
+      "last_earnings_revenue_surprise": null,
+      "source": "stockanalysis.com",
+      "notes": "NEW Jul 13: $49 vs $194 Oct'25 peak (-75%) \u2014 the floorless lottery de-floored itself. Meta prepayment + Equinix interest real; NRC milestones are the 3-yr path. Sized to lose ($2K max), no averaging d",
+      "recent_headlines": [
+        {
+          "title": "Oklo Announces Date for Second Quarter 2026 Financial Results and Business Update Call",
+          "date": "Mon, 27 Jul 2026 10:30:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0,
+      "last_earnings_revenue_surprise_pct": null,
+      "recent_quarters": [],
+      "days_until_earnings": 282,
+      "status": "future"
+    },
+    {
+      "symbol": "EOSE",
+      "company": "Eos Energy Enterprises",
+      "thesis": "zinc_ldes+doe_loan+45x+feoc",
+      "conviction": "MEDIUM",
+      "action": "HOLD",
+      "timeframe": "2026-2027",
+      "next_earnings": "2027-05-12",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": -0.08,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-13",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": 0.12,
+      "last_earnings_eps_est": -0.24,
+      "last_earnings_eps_surprise": 0.36,
+      "last_earnings_revenue_actual": 56963000,
+      "last_earnings_revenue_surprise": 555000,
+      "source": "stockanalysis.com",
+      "notes": "NEW Jul 23 (thesis/2026_jul_23_solid_state_storage_battery_thesis.html). Orphan holding now tracked: 220sh, -56% vs $8.35 cost. NOT solid-state \u2014 zinc long-duration grid storage. Bull: DOE $303.5M loa",
+      "recent_headlines": [
+        {
+          "title": "DMC Global (BOOM) Q2 Earnings and Revenues Beat Estimates",
+          "date": "Wed, 29 Jul 2026 22:25:05 +0000"
+        },
+        {
+          "title": "Eos Energy Enterprises, Inc. (EOSE) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
+          "date": "Wed, 29 Jul 2026 14:00:38 +0000"
+        },
+        {
+          "title": "Bimergen Energy Emerges With $8.9 Million Revenue Transaction",
+          "date": "Tue, 28 Jul 2026 10:30:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 1.5,
+      "last_earnings_revenue_surprise_pct": 0.01,
+      "recent_quarters": [],
+      "days_until_earnings": 283,
+      "status": "future"
+    },
+    {
+      "symbol": "SKHY",
+      "company": "SK Hynix ADR",
+      "thesis": "memory_cycle+hbm",
+      "conviction": "MEDIUM-HIGH",
+      "action": "BUY",
+      "timeframe": "6-12mo",
+      "next_earnings": "2027-05-13",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": null,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-29",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 87.56,
+      "last_earnings_eps_est": null,
+      "last_earnings_eps_surprise": null,
+      "last_earnings_revenue_actual": 52826000000,
+      "last_earnings_revenue_surprise": null,
+      "source": "stockanalysis.com",
+      "notes": "NEW Jul 13: Nasdaq ADR listed 7/10 ($149 offer, $26.5B raised, 10 ADR = 1 Seoul share). 4.8-5.4x fwd vs MU 6.6x with 60-70% Rubin HBM4 share; 2027 HBM talks stalled w/ suppliers demanding doubles. REN",
+      "recent_headlines": [
+        {
+          "title": "This Chinese computer chip maker burned through $5 billion in a decade \u2014 then made it all back in a single quarter",
+          "date": "Fri, 31 Jul 2026 09:30:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": null,
+      "last_earnings_revenue_surprise_pct": null,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-07-29",
+          "eps_actual": 87.56,
+          "eps_est": null,
+          "eps_surprise": null,
+          "revenue_actual": 52826000000,
+          "revenue_surprise_pct": null
+        }
+      ],
+      "days_until_earnings": 284,
+      "status": "future"
+    },
+    {
+      "symbol": "NVDA",
+      "company": "NVIDIA",
+      "thesis": "investment_plan",
+      "conviction": "MEDIUM",
+      "action": "ADD",
+      "timeframe": "2026",
+      "next_earnings": "2027-05-19",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ1 2028",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 2.66,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-20",
+      "last_earnings_period": "QQ1 2027",
+      "last_earnings_eps_actual": 1.87,
+      "last_earnings_eps_est": 1.76,
+      "last_earnings_eps_surprise": 0.11,
+      "last_earnings_revenue_actual": 81615000000,
+      "last_earnings_revenue_surprise": 2572432384,
+      "source": "stockanalysis.com",
+      "notes": "Add to existing 52 shares on dips; Blackwell ramp catalyst",
+      "recent_headlines": [
+        {
+          "title": "The Real AI Cost Question That Defines The Next Quarter of Alphabet Vs. Microsoft",
+          "date": "Sat, 01 Aug 2026 13:51:20 +0000"
+        },
+        {
+          "title": "Meet the Dividend Stock That Keeps Raising Its Payout No Matter What the Market Does",
+          "date": "Sat, 01 Aug 2026 13:45:00 +0000"
+        },
+        {
+          "title": "American Express Raised Its Revenue Guidance and Left Its Earnings Guidance Alone. Here's Where the Extra Money Is Going.",
+          "date": "Sat, 01 Aug 2026 13:07:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.06,
+      "last_earnings_revenue_surprise_pct": 0.03,
+      "recent_quarters": [],
+      "schedule_date": "2026-08-26",
+      "schedule_status": "confirmed",
+      "days_until_earnings": 290,
+      "status": "future"
+    },
+    {
+      "symbol": "DE",
+      "company": "Deere & Company",
+      "thesis": "buffett_value+cyclical_bottom",
+      "conviction": "MEDIUM-HIGH",
+      "action": "BUY",
+      "timeframe": "12-24mo",
+      "next_earnings": "2027-05-20",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ2 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 6.78,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-21",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 6.55,
+      "last_earnings_eps_est": 5.76,
+      "last_earnings_eps_surprise": 0.79,
+      "last_earnings_revenue_actual": 13369000000,
+      "last_earnings_revenue_surprise": 1884823168,
+      "source": "stockanalysis.com",
+      "notes": "Mgmt called 2026 'the bottom'; widest moat in ag; precision tech lock-in; buy trough sell recovery",
+      "recent_headlines": [
+        {
+          "title": "Avery Dennison to Report Q2 Earnings: Here's What to Expect",
+          "date": "Tue, 28 Jul 2026 14:29:00 +0000"
+        },
+        {
+          "title": "Deere & Company Earnings Preview: What to Expect",
+          "date": "Thu, 23 Jul 2026 12:29:51 +0000"
+        },
+        {
+          "title": "Dover Gears Up to Report Q2 Earnings: What to Expect From the Stock?",
+          "date": "Mon, 20 Jul 2026 13:50:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.14,
+      "last_earnings_revenue_surprise_pct": 0.16,
+      "recent_quarters": [],
+      "days_until_earnings": 291,
+      "status": "future"
+    },
+    {
+      "symbol": "MOD",
+      "company": "Modine Manufacturing",
+      "thesis": "scarcity_next_wave+ai_infra_discovery",
+      "conviction": "MEDIUM-HIGH",
+      "action": "BUY",
+      "timeframe": "2027",
+      "next_earnings": "2027-05-25",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ4 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 2.42,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-29",
+      "last_earnings_period": "QQ1 2027",
+      "last_earnings_eps_actual": 1.53,
+      "last_earnings_eps_est": 1.38,
+      "last_earnings_eps_surprise": 0.15,
+      "last_earnings_revenue_actual": 874100000,
+      "last_earnings_revenue_surprise": -17913544,
+      "source": "stockanalysis.com",
+      "notes": "RE-RATED Jul 13: original 105-130 entry ran to $295 unbought; now $246 (-17% in 2wks). 3.5x fwd sales vs VRT 7.5x; pure-play thermal spin (Reverse Morris Trust w/ Gentherm) completes YE2026; Rubin 600",
+      "recent_headlines": [
+        {
+          "title": "Modine Manufacturing Q1 Earnings Call Highlights",
+          "date": "Fri, 31 Jul 2026 21:03:54 +0000"
+        },
+        {
+          "title": "Is Modine Manufacturing (MOD) A Bargain After Strong Earnings And Higher Sales Guidance?",
+          "date": "Thu, 30 Jul 2026 20:08:09 +0000"
+        },
+        {
+          "title": "Why Modine Manufacturing (MOD) Is Down 28.7% After Hiking Its Fiscal 2027 Net Sales Outlook",
+          "date": "Thu, 30 Jul 2026 18:09:19 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.11,
+      "last_earnings_revenue_surprise_pct": -0.02,
+      "recent_quarters": [
+        {
+          "period": "QQ1 2027",
+          "date": "2026-07-29",
+          "eps_actual": 1.53,
+          "eps_est": 1.38,
+          "eps_surprise": 0.15,
+          "revenue_actual": 874100000,
+          "revenue_surprise_pct": -0.02
+        }
+      ],
+      "days_until_earnings": 296,
+      "status": "future"
+    },
+    {
+      "symbol": "MRVL",
+      "company": "Marvell Technology",
+      "thesis": "tpu+ai_infra_discovery",
+      "conviction": "HIGH",
+      "action": "BUY",
+      "timeframe": "2027",
+      "next_earnings": "2027-05-26",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ1 2028",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 1.06,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-05-27",
+      "last_earnings_period": "QQ1 2027",
+      "last_earnings_eps_actual": 0.8,
+      "last_earnings_eps_est": 0.75,
+      "last_earnings_eps_surprise": 0.05,
+      "last_earnings_revenue_actual": 2418000000,
+      "last_earnings_revenue_surprise": 17377840,
+      "source": "stockanalysis.com",
+      "notes": "RE-RATED Jul 13: $236 after -22.6% flow-driven selloff (estimates RAISED, FY27/28 outlooks up); NVDA invested $2B late June w/ NVLink integration; ASIC units pass GPUs 2027-28. Held 20sh from $81 \u2014 ad",
+      "recent_headlines": [
+        {
+          "title": "Should You Buy, Sell, or Hold ALAB Stock Before Q2 Earnings Release?",
+          "date": "Fri, 31 Jul 2026 17:39:00 +0000"
+        },
+        {
+          "title": "Marvell Technology Is Betting More Of Its Revenue On One End Market",
+          "date": "Fri, 31 Jul 2026 17:09:29 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.07,
+      "last_earnings_revenue_surprise_pct": 0.01,
+      "recent_quarters": [],
+      "schedule_date": "2026-08-27",
+      "schedule_status": "confirmed",
+      "days_until_earnings": 297,
+      "status": "future"
+    },
+    {
+      "symbol": "ADBE",
+      "company": "Adobe Inc",
+      "thesis": "sma_quality",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "12-24mo",
+      "next_earnings": "2027-06-10",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ2 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 5.54,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-06-11",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 5.96,
+      "last_earnings_eps_est": 5.6,
+      "last_earnings_eps_surprise": 0.36,
+      "last_earnings_revenue_actual": 6618000000,
+      "last_earnings_revenue_surprise": 164882080,
+      "source": "stockanalysis.com",
+      "notes": "Quality at 200-day SMA; Firefly AI monetization; creative monopoly",
+      "recent_headlines": [
+        {
+          "title": "Adobe Stock Trades Below The Market On Earnings While Its Growth Engine Is Being Rebuilt",
+          "date": "Thu, 30 Jul 2026 17:32:06 +0000"
+        },
+        {
+          "title": "Stagwell Q2 Driven By Digital Transformation, Political",
+          "date": "Thu, 30 Jul 2026 14:38:03 +0000"
+        },
+        {
+          "title": "E-Commerce Update - Retail Evolution Insights From 2027 Market Research Report",
+          "date": "Thu, 30 Jul 2026 12:38:56 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.06,
+      "last_earnings_revenue_surprise_pct": 0.03,
+      "recent_quarters": [],
+      "days_until_earnings": 312,
+      "status": "future"
+    },
+    {
+      "symbol": "KMI",
+      "company": "Kinder Morgan",
+      "thesis": "ai_infra+molecules",
+      "conviction": "MEDIUM-HIGH",
+      "action": "BUY",
+      "timeframe": "12-24mo",
+      "next_earnings": "2027-07-21",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ2 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": null,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-22",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 0.37,
+      "last_earnings_eps_est": 0.31,
+      "last_earnings_eps_surprise": 0.06,
+      "last_earnings_revenue_actual": 4477000000,
+      "last_earnings_revenue_surprise": 238193600,
+      "source": "stockanalysis.com",
+      "notes": "UPGRADED Jul 13: molecules frontier #1 \u2014 101GW behind-the-meter gas announced, KMI sees +5 Bcf/d gas power demand to 2030, ~14x EV/EBITDA while turbine OEMs sit at 60-70x fwd. Contracted fee-based cas",
+      "recent_headlines": [
+        {
+          "title": "Kinder Morgan (KMI) Could Be 9% Undervalued As Bond Issues And Q2 Results Land",
+          "date": "Sat, 01 Aug 2026 09:11:07 +0000"
+        },
+        {
+          "title": "CVX Q2 Earnings Beat on Higher Output & Strong Refining Margins",
+          "date": "Fri, 31 Jul 2026 15:46:00 +0000"
+        },
+        {
+          "title": "XOM Q2 Earnings Miss Estimates Despite Record Production Growth",
+          "date": "Fri, 31 Jul 2026 14:52:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.19,
+      "last_earnings_revenue_surprise_pct": 0.06,
+      "recent_quarters": [],
+      "days_until_earnings": 353,
+      "status": "future"
+    },
+    {
+      "symbol": "GEV",
+      "company": "GE Vernova",
+      "thesis": "800v+ai_infra+grid",
+      "conviction": "MEDIUM-HIGH",
+      "action": "WAIT",
+      "timeframe": "2026",
+      "next_earnings": "2027-07-21",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ2 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": null,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-22",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 2.47,
+      "last_earnings_eps_est": 3.22,
+      "last_earnings_eps_surprise": -0.75,
+      "last_earnings_revenue_actual": 11104000000,
+      "last_earnings_revenue_surprise": 354974368,
+      "source": "stockanalysis.com",
+      "notes": "Jul 13: touched $1,054 intraday \u2014 at the top of the wait zone. Sold out through 2030-31, 100GW contracted, but 60-70x fwd is maximally found; only pay it in the zone. Alert stands 950-1050",
+      "recent_headlines": [
+        {
+          "title": "GE HealthCare Stock Soars After Earnings\u2014and It\u2019s Suddenly the Best Performing GE",
+          "date": "Wed, 29 Jul 2026 20:20:00 +0000"
+        },
+        {
+          "title": "Vertiv Earnings Beat Estimates. Why the Stock Is Falling.",
+          "date": "Wed, 29 Jul 2026 20:13:00 +0000"
+        },
+        {
+          "title": "Vertiv stock sinks on earnings miss: A look at key AI infrastructure players",
+          "date": "Wed, 29 Jul 2026 14:50:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": -0.23,
+      "last_earnings_revenue_surprise_pct": 0.03,
+      "recent_quarters": [],
+      "schedule_date": "2026-07-22",
+      "schedule_status": "reported",
+      "days_until_earnings": 353,
+      "status": "future"
+    },
+    {
+      "symbol": "QS",
+      "company": "QuantumScape",
+      "thesis": "solid_state_battery+powerco_license",
+      "conviction": "LOW",
+      "action": "WATCH",
+      "timeframe": "2028-2030",
+      "next_earnings": "2027-07-21",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ2 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": null,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-22",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": -0.16,
+      "last_earnings_eps_est": -0.18,
+      "last_earnings_eps_surprise": 0.02,
+      "last_earnings_revenue_actual": 0,
+      "last_earnings_revenue_surprise": null,
+      "source": "stockanalysis.com",
+      "notes": "NEW Jul 23 (thesis/2026_jul_23_solid_state_storage_battery_thesis.html). NOT held (notional only) - leave at zero until a catalyst. The only true solid-state name. Bull: ~$859M liquidity / ~$790M net ",
+      "recent_headlines": [
+        {
+          "title": "Is QS Stock a Buy After the Q2 Earnings Sell-Off or a Value Trap?",
+          "date": "Fri, 24 Jul 2026 14:05:00 +0000"
+        },
+        {
+          "title": "QuantumScape Q2 Earnings Beat Estimates on Eagle Line Gains",
+          "date": "Thu, 23 Jul 2026 14:06:00 +0000"
+        },
+        {
+          "title": "QS Q2 Earnings Call Focuses on Honda and New Markets",
+          "date": "Thu, 23 Jul 2026 14:00:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.11,
+      "last_earnings_revenue_surprise_pct": null,
+      "recent_quarters": [],
+      "days_until_earnings": 353,
+      "status": "future"
+    },
+    {
+      "symbol": "GOOG",
+      "company": "Alphabet Inc",
+      "thesis": "search_franchise+cloud_tpu_waymo_optionality+ai_capex_levered",
+      "conviction": "HIGH",
+      "action": "HOLD",
+      "timeframe": "2026-2028",
+      "next_earnings": "2027-07-21",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ2 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": null,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-22",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 9.11,
+      "last_earnings_eps_est": 2.87,
+      "last_earnings_eps_surprise": 6.24,
+      "last_earnings_revenue_actual": 119796000000,
+      "last_earnings_revenue_surprise": 6161974272,
+      "source": "stockanalysis.com",
+      "notes": "NEW Jul 25 (thesis/2026_jul_25_googl_golden_goose_thesis.html). #1 holding: 100sh, +89% LTCG, basis $168.88, acct 34614. Untracked core hold now monitored after the @MaxAnderson 'sacrificing the golde",
+      "recent_headlines": [
+        {
+          "title": "The Real AI Cost Question That Defines The Next Quarter of Alphabet Vs. Microsoft",
+          "date": "Sat, 01 Aug 2026 13:51:20 +0000"
+        },
+        {
+          "title": "Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+          "date": "Sat, 01 Aug 2026 13:03:01 +0000"
+        },
+        {
+          "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Google Rebounds After Sell-Off",
+          "date": "Sat, 01 Aug 2026 12:00:21 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 2.17,
+      "last_earnings_revenue_surprise_pct": 0.05,
+      "recent_quarters": [],
+      "days_until_earnings": 353,
+      "status": "future"
+    },
+    {
+      "symbol": "FCX",
+      "company": "Freeport-McMoRan",
+      "thesis": "scarcity+pmi+ai_infra+sma",
+      "conviction": "HIGH",
+      "action": "BUY",
+      "timeframe": "2026",
+      "next_earnings": "2027-07-22",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ2 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": null,
+      "next_earnings_revenue_est": null,
+      "last_earnings": "2026-07-23",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 0.74,
+      "last_earnings_eps_est": 0.6,
+      "last_earnings_eps_surprise": 0.14,
+      "last_earnings_revenue_actual": 7029000000,
+      "last_earnings_revenue_surprise": 399605696,
+      "source": "stockanalysis.com",
+      "notes": "330K ton copper deficit 2026; PMI expansion + AI power demand; commodity leverage",
+      "recent_headlines": [
+        {
+          "title": "Olin Q2 Earnings Call Highlights",
+          "date": "Fri, 31 Jul 2026 23:03:52 +0000"
+        },
+        {
+          "title": "Ford Motor Q2 Earnings Call Highlights",
+          "date": "Wed, 29 Jul 2026 00:03:56 +0000"
+        },
+        {
+          "title": "SCCO Q2 Earnings Beat on Strong Metal Prices Despite Low Volumes",
+          "date": "Mon, 27 Jul 2026 17:23:00 +0000"
+        }
+      ],
+      "last_earnings_eps_surprise_pct": 0.23,
+      "last_earnings_revenue_surprise_pct": 0.06,
+      "recent_quarters": [],
+      "days_until_earnings": 354,
+      "status": "future"
+    },
+    {
+      "symbol": "KRKNF",
+      "company": "Kraken Robotics",
+      "thesis": "defense_tech+robotics",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "2026",
+      "next_earnings": null,
+      "next_earnings_time": "unknown",
+      "next_earnings_period": null,
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": null,
+      "next_earnings_revenue_est": null,
+      "last_earnings": null,
+      "last_earnings_period": null,
+      "last_earnings_eps_actual": null,
+      "last_earnings_eps_est": null,
+      "last_earnings_eps_surprise": null,
+      "last_earnings_revenue_actual": null,
+      "last_earnings_revenue_surprise": null,
+      "source": "unknown",
+      "notes": "Subsea robotics/mine hunting; 59% gross margins; 60% YoY growth; CA$615M Covelya acquisition; NATO tailwind; OTC liquidity constraint",
+      "recent_headlines": [
+        {
+          "title": "Kraken Robotics Closes Acquisition of Covelya Group; Updates 2026 Guidance",
+          "date": "Thu, 02 Jul 2026 18:41:20 +0000"
+        },
+        {
+          "title": "Kraken Robotics Announces Closing of Strategic Acquisition of Covelya Group Limited, Updated 2026 Guidance and Appointments to Executive Team",
+          "date": "Thu, 02 Jul 2026 14:09:00 +0000"
+        },
+        {
+          "title": "Kraken Robotics Announces 2026 Annual and Special Meeting Results",
+          "date": "Wed, 24 Jun 2026 20:30:00 +0000"
+        }
+      ],
+      "status": "no_date"
+    }
+  ]
+}

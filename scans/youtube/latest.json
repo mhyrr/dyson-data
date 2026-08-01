@@ -1,0 +1,247 @@
+{
+  "run_time": "2026-08-01T15:05:59.720755+00:00",
+  "lookback_days": 3,
+  "modes_run": {
+    "people_search": false,
+    "channel_uploads": true
+  },
+  "people_checked": 0,
+  "channels_checked": 7,
+  "new_videos_count": 21,
+  "transcripts_fetched": 0,
+  "api_errors": 2,
+  "new_videos": [
+    {
+      "video_id": "2j0l5lWSTiA",
+      "title": "Friedberg: NYC’s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
+      "channel": "All-In Podcast",
+      "published": "2026-08-01T13:40:53Z",
+      "description": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linkedin.com/company/allinpod\n\nIntro Music Credit:\nhttps://rb.gy/tppkzl\nhttps://x.com/yung_spielburg\n\nIntro Video Credit:\nhttps://x.com/TheZachEffect\n\n#allin #tech #news",
+      "url": "https://youtube.com/watch?v=2j0l5lWSTiA",
+      "thumbnail": "https://i.ytimg.com/vi/2j0l5lWSTiA/hqdefault.jpg",
+      "channel_name": "All-In Podcast",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "ucwxs7KLUI4",
+      "title": "David Sacks: The Chip Stock Crash is Based on Momentum, NOT Fundamentals",
+      "channel": "All-In Podcast",
+      "published": "2026-08-01T04:16:11Z",
+      "description": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linkedin.com/company/allinpod\n\nIntro Music Credit:\nhttps://rb.gy/tppkzl\nhttps://x.com/yung_spielburg\n\nIntro Video Credit:\nhttps://x.com/TheZachEffect\n\n#allin #tech #news",
+      "url": "https://youtube.com/watch?v=ucwxs7KLUI4",
+      "thumbnail": "https://i.ytimg.com/vi/ucwxs7KLUI4/hqdefault.jpg",
+      "channel_name": "All-In Podcast",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "ViqYWhLimGg",
+      "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
+      "channel": "All-In Podcast",
+      "published": "2026-07-31T22:51:01Z",
+      "description": "(0:00) Bestie intros\n(1:19) Chip stocks crash, Leopold Aschenbrenner's $20B fund gets margin called\n(20:20) China's advantage and green shoots for the US economy\n(34:12) Frontier Labs say \"SLOW DOWN AI\"\n(1:01:15) Why are frontier labs \"burning books\"?\n(1:14:45) Socialism Corner: Mamdani's grocery stores and the \"Socialist Spectacle\"\n(1:24:44) Science Corner: Understanding and mapping the brain\n\nApply for All-In Summit 2026:\nhttps://allin.com/events\n\nFollow the besties: \nhttps://x.com/chamath\nhtt",
+      "url": "https://youtube.com/watch?v=ViqYWhLimGg",
+      "thumbnail": "https://i.ytimg.com/vi/ViqYWhLimGg/hqdefault.jpg",
+      "channel_name": "All-In Podcast",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "e0_ksxTVOt8",
+      "title": "Jared Isaacman on Peter Diamandis' Mission of Optimism",
+      "channel": "Peter H. Diamandis",
+      "published": "2026-08-01T13:30:58Z",
+      "description": "Jared Isaacman shares why Peter Diamandis has had such a lasting impact on him and why optimism remains one of the most powerful forces behind innovation.",
+      "url": "https://youtube.com/watch?v=e0_ksxTVOt8",
+      "thumbnail": "https://i.ytimg.com/vi/e0_ksxTVOt8/hqdefault.jpg",
+      "channel_name": "Peter Diamandis",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "pdZ9i0XXCKM",
+      "title": "Jared Isaacman on UAPs and UFOs",
+      "channel": "Peter H. Diamandis",
+      "published": "2026-08-01T00:03:35Z",
+      "description": "Jared Isaacman addresses one of the biggest questions surrounding UFOs and government disclosure.\n\nHe explains what he has, and hasn't, seen since becoming NASA Administrator, while acknowledging that there are still unexplained phenomena being investigated.",
+      "url": "https://youtube.com/watch?v=pdZ9i0XXCKM",
+      "thumbnail": "https://i.ytimg.com/vi/pdZ9i0XXCKM/hqdefault.jpg",
+      "channel_name": "Peter Diamandis",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "JRy1RT7gmnw",
+      "title": "AI Didn't Go Rogue",
+      "channel": "Peter H. Diamandis",
+      "published": "2026-07-31T17:03:27Z",
+      "description": "When headlines say AI \"escaped,\" are we asking the right questions? Salim breaks down why this incident may be less about malicious AI and more about how we design objectives.",
+      "url": "https://youtube.com/watch?v=JRy1RT7gmnw",
+      "thumbnail": "https://i.ytimg.com/vi/JRy1RT7gmnw/hqdefault.jpg",
+      "channel_name": "Peter Diamandis",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "5RicWvPotzw",
+      "title": "Could There Be Life on Mars?",
+      "channel": "Peter H. Diamandis",
+      "published": "2026-07-31T13:03:22Z",
+      "description": "Are we alone in the universe?\n\nJared Isaacman shares his thoughts on the possibility of life on Mars and elsewhere in our solar system, and why the search for answers is just getting started.",
+      "url": "https://youtube.com/watch?v=5RicWvPotzw",
+      "thumbnail": "https://i.ytimg.com/vi/5RicWvPotzw/hqdefault.jpg",
+      "channel_name": "Peter Diamandis",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "HCeAHhXwSvQ",
+      "title": "The Industry No One Talks About",
+      "channel": "Peter H. Diamandis",
+      "published": "2026-07-31T00:31:18Z",
+      "description": "Most people think autonomous vehicles are about transportation. Salim argues they'll transform entire industries that depend on car accidents existing in the first place.",
+      "url": "https://youtube.com/watch?v=HCeAHhXwSvQ",
+      "thumbnail": "https://i.ytimg.com/vi/HCeAHhXwSvQ/hqdefault.jpg",
+      "channel_name": "Peter Diamandis",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "pU2T0N9NWYo",
+      "title": "Moonshots LIVE 2026",
+      "channel": "Peter H. Diamandis",
+      "published": "2026-07-30T21:13:59Z",
+      "description": "Optimism is a powerful, self-fulfilling mindset. The founder who believes their Moonshot can work, commits the extra decade, they survive the near-death moments and attract the best talent. \n \nOptimism gets called naive. It's the opposite. Naive is assuming things work out on their own. \n \nOptimism is believing that you can solve a problem— and then going and solving it.\n \nThat's what’s behind every cure, every breakthrough, every leap we've ever made. \n \nOn September 25th, 2026 in Los Angeles I",
+      "url": "https://youtube.com/watch?v=pU2T0N9NWYo",
+      "thumbnail": "https://i.ytimg.com/vi/pU2T0N9NWYo/hqdefault.jpg",
+      "channel_name": "Peter Diamandis",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "FD40mxzXXxw",
+      "title": "What Would a War in Space Actually Look Like?",
+      "channel": "Peter H. Diamandis",
+      "published": "2026-07-30T18:03:00Z",
+      "description": "Space is already becoming a critical part of national security, but not in the way most people imagine.",
+      "url": "https://youtube.com/watch?v=FD40mxzXXxw",
+      "thumbnail": "https://i.ytimg.com/vi/FD40mxzXXxw/hqdefault.jpg",
+      "channel_name": "Peter Diamandis",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "rawrzTXsIyk",
+      "title": "Jared Isaacman vs. Elon Musk's Timeline for Mars",
+      "channel": "Peter H. Diamandis",
+      "published": "2026-07-30T12:31:29Z",
+      "description": "How close are we to putting humans on Mars?",
+      "url": "https://youtube.com/watch?v=rawrzTXsIyk",
+      "thumbnail": "https://i.ytimg.com/vi/rawrzTXsIyk/hqdefault.jpg",
+      "channel_name": "Peter Diamandis",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "LBO2AIvSLzQ",
+      "title": "China Will Land Humans on the Moon by 2030",
+      "channel": "Peter H. Diamandis",
+      "published": "2026-07-30T00:03:12Z",
+      "description": "The next Moon landing may not belong to the United States.\n\nJared Isaacman shares why he believes China is on track to put humans on the lunar surface by 2030 and what that means for the future of space exploration.",
+      "url": "https://youtube.com/watch?v=LBO2AIvSLzQ",
+      "thumbnail": "https://i.ytimg.com/vi/LBO2AIvSLzQ/hqdefault.jpg",
+      "channel_name": "Peter Diamandis",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "0C4-nf6QHZM",
+      "title": "Why Competition with China Is Good for Space Exploration",
+      "channel": "Peter H. Diamandis",
+      "published": "2026-07-29T20:31:26Z",
+      "description": "Jared Isaacman doesn't see competition in space as a bad thing.\n\nHe explains why a new space race can drive innovation, accelerate progress, and ultimately lead to greater international collaboration, just as it has before.",
+      "url": "https://youtube.com/watch?v=0C4-nf6QHZM",
+      "thumbnail": "https://i.ytimg.com/vi/0C4-nf6QHZM/hqdefault.jpg",
+      "channel_name": "Peter Diamandis",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "O70Ff5xBnYo",
+      "title": "Dario vs Jensen on Open Weights, OpenAI & Anthropic in DC, Xi Exports AI to Global South | EP #275",
+      "channel": "Peter H. Diamandis",
+      "published": "2026-07-29T20:00:14Z",
+      "description": "The mates discuss Dario vs. Jensen's open vs. closed AI debate, OpenAI and Anthropic teaming up to lobby in DC, and Kimi K3's global expansion.\n\nGet access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends  \n\nPeter H. Diamandis, MD, is the Founder of XPRIZE, Singularity University, ZeroG, and A360\n\nSalim Ismail is the founder of Open ExO, a GP at Exponential Venture Capital/The Organizational Singularity Fund and a sought after global speaker and thought leader.\n\nD",
+      "url": "https://youtube.com/watch?v=O70Ff5xBnYo",
+      "thumbnail": "https://i.ytimg.com/vi/O70Ff5xBnYo/hqdefault.jpg",
+      "channel_name": "Peter Diamandis",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "zAm6gOHoYU4",
+      "title": "Don't Bet Against Elon on Moon Mass Drivers",
+      "channel": "Peter H. Diamandis",
+      "published": "2026-07-29T16:04:18Z",
+      "description": "Moon-based mass drivers sound like science fiction today, but so did reusable rockets.\n\nWhen Peter Diamandis asks whether Elon Musk could make it happen, Jared Isaacman explains why he's learned never to bet against SpaceX's ambitions.",
+      "url": "https://youtube.com/watch?v=zAm6gOHoYU4",
+      "thumbnail": "https://i.ytimg.com/vi/zAm6gOHoYU4/hqdefault.jpg",
+      "channel_name": "Peter Diamandis",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "PW2tgckfEtA",
+      "title": "The AI Unwind And Warsh's Long-End Gamble | Weekly Roundup",
+      "channel": "Forward Guidance",
+      "published": "2026-07-31T07:00:13Z",
+      "description": "AI’s leverage-fueled boom is colliding with a Fed determined to tighten conditions without touching short-term rates.\n\nThis week, we dig into the Situational Awareness liquidation, the Fed meeting, and whether markets have reached a genuine growth inflection.\n\nWe unpack the ongoing AI unwind, Warsh’s long-end strategy, the Fed's credibility shock, and the administration’s market choreography. Enjoy!\n\n\nTIMESTAMPS:\n00:00 Intro\n01:45 Situational Awareness Liquidation\n04:49 Why Leverage Fueled The B",
+      "url": "https://youtube.com/watch?v=PW2tgckfEtA",
+      "thumbnail": "https://i.ytimg.com/vi/PW2tgckfEtA/hqdefault.jpg",
+      "channel_name": "Forward Guidance",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "XdEXZ5CY9f4",
+      "title": "The World's Best AI Investor Just Got Wiped Out",
+      "channel": "Limitless Podcast",
+      "published": "2026-07-31T13:26:06Z",
+      "description": "🔒 Check Out Our Sponsor: LEDGER AGENT STACK 🔒\nhttps://developers.ledger.com/?utm_source=Audio&utm_medium=Podcasts&utm_campaign=Limitless\n\n------\n🌌 LIMITLESS HQ ⬇️\n\nEMAIL US:            info@limitless.fm\nNEWSLETTER:    https://limitlessft.substack.com/\nFOLLOW ON X:   https://x.com/LimitlessFT\nSPOTIFY:             https://open.spotify.com/show/5oV29YUL8AzzwXkxEXlRMQ\nAPPLE:                 https://podcasts.apple.com/us/podcast/limitless-podcast/id1813210890\nRSS FEED:           https://limitlessft.s",
+      "url": "https://youtube.com/watch?v=XdEXZ5CY9f4",
+      "thumbnail": "https://i.ytimg.com/vi/XdEXZ5CY9f4/hqdefault.jpg",
+      "channel_name": "Limitless Podcast",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "D78PJkvQ2pc",
+      "title": "The Real Reason AI Stocks Are Crashing (Not the Bubble!)",
+      "channel": "Limitless Podcast",
+      "published": "2026-07-30T14:52:22Z",
+      "description": "🔒 Check Out Our Sponsor: LEDGER AGENT STACK 🔒\nhttps://developers.ledger.com/?utm_source=Audio&utm_medium=Podcasts&utm_campaign=Limitless\n\n------\n🌌 LIMITLESS HQ ⬇️\n\nEMAIL US:            info@limitless.fm\nNEWSLETTER:    https://limitlessft.substack.com/\nFOLLOW ON X:   https://x.com/LimitlessFT\nSPOTIFY:             https://open.spotify.com/show/5oV29YUL8AzzwXkxEXlRMQ\nAPPLE:                 https://podcasts.apple.com/us/podcast/limitless-podcast/id1813210890\nRSS FEED:           https://limitlessft.s",
+      "url": "https://youtube.com/watch?v=D78PJkvQ2pc",
+      "thumbnail": "https://i.ytimg.com/vi/D78PJkvQ2pc/hqdefault.jpg",
+      "channel_name": "Limitless Podcast",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "CxXgV54KzpQ",
+      "title": "Jeff Dean: The 1% Rule for Building in AI",
+      "channel": "Y Combinator",
+      "published": "2026-07-30T21:03:53Z",
+      "description": "In 2001, Jeff Dean and Sanjay Ghemawat did the math and realized Google’s entire search index would fit in RAM — then shipped it in a few days, and search got fast. In 2013, another napkin calculation showed that three minutes of daily speech recognition per user would require doubling Google’s server fleet. That one became the TPU. \n\nAt Startup School 2026, Google’s Chief Scientist talks with YC’s Diana Hu through the thought experiments behind both, why inference hardware is the next specializ",
+      "url": "https://youtube.com/watch?v=CxXgV54KzpQ",
+      "thumbnail": "https://i.ytimg.com/vi/CxXgV54KzpQ/hqdefault.jpg",
+      "channel_name": "Y Combinator",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "n8dz2FX0_uY",
+      "title": "Multi-GPU Kernels, Intelligence per Watt, Heterogeneous Inference, and More | YC Paper Club",
+      "channel": "Y Combinator",
+      "published": "2026-07-29T23:46:52Z",
+      "description": "At our latest YC Paper Club, researchers and builders presented on multi-GPU kernel optimization, intelligence per watt for local inference, AI-generated GPU kernels and benchmarking, heterogeneous inference infrastructure design, and GPU-accelerated game engines for reinforcement learning. Thanks to the following presenters:\n\nStuart Sul (Stanford / Cursor), John (Stanford), Mark (PyTorch / GPU Mode / CoreAuto), Misha (Marlo), and Brennan (Stanford)\n\nTranscript: https://www.ycrootaccess.com/p/mu",
+      "url": "https://youtube.com/watch?v=n8dz2FX0_uY",
+      "thumbnail": "https://i.ytimg.com/vi/n8dz2FX0_uY/hqdefault.jpg",
+      "channel_name": "Y Combinator",
+      "source": "channel_upload"
+    },
+    {
+      "video_id": "sJ4VJWycX9M",
+      "title": "Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”",
+      "channel": "Y Combinator",
+      "published": "2026-07-29T19:37:05Z",
+      "description": "Alexandr Wang's advice to his 18-year-old self: develop your own internal compass for how the future will unfold, and hold conviction in it against the noise. \n\nAt Startup School 2026, the Scale AI (YC S16) founder — now leading Meta's Superintelligence Labs — talks with Garry Tan about rebuilding a frontier lab from scratch, why talent density compounds, and how to spot the exponential worth betting your twenties on.\n\nTranscript: https://www.ycrootaccess.com/p/alexandr-wang-building-a-frontier\n",
+      "url": "https://youtube.com/watch?v=sJ4VJWycX9M",
+      "thumbnail": "https://i.ytimg.com/vi/sJ4VJWycX9M/hqdefault.jpg",
+      "channel_name": "Y Combinator",
+      "source": "channel_upload"
+    }
+  ],
+  "transcript_files": []
+}

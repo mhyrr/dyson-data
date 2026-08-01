@@ -1,0 +1,195 @@
+{
+  "symbol": "GLW",
+  "company": "Corning Inc",
+  "thesis": "blackwell_supply_chain",
+  "conviction": "MEDIUM-HIGH",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:26:02.136228+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 58,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-07-28",
+    "eps_actual": 0.78,
+    "eps_estimate": 0.75,
+    "eps_surprise": 0.03,
+    "eps_surprise_pct": 0.04,
+    "revenue_actual": 4738000000,
+    "revenue_estimate": 4620026576,
+    "revenue_surprise_pct": 0.03,
+    "eps_prior_year": 0.6,
+    "revenue_prior_year": 4045000000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-04-27",
+    "eps_estimate": 0.87,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 8,
+    "misses": 0,
+    "meet": 0,
+    "beat_rate": 100.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 30.74,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 0.67
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 0.72
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 0.7
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 0.78
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 14.38,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 4272000000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 4412000000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 4345000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 4738000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.02,
+    "avg_revenue_surprise_pct": 2.0,
+    "estimate_accuracy_eps_pct": 3.32
+  },
+  "flags": [
+    "consistent_beater",
+    "high_eps_growth"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-10-29",
+      "eps_actual": 0.54,
+      "eps_est": 0.52,
+      "eps_surprise": 0.02,
+      "eps_surprise_pct": 0.04,
+      "revenue_actual": 3733000000,
+      "revenue_est": 3720000000,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 0.45,
+      "revenue_prior_year": 3459000000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-01-29",
+      "eps_actual": 0.57,
+      "eps_est": 0.56,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0.02,
+      "revenue_actual": 3874000000,
+      "revenue_est": 3770000000,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 0.39,
+      "revenue_prior_year": 3272000000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-04-29",
+      "eps_actual": 0.54,
+      "eps_est": 0.51,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.06,
+      "revenue_actual": 3679000000,
+      "revenue_est": 3640000000,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 0.38,
+      "revenue_prior_year": 3258000000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-07-29",
+      "eps_actual": 0.6,
+      "eps_est": 0.57,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.05,
+      "revenue_actual": 4045000000,
+      "revenue_est": 3840825376,
+      "revenue_surprise_pct": 0.05,
+      "eps_prior_year": 0.47,
+      "revenue_prior_year": 3604000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-10-28",
+      "eps_actual": 0.67,
+      "eps_est": 0.66,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0.02,
+      "revenue_actual": 4272000000,
+      "revenue_est": 4225260124,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 0.54,
+      "revenue_prior_year": 3733000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-01-28",
+      "eps_actual": 0.72,
+      "eps_est": 0.7,
+      "eps_surprise": 0.02,
+      "eps_surprise_pct": 0.03,
+      "revenue_actual": 4412000000,
+      "revenue_est": 4343436468,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 0.57,
+      "revenue_prior_year": 3874000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-04-28",
+      "eps_actual": 0.7,
+      "eps_est": 0.69,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0.01,
+      "revenue_actual": 4345000000,
+      "revenue_est": 4298907424,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 0.54,
+      "revenue_prior_year": 3679000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-07-28",
+      "eps_actual": 0.78,
+      "eps_est": 0.75,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.04,
+      "revenue_actual": 4738000000,
+      "revenue_est": 4620026576,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 0.6,
+      "revenue_prior_year": 4045000000
+    }
+  ],
+  "ticker_notes": "CPO fiber backbone; 5x rack density increase; Rubin transition"
+}

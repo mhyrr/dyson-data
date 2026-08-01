@@ -1,0 +1,197 @@
+{
+  "symbol": "GOOG",
+  "company": "Alphabet Inc",
+  "thesis": "search_franchise+cloud_tpu_waymo_optionality+ai_capex_levered",
+  "conviction": "HIGH",
+  "action": "HOLD",
+  "analysis_time": "2026-08-01T15:26:03.346992+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 46,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-07-22",
+    "eps_actual": 9.11,
+    "eps_estimate": 2.87,
+    "eps_surprise": 6.24,
+    "eps_surprise_pct": 2.17,
+    "revenue_actual": 119796000000,
+    "revenue_estimate": 113634025624,
+    "revenue_surprise_pct": 0.05,
+    "eps_prior_year": 2.31,
+    "revenue_prior_year": 96428000000
+  },
+  "next_quarter": {
+    "period": "Q2 2027",
+    "date": "2027-07-21",
+    "eps_estimate": null,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 8,
+    "misses": 0,
+    "meet": 0,
+    "beat_rate": 100.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 72.69,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 2.87
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 2.82
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 5.11
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 9.11
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 16.58,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 102346000000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 113828000000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 109896000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 119796000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 1.3413,
+    "avg_revenue_surprise_pct": 5.38,
+    "estimate_accuracy_eps_pct": 50.7
+  },
+  "flags": [
+    "consistent_beater",
+    "large_surprises",
+    "high_eps_growth",
+    "hard_to_estimate"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-10-29",
+      "eps_actual": 2.12,
+      "eps_est": 1.85,
+      "eps_surprise": 0.27,
+      "eps_surprise_pct": 0.15,
+      "revenue_actual": 88268000000,
+      "revenue_est": 86330000000,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 1.55,
+      "revenue_prior_year": 76693000000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-02-04",
+      "eps_actual": 2.15,
+      "eps_est": 2.13,
+      "eps_surprise": 0.02,
+      "eps_surprise_pct": 0.01,
+      "revenue_actual": 96469000000,
+      "revenue_est": 96670000000,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 1.64,
+      "revenue_prior_year": 86310000000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-04-24",
+      "eps_actual": 2.81,
+      "eps_est": 2.02,
+      "eps_surprise": 0.79,
+      "eps_surprise_pct": 0.39,
+      "revenue_actual": 90234000000,
+      "revenue_est": 88870000000,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 1.89,
+      "revenue_prior_year": 80539000000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-07-23",
+      "eps_actual": 2.31,
+      "eps_est": 2.16,
+      "eps_surprise": 0.15,
+      "eps_surprise_pct": 0.07,
+      "revenue_actual": 96428000000,
+      "revenue_est": 87939877166,
+      "revenue_surprise_pct": 0.1,
+      "eps_prior_year": 1.89,
+      "revenue_prior_year": 84742000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-10-29",
+      "eps_actual": 2.87,
+      "eps_est": 2.27,
+      "eps_surprise": 0.6,
+      "eps_surprise_pct": 0.26,
+      "revenue_actual": 102346000000,
+      "revenue_est": 94068035568,
+      "revenue_surprise_pct": 0.09,
+      "eps_prior_year": 2.12,
+      "revenue_prior_year": 88268000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-04",
+      "eps_actual": 2.82,
+      "eps_est": 2.61,
+      "eps_surprise": 0.21,
+      "eps_surprise_pct": 0.08,
+      "revenue_actual": 113828000000,
+      "revenue_est": 104766169322,
+      "revenue_surprise_pct": 0.09,
+      "eps_prior_year": 2.15,
+      "revenue_prior_year": 96469000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-04-29",
+      "eps_actual": 5.11,
+      "eps_est": 2.66,
+      "eps_surprise": 2.45,
+      "eps_surprise_pct": 0.92,
+      "revenue_actual": 109896000000,
+      "revenue_est": 104070750200,
+      "revenue_surprise_pct": 0.06,
+      "eps_prior_year": 2.81,
+      "revenue_prior_year": 90234000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-07-22",
+      "eps_actual": 9.11,
+      "eps_est": 2.87,
+      "eps_surprise": 6.24,
+      "eps_surprise_pct": 2.17,
+      "revenue_actual": 119796000000,
+      "revenue_est": 113634025624,
+      "revenue_surprise_pct": 0.05,
+      "eps_prior_year": 2.31,
+      "revenue_prior_year": 96428000000
+    }
+  ],
+  "ticker_notes": "NEW Jul 25 (thesis/2026_jul_25_googl_golden_goose_thesis.html). #1 holding: 100sh, +89% LTCG, basis $168.88, acct 34614. Untracked core hold now monitored after the @MaxAnderson 'sacrificing the golden goose' viral thread. Fact-check: Anderson directionally right on court-documented advertiser-contr"
+}

@@ -1,0 +1,194 @@
+{
+  "symbol": "HUBB",
+  "company": "Hubbell Inc",
+  "thesis": "scarcity_next_wave+800v",
+  "conviction": "MEDIUM-HIGH",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:26:02.437963+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 53,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-07-28",
+    "eps_actual": 5.52,
+    "eps_estimate": 5.4,
+    "eps_surprise": 0.12,
+    "eps_surprise_pct": 0.02,
+    "revenue_actual": 1711000000,
+    "revenue_estimate": 1682619952,
+    "revenue_surprise_pct": 0.02,
+    "eps_prior_year": 4.93,
+    "revenue_prior_year": 1484000000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-04-29",
+    "eps_estimate": 4.43,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 7,
+    "misses": 1,
+    "meet": 0,
+    "beat_rate": 87.5
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 11.7,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 5.17
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 4.73
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 3.93
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 5.52
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 5.75,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 1502000000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 1492000000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 1516000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 1711000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.1025,
+    "avg_revenue_surprise_pct": -1.38,
+    "estimate_accuracy_eps_pct": 3.68
+  },
+  "flags": [
+    "consistent_beater"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-10-29",
+      "eps_actual": 4.49,
+      "eps_est": 4.45,
+      "eps_surprise": 0.04,
+      "eps_surprise_pct": 0.01,
+      "revenue_actual": 1443000000,
+      "revenue_est": 1480000000,
+      "revenue_surprise_pct": -0.03,
+      "eps_prior_year": 3.95,
+      "revenue_prior_year": 1376000000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-02-04",
+      "eps_actual": 4.1,
+      "eps_est": 4.02,
+      "eps_surprise": 0.08,
+      "eps_surprise_pct": 0.02,
+      "revenue_actual": 1334000000,
+      "revenue_est": 1410000000,
+      "revenue_surprise_pct": -0.05,
+      "eps_prior_year": 3.69,
+      "revenue_prior_year": 1346000000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-05-01",
+      "eps_actual": 3.5,
+      "eps_est": 3.73,
+      "eps_surprise": -0.23,
+      "eps_surprise_pct": -0.06,
+      "revenue_actual": 1365000000,
+      "revenue_est": 1390000000,
+      "revenue_surprise_pct": -0.02,
+      "eps_prior_year": 3.6,
+      "revenue_prior_year": 1399000000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-07-29",
+      "eps_actual": 4.93,
+      "eps_est": 4.38,
+      "eps_surprise": 0.55,
+      "eps_surprise_pct": 0.13,
+      "revenue_actual": 1484000000,
+      "revenue_est": 1508365780,
+      "revenue_surprise_pct": -0.02,
+      "eps_prior_year": 4.37,
+      "revenue_prior_year": 1453000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-10-28",
+      "eps_actual": 5.17,
+      "eps_est": 4.98,
+      "eps_surprise": 0.19,
+      "eps_surprise_pct": 0.04,
+      "revenue_actual": 1502000000,
+      "revenue_est": 1531880088,
+      "revenue_surprise_pct": -0.02,
+      "eps_prior_year": 4.49,
+      "revenue_prior_year": 1443000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-03",
+      "eps_actual": 4.73,
+      "eps_est": 4.72,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0,
+      "revenue_actual": 1492000000,
+      "revenue_est": 1488910748,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 4.1,
+      "revenue_prior_year": 1334000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-04-30",
+      "eps_actual": 3.93,
+      "eps_est": 3.87,
+      "eps_surprise": 0.06,
+      "eps_surprise_pct": 0.02,
+      "revenue_actual": 1516000000,
+      "revenue_est": 1504997704,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 3.38,
+      "revenue_prior_year": 1365000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-07-28",
+      "eps_actual": 5.52,
+      "eps_est": 5.4,
+      "eps_surprise": 0.12,
+      "eps_surprise_pct": 0.02,
+      "revenue_actual": 1711000000,
+      "revenue_est": 1682619952,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 4.93,
+      "revenue_prior_year": 1484000000
+    }
+  ],
+  "ticker_notes": "Jul 13: $491 \u2014 below the May 28 sub-$478 line's revised zone after the pullback. T&D + DC dual driver, ~25x fwd (cheapest of the quality power names). Initiate half $5K here, complete sub-$478"
+}

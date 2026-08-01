@@ -1,0 +1,196 @@
+{
+  "symbol": "LEU",
+  "company": "Centrus Energy",
+  "thesis": "sma_quality+scarcity",
+  "conviction": "MEDIUM",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:25:58.185171+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 49,
+  "last_quarter": {
+    "period": "Q1 2026",
+    "date": "2026-05-05",
+    "eps_actual": 1.05,
+    "eps_estimate": 0.32,
+    "eps_surprise": 0.73,
+    "eps_surprise_pct": 2.28,
+    "revenue_actual": 76700000,
+    "revenue_estimate": 78739032,
+    "revenue_surprise_pct": -0.03,
+    "eps_prior_year": 1.68,
+    "revenue_prior_year": 73100000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-05-04",
+    "eps_estimate": 0.83,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 5,
+    "misses": 3,
+    "meet": 0,
+    "beat_rate": 62.5
+  },
+  "eps_trend": {
+    "sequential_trend": "decelerating",
+    "avg_yoy_growth_pct": 46.95,
+    "recent_quarters": [
+      {
+        "period": "Q2 2025",
+        "eps": 1.59
+      },
+      {
+        "period": "Q3 2025",
+        "eps": 0.19
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 0.79
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 1.05
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "decelerating",
+    "avg_yoy_growth_pct": 28.88,
+    "recent_quarters": [
+      {
+        "period": "Q2 2025",
+        "revenue": 154500000
+      },
+      {
+        "period": "Q3 2025",
+        "revenue": 74900000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 146200000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 76700000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.5162,
+    "avg_revenue_surprise_pct": 22.25,
+    "estimate_accuracy_eps_pct": 296.91
+  },
+  "flags": [
+    "large_surprises",
+    "high_eps_growth",
+    "hard_to_estimate"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q2 2024",
+      "date": "2024-08-06",
+      "eps_actual": 1.89,
+      "eps_est": 0.78,
+      "eps_surprise": 1.11,
+      "eps_surprise_pct": 1.42,
+      "revenue_actual": 189000000,
+      "revenue_est": 86830000,
+      "revenue_surprise_pct": 1.18,
+      "eps_prior_year": 0.83,
+      "revenue_prior_year": 98400000
+    },
+    {
+      "period": "Q3 2024",
+      "date": "2024-10-28",
+      "eps_actual": -0.3,
+      "eps_est": 0.22,
+      "eps_surprise": -0.52,
+      "eps_surprise_pct": -2.36,
+      "revenue_actual": 57700000,
+      "revenue_est": 56070000,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 0.52,
+      "revenue_prior_year": 51300000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-02-06",
+      "eps_actual": 3.2,
+      "eps_est": 1.64,
+      "eps_surprise": 1.56,
+      "eps_surprise_pct": 0.95,
+      "revenue_actual": 151600000,
+      "revenue_est": 106670000,
+      "revenue_surprise_pct": 0.42,
+      "eps_prior_year": 3.58,
+      "revenue_prior_year": 103600000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-05-07",
+      "eps_actual": 1.07,
+      "eps_est": -0.08,
+      "eps_surprise": 1.15,
+      "eps_surprise_pct": 14.38,
+      "revenue_actual": 73100000,
+      "revenue_est": 68120000,
+      "revenue_surprise_pct": 0.07,
+      "eps_prior_year": -0.38,
+      "revenue_prior_year": 43700000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-08-05",
+      "eps_actual": 1.59,
+      "eps_est": 0.63,
+      "eps_surprise": 0.96,
+      "eps_surprise_pct": 1.52,
+      "revenue_actual": 154500000,
+      "revenue_est": 133098586,
+      "revenue_surprise_pct": 0.16,
+      "eps_prior_year": 1.89,
+      "revenue_prior_year": 189000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-11-05",
+      "eps_actual": 0.19,
+      "eps_est": 0.29,
+      "eps_surprise": -0.1,
+      "eps_surprise_pct": -0.34,
+      "revenue_actual": 74900000,
+      "revenue_est": 78735184,
+      "revenue_surprise_pct": -0.05,
+      "eps_prior_year": -0.3,
+      "revenue_prior_year": 57700000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-10",
+      "eps_actual": 0.79,
+      "eps_est": 1.55,
+      "eps_surprise": -0.76,
+      "eps_surprise_pct": -0.49,
+      "revenue_actual": 146200000,
+      "revenue_est": 146107460,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 3.2,
+      "revenue_prior_year": 151600000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-05-05",
+      "eps_actual": 1.05,
+      "eps_est": 0.32,
+      "eps_surprise": 0.73,
+      "eps_surprise_pct": 2.28,
+      "revenue_actual": 76700000,
+      "revenue_est": 78739032,
+      "revenue_surprise_pct": -0.03,
+      "eps_prior_year": 1.68,
+      "revenue_prior_year": 73100000
+    }
+  ],
+  "ticker_notes": "RE-RATED Jul 13: -65% from $464 high to $171 while FY26 rev guide RAISED to $450-500M, HALEU/Tech Solutions +47%, $2.4B contingent LEU commitments, Piketon expansion. 3-yr horizon matches 2028-30 SMR fuel loads. Entry 150-170 actionable"
+}

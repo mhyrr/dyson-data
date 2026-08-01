@@ -1,0 +1,197 @@
+{
+  "symbol": "AMZN",
+  "company": "Amazon.com",
+  "thesis": "sma_quality",
+  "conviction": "MEDIUM",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:26:03.902944+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 58,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-07-30",
+    "eps_actual": 5.75,
+    "eps_estimate": 1.82,
+    "eps_surprise": 3.93,
+    "eps_surprise_pct": 2.16,
+    "revenue_actual": 200606000000,
+    "revenue_estimate": 196021756592,
+    "revenue_surprise_pct": 0.02,
+    "eps_prior_year": 1.68,
+    "revenue_prior_year": 167702000000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-04-28",
+    "eps_estimate": 2.27,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 7,
+    "misses": 1,
+    "meet": 0,
+    "beat_rate": 87.5
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 74.0,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 1.95
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 1.95
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 2.78
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 5.75
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 13.34,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 180169000000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 213386000000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 181519000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 200606000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.835,
+    "avg_revenue_surprise_pct": 1.25,
+    "estimate_accuracy_eps_pct": 50.63
+  },
+  "flags": [
+    "consistent_beater",
+    "large_surprises",
+    "high_eps_growth",
+    "hard_to_estimate"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-10-31",
+      "eps_actual": 1.43,
+      "eps_est": 1.14,
+      "eps_surprise": 0.29,
+      "eps_surprise_pct": 0.25,
+      "revenue_actual": 158877000000,
+      "revenue_est": 157200000000,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 0.94,
+      "revenue_prior_year": 143083000000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-02-06",
+      "eps_actual": 1.86,
+      "eps_est": 1.48,
+      "eps_surprise": 0.38,
+      "eps_surprise_pct": 0.26,
+      "revenue_actual": 187792000000,
+      "revenue_est": 187230000000,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 1,
+      "revenue_prior_year": 169961000000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-05-01",
+      "eps_actual": 1.59,
+      "eps_est": 1.36,
+      "eps_surprise": 0.23,
+      "eps_surprise_pct": 0.17,
+      "revenue_actual": 155700000000,
+      "revenue_est": 155030000000,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 0.98,
+      "revenue_prior_year": 143313000000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-07-31",
+      "eps_actual": 1.68,
+      "eps_est": 1.33,
+      "eps_surprise": 0.35,
+      "eps_surprise_pct": 0.26,
+      "revenue_actual": 167702000000,
+      "revenue_est": 162121888840,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 1.26,
+      "revenue_prior_year": 147977000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-10-30",
+      "eps_actual": 1.95,
+      "eps_est": 1.57,
+      "eps_surprise": 0.38,
+      "eps_surprise_pct": 0.24,
+      "revenue_actual": 180169000000,
+      "revenue_est": 177808389172,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 1.43,
+      "revenue_prior_year": 158877000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-05",
+      "eps_actual": 1.95,
+      "eps_est": 1.97,
+      "eps_surprise": -0.02,
+      "eps_surprise_pct": -0.01,
+      "revenue_actual": 213386000000,
+      "revenue_est": 211363968924,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 1.86,
+      "revenue_prior_year": 187792000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-04-29",
+      "eps_actual": 2.78,
+      "eps_est": 1.64,
+      "eps_surprise": 1.14,
+      "eps_surprise_pct": 0.7,
+      "revenue_actual": 181519000000,
+      "revenue_est": 177294448728,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 1.59,
+      "revenue_prior_year": 155700000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-07-30",
+      "eps_actual": 5.75,
+      "eps_est": 1.82,
+      "eps_surprise": 3.93,
+      "eps_surprise_pct": 2.16,
+      "revenue_actual": 200606000000,
+      "revenue_est": 196021756592,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 1.68,
+      "revenue_prior_year": 167702000000
+    }
+  ],
+  "ticker_notes": "Quality at 200-day SMA; AWS + Trainium custom chips"
+}

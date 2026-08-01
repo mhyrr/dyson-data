@@ -1,0 +1,196 @@
+{
+  "symbol": "FCX",
+  "company": "Freeport-McMoRan",
+  "thesis": "scarcity+pmi+ai_infra+sma",
+  "conviction": "HIGH",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:25:54.752284+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 47,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-07-23",
+    "eps_actual": 0.74,
+    "eps_estimate": 0.6,
+    "eps_surprise": 0.14,
+    "eps_surprise_pct": 0.23,
+    "revenue_actual": 7029000000,
+    "revenue_estimate": 6629394288,
+    "revenue_surprise_pct": 0.06,
+    "eps_prior_year": 0.54,
+    "revenue_prior_year": 7582000000
+  },
+  "next_quarter": {
+    "period": "Q2 2027",
+    "date": "2027-07-22",
+    "eps_estimate": null,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 7,
+    "misses": 0,
+    "meet": 1,
+    "beat_rate": 87.5
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 32.8,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 0.5
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 0.47
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 0.57
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 0.74
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 2.65,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 6972000000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 5633000000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 6234000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 7029000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.0887,
+    "avg_revenue_surprise_pct": 4.5,
+    "estimate_accuracy_eps_pct": 24.09
+  },
+  "flags": [
+    "consistent_beater",
+    "high_eps_growth",
+    "hard_to_estimate"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-10-22",
+      "eps_actual": 0.38,
+      "eps_est": 0.35,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.09,
+      "revenue_actual": 6790000000,
+      "revenue_est": 6470000000,
+      "revenue_surprise_pct": 0.05,
+      "eps_prior_year": 0.39,
+      "revenue_prior_year": 5824000000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-01-23",
+      "eps_actual": 0.31,
+      "eps_est": 0.22,
+      "eps_surprise": 0.09,
+      "eps_surprise_pct": 0.41,
+      "revenue_actual": 5720000000,
+      "revenue_est": 5990000000,
+      "revenue_surprise_pct": -0.05,
+      "eps_prior_year": 0.27,
+      "revenue_prior_year": 5905000000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-04-24",
+      "eps_actual": 0.24,
+      "eps_est": 0.24,
+      "eps_surprise": 0,
+      "eps_surprise_pct": 0,
+      "revenue_actual": 5728000000,
+      "revenue_est": 5430000000,
+      "revenue_surprise_pct": 0.05,
+      "eps_prior_year": 0.32,
+      "revenue_prior_year": 6321000000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-07-23",
+      "eps_actual": 0.54,
+      "eps_est": 0.45,
+      "eps_surprise": 0.09,
+      "eps_surprise_pct": 0.2,
+      "revenue_actual": 7582000000,
+      "revenue_est": 7006119922,
+      "revenue_surprise_pct": 0.08,
+      "eps_prior_year": 0.46,
+      "revenue_prior_year": 6624000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-10-23",
+      "eps_actual": 0.5,
+      "eps_est": 0.41,
+      "eps_surprise": 0.09,
+      "eps_surprise_pct": 0.22,
+      "revenue_actual": 6972000000,
+      "revenue_est": 6679192848,
+      "revenue_surprise_pct": 0.04,
+      "eps_prior_year": 0.38,
+      "revenue_prior_year": 6790000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-01-22",
+      "eps_actual": 0.47,
+      "eps_est": 0.3,
+      "eps_surprise": 0.17,
+      "eps_surprise_pct": 0.57,
+      "revenue_actual": 5633000000,
+      "revenue_est": 5281117412,
+      "revenue_surprise_pct": 0.07,
+      "eps_prior_year": 0.31,
+      "revenue_prior_year": 5720000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-04-23",
+      "eps_actual": 0.57,
+      "eps_est": 0.47,
+      "eps_surprise": 0.1,
+      "eps_surprise_pct": 0.21,
+      "revenue_actual": 6234000000,
+      "revenue_est": 5887976832,
+      "revenue_surprise_pct": 0.06,
+      "eps_prior_year": 0.24,
+      "revenue_prior_year": 5728000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-07-23",
+      "eps_actual": 0.74,
+      "eps_est": 0.6,
+      "eps_surprise": 0.14,
+      "eps_surprise_pct": 0.23,
+      "revenue_actual": 7029000000,
+      "revenue_est": 6629394288,
+      "revenue_surprise_pct": 0.06,
+      "eps_prior_year": 0.54,
+      "revenue_prior_year": 7582000000
+    }
+  ],
+  "ticker_notes": "330K ton copper deficit 2026; PMI expansion + AI power demand; commodity leverage"
+}

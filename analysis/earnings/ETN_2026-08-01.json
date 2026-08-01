@@ -1,0 +1,194 @@
+{
+  "symbol": "ETN",
+  "company": "Eaton Corp",
+  "thesis": "ai_infra+pmi+blackwell+800v",
+  "conviction": "HIGH",
+  "action": "ADD-STAGED",
+  "analysis_time": "2026-08-01T15:26:05.041318+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 57,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-07-31",
+    "eps_actual": 3.15,
+    "eps_estimate": 3.08,
+    "eps_surprise": 0.07,
+    "eps_surprise_pct": 0.02,
+    "revenue_actual": 8531000000,
+    "revenue_estimate": 8124330920,
+    "revenue_surprise_pct": 0.05,
+    "eps_prior_year": 2.95,
+    "revenue_prior_year": 7028000000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-05-04",
+    "eps_estimate": 3.5,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 8,
+    "misses": 0,
+    "meet": 0,
+    "beat_rate": 100.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 10.4,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 3.07
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 3.33
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 2.81
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 3.15
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 11.49,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 6988000000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 7055000000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 7451000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 8531000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.0338,
+    "avg_revenue_surprise_pct": 1.12,
+    "estimate_accuracy_eps_pct": 1.17
+  },
+  "flags": [
+    "consistent_beater"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-10-31",
+      "eps_actual": 2.84,
+      "eps_est": 2.8,
+      "eps_surprise": 0.04,
+      "eps_surprise_pct": 0.01,
+      "revenue_actual": 6345000000,
+      "revenue_est": 6370000000,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 2.47,
+      "revenue_prior_year": 5880000000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-01-31",
+      "eps_actual": 2.83,
+      "eps_est": 2.81,
+      "eps_surprise": 0.02,
+      "eps_surprise_pct": 0.01,
+      "revenue_actual": 6240000000,
+      "revenue_est": 6340000000,
+      "revenue_surprise_pct": -0.02,
+      "eps_prior_year": 2.55,
+      "revenue_prior_year": 5967000000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-05-02",
+      "eps_actual": 2.72,
+      "eps_est": 2.71,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0,
+      "revenue_actual": 6377000000,
+      "revenue_est": 6250000000,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 2.4,
+      "revenue_prior_year": 5943000000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-08-05",
+      "eps_actual": 2.95,
+      "eps_est": 2.92,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.01,
+      "revenue_actual": 7028000000,
+      "revenue_est": 6920208036,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 2.73,
+      "revenue_prior_year": 6350000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-11-04",
+      "eps_actual": 3.07,
+      "eps_est": 3.06,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0,
+      "revenue_actual": 6988000000,
+      "revenue_est": 7071960154,
+      "revenue_surprise_pct": -0.01,
+      "eps_prior_year": 2.84,
+      "revenue_prior_year": 6345000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-03",
+      "eps_actual": 3.33,
+      "eps_est": 3.32,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0,
+      "revenue_actual": 7055000000,
+      "revenue_est": 7098615264,
+      "revenue_surprise_pct": -0.01,
+      "eps_prior_year": 2.83,
+      "revenue_prior_year": 6240000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-05-05",
+      "eps_actual": 2.81,
+      "eps_est": 2.73,
+      "eps_surprise": 0.08,
+      "eps_surprise_pct": 0.03,
+      "revenue_actual": 7451000000,
+      "revenue_est": 7132051728,
+      "revenue_surprise_pct": 0.04,
+      "eps_prior_year": 2.72,
+      "revenue_prior_year": 6377000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-07-31",
+      "eps_actual": 3.15,
+      "eps_est": 3.08,
+      "eps_surprise": 0.07,
+      "eps_surprise_pct": 0.02,
+      "revenue_actual": 8531000000,
+      "revenue_est": 8124330920,
+      "revenue_surprise_pct": 0.05,
+      "eps_prior_year": 2.95,
+      "revenue_prior_year": 7028000000
+    }
+  ],
+  "ticker_notes": "MEMO #5 (Jul 13): $407 back IN the add zone. Add ~$3.5K now (17->~25sh) funded by VRT 50->30 trim; complete to $12-14K on Aug 4 margin print (~150bp seq lift is the tell). Transformers/switchgear unrelieved until 2027-28 plants ramp"
+}

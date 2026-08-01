@@ -1,0 +1,196 @@
+{
+  "symbol": "IREN",
+  "company": "Iren Ltd",
+  "thesis": "investment_plan",
+  "conviction": "MEDIUM",
+  "action": "ADD",
+  "analysis_time": "2026-08-01T15:26:00.711200+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 16,
+  "last_quarter": {
+    "period": "Q3 2026",
+    "date": "2026-05-07",
+    "eps_actual": -0.33,
+    "eps_estimate": -0.24,
+    "eps_surprise": -0.09,
+    "eps_surprise_pct": -0.36,
+    "revenue_actual": 144800000,
+    "revenue_estimate": 218034296,
+    "revenue_surprise_pct": -0.34,
+    "eps_prior_year": 0.11,
+    "revenue_prior_year": 184700000
+  },
+  "next_quarter": {
+    "period": "Q3 2027",
+    "date": "2027-05-06",
+    "eps_estimate": 0.62,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 3,
+    "misses": 4,
+    "meet": 1,
+    "beat_rate": 37.5
+  },
+  "eps_trend": {
+    "sequential_trend": "decelerating",
+    "avg_yoy_growth_pct": 137.01,
+    "recent_quarters": [
+      {
+        "period": "Q4 2025",
+        "eps": 0.66
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 1.08
+      },
+      {
+        "period": "Q2 2026",
+        "eps": -0.52
+      },
+      {
+        "period": "Q3 2026",
+        "eps": -0.33
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "decelerating",
+    "avg_yoy_growth_pct": 169.91,
+    "recent_quarters": [
+      {
+        "period": "Q4 2025",
+        "revenue": 187300000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 240295000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 184692000
+      },
+      {
+        "period": "Q3 2026",
+        "revenue": 144800000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.1157,
+    "avg_revenue_surprise_pct": -9.67,
+    "estimate_accuracy_eps_pct": 194.59
+  },
+  "flags": [
+    "high_eps_growth",
+    "high_rev_growth",
+    "hard_to_estimate"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q4 2024",
+      "date": "2024-08-28",
+      "eps_actual": -0.06,
+      "eps_est": null,
+      "eps_surprise": null,
+      "eps_surprise_pct": null,
+      "revenue_actual": 52767000,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": null,
+      "revenue_prior_year": null
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2024-11-26",
+      "eps_actual": -0.22,
+      "eps_est": -0.07,
+      "eps_surprise": -0.15,
+      "eps_surprise_pct": -2.14,
+      "revenue_actual": 49575000,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": null,
+      "revenue_prior_year": null
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-02-12",
+      "eps_actual": 0.09,
+      "eps_est": 0.06,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.5,
+      "revenue_actual": 113483000,
+      "revenue_est": 117860000,
+      "revenue_surprise_pct": -0.04,
+      "eps_prior_year": -0.07,
+      "revenue_prior_year": 42047000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-05-14",
+      "eps_actual": 0.11,
+      "eps_est": 0.14,
+      "eps_surprise": -0.03,
+      "eps_surprise_pct": -0.21,
+      "revenue_actual": 148100000,
+      "revenue_est": 149330000,
+      "revenue_surprise_pct": -0.01,
+      "eps_prior_year": 0.08,
+      "revenue_prior_year": 54349000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2025-08-28",
+      "eps_actual": 0.66,
+      "eps_est": 0.2,
+      "eps_surprise": 0.46,
+      "eps_surprise_pct": 2.3,
+      "revenue_actual": 187300000,
+      "revenue_est": 190014054,
+      "revenue_surprise_pct": -0.01,
+      "eps_prior_year": -0.07,
+      "revenue_prior_year": 52767000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2025-11-06",
+      "eps_actual": 1.08,
+      "eps_est": 0.15,
+      "eps_surprise": 0.93,
+      "eps_surprise_pct": 6.2,
+      "revenue_actual": 240295000,
+      "revenue_est": 236840256,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": -0.22,
+      "revenue_prior_year": 49575000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-02-05",
+      "eps_actual": -0.52,
+      "eps_est": -0.18,
+      "eps_surprise": -0.34,
+      "eps_surprise_pct": -1.89,
+      "revenue_actual": 184692000,
+      "revenue_est": 228443966,
+      "revenue_surprise_pct": -0.19,
+      "eps_prior_year": 0.09,
+      "revenue_prior_year": 116144000
+    },
+    {
+      "period": "Q3 2026",
+      "date": "2026-05-07",
+      "eps_actual": -0.33,
+      "eps_est": -0.24,
+      "eps_surprise": -0.09,
+      "eps_surprise_pct": -0.36,
+      "revenue_actual": 144800000,
+      "revenue_est": 218034296,
+      "revenue_surprise_pct": -0.34,
+      "eps_prior_year": 0.11,
+      "revenue_prior_year": 184700000
+    }
+  ],
+  "ticker_notes": "Microsoft contracted revenue; add to existing 80 shares to reach $10K"
+}

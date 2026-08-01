@@ -1,0 +1,195 @@
+{
+  "symbol": "MRVL",
+  "company": "Marvell Technology",
+  "thesis": "tpu+ai_infra_discovery",
+  "conviction": "HIGH",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:26:00.434996+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 57,
+  "last_quarter": {
+    "period": "Q1 2027",
+    "date": "2026-05-27",
+    "eps_actual": 0.8,
+    "eps_estimate": 0.75,
+    "eps_surprise": 0.05,
+    "eps_surprise_pct": 0.07,
+    "revenue_actual": 2418000000,
+    "revenue_estimate": 2400622160,
+    "revenue_surprise_pct": 0.01,
+    "eps_prior_year": 0.62,
+    "revenue_prior_year": 1895000000
+  },
+  "next_quarter": {
+    "period": "Q1 2028",
+    "date": "2027-05-26",
+    "eps_estimate": 1.06,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 7,
+    "misses": 0,
+    "meet": 1,
+    "beat_rate": 87.5
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 55.87,
+    "recent_quarters": [
+      {
+        "period": "Q2 2026",
+        "eps": 0.67
+      },
+      {
+        "period": "Q3 2026",
+        "eps": 0.76
+      },
+      {
+        "period": "Q4 2026",
+        "eps": 0.8
+      },
+      {
+        "period": "Q1 2027",
+        "eps": 0.8
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 29.56,
+    "recent_quarters": [
+      {
+        "period": "Q2 2026",
+        "revenue": 2006000000
+      },
+      {
+        "period": "Q3 2026",
+        "revenue": 2075000000
+      },
+      {
+        "period": "Q4 2026",
+        "revenue": 2219000000
+      },
+      {
+        "period": "Q1 2027",
+        "revenue": 2418000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.0413,
+    "avg_revenue_surprise_pct": 1.62,
+    "estimate_accuracy_eps_pct": 6.35
+  },
+  "flags": [
+    "consistent_beater",
+    "high_eps_growth"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q2 2025",
+      "date": "2024-08-29",
+      "eps_actual": 0.3,
+      "eps_est": 0.3,
+      "eps_surprise": 0,
+      "eps_surprise_pct": 0,
+      "revenue_actual": 1273000000,
+      "revenue_est": 1250000000,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 0.33,
+      "revenue_prior_year": 1341000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2024-12-03",
+      "eps_actual": 0.43,
+      "eps_est": 0.41,
+      "eps_surprise": 0.02,
+      "eps_surprise_pct": 0.05,
+      "revenue_actual": 1516000000,
+      "revenue_est": 1456000000,
+      "revenue_surprise_pct": 0.04,
+      "eps_prior_year": 0.41,
+      "revenue_prior_year": 1419000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2025-03-05",
+      "eps_actual": 0.6,
+      "eps_est": 0.59,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0.02,
+      "revenue_actual": 1817000000,
+      "revenue_est": 1800000000,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 0.46,
+      "revenue_prior_year": 1427000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2025-05-29",
+      "eps_actual": 0.62,
+      "eps_est": 0.61,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0.02,
+      "revenue_actual": 1895000000,
+      "revenue_est": 1880000000,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 0.24,
+      "revenue_prior_year": 1161000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2025-08-28",
+      "eps_actual": 0.67,
+      "eps_est": 0.61,
+      "eps_surprise": 0.06,
+      "eps_surprise_pct": 0.1,
+      "revenue_actual": 2006000000,
+      "revenue_est": 2010055920,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 0.3,
+      "revenue_prior_year": 1273000000
+    },
+    {
+      "period": "Q3 2026",
+      "date": "2025-12-02",
+      "eps_actual": 0.76,
+      "eps_est": 0.67,
+      "eps_surprise": 0.09,
+      "eps_surprise_pct": 0.13,
+      "revenue_actual": 2075000000,
+      "revenue_est": 2063245346,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 0.43,
+      "revenue_prior_year": 1516000000
+    },
+    {
+      "period": "Q4 2026",
+      "date": "2026-03-05",
+      "eps_actual": 0.8,
+      "eps_est": 0.71,
+      "eps_surprise": 0.09,
+      "eps_surprise_pct": 0.13,
+      "revenue_actual": 2219000000,
+      "revenue_est": 2159205482,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 0.6,
+      "revenue_prior_year": 1817000000
+    },
+    {
+      "period": "Q1 2027",
+      "date": "2026-05-27",
+      "eps_actual": 0.8,
+      "eps_est": 0.75,
+      "eps_surprise": 0.05,
+      "eps_surprise_pct": 0.07,
+      "revenue_actual": 2418000000,
+      "revenue_est": 2400622160,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 0.62,
+      "revenue_prior_year": 1895000000
+    }
+  ],
+  "ticker_notes": "RE-RATED Jul 13: $236 after -22.6% flow-driven selloff (estimates RAISED, FY27/28 outlooks up); NVDA invested $2B late June w/ NVLink integration; ASIC units pass GPUs 2027-28. Held 20sh from $81 \u2014 add zone 200-230"
+}

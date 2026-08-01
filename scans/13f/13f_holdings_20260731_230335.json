@@ -1,0 +1,88 @@
+{
+  "run_time": "2026-07-31T23:03:35.940613+00:00",
+  "funds_checked": 10,
+  "filings_extracted": 1,
+  "new_filings": 0,
+  "watchlist_matches": [
+    {
+      "fund": "Citadel Advisors",
+      "filing_date": "2026-05-15",
+      "ticker": "GOOGL",
+      "issuer": "ALPHABET INC",
+      "shares": 10631402,
+      "value": 3057165959,
+      "rank_in_fund": 1,
+      "is_new_filing": true
+    },
+    {
+      "fund": "Citadel Advisors",
+      "filing_date": "2026-05-15",
+      "ticker": "NVDA",
+      "issuer": "NVIDIA CORPORATION",
+      "shares": 12011752,
+      "value": 2094849549,
+      "rank_in_fund": 2,
+      "is_new_filing": true
+    },
+    {
+      "fund": "Citadel Advisors",
+      "filing_date": "2026-05-15",
+      "ticker": "AMZN",
+      "issuer": "AMAZON COM INC",
+      "shares": 10000000,
+      "value": 2082700000,
+      "rank_in_fund": 3,
+      "is_new_filing": true
+    },
+    {
+      "fund": "Citadel Advisors",
+      "filing_date": "2026-05-15",
+      "ticker": "TSM",
+      "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
+      "shares": 5565074,
+      "value": 1880716758,
+      "rank_in_fund": 4,
+      "is_new_filing": true
+    },
+    {
+      "fund": "Citadel Advisors",
+      "filing_date": "2026-05-15",
+      "ticker": "META",
+      "issuer": "META PLATFORMS INC",
+      "shares": 3086864,
+      "value": 1766087500,
+      "rank_in_fund": 5,
+      "is_new_filing": true
+    },
+    {
+      "fund": "Citadel Advisors",
+      "filing_date": "2026-05-15",
+      "ticker": "AVGO",
+      "issuer": "BROADCOM INC",
+      "shares": 3584814,
+      "value": 1109535781,
+      "rank_in_fund": 7,
+      "is_new_filing": true
+    },
+    {
+      "fund": "Citadel Advisors",
+      "filing_date": "2026-05-15",
+      "ticker": "MSFT",
+      "issuer": "MICROSOFT CORP",
+      "shares": 2500000,
+      "value": 925425000,
+      "rank_in_fund": 8,
+      "is_new_filing": true
+    },
+    {
+      "fund": "Citadel Advisors",
+      "filing_date": "2026-05-15",
+      "ticker": "GEV",
+      "issuer": "GE VERNOVA INC",
+      "shares": 972994,
+      "value": 849326463,
+      "rank_in_fund": 9,
+      "is_new_filing": true
+    }
+  ]
+}

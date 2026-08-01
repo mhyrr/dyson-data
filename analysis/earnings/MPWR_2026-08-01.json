@@ -1,0 +1,197 @@
+{
+  "symbol": "MPWR",
+  "company": "Monolithic Power Systems",
+  "thesis": "blackwell_supply_chain",
+  "conviction": "MEDIUM",
+  "action": "HOLD",
+  "analysis_time": "2026-08-01T15:26:03.645122+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 58,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-07-30",
+    "eps_actual": 6.5,
+    "eps_estimate": 5.65,
+    "eps_surprise": 0.85,
+    "eps_surprise_pct": 0.15,
+    "revenue_actual": 980642000,
+    "revenue_estimate": 901909304,
+    "revenue_surprise_pct": 0.09,
+    "eps_prior_year": 4.21,
+    "revenue_prior_year": 664574000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-04-29",
+    "eps_estimate": 5.53,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 8,
+    "misses": 0,
+    "meet": 0,
+    "beat_rate": 100.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 33.08,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 4.73
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 4.79
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 5.1
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 6.5
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 31.39,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 737176000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 751155000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 804185000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 980642000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.3837,
+    "avg_revenue_surprise_pct": 2.88,
+    "estimate_accuracy_eps_pct": 8.59
+  },
+  "flags": [
+    "consistent_beater",
+    "large_surprises",
+    "high_eps_growth",
+    "high_rev_growth"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-10-30",
+      "eps_actual": 4.06,
+      "eps_est": 3.97,
+      "eps_surprise": 0.09,
+      "eps_surprise_pct": 0.02,
+      "revenue_actual": 620119000,
+      "revenue_est": 600610000,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 3.08,
+      "revenue_prior_year": 474867000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-02-06",
+      "eps_actual": 4.09,
+      "eps_est": 3.98,
+      "eps_surprise": 0.11,
+      "eps_surprise_pct": 0.03,
+      "revenue_actual": 621665000,
+      "revenue_est": 608090000,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 2.88,
+      "revenue_prior_year": 454012000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-05-01",
+      "eps_actual": 4.04,
+      "eps_est": 4,
+      "eps_surprise": 0.04,
+      "eps_surprise_pct": 0.01,
+      "revenue_actual": 637554000,
+      "revenue_est": 633430000,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 2.81,
+      "revenue_prior_year": 457885000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-07-31",
+      "eps_actual": 4.21,
+      "eps_est": 3.69,
+      "eps_surprise": 0.52,
+      "eps_surprise_pct": 0.14,
+      "revenue_actual": 664574000,
+      "revenue_est": 649734556,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 3.17,
+      "revenue_prior_year": 507431000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-10-30",
+      "eps_actual": 4.73,
+      "eps_est": 4.19,
+      "eps_surprise": 0.54,
+      "eps_surprise_pct": 0.13,
+      "revenue_actual": 737176000,
+      "revenue_est": 720934016,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 4.06,
+      "revenue_prior_year": 620119000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-05",
+      "eps_actual": 4.79,
+      "eps_est": 4.29,
+      "eps_surprise": 0.5,
+      "eps_surprise_pct": 0.12,
+      "revenue_actual": 751155000,
+      "revenue_est": 741299282,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 4.09,
+      "revenue_prior_year": 621665000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-04-30",
+      "eps_actual": 5.1,
+      "eps_est": 4.68,
+      "eps_surprise": 0.42,
+      "eps_surprise_pct": 0.09,
+      "revenue_actual": 804185000,
+      "revenue_est": 781912264,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 4.04,
+      "revenue_prior_year": 637554000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-07-30",
+      "eps_actual": 6.5,
+      "eps_est": 5.65,
+      "eps_surprise": 0.85,
+      "eps_surprise_pct": 0.15,
+      "revenue_actual": 980642000,
+      "revenue_est": 901909304,
+      "revenue_surprise_pct": 0.09,
+      "eps_prior_year": 4.21,
+      "revenue_prior_year": 664574000
+    }
+  ],
+  "ticker_notes": "DOWNGRADED Jul 13: board-level is the losing layer (custom silicon hollows the VRM socket); -21% in a month + accounting-error disclosure overhang. Hold 3sh, add only 1150-1250 if at all"
+}

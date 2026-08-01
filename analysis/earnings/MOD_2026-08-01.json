@@ -1,0 +1,194 @@
+{
+  "symbol": "MOD",
+  "company": "Modine Manufacturing",
+  "thesis": "scarcity_next_wave+ai_infra_discovery",
+  "conviction": "MEDIUM-HIGH",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:25:55.033620+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 49,
+  "last_quarter": {
+    "period": "Q1 2027",
+    "date": "2026-07-29",
+    "eps_actual": 1.53,
+    "eps_estimate": 1.38,
+    "eps_surprise": 0.15,
+    "eps_surprise_pct": 0.11,
+    "revenue_actual": 874100000,
+    "revenue_estimate": 892013544,
+    "revenue_surprise_pct": -0.02,
+    "eps_prior_year": 1.06,
+    "revenue_prior_year": 682800000
+  },
+  "next_quarter": {
+    "period": "Q4 2027",
+    "date": "2027-05-25",
+    "eps_estimate": 2.42,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 8,
+    "misses": 0,
+    "meet": 0,
+    "beat_rate": 100.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 27.04,
+    "recent_quarters": [
+      {
+        "period": "Q2 2026",
+        "eps": 1.06
+      },
+      {
+        "period": "Q3 2026",
+        "eps": 1.19
+      },
+      {
+        "period": "Q4 2026",
+        "eps": 1.71
+      },
+      {
+        "period": "Q1 2027",
+        "eps": 1.53
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 18.08,
+    "recent_quarters": [
+      {
+        "period": "Q2 2026",
+        "revenue": 738900000
+      },
+      {
+        "period": "Q3 2026",
+        "revenue": 805000000
+      },
+      {
+        "period": "Q4 2026",
+        "revenue": 954400000
+      },
+      {
+        "period": "Q1 2027",
+        "revenue": 874100000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.1288,
+    "avg_revenue_surprise_pct": 2.88,
+    "estimate_accuracy_eps_pct": 12.36
+  },
+  "flags": [
+    "consistent_beater"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q2 2025",
+      "date": "2024-10-29",
+      "eps_actual": 0.97,
+      "eps_est": 0.92,
+      "eps_surprise": 0.05,
+      "eps_surprise_pct": 0.05,
+      "revenue_actual": 658000000,
+      "revenue_est": 646910000,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 0.89,
+      "revenue_prior_year": 620500000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-02-04",
+      "eps_actual": 0.92,
+      "eps_est": 0.79,
+      "eps_surprise": 0.13,
+      "eps_surprise_pct": 0.16,
+      "revenue_actual": 616800000,
+      "revenue_est": 613880000,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 0.74,
+      "revenue_prior_year": 561400000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2025-05-20",
+      "eps_actual": 1.12,
+      "eps_est": 0.96,
+      "eps_surprise": 0.16,
+      "eps_surprise_pct": 0.17,
+      "revenue_actual": 647200000,
+      "revenue_est": 633130000,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 0.77,
+      "revenue_prior_year": 603500000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2025-07-30",
+      "eps_actual": 1.06,
+      "eps_est": 0.93,
+      "eps_surprise": 0.13,
+      "eps_surprise_pct": 0.14,
+      "revenue_actual": 682800000,
+      "revenue_est": 651066600,
+      "revenue_surprise_pct": 0.05,
+      "eps_prior_year": 1.04,
+      "revenue_prior_year": 661500000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2025-10-28",
+      "eps_actual": 1.06,
+      "eps_est": 1.01,
+      "eps_surprise": 0.05,
+      "eps_surprise_pct": 0.05,
+      "revenue_actual": 738900000,
+      "revenue_est": 695245202,
+      "revenue_surprise_pct": 0.06,
+      "eps_prior_year": 0.97,
+      "revenue_prior_year": 658000000
+    },
+    {
+      "period": "Q3 2026",
+      "date": "2026-02-04",
+      "eps_actual": 1.19,
+      "eps_est": 0.99,
+      "eps_surprise": 0.2,
+      "eps_surprise_pct": 0.2,
+      "revenue_actual": 805000000,
+      "revenue_est": 760310916,
+      "revenue_surprise_pct": 0.06,
+      "eps_prior_year": 0.92,
+      "revenue_prior_year": 616800000
+    },
+    {
+      "period": "Q4 2026",
+      "date": "2026-05-26",
+      "eps_actual": 1.71,
+      "eps_est": 1.55,
+      "eps_surprise": 0.16,
+      "eps_surprise_pct": 0.1,
+      "revenue_actual": 954400000,
+      "revenue_est": 918009152,
+      "revenue_surprise_pct": 0.04,
+      "eps_prior_year": 1.12,
+      "revenue_prior_year": 647200000
+    },
+    {
+      "period": "Q1 2027",
+      "date": "2026-07-29",
+      "eps_actual": 1.53,
+      "eps_est": 1.38,
+      "eps_surprise": 0.15,
+      "eps_surprise_pct": 0.11,
+      "revenue_actual": 874100000,
+      "revenue_est": 892013544,
+      "revenue_surprise_pct": -0.02,
+      "eps_prior_year": 1.06,
+      "revenue_prior_year": 682800000
+    }
+  ],
+  "ticker_notes": "RE-RATED Jul 13: original 105-130 entry ran to $295 unbought; now $246 (-17% in 2wks). 3.5x fwd sales vs VRT 7.5x; pure-play thermal spin (Reverse Morris Trust w/ Gentherm) completes YE2026; Rubin 600kW racks force cooling redesign"
+}

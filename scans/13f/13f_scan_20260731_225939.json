@@ -1,0 +1,18 @@
+{
+  "run_time": "2026-07-31T22:59:39.911664+00:00",
+  "lookback_days": 150,
+  "funds_checked": 10,
+  "new_filings_count": 1,
+  "new_filings": [
+    {
+      "form": "13F-HR",
+      "date": "2026-05-15",
+      "accession": "0000919574-26-003362",
+      "description": "",
+      "url": "https://www.sec.gov/Archives/edgar/data/1167483/000091957426003362/xslForm13F_X02/primary_doc.xml",
+      "cik": "0001167483",
+      "fund_name": "Citadel Advisors",
+      "fund_notes": "Ken Griffin. Massive AI/tech positions."
+    }
+  ]
+}

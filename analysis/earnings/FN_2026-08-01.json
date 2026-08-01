@@ -1,0 +1,194 @@
+{
+  "symbol": "FN",
+  "company": "Fabrinet",
+  "thesis": "blackwell_supply_chain+tpu",
+  "conviction": "HIGH",
+  "action": "BUY-TRANCHED",
+  "analysis_time": "2026-08-01T15:25:54.465705+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 58,
+  "last_quarter": {
+    "period": "Q3 2026",
+    "date": "2026-05-04",
+    "eps_actual": 3.72,
+    "eps_estimate": 3.53,
+    "eps_surprise": 0.19,
+    "eps_surprise_pct": 0.05,
+    "revenue_actual": 1214000000,
+    "revenue_estimate": 1190331600,
+    "revenue_surprise_pct": 0.02,
+    "eps_prior_year": 2.52,
+    "revenue_prior_year": 871799000
+  },
+  "next_quarter": {
+    "period": "Q3 2027",
+    "date": "2027-05-03",
+    "eps_estimate": 4.23,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 8,
+    "misses": 0,
+    "meet": 0,
+    "beat_rate": 100.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 23.56,
+    "recent_quarters": [
+      {
+        "period": "Q4 2025",
+        "eps": 2.65
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 2.92
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 3.36
+      },
+      {
+        "period": "Q3 2026",
+        "eps": 3.72
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 23.23,
+    "recent_quarters": [
+      {
+        "period": "Q4 2025",
+        "revenue": 909692000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 978128000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 1133000000
+      },
+      {
+        "period": "Q3 2026",
+        "revenue": 1214000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.1275,
+    "avg_revenue_surprise_pct": 3.25,
+    "estimate_accuracy_eps_pct": 4.66
+  },
+  "flags": [
+    "consistent_beater"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q4 2024",
+      "date": "2024-08-19",
+      "eps_actual": 2.41,
+      "eps_est": 2.24,
+      "eps_surprise": 0.17,
+      "eps_surprise_pct": 0.08,
+      "revenue_actual": 753261000,
+      "revenue_est": 732220000,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 1.86,
+      "revenue_prior_year": 655871000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2024-11-04",
+      "eps_actual": 2.39,
+      "eps_est": 2.38,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0,
+      "revenue_actual": 804228000,
+      "revenue_est": 770370000,
+      "revenue_surprise_pct": 0.04,
+      "eps_prior_year": 2,
+      "revenue_prior_year": 685477000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-02-03",
+      "eps_actual": 2.61,
+      "eps_est": 2.49,
+      "eps_surprise": 0.12,
+      "eps_surprise_pct": 0.05,
+      "revenue_actual": 833608000,
+      "revenue_est": 813570000,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 2.08,
+      "revenue_prior_year": 712694000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-05-05",
+      "eps_actual": 2.52,
+      "eps_est": 2.47,
+      "eps_surprise": 0.05,
+      "eps_surprise_pct": 0.02,
+      "revenue_actual": 871799000,
+      "revenue_est": 856950000,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 2.39,
+      "revenue_prior_year": 731535000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2025-08-18",
+      "eps_actual": 2.65,
+      "eps_est": 2.54,
+      "eps_surprise": 0.11,
+      "eps_surprise_pct": 0.04,
+      "revenue_actual": 909692000,
+      "revenue_est": 882456574,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 2.41,
+      "revenue_prior_year": 753261000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2025-11-03",
+      "eps_actual": 2.92,
+      "eps_est": 2.72,
+      "eps_surprise": 0.2,
+      "eps_surprise_pct": 0.07,
+      "revenue_actual": 978128000,
+      "revenue_est": 935494058,
+      "revenue_surprise_pct": 0.05,
+      "eps_prior_year": 2.39,
+      "revenue_prior_year": 804228000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-02-02",
+      "eps_actual": 3.36,
+      "eps_est": 3.19,
+      "eps_surprise": 0.17,
+      "eps_surprise_pct": 0.05,
+      "revenue_actual": 1133000000,
+      "revenue_est": 1078436550,
+      "revenue_surprise_pct": 0.05,
+      "eps_prior_year": 2.61,
+      "revenue_prior_year": 833608000
+    },
+    {
+      "period": "Q3 2026",
+      "date": "2026-05-04",
+      "eps_actual": 3.72,
+      "eps_est": 3.53,
+      "eps_surprise": 0.19,
+      "eps_surprise_pct": 0.05,
+      "revenue_actual": 1214000000,
+      "revenue_est": 1190331600,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 2.52,
+      "revenue_prior_year": 871799000
+    }
+  ],
+  "ticker_notes": "CORRECTED Jul 14: -37% is NOT just sector \u2014 May 4 FQ3 showed Datacom (the NVIDIA/1.6T leg) -6% QoQ on component supply constraints, GM -30bp, OCF down/capex up, flat EPS guide = de-rate from 50x to ~31x. Growth that IS printing = Telecom DCI +90% (Rosenblatt: 'don't thank NVIDIA'). Supply-gated dema"
+}

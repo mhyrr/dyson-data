@@ -1,0 +1,192 @@
+{
+  "symbol": "KMI",
+  "company": "Kinder Morgan",
+  "thesis": "ai_infra+molecules",
+  "conviction": "MEDIUM-HIGH",
+  "action": "BUY",
+  "analysis_time": "2026-08-01T15:26:01.275055+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 58,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-07-22",
+    "eps_actual": 0.37,
+    "eps_estimate": 0.31,
+    "eps_surprise": 0.06,
+    "eps_surprise_pct": 0.19,
+    "revenue_actual": 4477000000,
+    "revenue_estimate": 4238806392,
+    "revenue_surprise_pct": 0.06,
+    "eps_prior_year": 0.28,
+    "revenue_prior_year": 4042000000
+  },
+  "next_quarter": {
+    "period": "Q2 2027",
+    "date": "2027-07-21",
+    "eps_estimate": null,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 4,
+    "misses": 3,
+    "meet": 1,
+    "beat_rate": 50.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 17.19,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 0.29
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 0.39
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 0.48
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 0.37
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 8.34,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 4146000000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 4508000000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 4828000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 4477000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.0187,
+    "avg_revenue_surprise_pct": 2.0,
+    "estimate_accuracy_eps_pct": 8.47
+  },
+  "flags": [],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-10-16",
+      "eps_actual": 0.25,
+      "eps_est": 0.27,
+      "eps_surprise": -0.02,
+      "eps_surprise_pct": -0.07,
+      "revenue_actual": 3699000000,
+      "revenue_est": 3970000000,
+      "revenue_surprise_pct": -0.07,
+      "eps_prior_year": 0.25,
+      "revenue_prior_year": 3907000000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-01-22",
+      "eps_actual": 0.32,
+      "eps_est": 0.33,
+      "eps_surprise": -0.01,
+      "eps_surprise_pct": -0.03,
+      "revenue_actual": 3987000000,
+      "revenue_est": 4140000000,
+      "revenue_surprise_pct": -0.04,
+      "eps_prior_year": 0.28,
+      "revenue_prior_year": 4038000000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-04-16",
+      "eps_actual": 0.34,
+      "eps_est": 0.35,
+      "eps_surprise": -0.01,
+      "eps_surprise_pct": -0.03,
+      "revenue_actual": 4241000000,
+      "revenue_est": 4076000000,
+      "revenue_surprise_pct": 0.04,
+      "eps_prior_year": 0.34,
+      "revenue_prior_year": 3842000000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-07-16",
+      "eps_actual": 0.28,
+      "eps_est": 0.27,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0.04,
+      "revenue_actual": 4042000000,
+      "revenue_est": 3800702536,
+      "revenue_surprise_pct": 0.06,
+      "eps_prior_year": 0.25,
+      "revenue_prior_year": 3572000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-10-22",
+      "eps_actual": 0.29,
+      "eps_est": 0.29,
+      "eps_surprise": 0,
+      "eps_surprise_pct": 0,
+      "revenue_actual": 4146000000,
+      "revenue_est": 4028655452,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 0.25,
+      "revenue_prior_year": 3699000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-01-21",
+      "eps_actual": 0.39,
+      "eps_est": 0.36,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.08,
+      "revenue_actual": 4508000000,
+      "revenue_est": 4365277624,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 0.32,
+      "revenue_prior_year": 3987000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-04-22",
+      "eps_actual": 0.48,
+      "eps_est": 0.39,
+      "eps_surprise": 0.09,
+      "eps_surprise_pct": 0.23,
+      "revenue_actual": 4828000000,
+      "revenue_est": 4588029318,
+      "revenue_surprise_pct": 0.05,
+      "eps_prior_year": 0.34,
+      "revenue_prior_year": 4241000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-07-22",
+      "eps_actual": 0.37,
+      "eps_est": 0.31,
+      "eps_surprise": 0.06,
+      "eps_surprise_pct": 0.19,
+      "revenue_actual": 4477000000,
+      "revenue_est": 4238806392,
+      "revenue_surprise_pct": 0.06,
+      "eps_prior_year": 0.28,
+      "revenue_prior_year": 4042000000
+    }
+  ],
+  "ticker_notes": "UPGRADED Jul 13: molecules frontier #1 \u2014 101GW behind-the-meter gas announced, KMI sees +5 Bcf/d gas power demand to 2030, ~14x EV/EBITDA while turbine OEMs sit at 60-70x fwd. Contracted fee-based cash flow + dividend floor; the hikes-priced Fed favors this tier"
+}
