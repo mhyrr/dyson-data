@@ -1,0 +1,10 @@
+Video ID: kZ2aep0aO3M
+Title: Why Spend Billions?
+Channel: Peter H. Diamandis
+URL: https://youtube.com/watch?v=kZ2aep0aO3M
+Segments: 23
+Language: en
+
+--- Transcript ---
+
+What are the American Frontier Labs spending their money on? Taking a look at the published K3 architecture, there's no magic. It It's still essentially a transformer. They they've made obviously a number of innovations, but well understood innovations concerning how they do mixtures of experts, how they linearize attention. They have their own special Kimmy brand of linearized attention, but it's still basically a recognizable transformer. And and I think that the fact that a recognizable transformer-like architecture can almost match GPT 5.5 max on the task cost frontier that that does raise the question if you can just use a transformer to get this close what the heck are are the American labs spending all of their money on? I derive great comfort in at minimum knowing that the transformer architecture is still alive and kicking.

@@ -1,0 +1,10 @@
+Video ID: ydiSJNTPWeM
+Title: AI Is Moving Faster Than Regulation
+Channel: Peter H. Diamandis
+URL: https://youtube.com/watch?v=ydiSJNTPWeM
+Segments: 33
+Language: en
+
+--- Transcript ---
+
+Do you think the US government starts a strategy of constraining in some fashion Chinese ope models from being used in the US? >> Well, you know, in two weeks these weights are supposed to be open weight open open sourced. We'll see. You like this probably if they're if they're rational at the White House right now. They're spending every minute in a debate on do we negotiate with China immediately and not release those open weights. So there was an important speech by Xi Jinping at the World AI conference in Shanghai where he basically said, "We are going to fully back open source as a public good for humanity and they're not going to regulate and stop it." This is their plan. It's great for China for a variety of reasons. from the fact they have a billion people whose IQ is about to increase, you know, by having these tools. From the fact they need robots to solve their demographic thing and the soft power from putting a Chinese educated brain, a Shingua graduate into every critical system in the world. But they're going to keep on doing that cuz they actually have a regulator. And from talking to some of the Chinese labs, it used to take 60 days for a model to be approved. Now it's like a week.

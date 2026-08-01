@@ -1,6 +1,6 @@
 {
   "status": "all_sources_failed",
-  "run_time": "2026-08-01T18:41:30.183999+00:00",
+  "run_time": "2026-08-01T18:37:35.569635+00:00",
   "sources_tried": [
     {
       "source": "quiverquant",
@@ -10,7 +10,7 @@
     {
       "source": "capitoltrades",
       "result": "failed",
-      "error": "HTTP 429"
+      "error": "HTTP 429 + Supadata failed"
     },
     {
       "source": "senate_disclosures",

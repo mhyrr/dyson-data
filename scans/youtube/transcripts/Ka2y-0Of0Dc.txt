@@ -1,0 +1,10 @@
+Video ID: Ka2y-0Of0Dc
+Title: Chamath: Banning Open Source AI Will Crash the Stock Market
+Channel: All-In Podcast
+URL: https://youtube.com/watch?v=Ka2y-0Of0Dc
+Segments: 42
+Language: en
+
+--- Transcript ---
+
+If the United States government intervenes, it will tank the stock market. Not debatable. Now, you can debate which companies get tanked. For example, if they said no more open source, American companies cannot use open source. Okay, let's take an average normal company, Coca-Cola. Hey, Coca-Cola, you're trying to use AI to improve your business. You know what? You can only use these two options. And those things cost 50 to 100 times more than your other best alternative that you may use otherwise. that will eventually show up in your costs. And so this incredibly important input into your cost model is now orders of magnitude, multiples greater than your competitors that are outside the United States simply because you're in the United States. So what would the capital markets do? They're going to say, "Wow, you have a crazy cost structure. This doesn't make sense. You're forced to absorb costs that aren't rational nor market driven." So then Coca-Cola has to get rerated. But then you look at the people who are selling those tokens and this is where anthropic and open AI need to understand. If the government comes in and actually tells you that there's no open source, their valuation will crater. Why? Because all of that revenue is artificially being propped up. It's not being driven by market demand where you're being forced to compete. It's because of regulatory capture where you now get an artificial constraint. But it only works in one market. All roads lead to market chaos if anybody gets involved. So we should just not get involved.

@@ -1,0 +1,442 @@
+Video ID: H7AQaSNu-Fk
+Title: Not Using Opus 5 Will Cost You (A Lot)
+Channel: Limitless Podcast
+URL: https://youtube.com/watch?v=H7AQaSNu-Fk
+Segments: 432
+Language: en
+
+--- Transcript ---
+
+Josh:
+So Anthropic just released a brand new model. It's not the best model. Josh:
+It's not the smartest model. Josh:
+It's not the cheapest or the fastest model. And yet this is possibly our most Josh:
+favorite model release this entire year. Josh:
+So what gives here? What's actually happening with Claude Opus 5? Josh:
+This is the new iteration after Opus 4.8 and it sits just under Claude Fable 5. Josh:
+Now a lot of people see this, they're like, hmm, I'm not that excited about Josh:
+this model. It's just an iteration on another model that we've already had. Josh:
+I think you're wrong. And I have some demos here. Ejaz, I know you've been playing Josh:
+with this since the weekend, basically, talking to Opus 5, figuring out where Josh:
+the edge cases are, figuring out how all of this works. Josh:
+And the review so far is pretty great, right? Like Opus is a really fun model. Josh:
+And I think that's what we're going to spend this episode unpacking, Josh:
+is just how fun it is and how to get the best out of this model if you are someone Josh:
+who's new coming to Opus 5.0. Ejaaz:
+First and foremost, this model, as you mentioned, is not the cheapest, Ejaaz:
+but it's as cheap as Opus 4.8. Ejaaz:
+But it's a massively different type of model. And the first characteristic that Ejaaz:
+it's very good at is visual intelligence. Ejaaz:
+So what I mean by this is no clawed models can actually kind of see things. Ejaaz:
+It kind of like when you send it an image, it kind of breaks down the pixels Ejaaz:
+and reinvents what it's looking at from a code perspective. Ejaaz:
+Now, what I'm about to show you on my screen, Josh, was one-shotted over one and a half hours, okay? Ejaaz:
+It guzzled around 150,000 tokens. Ejaaz:
+I didn't click anything after I sent the prompt and all of this is one shot. Are you ready? Ejaaz:
+Let me tell you if you, let me ask you if you recognize what you're looking at right now. Josh:
+Oh my goodness, this looks like home. I'm seeing the Williamsburg Bridge. Josh:
+Oh my God, this is the East River. Josh:
+Do you see this, Pat Boy? Oh, wait, dude, this looks awesome. Ejaaz:
+This is a structurally accurate, of course, graphically rendered version of Ejaaz:
+the Brooklyn Bridge live with trucks at sunset. Ejaaz:
+All I said to Claude was, I want you to recreate the Brooklyn Bridge, Ejaaz:
+dimensionally accurate, pull the architectural renderings, everything on your own. Ejaaz:
+And then I want you to span out a bunch of sub agents. Ejaaz:
+And I want you to get these agents to build different components of the Brooklyn Ejaaz:
+Bridge and then review it. Ejaaz:
+So take a screenshot, review it, and only feed me back the end result once you Ejaaz:
+are satisfied with it. But it needs to look like something out of a really cool computer game. Ejaaz:
+And this is what we ended up with. Here, let me show you the sunset that wide Ejaaz:
+shot, if you want to have a look. Ejaaz:
+Let me show you a tower over here. Josh:
+Oh, that's fun. Okay, so it is pre-made shots for it as well. Ejaaz:
+Yeah, maybe I'll show you the promenade if you notice the bridge is swaying, Ejaaz:
+but maybe you want to look underneath the deck, make sure it's all structurally sound. Ejaaz:
+Now, imagine the different use cases for this. Obviously, there's simulations, Ejaaz:
+there's games, but if you're an architect that is coming up with a brand new Ejaaz:
+idea and you want to kind of put things out in the wild, you can now have a Ejaaz:
+physically and structurally accurate rendering of this model. Ejaaz:
+Now, I know a lot of folks listening to this might be thinking, Ejaaz:
+well, okay, maybe I don't want to be creating games and stuff like that. Ejaaz:
+We'll get to the other good stuff. But what I want to point out is cold Opus Ejaaz:
+can't see anything. I just want to reiterate that. Ejaaz:
+It generated every single asset, every single visual that you're seeing on screen Ejaaz:
+right now from scratch. It created a file on my computer. Ejaaz:
+It did so with one single prompt in one and a half hours, and it only cost 100,000 Ejaaz:
+tokens. It's so, so impressive. Josh:
+I think this is the thing that Opus 5 is really exceptional at that a lot of Josh:
+people are figuring out is when we went to Fable we always loved the visual demos. Josh:
+Fable was excellent but it's incredibly expensive. It takes a long time. Josh:
+It is that leading flagship model if you want the best. Opus 5 gives you Josh:
+Almost all of that, but with a fraction of the cost, a fraction of the time, Josh:
+and other really unique capabilities. So we have a few other demos, Josh:
+some that we found online that we didn't make ourselves. Josh:
+And they blew my mind with the first one being this video that we're seeing Josh:
+now. So this guy on X, he said he one-shotted this game. Josh:
+And this game is a demo made of custom code without a single external asset. Josh:
+And when you look at this game, it looks like you're watching a game of Call of Duty. Josh:
+It's really impressive. This is Call of Duty. It's what it looks like, Josh:
+right? I mean, the hands are a little funny and like there's definitely a lot of weird quirks here. Josh:
+But for a one shot prompt on a model that is not a flagship model, Josh:
+this is incredibly impressive. Josh:
+And what I really appreciated about this model and what we're going to do right Josh:
+now for the people who are watching is you could actually go and play this model Josh:
+right now in the browser. Josh:
+So please, if you would, I have the browser and let's see what your skills are Josh:
+like. Now, for people who don't know, I've spent my entire life playing Call Josh:
+of Duty, very familiar with the game. Josh:
+And I'm here to criticize Ejaz on how well you are able to play this one-shot Josh:
+demo from Opus 5. And we have the game loaded up here, Ejaz. Let's see what you got. Josh:
+It's funny, this looks like a map from Call of Duty Modern Warfare. Josh:
+I could see you're getting kills, you know, reasonably well. Ejaaz:
+Oh my God, I'm getting cooked. Josh:
+Honestly, of all the players, if I had to team up with, I'm not sure you're Josh:
+going to be the one for Call of Duty. Josh:
+I got to be honest with you, I'm not super impressed with the movement or the shots. Josh:
+Fair enough. But this is like a really impressive demo. I mean, Josh:
+the fact that this was created with one shot on opus 5 this is a game that costs Josh:
+studios billions of dollars to develop and you have a lot of the textures like Josh:
+the textures of the map look good Josh:
+the design of the weapon looks good the hands are a little funky but it has Josh:
+the skybox it has all these things Josh:
+that you would look for if we had audio turned on you can actually hear Josh:
+the sound of footsteps you can hear the hit boxes when someone gets hit by a Josh:
+bullet you can hear the weapon firing it's really robust and it clearly has Josh:
+this very deep understanding of what these games look like and that's what i Josh:
+found and super interesting with this particular demo. Josh:
+We have a couple other demos that I wanted to show before we got too deep into this. Josh:
+One of which being a snowboarder game. So one of my favorite video games when Josh:
+I was younger, SSX Tricky. Josh:
+I'm not sure you've ever played that, Ejaz. It is a snowboarding game where Josh:
+you go down a slope and you do tricks and you get points for doing these crazy tricks. Josh:
+There is another one just like that. It doesn't have the tricks per se, Josh:
+but it is a snowboard game indistinguishable from a game like SSX Tricky. Josh:
+In fact, far more impressive in terms of visual integrity than a game like SSX Josh:
+Tricky would be. And there's a quote post that Signal wrote. Josh:
+I always love reading Signal's post on X. Josh:
+And he had some commentary about this specifically. And he says, Josh:
+if you put this game in the App Store in 2012, it would have potentially grossed Josh:
+$5 to $10 million, at least over its lifespan, maybe even more. Josh:
+Today, it can be one-shotted by roughly anyone with the correct physics, Josh:
+graphics gameplay etc. Josh:
+It's like $10 million of economic value wiped out in 15 years on only one game. Josh:
+And I think that's kind of true. It's very impressive that we're able to get Josh:
+things indistinguishable from leading AAA games from a single prompt on a model Josh:
+that isn't even Frontier. And that's kind of the essence of Opus 5 as we've Josh:
+been playing it. It's like the best Josh:
+bang for your buck as it relates to getting high quality tokens for what you're able to pay for them. Ejaaz:
+Before we go into what else Opus 5 is good at, and trust me, Ejaaz:
+there are many things, I just want to talk about what it takes to create something Ejaaz:
+that is as compelling visually as what you're seeing on screen as the games Ejaaz:
+that we've showed you in one shot. Ejaaz:
+Like, I am not exaggerating. I will show you the prompt that Matt Schumer used Ejaaz:
+to create that FBS game that we just played badly. Ejaaz:
+He goes, I want you to build a first person shooter at the level of the most Ejaaz:
+recent Call of Duty games, it should be utterly perfect, visually beautiful, Ejaaz:
+with every single thing done at AAA quality, from textures to physics to anything you can think of. Ejaaz:
+Then he goes on to say, and this is the key part, so if you're listening to Ejaaz:
+this and you're wondering, how can I do this for a game or for any other task Ejaaz:
+that you're trying to do using your AI model, he says the following, Ejaaz:
+fan out sub-agents and have sub-agents tackle each one individually so that Ejaaz:
+the game is utterly perfect. Ejaaz:
+You should slash loop on each item and have a separate sub-agent check it visually Ejaaz:
+to ensure it looks AAA. That separate sub-agent should be a really harsh critic. Ejaaz:
+And if it doesn't look AAA, it should keep going. Ejaaz:
+Now, let me unpack why that's so important for not just this gaming prompt, Ejaaz:
+but any prompt that you do for whatever you're trying to build using AI. Ejaaz:
+He, number one, said, spin up multiple versions of yourself, Ejaaz:
+Claude, so that you can work separately at the same time on different components of product. Ejaaz:
+Now, if you think about a traditional company, they hire a ton of employees Ejaaz:
+and they have different teams that all work together to build the same product. Ejaaz:
+In this instance, it's the same thing, except there are various versions of Ejaaz:
+Claude that tackle different tasks. Ejaaz:
+Number two, he asked it specifically to spin up a manager role, Ejaaz:
+which basically monitors these agents that are building these different things Ejaaz:
+to make sure that they do a good job. Ejaaz:
+And then number three, he said, use this loop function. The loop function is Ejaaz:
+basically, hey, if you're not happy with the work that you just created, Ejaaz:
+don't give it to me to give you feedback and say like, hey, improve this. Ejaaz:
+Just use another agent to do this. And this beautiful. Ejaaz:
+Kind of synonymous loop can be applied to anything, not just a game. Ejaaz:
+It could be applied to your Excel tasks that you're trying to do at work. Ejaaz:
+It could be applied to a blueprint that you're trying to create your architecture Ejaaz:
+from. It could be applied to anything. Ejaaz:
+And I think this is a really valuable lesson to figure out with Opus 5 specifically, Ejaaz:
+is that you can spin up multiple agents and create something really, really awesome. Ejaaz:
+But Josh, I think kind of moving on from the visual aesthetics of what Claude Ejaaz:
+Opus 5 can do, it made some pretty major breakthroughs in some other things, Ejaaz:
+including something called Arc AGI 3, which is basically the precipice of any AI model test. Josh:
+Yes, Arc AGI 3 is like the flagship test. And when it comes to this flagship Josh:
+test, Opus has done exceptionally well. Josh:
+The previous high score was 7.8, scored by GPT 5.6 Sol Max, the highest end Josh:
+GPT model that's currently available. Opus 5 got a 30%. Josh:
+I mean, that's like an unbelievably high amount of rating on this benchmark Josh:
+and we have to ask the question why what did it do and Josh:
+arc actually came out and explained themselves and they said during our analysis Josh:
+of opus 5 we observed a new capability previously unseen from frontier models Josh:
+opus 5 used advanced logical reasoning to turn arc agi 3 layouts into algebraic notation Josh:
+on action 23 it describes the seen as four center equal two axis five center Josh:
+basically what it's doing here is instead of taking the visuals you just like Josh:
+you mentioned opus can't see Josh:
+it takes the visuals converts them into math and then thinks on that math that it's Josh:
+visualizing and as a result it's able to achieve significantly better scores Josh:
+on this visual reasoning Josh:
+logical reasoning i guess is how they describe it versus other models so i find Josh:
+this really interesting if you look at the example on screen that they were Josh:
+showing if we could just go back to just the general demo it shows these shapes that are shifting Josh:
+and a lot of times models have difficulty Josh:
+Applying logic to make these work. Opus, because they converted it all to math, Josh:
+it was able to achieve such a high score. It was really impressive. Josh:
+This is what, four or five times that of the next leading model? Josh:
+And cost, I know for a fact, this cost a fraction of what it costs for 5.6 Sol max. Josh:
+So really impressive outputs from this thing. Ejaaz:
+If we compare this directly with Fable, it can do most of the things that Fable Ejaaz:
+is capable of, but at a fraction of the cost, specifically 50% less cost. Ejaaz:
+Now, it can't do some things that Fable is really good at, such as extreme reasoning Ejaaz:
+or coding at the highest level. Ejaaz:
+But as a workhorse model, it is exceptionally intelligent. Ejaaz:
+And it's now my default versus Opus 4.8. But let's look at some of the examples Ejaaz:
+as to like cost wise and what this shapes up in other kinds of benchmarks. Ejaaz:
+So with Fable 5, it's kind of on average better than Fable 5 when it comes to computer use. Ejaaz:
+The price ends. So you're paying around, I think it's $5 per million tokens Ejaaz:
+input and $25 per million tokens output. So $30 overall, if you want to kind Ejaaz:
+of use this for usage credits, that is exactly half the cost of Fable, Ejaaz:
+but you're getting so much more. Ejaaz:
+And then the other thing I'll say is my biggest critique for Fable, Ejaaz:
+Josh, is that whenever I'm trying to use it for pretty much most things, Ejaaz:
+it sometimes gets triggered or rather frequently gets triggered through its safety flag. Ejaaz:
+So it gets relegated to Opus 4.8. Ejaaz:
+With Opus 5, I haven't come across that at all. Ejaaz:
+When I ask it to do something, even if it's bio-related or cybersecurity-related, Ejaaz:
+like if I'm saying, hey, can you check my computer for bugs and make sure that it's all good? Ejaaz:
+It just does the thing. And that's the other thing about Opus 5. Ejaaz:
+It is almost as intelligent as Fable 5 when it comes to biology and cybersecurity-type Ejaaz:
+things, but it's really hard to exploit. Ejaaz:
+If you try to prompt inject it, it is an extremely aligned model, Ejaaz:
+which just won't do the thing. It's smart enough to understand when you're asking Ejaaz:
+an innocent question about research Ejaaz:
+or whatever that might be without triggering any safeguards. It is, Ejaaz:
+arguably the perfect version of fable five and it's going to be my go-to model going forwards. Josh:
+Yeah i love this model and there's interesting ways in which you can use it Josh:
+and it feels like it's the perfect Josh:
+completion to this family of five class models from anthropic i mean when you think about it Josh:
+anthropic released four frontier models in eight weeks we're getting now one Josh:
+every other week we have mythos five fable five sonnet five now so we have the Josh:
+this top three that's kind of sitting here this rounds out the set and this is the perfect fallback Josh:
+from fable and it feels like that, where when, Josh:
+as I've been testing it, as I've been using this, I found the most success with Josh:
+really hard problems using Fable. Josh:
+Fable will think for a very long time. And the longer I think, Josh:
+the better the outputs generally are. Josh:
+I find that Fable is very ambitious. It will go off. It will spin out its own subagents on its own. Josh:
+It will think very critically. It will develop plans and then check against Josh:
+those plans and do so in a way that I can trust. Josh:
+And I know that the longer it's running, the better my result will be. Josh:
+Opus, I will say, is a little bit different. It's a great fallback in the sense Josh:
+that if Fable gets tripped up with security or bioweapon, I'm so glad that it Josh:
+now lands on Opus 5 instead of 4.8. It's much more capable. Josh:
+But I think it's different. As you mentioned that it's a workhorse model, Josh:
+it feels like a workhorse model. It's great for shorter duration tasks. Josh:
+And I would, generally speaking, if you're using Fable, if you're using Opus, Josh:
+I would delegate it to those smaller tasks. In fact, during testing, Josh:
+one of my favorite modes to use it on is medium instead of high or extra high. Josh:
+Because what I find is the longer Opus thinks the kind of more tripped up it Josh:
+can get it feels like the little brother that was trained by fable so it knows Josh:
+to think like fable but it doesn't quite understand the reasoning behind why fable does everything Josh:
+and that unlock does make the outputs feel a little messy sometimes over really Josh:
+long duration tasks so if you're someone who's using this Josh:
+Try medium and see how medium effort performs. It's not necessarily a worse Josh:
+output. It just thinks for a little bit less longer. Josh:
+And if it has less time to kind of think and turn into these thought spirals, Josh:
+you might wind up getting slightly better outputs. That's how I've been using it. Josh:
+For the people who are wondering how to use this, I believe the free plan has Josh:
+access to it, but also the $20 a month plan gives you quite a bit of access Josh:
+to Opus 5, which seems very worthwhile for the amount of output tokens that Josh:
+you can get from this thing. Josh:
+And if you did want fable that does require i think the hundred dollar max plan Josh:
+but also i know they're giving out a hundred dollars in usage tokens to test Josh:
+this out to a lot of accounts so there is the option for everyone to kind of get involved Josh:
+and try this out but for twenty dollars a month man this is a really compelling Josh:
+model to do some like serious damage on any workloads that you might have Ejaaz:
+It's my new go-to model and if if you're wondering hmm should i switch to gpt 5.6 sol Ejaaz:
+which model should be my everyday model you should basically use this model Ejaaz:
+that that would be my kind of like bit of advice here because it's really good Ejaaz:
+at just general reasoning and answering most general questions that people have. Ejaaz:
+Now, what it's not exceptional as, I think it's worth pointing out, Ejaaz:
+is if you want the best-in-class model for coding or to reference different Ejaaz:
+types of health or, in some cases, some kind of cybersecurity e-bals, Ejaaz:
+you are still better off using. Ejaaz:
+Fable or if you are one of the classified partners from Anthropic, Mythos 5. Ejaaz:
+But as a general model, it is a fantastic thing to get access to. Ejaaz:
+The other thing I'll say is, I think this is the first ever model launch from Ejaaz:
+Anthropoc or any Frontier Lab, where they didn't advertise. Ejaaz:
+How intelligent it is. You mentioned ARC AGI 3 earlier, Josh. Ejaaz:
+Now, if you've heard of the AGI index or the test, there was AGI 1 and AGI 2. Ejaaz:
+But the issue was all these models kept getting smarter and just beating these tests to 100%. Ejaaz:
+They had to start creating more difficult, hard-to-solve benchmarks. Ejaaz:
+And ARC AGI 3 was the most recent one. And as you mentioned, Ejaaz:
+the most recent model, GPT 5.6 SOL, scored 7%. This one scored 30%, Ejaaz:
+the highest of any model higher than Fable, but this wasn't the headline advertisement from Anthropic. Ejaaz:
+And I think a reason behind that might potentially be, you know, Ejaaz:
+they don't really want to advertise how intelligent these models are because Ejaaz:
+of fear of regulation or whatever that might be. Ejaaz:
+But the point is, if you don't have access, if you don't have one of those memberships Ejaaz:
+that Josh just mentioned to get access to Fable 5, fear not, Ejaaz:
+because Opus 5 itself is actually a fantastic model in itself. Ejaaz:
+And I encourage you to go out and try this. Now, the other part that I will Ejaaz:
+say is really powerful, what makes this model like really valuable to use is Ejaaz:
+the fact that it can natively spin out multiple AI agents to go and do your task. Ejaaz:
+And this cannot be understated because usually when people interact with an Ejaaz:
+AI model, they just have a one-on-one conversation with one instance of Claude. Ejaaz:
+But imagine if you could have a one-on-one conversation with Claude and it spins Ejaaz:
+out a hundred different employee workers to go and do your job and it works Ejaaz:
+in parallel simultaneously. AI agents is without doubt the future of how you execute work. Ejaaz:
+And it's incredibly important to focus on their security. Josh:
+And speaking of agents and just all the sub-agents that Opus can spin up, Josh:
+we have a sponsor that is here to talk about agents and they are Ledger. Josh:
+If you are building with AI agents, you're worried about security. Josh:
+An agent with unchecked access is a brilliant but probabilistic teammate with Josh:
+access to important secrets. Josh:
+Ledger Agent Stack fixes that with four open source tools, DMK Skills and CLIs Josh:
+for Ledger Wallet, Ledger Enterprise and Ledger Enterprise Multisig that lets Josh:
+your agents work with crypto while you stay in control. You can tell your agent, rebalance my wallet. Josh:
+ETH to 40%, fastest swaps. It does the math, drafts the swap, and stops. Josh:
+The transaction lands on your ledger signer and nothing moves until you approve it. Josh:
+Agents Propose, Humans Approve, Ledger Signers Enforce. And this works with Josh:
+Cloud Code, Codex, Cursor, it's open source, ready today on developers.ledger.com, Josh:
+which you can find in the link in our description below. Thank you so much to Josh:
+Ledger for sponsoring this episode. Josh:
+And now, speaking of all these safeguards, these approvals, we have to talk Josh:
+about where Opus 5 sits on the security spectrum. EJS, I know for a fact that Josh:
+if I ask it, how to build me a nuclear warhead, it's not going to answer. Josh:
+But there's a line that is closer to there than Fable 5 is. So where is that Josh:
+line in terms of what you can use this model for? Ejaaz:
+Well, rather than give you the line first, I want to give you a stat, Ejaaz:
+which should relieve a lot of people listening to this that have been using Fable. Ejaaz:
+85% of the time, you have fewer stops, so fewer relegations to older models. Ejaaz:
+And what that means is, if you ask it a question, let's say it's like, Ejaaz:
+you know, can you tell me that the mitochondria is the powerhouse of the cell? Ejaaz:
+It won't flag you for trying to be an aggressor. Ejaaz:
+It instead just answers your question 85% of the time. Ejaaz:
+And this is massive because it's almost, from my experience personally, Ejaaz:
+every other attempt that I use Fable 5 for, it gets triggered unless I'm explicitly Ejaaz:
+not talking about any kind of AI models. And when you're doing a show where Ejaaz:
+you talk about AI models, it's kind of a hard thing to avoid. Ejaaz:
+So the level up that's happened with Opus 5 here is they saw the feedback with Fable 5. Ejaaz:
+They saw that the safety guards were getting triggered. And for context, Ejaaz:
+for anyone that's listening, if you're wondering why these safeguards are in Ejaaz:
+place, it's because the US government got involved with Anthropic's release Ejaaz:
+of Fable 5 and said, hey, like this thing is too powerful. You need to add more Ejaaz:
+safeguards to it. You can't release your Mythos model. Ejaaz:
+We need to have a safe version so that people don't exploit it and use it for malicious purposes. Ejaaz:
+So Anthropic, pause, put out this Fable 5 model with a lot of safety guards, Ejaaz:
+and they've been iterating ever since. Opus 5 is the embellishment of what a Ejaaz:
+good version of Mythos 5 looks like to me personally. Ejaaz:
+And it's because when it comes to the biggest risk indicators, Ejaaz:
+which is when anyone's asking about cybersecurity, they could potentially want Ejaaz:
+to exploit another app or platform using that. Ejaaz:
+Or if they're evaluating biological types of things and they don't want to make Ejaaz:
+sure they create a bioweapon, they can succinctly have a conversation with Opus Ejaaz:
+5 and you can't prompt inject Opus 5 to give you any kind of a malicious answer. Ejaaz:
+And this is the main thing. when I was looking at the system card, Ejaaz:
+the way, the blueprint of how they created this model, there is a heavy index, Ejaaz:
+a heavy framework around Opus 5, which prevents you from trying to get a malicious answer from it. Ejaaz:
+Now, can you use it to look at your computing operating system and figure out Ejaaz:
+if there are any bugs to fix, Ejaaz:
+Yes. But can you ask the Opus model to then create a potential defense to that exploit? Ejaaz:
+The answer is no. You need to kind of like go through your own way to build Ejaaz:
+it yourself, either by hand or to use it as an assistant. Ejaaz:
+But you can't directly ask it to create a fix for it. And that, Ejaaz:
+I think, is the most important nuance between the cybersecurity evals, Ejaaz:
+the biosecurity evals between Opus 5 and Fable 5. Josh:
+I mean, to frame this pretty practically, I've been using this for a while and Josh:
+I've been testing all the edge cases and you basically don't notice it. Josh:
+I'd say this is about the same safeguard level as standard models in the sense Josh:
+that you're not going to run into it unless you are intentionally trying to run into it Josh:
+you really got to ask some kind of edgy fringe questions in order to hit those Josh:
+safeguards so i would say in terms of what you're actually going to realize Josh:
+you are going to get blocked significantly less than you would with fable to Josh:
+the point where you don't really notice it Josh:
+and i think this is kind of where i've landed as a more power user who is Josh:
+i just kind of token hungry just for the fun of it and i love using fable as Josh:
+the default but i really appreciate the fact that I can have Opus 5 as that Josh:
+fallback that can confidently answer questions that Fable cannot. Josh:
+For example, I was trying to figure out stuff about there's this like new breakthrough Josh:
+with like genomic sequencing and it'll like diverse the aging of your skin. Josh:
+I was like, oh, this is sick. Let me read about it. Josh:
+Fable was on the case. It couldn't figure it out. Opus took over. Josh:
+It can handle that stuff fine. So in terms of safeguards, this will feel just Josh:
+like an unfiltered model. This will give you the outputs that you want. Josh:
+It's a lot less kind of on a hair trigger when it comes to these safeguards. Josh:
+And that makes it a really fun model to use. So it's amazing. Josh:
+It is accessible to everyone. Josh:
+I will say that the one thing that you could caveat it with is the long duration thinking. Josh:
+Sometimes it gets a little bit confused. So you may want to keep it on a slightly Josh:
+lower setting for a lot of the work that you're doing. Josh:
+But outside of that, it's freaking awesome. I mean, this is a great upgrade. Josh:
+And now I feel good. Like when I opened up my Cloud app, I got Sonnet, Josh:
+which I'm not sure I really use Sonnet because I'm not burning through like Josh:
+a trillion tokens where I need it. Josh:
+But opus 5 and fable 5 are this unbelievable tag team that just work together Josh:
+so well there is also one one other nuance um fable speak which is like this Josh:
+kind of funny thing where Josh:
+it has a very unique way of talking it's very verbose that has been transferred Josh:
+to opus 5 as well i've noticed so opus 5 likes to talk a lot it likes to speak Josh:
+the way that fable does so that's an interesting little quirk um but outside Josh:
+of that i've been using the model i love the model opus 5 is great Josh:
+i think my ask to everyone who's listening is like hey are you using it what Josh:
+are you using it for best use cases, anything like that. Like this has been cool. Ejaaz:
+If you are on any kind of a membership on Claude or Anthropic specifically, this is the model to use. Ejaaz:
+Now I will say that although it is 50% cheaper than Fable, this thing thinks Ejaaz:
+quite a lot. It is a token guzzler. It uses a lot of tokens versus Fable 5. Ejaaz:
+But you have a higher allowance when you're using this particular model. Ejaaz:
+So if you're using Fable 5 and you don't want to pay access credits, Ejaaz:
+you should definitely be using this model. Ejaaz:
+The other thing I'll say is, I think this is very much Anthropik's response Ejaaz:
+to some of the Chinese open source model debate that's been happening over the last week or so. Ejaaz:
+Kimi K3 was launched by Moonshot Labs. It's a fantastic model, Ejaaz:
+almost frontier capability, but at a fraction of the cost. Ejaaz:
+And actually, as we're recording this episode, their model weight should become Ejaaz:
+open to day which means that you can kind of run it on hardware at home right Ejaaz:
+now they're good and bad things about this good is. Ejaaz:
+You know you can run it privately on your data it's arguably cheaper the bad Ejaaz:
+side of the thing is it has no safeguards around it which means that you could Ejaaz:
+potentially use it for cyber security threats or bio threats Ejaaz:
+moving forwards now the great thing about a model like opus 5 is it has those Ejaaz:
+safeguards in place so you know that anyone that's using it can't really maliciously Ejaaz:
+use it for any kind of mal intent and i think that there are pros and cons at both sides of things. Ejaaz:
+I know that a large number of companies, prominent companies like NVIDIA, Ejaaz:
+Microsoft signed an open source waiver this weekend. Anthropic was the one that Ejaaz:
+hadn't signed it, but they have their reasons for this. Ejaaz:
+And I'm excited for people to get their hands on Opus 5 and really tell us, Ejaaz:
+you know, what's your experience about this? Are you enjoying it? Ejaaz:
+Are you using it for any particular use cases that we haven't mentioned on this show? Ejaaz:
+It's a fantastic model. So get your hands on it and let us know in the comments Ejaaz:
+what your feedback is. But I think that is the end of the episode, Ejaaz:
+the recap of Opus 5 today. I encourage everyone to use it. If you're listening Ejaaz:
+to us or watching this on YouTube and you aren't subscribed to us, what are you doing? Ejaaz:
+Leave us a comment, give us a thumbs up. It helps us out massively. Ejaaz:
+If you're listening to this on Spotify or Apple Music, we are there. Ejaaz:
+Leave us a comment. We read everything, by the way, and your feedback is wonderful. Ejaaz:
+It influences what episodes we put out later on in the week and in the future. Ejaaz:
+We are also looking for sponsors. Josh and I have spun Limitless out on our Ejaaz:
+own and we are running this kind of like off our own budget. So if there's. Josh:
+Anyone out there- Thank you to Ledger for stepping up. Ejaaz:
+Yes, exactly. And thank you to Ledger for stepping up. and if there's anyone Ejaaz:
+else that would like to sponsor and advertise your product or service, Ejaaz:
+please let us know. We would love to hear from you. But I think aside from that, Ejaaz:
+That is it. Josh:
+That's everything. Thank you all so much for watching. We're coming at you live from... Josh:
+Ejaz and I are bouncing all over the place this summer. So we're just like kind Josh:
+of dropping in wherever we are in the world. Josh:
+Currently, I'm like up north of San Francisco. Ejaz is going to the West Coast. Josh:
+So we're doing this everywhere, but we're not missing the episode. Josh:
+So if anything does, you know, if the video goes in and out a little bit, Josh:
+we're doing this from remote, but we're getting the job done. Josh:
+And we appreciate all of you listening and being here with us for the entire Josh:
+journey. We will not let you down. And we appreciate all the support. Josh:
+So thank you for watching as always. We have another... Josh:
+We have a couple of really fun episodes coming up this week, Josh:
+so stay tuned for that. Let us know in the comments section all the things that Josh:
+we need to know in general, and we will see you guys in the next one. Thanks so much. Ejaaz:
+See you guys.

@@ -1,0 +1,10 @@
+Video ID: Rn0qsdB2ZTQ
+Title: Mark Cuban: “A lot of data centers will be turned into pickleball courts.”
+Channel: All-In Podcast
+URL: https://youtube.com/watch?v=Rn0qsdB2ZTQ
+Segments: 41
+Language: en
+
+--- Transcript ---
+
+There's going to be a lot of data centers that are going to be turned into pickleball courts. What's happening now is the market leaders, Google, etc. Meta, they're borrowing hundreds of billions of dollars. >> Yeah, that's interesting. >> And there's already a private credit problem right now. Just layer on private credit and then you have these huge companies that have cash flow, but they're spending all their cash flow on capex and then they're borrowing on top of that. Bonds, right? That's planning for perfection and that's going to be hard. And we're building these data centers and if there's a price performance curve on AI that minimizes the power requirements, there's going to be a lot of data centers that are going to be turned into pickleball courts. >> Interesting. >> Everybody thinks that there's going to be so much more utilization and there will be. It'll just scale like everybody expects, but there's going to be technological breakthroughs as well. Just like we saw fiber back in the day, it was all about putting in fiber. Then it went from 1 GB fiber to 10 to 100 gigabyte and then there wasn't a fiber problem anymore. There wasn't a bandwidth problem anymore. Quite the opposite. We had dark fiber that people bought >> used for pennies on the dollar >> and just sitting there, right? And how is it not going to be the case that we don't get the same price performance improvements on the AI side and on the data center

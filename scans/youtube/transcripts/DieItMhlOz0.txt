@@ -1,0 +1,10 @@
+Video ID: DieItMhlOz0
+Title: The Best Doctor May Soon Be AI
+Channel: Peter H. Diamandis
+URL: https://youtube.com/watch?v=DieItMhlOz0
+Segments: 18
+Language: en
+
+--- Transcript ---
+
+Here we've got a situation where the top medical AI capabilities are now free to over three and a half billion people on the planet. OpenAI's own Healthbench professional benchmark which is 525 real clinical tasks. Meta's Muse Spark 1.1 beat GPT 5.6 SAW across the marks and it was 7 times cheaper. But even better is that Muse Spark is free inside of all of Meta's products. you know, WhatsApp and Facebook. And Meta today serves 3.56 billion daily active users. And that's just extraordinary. I mean, this is the abundance thesis at large. People talk about the concerns of AI and so forth. Please realize this. People who've never had access to the best diagnosticians now have
