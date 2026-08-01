@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-08-01T15:24:15.322840+00:00",
+  "run_time": "2026-08-01T16:20:45.041039+00:00",
   "days_ahead": 45,
   "days_back": 14,
   "total_tickers": 41,
@@ -2747,16 +2747,16 @@
       "notes": "Subsea robotics/mine hunting; 59% gross margins; 60% YoY growth; CA$615M Covelya acquisition; NATO tailwind; OTC liquidity constraint",
       "recent_headlines": [
         {
+          "title": "Kraken Robotics Closes Acquisition of Covelya Group; Updates 2026 Guidance",
+          "date": "Thu, 02 Jul 2026 18:41:20 +0000"
+        },
+        {
           "title": "Kraken Robotics Announces Closing of Strategic Acquisition of Covelya Group Limited, Updated 2026 Guidance and Appointments to Executive Team",
           "date": "Thu, 02 Jul 2026 14:09:00 +0000"
         },
         {
           "title": "Kraken Robotics Announces 2026 Annual and Special Meeting Results",
           "date": "Wed, 24 Jun 2026 20:30:00 +0000"
-        },
-        {
-          "title": "Kraken Robotics Reports Q1 2026 Financial Results with 35% Year-Over-Year Revenue Growth and Reiterates 2026 Guidance",
-          "date": "Thu, 28 May 2026 10:30:00 +0000"
         }
       ],
       "status": "no_date"
