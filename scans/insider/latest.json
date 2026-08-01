@@ -1,0 +1,89 @@
+{
+  "run_time": "2026-08-01T16:11:15.469158+00:00",
+  "days_scanned": 60,
+  "total_tickers": 1,
+  "total_transactions": 6,
+  "buy_count": 0,
+  "sell_count": 6,
+  "cluster_buys": [],
+  "transactions": [
+    {
+      "ticker": "NVDA",
+      "insider": "Mark A Stevens",
+      "position": "Director",
+      "filing_date": "2026-06-23",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 319385.0,
+      "price": 209.6952,
+      "value": 66973501.45,
+      "acquired_disposed": "D",
+      "accession": "0001199039-26-000007"
+    },
+    {
+      "ticker": "NVDA",
+      "insider": "Mark A Stevens",
+      "position": "Director",
+      "filing_date": "2026-06-23",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 565615.0,
+      "price": 210.4372,
+      "value": 119026436.88,
+      "acquired_disposed": "D",
+      "accession": "0001199039-26-000007"
+    },
+    {
+      "ticker": "NVDA",
+      "insider": "Stephen C Neal",
+      "position": "Director",
+      "filing_date": "2026-06-05",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 15500.0,
+      "price": 215.7331,
+      "value": 3343863.05,
+      "acquired_disposed": "D",
+      "accession": "0001768670-26-000002"
+    },
+    {
+      "ticker": "NVDA",
+      "insider": "Mark A Stevens",
+      "position": "Director",
+      "filing_date": "2026-06-04",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 500000.0,
+      "price": 222.3774,
+      "value": 111188700.0,
+      "acquired_disposed": "D",
+      "accession": "0001199039-26-000005"
+    },
+    {
+      "ticker": "NVDA",
+      "insider": "Mark A Stevens",
+      "position": "Director",
+      "filing_date": "2026-06-04",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 100000.0,
+      "price": 217.655,
+      "value": 21765500.0,
+      "acquired_disposed": "D",
+      "accession": "0001199039-26-000005"
+    },
+    {
+      "ticker": "NVDA",
+      "insider": "Mark A Stevens",
+      "position": "Director",
+      "filing_date": "2026-06-04",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 400000.0,
+      "price": 220.371,
+      "value": 88148400.0,
+      "acquired_disposed": "D",
+      "accession": "0001199039-26-000005"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "run_time": "2026-08-01T16:11:09.613477+00:00",
+  "days_scanned": 30,
+  "total_tickers": 1,
+  "total_filings": 1,
+  "material_filings": 1,
+  "filings": [
+    {
+      "ticker": "NVDA",
+      "filing_date": "2026-07-02",
+      "date_of_report": "2026-06-28",
+      "items": [
+        "Item 5.02"
+      ],
+      "material": true,
+      "description": "",
+      "accession": "0001045810-26-000060",
+      "has_earnings": false,
+      "has_press_release": false
+    }
+  ]
+}

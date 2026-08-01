@@ -1,0 +1,67 @@
+{
+  "run_time": "2026-08-01T16:11:24.402315+00:00",
+  "days_back": 30,
+  "tickers_tracked": [
+    "COHR",
+    "XYL",
+    "ATKR",
+    "FCX",
+    "GLW",
+    "KTOS",
+    "GEV",
+    "CCJ",
+    "CVX",
+    "NVDA",
+    "IREN",
+    "WPM",
+    "QS",
+    "CIFR",
+    "LEU",
+    "MP",
+    "ETN",
+    "MRK",
+    "FLNC",
+    "AMZN",
+    "OKLO",
+    "KRKNF",
+    "KMI",
+    "BMY",
+    "WMB",
+    "MSFT",
+    "ADBE",
+    "MOD",
+    "MRVL",
+    "GOOG",
+    "NVT",
+    "Q",
+    "SKHY",
+    "EOSE",
+    "POWL",
+    "HUBB",
+    "MPWR",
+    "BWXT",
+    "DE",
+    "FN",
+    "PFE"
+  ],
+  "total_trades": 0,
+  "sources_tried": [
+    {
+      "source": "quiverquant",
+      "status": "no response",
+      "trades_found": 0
+    },
+    {
+      "source": "capitoltrades",
+      "status": "no response",
+      "trades_found": 0
+    },
+    {
+      "source": "house_disclosures",
+      "status": "no response",
+      "trades_found": 0
+    }
+  ],
+  "trades": [],
+  "status": "all_sources_failed"
+}
