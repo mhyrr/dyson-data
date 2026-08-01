@@ -1,5 +1,168 @@
 {
-  "run_time": "2026-08-01T18:41:26.533091+00:00",
-  "total_transcripts": 0,
-  "transcripts": []
+  "run_time": "2026-08-01T22:10:41.918944+00:00",
+  "days_back": 90,
+  "total_tickers": 39,
+  "fetched": 1,
+  "failed": 0,
+  "no_video": 38,
+  "results": [
+    {
+      "ticker": "FN",
+      "status": "fetched",
+      "chars": 52742,
+      "file": "/opt/work/dyson-data/scans/transcripts/FN_2026-05-04.txt"
+    },
+    {
+      "ticker": "FCX",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "MOD",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "WPM",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "CCJ",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "KTOS",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "POWL",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "BWXT",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "WMB",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "PFE",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "CIFR",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "Q",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "ATKR",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "LEU",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "EOSE",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "FLNC",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "MP",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "OKLO",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "COHR",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "DE",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "NVDA",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "MRVL",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "IREN",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "ADBE",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "KMI",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "GEV",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "QS",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "GLW",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "HUBB",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "XYL",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "MSFT",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "GOOG",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "MPWR",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "AMZN",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "BMY",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "NVT",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "CVX",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "ETN",
+      "status": "no_video_found"
+    },
+    {
+      "ticker": "SKHY",
+      "status": "no_video_found"
+    }
+  ]
 }
