@@ -1,11 +1,11 @@
 {
-  "run_time": "2026-08-01T16:20:45.041039+00:00",
+  "run_time": "2026-08-03T09:00:13.798284+00:00",
   "days_ahead": 45,
   "days_back": 14,
   "total_tickers": 41,
   "summary": {
-    "imminent": 3,
-    "this_week": 10,
+    "imminent": 7,
+    "this_week": 2,
     "next_2_weeks": 2,
     "this_month": 3,
     "no_date": 1,
@@ -13,90 +13,70 @@
   },
   "imminent_tickers": [
     {
-      "symbol": "POWL",
-      "company": "Powell Industries",
-      "next_earnings": "2026-08-03",
-      "time": "after_close",
-      "period": "QQ3 2026",
-      "days_until": 1,
-      "eps_est": 1.47
-    },
-    {
-      "symbol": "BWXT",
-      "company": "BWX Technologies",
-      "next_earnings": "2026-08-03",
-      "time": "after_close",
-      "period": "QQ2 2026",
-      "days_until": 1,
-      "eps_est": 1.04
-    },
-    {
-      "symbol": "WMB",
-      "company": "Williams Companies",
-      "next_earnings": "2026-08-03",
-      "time": "after_close",
-      "period": "QQ2 2026",
-      "days_until": 1,
-      "eps_est": 0.51
-    }
-  ],
-  "this_week_tickers": [
-    {
       "symbol": "PFE",
       "company": "Pfizer Inc",
       "next_earnings": "2026-08-04",
       "time": "before_open",
-      "period": "QQ2 2026"
+      "period": "QQ2 2026",
+      "days_until": 0,
+      "eps_est": 0.68
     },
     {
       "symbol": "MRK",
       "company": "Merck & Co",
       "next_earnings": "2026-08-04",
       "time": "before_open",
-      "period": "QQ2 2026"
+      "period": "QQ2 2026",
+      "days_until": 0,
+      "eps_est": 0.23
     },
     {
       "symbol": "CIFR",
       "company": "Cipher Digital",
       "next_earnings": "2026-08-04",
       "time": "before_open",
-      "period": "QQ2 2026"
+      "period": "QQ2 2026",
+      "days_until": 0,
+      "eps_est": -0.11
     },
     {
       "symbol": "Q",
       "company": "Qnity Electronics",
       "next_earnings": "2026-08-04",
       "time": "before_open",
-      "period": "QQ2 2026"
-    },
-    {
-      "symbol": "ATKR",
-      "company": "Atkore Inc",
-      "next_earnings": "2026-08-04",
-      "time": "before_open",
-      "period": "QQ3 2026"
+      "period": "QQ2 2026",
+      "days_until": 0,
+      "eps_est": 1.06
     },
     {
       "symbol": "LEU",
       "company": "Centrus Energy",
       "next_earnings": "2026-08-05",
       "time": "after_close",
-      "period": "QQ2 2026"
+      "period": "QQ2 2026",
+      "days_until": 1,
+      "eps_est": 1.02
     },
     {
       "symbol": "EOSE",
       "company": "Eos Energy Enterprises",
       "next_earnings": "2026-08-05",
       "time": "before_open",
-      "period": "QQ2 2026"
+      "period": "QQ2 2026",
+      "days_until": 1,
+      "eps_est": -0.26
     },
     {
       "symbol": "FLNC",
       "company": "Fluence Energy",
       "next_earnings": "2026-08-05",
       "time": "after_close",
-      "period": "QQ3 2026"
-    },
+      "period": "QQ3 2026",
+      "days_until": 1,
+      "eps_est": 0.06
+    }
+  ],
+  "this_week_tickers": [
     {
       "symbol": "MP",
       "company": "MP Materials",
@@ -176,7 +156,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": -5382,
+      "days_until_earnings": -5384,
       "status": "reported"
     },
     {
@@ -242,7 +222,7 @@
           "revenue_surprise_pct": 0.04
         }
       ],
-      "days_until_earnings": -5211,
+      "days_until_earnings": -5213,
       "status": "reported"
     },
     {
@@ -308,205 +288,7 @@
           "revenue_surprise_pct": 0.06
         }
       ],
-      "days_until_earnings": -5175,
-      "status": "reported"
-    },
-    {
-      "symbol": "WPM",
-      "company": "Wheaton Precious Metals",
-      "thesis": "scarcity",
-      "conviction": "MEDIUM",
-      "action": "BUY",
-      "timeframe": "2026",
-      "next_earnings": "2012-08-09",
-      "next_earnings_time": "before_open",
-      "next_earnings_period": "QQ2 2012",
-      "next_earnings_confirmed": false,
-      "next_earnings_eps_est": 0.37,
-      "next_earnings_revenue_est": 182720000,
-      "last_earnings": "2026-05-07",
-      "last_earnings_period": "QQ1 2026",
-      "last_earnings_eps_actual": 1.28,
-      "last_earnings_eps_est": 1.21,
-      "last_earnings_eps_surprise": 0.07,
-      "last_earnings_revenue_actual": 901469000,
-      "last_earnings_revenue_surprise": 56302456,
-      "source": "stockanalysis.com",
-      "notes": "Silver streaming model; precious metals scarcity hedge",
-      "recent_headlines": [],
-      "last_earnings_eps_surprise_pct": 0.06,
-      "last_earnings_revenue_surprise_pct": 0.07,
-      "recent_quarters": [
-        {
-          "period": "QQ1 2026",
-          "date": "2026-05-07",
-          "eps_actual": 1.28,
-          "eps_est": 1.21,
-          "eps_surprise": 0.07,
-          "revenue_actual": 901469000,
-          "revenue_surprise_pct": 0.07
-        },
-        {
-          "period": "QQ4 2025",
-          "date": "2026-03-12",
-          "eps_actual": 1.22,
-          "eps_est": 1.03,
-          "eps_surprise": 0.19,
-          "revenue_actual": 864714000,
-          "revenue_surprise_pct": 0.23
-        },
-        {
-          "period": "QQ3 2025",
-          "date": "2025-11-06",
-          "eps_actual": 0.62,
-          "eps_est": 0.59,
-          "eps_surprise": 0.03,
-          "revenue_actual": 476257000,
-          "revenue_surprise_pct": 0.01
-        },
-        {
-          "period": "QQ2 2025",
-          "date": "2025-08-07",
-          "eps_actual": 0.63,
-          "eps_est": 0.59,
-          "eps_surprise": 0.04,
-          "revenue_actual": 503218000,
-          "revenue_surprise_pct": 0.07
-        }
-      ],
-      "days_until_earnings": -5106,
-      "status": "reported"
-    },
-    {
-      "symbol": "CCJ",
-      "company": "Cameco Corp",
-      "thesis": "scarcity",
-      "conviction": "MEDIUM",
-      "action": "BUY",
-      "timeframe": "2026",
-      "next_earnings": "2013-05-01",
-      "next_earnings_time": "before_open",
-      "next_earnings_period": "QQ1 2013",
-      "next_earnings_confirmed": false,
-      "next_earnings_eps_est": 0.09,
-      "next_earnings_revenue_est": 421230000,
-      "last_earnings": "2026-07-31",
-      "last_earnings_period": "QQ2 2026",
-      "last_earnings_eps_actual": 0.13,
-      "last_earnings_eps_est": 0.36,
-      "last_earnings_eps_surprise": -0.23,
-      "last_earnings_revenue_actual": 588000000,
-      "last_earnings_revenue_surprise": 53640000,
-      "source": "stockanalysis.com",
-      "notes": "Westinghouse stake; uranium structural deficit; already own URA",
-      "recent_headlines": [],
-      "last_earnings_eps_surprise_pct": -0.64,
-      "last_earnings_revenue_surprise_pct": 0.1,
-      "recent_quarters": [
-        {
-          "period": "QQ2 2026",
-          "date": "2026-07-31",
-          "eps_actual": 0.13,
-          "eps_est": 0.36,
-          "eps_surprise": -0.23,
-          "revenue_actual": 588000000,
-          "revenue_surprise_pct": 0.1
-        },
-        {
-          "period": "QQ1 2026",
-          "date": "2026-05-05",
-          "eps_actual": 0.34,
-          "eps_est": 0.31,
-          "eps_surprise": 0.03,
-          "revenue_actual": 616118000,
-          "revenue_surprise_pct": 0.24
-        },
-        {
-          "period": "QQ4 2025",
-          "date": "2026-02-13",
-          "eps_actual": 0.36,
-          "eps_est": 0.28,
-          "eps_surprise": 0.08,
-          "revenue_actual": 861388000,
-          "revenue_surprise_pct": 0.24
-        },
-        {
-          "period": "QQ3 2025",
-          "date": "2025-11-05",
-          "eps_actual": 0.05,
-          "eps_est": 0.23,
-          "eps_surprise": -0.18,
-          "revenue_actual": 446693000,
-          "revenue_surprise_pct": -0.18
-        }
-      ],
-      "days_until_earnings": -4841,
-      "status": "reported"
-    },
-    {
-      "symbol": "KTOS",
-      "company": "Kratos Defense",
-      "thesis": "defense_tech",
-      "conviction": "HIGH",
-      "action": "BUY",
-      "timeframe": "12-24mo",
-      "next_earnings": "2012-08-02",
-      "next_earnings_time": "after_close",
-      "next_earnings_period": "QQ2 2012",
-      "next_earnings_confirmed": false,
-      "next_earnings_eps_est": -0.09,
-      "next_earnings_revenue_est": 226250000,
-      "last_earnings": "2026-05-06",
-      "last_earnings_period": "QQ1 2026",
-      "last_earnings_eps_actual": 0.16,
-      "last_earnings_eps_est": 0.12,
-      "last_earnings_eps_surprise": 0.04,
-      "last_earnings_revenue_actual": 371000000,
-      "last_earnings_revenue_surprise": 26359704,
-      "source": "stockanalysis.com",
-      "notes": "RE-RATED Jul 13: -64% from $134 to $48 w/ NO split, NO break \u2014 Q1 rev +22.6%, FY26 guide raised to $1.70-1.76B, b-t-b 1.6x, record $2.01B backlog, Golden Dome + MACH-TB 2.0 + Iran tailwinds. Drone-hyp",
-      "recent_headlines": [],
-      "last_earnings_eps_surprise_pct": 0.33,
-      "last_earnings_revenue_surprise_pct": 0.08,
-      "recent_quarters": [
-        {
-          "period": "QQ1 2026",
-          "date": "2026-05-06",
-          "eps_actual": 0.16,
-          "eps_est": 0.12,
-          "eps_surprise": 0.04,
-          "revenue_actual": 371000000,
-          "revenue_surprise_pct": 0.08
-        },
-        {
-          "period": "QQ4 2025",
-          "date": "2026-02-23",
-          "eps_actual": 0.18,
-          "eps_est": 0.13,
-          "eps_surprise": 0.05,
-          "revenue_actual": 345100000,
-          "revenue_surprise_pct": 0.05
-        },
-        {
-          "period": "QQ3 2025",
-          "date": "2025-11-04",
-          "eps_actual": 0.14,
-          "eps_est": 0.1,
-          "eps_surprise": 0.04,
-          "revenue_actual": 347600000,
-          "revenue_surprise_pct": 0.07
-        },
-        {
-          "period": "QQ2 2025",
-          "date": "2025-08-07",
-          "eps_actual": 0.11,
-          "eps_est": 0.08,
-          "eps_surprise": 0.03,
-          "revenue_actual": 351500000,
-          "revenue_surprise_pct": 0.15
-        }
-      ],
-      "days_until_earnings": -5113,
+      "days_until_earnings": -5177,
       "status": "reported"
     },
     {
@@ -572,8 +354,140 @@
           "revenue_surprise_pct": -0.04
         }
       ],
-      "days_until_earnings": 1,
-      "status": "imminent"
+      "days_until_earnings": -1,
+      "status": "overdue"
+    },
+    {
+      "symbol": "WPM",
+      "company": "Wheaton Precious Metals",
+      "thesis": "scarcity",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "2026",
+      "next_earnings": "2012-08-09",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ2 2012",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 0.37,
+      "next_earnings_revenue_est": 182720000,
+      "last_earnings": "2026-05-07",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": 1.28,
+      "last_earnings_eps_est": 1.21,
+      "last_earnings_eps_surprise": 0.07,
+      "last_earnings_revenue_actual": 901469000,
+      "last_earnings_revenue_surprise": 56302456,
+      "source": "stockanalysis.com",
+      "notes": "Silver streaming model; precious metals scarcity hedge",
+      "recent_headlines": [],
+      "last_earnings_eps_surprise_pct": 0.06,
+      "last_earnings_revenue_surprise_pct": 0.07,
+      "recent_quarters": [
+        {
+          "period": "QQ1 2026",
+          "date": "2026-05-07",
+          "eps_actual": 1.28,
+          "eps_est": 1.21,
+          "eps_surprise": 0.07,
+          "revenue_actual": 901469000,
+          "revenue_surprise_pct": 0.07
+        },
+        {
+          "period": "QQ4 2025",
+          "date": "2026-03-12",
+          "eps_actual": 1.22,
+          "eps_est": 1.03,
+          "eps_surprise": 0.19,
+          "revenue_actual": 864714000,
+          "revenue_surprise_pct": 0.23
+        },
+        {
+          "period": "QQ3 2025",
+          "date": "2025-11-06",
+          "eps_actual": 0.62,
+          "eps_est": 0.59,
+          "eps_surprise": 0.03,
+          "revenue_actual": 476257000,
+          "revenue_surprise_pct": 0.01
+        },
+        {
+          "period": "QQ2 2025",
+          "date": "2025-08-07",
+          "eps_actual": 0.63,
+          "eps_est": 0.59,
+          "eps_surprise": 0.04,
+          "revenue_actual": 503218000,
+          "revenue_surprise_pct": 0.07
+        }
+      ],
+      "days_until_earnings": -5108,
+      "status": "reported"
+    },
+    {
+      "symbol": "CCJ",
+      "company": "Cameco Corp",
+      "thesis": "scarcity",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "2026",
+      "next_earnings": "2013-05-01",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ1 2013",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 0.09,
+      "next_earnings_revenue_est": 421230000,
+      "last_earnings": "2026-07-31",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 0.13,
+      "last_earnings_eps_est": 0.36,
+      "last_earnings_eps_surprise": -0.23,
+      "last_earnings_revenue_actual": 588000000,
+      "last_earnings_revenue_surprise": 53640000,
+      "source": "stockanalysis.com",
+      "notes": "Westinghouse stake; uranium structural deficit; already own URA",
+      "recent_headlines": [],
+      "last_earnings_eps_surprise_pct": -0.64,
+      "last_earnings_revenue_surprise_pct": 0.1,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-07-31",
+          "eps_actual": 0.13,
+          "eps_est": 0.36,
+          "eps_surprise": -0.23,
+          "revenue_actual": 588000000,
+          "revenue_surprise_pct": 0.1
+        },
+        {
+          "period": "QQ1 2026",
+          "date": "2026-05-05",
+          "eps_actual": 0.34,
+          "eps_est": 0.31,
+          "eps_surprise": 0.03,
+          "revenue_actual": 616118000,
+          "revenue_surprise_pct": 0.24
+        },
+        {
+          "period": "QQ4 2025",
+          "date": "2026-02-13",
+          "eps_actual": 0.36,
+          "eps_est": 0.28,
+          "eps_surprise": 0.08,
+          "revenue_actual": 861388000,
+          "revenue_surprise_pct": 0.24
+        },
+        {
+          "period": "QQ3 2025",
+          "date": "2025-11-05",
+          "eps_actual": 0.05,
+          "eps_est": 0.23,
+          "eps_surprise": -0.18,
+          "revenue_actual": 446693000,
+          "revenue_surprise_pct": -0.18
+        }
+      ],
+      "days_until_earnings": -4843,
+      "status": "reported"
     },
     {
       "symbol": "BWXT",
@@ -638,8 +552,74 @@
           "revenue_surprise_pct": 0.07
         }
       ],
-      "days_until_earnings": 1,
-      "status": "imminent"
+      "days_until_earnings": -1,
+      "status": "overdue"
+    },
+    {
+      "symbol": "KTOS",
+      "company": "Kratos Defense",
+      "thesis": "defense_tech",
+      "conviction": "HIGH",
+      "action": "BUY",
+      "timeframe": "12-24mo",
+      "next_earnings": "2012-08-02",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ2 2012",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": -0.09,
+      "next_earnings_revenue_est": 226250000,
+      "last_earnings": "2026-05-06",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": 0.16,
+      "last_earnings_eps_est": 0.12,
+      "last_earnings_eps_surprise": 0.04,
+      "last_earnings_revenue_actual": 371000000,
+      "last_earnings_revenue_surprise": 26359704,
+      "source": "stockanalysis.com",
+      "notes": "RE-RATED Jul 13: -64% from $134 to $48 w/ NO split, NO break \u2014 Q1 rev +22.6%, FY26 guide raised to $1.70-1.76B, b-t-b 1.6x, record $2.01B backlog, Golden Dome + MACH-TB 2.0 + Iran tailwinds. Drone-hyp",
+      "recent_headlines": [],
+      "last_earnings_eps_surprise_pct": 0.33,
+      "last_earnings_revenue_surprise_pct": 0.08,
+      "recent_quarters": [
+        {
+          "period": "QQ1 2026",
+          "date": "2026-05-06",
+          "eps_actual": 0.16,
+          "eps_est": 0.12,
+          "eps_surprise": 0.04,
+          "revenue_actual": 371000000,
+          "revenue_surprise_pct": 0.08
+        },
+        {
+          "period": "QQ4 2025",
+          "date": "2026-02-23",
+          "eps_actual": 0.18,
+          "eps_est": 0.13,
+          "eps_surprise": 0.05,
+          "revenue_actual": 345100000,
+          "revenue_surprise_pct": 0.05
+        },
+        {
+          "period": "QQ3 2025",
+          "date": "2025-11-04",
+          "eps_actual": 0.14,
+          "eps_est": 0.1,
+          "eps_surprise": 0.04,
+          "revenue_actual": 347600000,
+          "revenue_surprise_pct": 0.07
+        },
+        {
+          "period": "QQ2 2025",
+          "date": "2025-08-07",
+          "eps_actual": 0.11,
+          "eps_est": 0.08,
+          "eps_surprise": 0.03,
+          "revenue_actual": 351500000,
+          "revenue_surprise_pct": 0.15
+        }
+      ],
+      "days_until_earnings": -5115,
+      "status": "reported"
     },
     {
       "symbol": "WMB",
@@ -704,8 +684,8 @@
           "revenue_surprise_pct": -0.03
         }
       ],
-      "days_until_earnings": 1,
-      "status": "imminent"
+      "days_until_earnings": -1,
+      "status": "overdue"
     },
     {
       "symbol": "PFE",
@@ -770,8 +750,8 @@
           "revenue_surprise_pct": 0.08
         }
       ],
-      "days_until_earnings": 2,
-      "status": "this_week"
+      "days_until_earnings": 0,
+      "status": "imminent"
     },
     {
       "symbol": "MRK",
@@ -836,8 +816,8 @@
           "revenue_surprise_pct": 0
         }
       ],
-      "days_until_earnings": 2,
-      "status": "this_week"
+      "days_until_earnings": 0,
+      "status": "imminent"
     },
     {
       "symbol": "CIFR",
@@ -902,8 +882,8 @@
           "revenue_surprise_pct": -0.12
         }
       ],
-      "days_until_earnings": 2,
-      "status": "this_week"
+      "days_until_earnings": 0,
+      "status": "imminent"
     },
     {
       "symbol": "Q",
@@ -959,74 +939,8 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 2,
-      "status": "this_week"
-    },
-    {
-      "symbol": "ATKR",
-      "company": "Atkore Inc",
-      "thesis": "ai_infra_discovery+electrical",
-      "conviction": "MEDIUM",
-      "action": "BUY",
-      "timeframe": "2027",
-      "next_earnings": "2026-08-04",
-      "next_earnings_time": "before_open",
-      "next_earnings_period": "QQ3 2026",
-      "next_earnings_confirmed": true,
-      "next_earnings_eps_est": 1.49,
-      "next_earnings_revenue_est": 760952768,
-      "last_earnings": "2026-05-05",
-      "last_earnings_period": "QQ2 2026",
-      "last_earnings_eps_actual": 1.23,
-      "last_earnings_eps_est": 0.96,
-      "last_earnings_eps_surprise": 0.27,
-      "last_earnings_revenue_actual": 731377000,
-      "last_earnings_revenue_surprise": 20035424,
-      "source": "stockanalysis.com",
-      "notes": "NEW Jul 13: 11.5x fwd P/E \u2014 the only cheap name in a layer that re-rated to 35-60x (POWL 48x, HPS.A 60x). Conduit/cable-tray content scales with every DC MW. The hair: PVC pricing pressure \u2014 that's wh",
-      "recent_headlines": [],
-      "last_earnings_eps_surprise_pct": 0.28,
-      "last_earnings_revenue_surprise_pct": 0.03,
-      "recent_quarters": [
-        {
-          "period": "QQ2 2026",
-          "date": "2026-05-05",
-          "eps_actual": 1.23,
-          "eps_est": 0.96,
-          "eps_surprise": 0.27,
-          "revenue_actual": 731377000,
-          "revenue_surprise_pct": 0.03
-        },
-        {
-          "period": "QQ1 2026",
-          "date": "2026-02-03",
-          "eps_actual": 0.83,
-          "eps_est": 0.59,
-          "eps_surprise": 0.24,
-          "revenue_actual": 655548000,
-          "revenue_surprise_pct": 0.01
-        },
-        {
-          "period": "QQ4 2025",
-          "date": "2025-11-20",
-          "eps_actual": 0.69,
-          "eps_est": 1.22,
-          "eps_surprise": -0.53,
-          "revenue_actual": 752011000,
-          "revenue_surprise_pct": 0.02
-        },
-        {
-          "period": "QQ3 2025",
-          "date": "2025-08-05",
-          "eps_actual": 1.63,
-          "eps_est": 1.5,
-          "eps_surprise": 0.13,
-          "revenue_actual": 735045000,
-          "revenue_surprise_pct": 0
-        }
-      ],
-      "days_until_earnings": 2,
-      "status": "this_week"
+      "days_until_earnings": 0,
+      "status": "imminent"
     },
     {
       "symbol": "LEU",
@@ -1091,8 +1005,8 @@
           "revenue_surprise_pct": 0.16
         }
       ],
-      "days_until_earnings": 3,
-      "status": "this_week"
+      "days_until_earnings": 1,
+      "status": "imminent"
     },
     {
       "symbol": "EOSE",
@@ -1157,8 +1071,8 @@
           "revenue_surprise_pct": -0.35
         }
       ],
-      "days_until_earnings": 3,
-      "status": "this_week"
+      "days_until_earnings": 1,
+      "status": "imminent"
     },
     {
       "symbol": "FLNC",
@@ -1223,8 +1137,8 @@
           "revenue_surprise_pct": -0.23
         }
       ],
-      "days_until_earnings": 3,
-      "status": "this_week"
+      "days_until_earnings": 1,
+      "status": "imminent"
     },
     {
       "symbol": "MP",
@@ -1289,7 +1203,7 @@
           "revenue_surprise_pct": 0.22
         }
       ],
-      "days_until_earnings": 4,
+      "days_until_earnings": 2,
       "status": "this_week"
     },
     {
@@ -1355,7 +1269,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 5,
+      "days_until_earnings": 3,
       "status": "this_week"
     },
     {
@@ -1421,7 +1335,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 10,
+      "days_until_earnings": 8,
       "status": "next_2_weeks"
     },
     {
@@ -1431,7 +1345,7 @@
       "conviction": "MEDIUM-HIGH",
       "action": "BUY",
       "timeframe": "12-24mo",
-      "next_earnings": "2026-08-13",
+      "next_earnings": "2026-08-17",
       "next_earnings_time": "before_open",
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
@@ -1487,7 +1401,7 @@
           "revenue_surprise_pct": 0.17
         }
       ],
-      "days_until_earnings": 11,
+      "days_until_earnings": 13,
       "status": "next_2_weeks"
     },
     {
@@ -1553,7 +1467,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 24,
+      "days_until_earnings": 22,
       "status": "this_month"
     },
     {
@@ -1619,7 +1533,7 @@
           "revenue_surprise_pct": 0
         }
       ],
-      "days_until_earnings": 25,
+      "days_until_earnings": 23,
       "status": "this_month"
     },
     {
@@ -1685,7 +1599,7 @@
           "revenue_surprise_pct": -0.01
         }
       ],
-      "days_until_earnings": 25,
+      "days_until_earnings": 23,
       "status": "this_month"
     },
     {
@@ -1751,7 +1665,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 39,
+      "days_until_earnings": 37,
       "status": "next_6_weeks"
     },
     {
@@ -1817,7 +1731,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": 80,
+      "days_until_earnings": 78,
       "status": "future"
     },
     {
@@ -1885,7 +1799,7 @@
       ],
       "schedule_date": "2026-07-22",
       "schedule_status": "reported",
-      "days_until_earnings": 80,
+      "days_until_earnings": 78,
       "status": "future"
     },
     {
@@ -1951,7 +1865,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 80,
+      "days_until_earnings": 78,
       "status": "future"
     },
     {
@@ -2017,7 +1931,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 86,
+      "days_until_earnings": 84,
       "status": "future"
     },
     {
@@ -2083,7 +1997,7 @@
           "revenue_surprise_pct": -0.02
         }
       ],
-      "days_until_earnings": 86,
+      "days_until_earnings": 84,
       "status": "future"
     },
     {
@@ -2149,7 +2063,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 86,
+      "days_until_earnings": 84,
       "status": "future"
     },
     {
@@ -2217,7 +2131,7 @@
       ],
       "schedule_date": "2026-07-29",
       "schedule_status": "reported",
-      "days_until_earnings": 87,
+      "days_until_earnings": 85,
       "status": "future"
     },
     {
@@ -2283,7 +2197,7 @@
           "revenue_surprise_pct": 0.09
         }
       ],
-      "days_until_earnings": 87,
+      "days_until_earnings": 85,
       "status": "future"
     },
     {
@@ -2349,7 +2263,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 88,
+      "days_until_earnings": 86,
       "status": "future"
     },
     {
@@ -2417,7 +2331,7 @@
       ],
       "schedule_date": "2026-07-30",
       "schedule_status": "reported",
-      "days_until_earnings": 88,
+      "days_until_earnings": 86,
       "status": "future"
     },
     {
@@ -2483,7 +2397,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": 88,
+      "days_until_earnings": 86,
       "status": "future"
     },
     {
@@ -2549,7 +2463,7 @@
           "revenue_surprise_pct": 0.05
         }
       ],
-      "days_until_earnings": 89,
+      "days_until_earnings": 87,
       "status": "future"
     },
     {
@@ -2615,7 +2529,7 @@
           "revenue_surprise_pct": 0
         }
       ],
-      "days_until_earnings": 89,
+      "days_until_earnings": 87,
       "status": "future"
     },
     {
@@ -2681,7 +2595,7 @@
           "revenue_surprise_pct": -0.01
         }
       ],
-      "days_until_earnings": 93,
+      "days_until_earnings": 91,
       "status": "future"
     },
     {
@@ -2720,7 +2634,73 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 103,
+      "days_until_earnings": 101,
+      "status": "future"
+    },
+    {
+      "symbol": "ATKR",
+      "company": "Atkore Inc",
+      "thesis": "ai_infra_discovery+electrical",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "2027",
+      "next_earnings": "2026-11-19",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ4 2026",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 1.74,
+      "next_earnings_revenue_est": 784991656,
+      "last_earnings": "2026-08-03",
+      "last_earnings_period": "QQ3 2026",
+      "last_earnings_eps_actual": 1.92,
+      "last_earnings_eps_est": 1.49,
+      "last_earnings_eps_surprise": 0.43,
+      "last_earnings_revenue_actual": 794800000,
+      "last_earnings_revenue_surprise": 33847232,
+      "source": "stockanalysis.com",
+      "notes": "NEW Jul 13: 11.5x fwd P/E \u2014 the only cheap name in a layer that re-rated to 35-60x (POWL 48x, HPS.A 60x). Conduit/cable-tray content scales with every DC MW. The hair: PVC pricing pressure \u2014 that's wh",
+      "recent_headlines": [],
+      "last_earnings_eps_surprise_pct": 0.29,
+      "last_earnings_revenue_surprise_pct": 0.04,
+      "recent_quarters": [
+        {
+          "period": "QQ3 2026",
+          "date": "2026-08-03",
+          "eps_actual": 1.92,
+          "eps_est": 1.49,
+          "eps_surprise": 0.43,
+          "revenue_actual": 794800000,
+          "revenue_surprise_pct": 0.04
+        },
+        {
+          "period": "QQ2 2026",
+          "date": "2026-05-05",
+          "eps_actual": 1.23,
+          "eps_est": 0.96,
+          "eps_surprise": 0.27,
+          "revenue_actual": 731377000,
+          "revenue_surprise_pct": 0.03
+        },
+        {
+          "period": "QQ1 2026",
+          "date": "2026-02-03",
+          "eps_actual": 0.83,
+          "eps_est": 0.59,
+          "eps_surprise": 0.24,
+          "revenue_actual": 655548000,
+          "revenue_surprise_pct": 0.01
+        },
+        {
+          "period": "QQ4 2025",
+          "date": "2025-11-20",
+          "eps_actual": 0.69,
+          "eps_est": 1.22,
+          "eps_surprise": -0.53,
+          "revenue_actual": 752011000,
+          "revenue_surprise_pct": 0.02
+        }
+      ],
+      "days_until_earnings": 107,
       "status": "future"
     },
     {
