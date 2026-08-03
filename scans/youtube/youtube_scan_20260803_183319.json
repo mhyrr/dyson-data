@@ -1,0 +1,129 @@
+{
+  "run_time": "2026-08-03T18:33:19.091096+00:00",
+  "lookback_days": 7,
+  "modes_run": {
+    "people_search": true,
+    "channel_uploads": false
+  },
+  "people_checked": 1,
+  "channels_checked": 0,
+  "new_videos_count": 9,
+  "transcripts_fetched": 4,
+  "api_errors": 0,
+  "new_videos": [
+    {
+      "video_id": "jI4ZVB_MPhU",
+      "title": "Andrej Karpathy’s Trick to Make Claude Code 10x Smarter (Claude Dreaming)",
+      "channel": "Dream Labs AI",
+      "published": "2026-08-03T14:00:35Z",
+      "description": "Andrej Karpathy revealed the biggest flaw with current AI setups: your Claude can only learn while you're actively prompting it.",
+      "url": "https://youtube.com/watch?v=jI4ZVB_MPhU",
+      "thumbnail": "https://i.ytimg.com/vi/jI4ZVB_MPhU/hqdefault.jpg",
+      "person": "Andrej Karpathy",
+      "person_role": "AI Researcher (ex-Tesla, ex-OpenAI)",
+      "source": "people_search"
+    },
+    {
+      "video_id": "OZ2-frkylck",
+      "title": "Andrej Karpathy’s AutoResearch",
+      "channel": "Intellectually Curious Podcast",
+      "published": "2026-08-02T13:51:28Z",
+      "description": "We dive into Andrej Karpathy's AutoResearch, where autonomous AI agents iteratively rewrite neural-network code, run ...",
+      "url": "https://youtube.com/watch?v=OZ2-frkylck",
+      "thumbnail": "https://i.ytimg.com/vi/OZ2-frkylck/hqdefault.jpg",
+      "person": "Andrej Karpathy",
+      "person_role": "AI Researcher (ex-Tesla, ex-OpenAI)",
+      "source": "people_search"
+    },
+    {
+      "video_id": "RHHa3K6C3LI",
+      "title": "The Karpathy-Inspired System That Makes Codex More Reliable",
+      "channel": "Reza Hey",
+      "published": "2026-07-28T06:00:38Z",
+      "description": "A practical, evidence-first guide to working with Codex—inspired by Andrej Karpathy's ideas about specifications, verification, and ...",
+      "url": "https://youtube.com/watch?v=RHHa3K6C3LI",
+      "thumbnail": "https://i.ytimg.com/vi/RHHa3K6C3LI/hqdefault.jpg",
+      "person": "Andrej Karpathy",
+      "person_role": "AI Researcher (ex-Tesla, ex-OpenAI)",
+      "source": "people_search"
+    },
+    {
+      "video_id": "N-6zj01ax0g",
+      "title": "Andrej Karpathy&#39;s Self-Organizing, AI-Powered Knowledge Base",
+      "channel": "Intellectually Curious Podcast",
+      "published": "2026-08-02T13:51:32Z",
+      "description": "Explore Andrej Karpathy's blueprint for turning a messy pile of notes, articles, and data into a self-organizing, AI-powered ...",
+      "url": "https://youtube.com/watch?v=N-6zj01ax0g",
+      "thumbnail": "https://i.ytimg.com/vi/N-6zj01ax0g/hqdefault.jpg",
+      "person": "Andrej Karpathy",
+      "person_role": "AI Researcher (ex-Tesla, ex-OpenAI)",
+      "source": "people_search"
+    },
+    {
+      "video_id": "KU4Geg5G6IE",
+      "title": "Stop Prompting AI. Use Andrej Karpathy&#39;s Method Instead",
+      "channel": "LearnAI",
+      "published": "2026-08-01T15:45:36Z",
+      "description": "Want dramatically better results from ChatGPT, Claude, Gemini, or any other Large Language Model? In this video, we break ...",
+      "url": "https://youtube.com/watch?v=KU4Geg5G6IE",
+      "thumbnail": "https://i.ytimg.com/vi/KU4Geg5G6IE/hqdefault.jpg",
+      "person": "Andrej Karpathy",
+      "person_role": "AI Researcher (ex-Tesla, ex-OpenAI)",
+      "source": "people_search"
+    },
+    {
+      "video_id": "whbqKZrUiYk",
+      "title": "A Recipe for Training Neural Networks: Andrej Karpathy&#39;s Classic, Read and Highlighted",
+      "channel": "Standarity",
+      "published": "2026-08-02T12:18:12Z",
+      "description": "A Recipe for Training Neural Networks: Andrej Karpathy's Classic, Read and Highlighted Andrej Karpathy's recipe read line by ...",
+      "url": "https://youtube.com/watch?v=whbqKZrUiYk",
+      "thumbnail": "https://i.ytimg.com/vi/whbqKZrUiYk/hqdefault.jpg",
+      "person": "Andrej Karpathy",
+      "person_role": "AI Researcher (ex-Tesla, ex-OpenAI)",
+      "source": "people_search"
+    },
+    {
+      "video_id": "c5DPccy-hlk",
+      "title": "The Most Talented Man in AI",
+      "channel": "AI in 8 Minutes",
+      "published": "2026-07-27T21:19:58Z",
+      "description": "Andrej Karpathy is a pioneering figure in the field of computer vision and artificial intelligence who transitioned from a curious ...",
+      "url": "https://youtube.com/watch?v=c5DPccy-hlk",
+      "thumbnail": "https://i.ytimg.com/vi/c5DPccy-hlk/hqdefault.jpg",
+      "person": "Andrej Karpathy",
+      "person_role": "AI Researcher (ex-Tesla, ex-OpenAI)",
+      "source": "people_search"
+    },
+    {
+      "video_id": "AId2NxSPvp8",
+      "title": "Karpathy Betrayed Open Source",
+      "channel": "Randomness",
+      "published": "2026-08-02T10:34:20Z",
+      "description": "Andrej Karpathy stopped all open source contributions the moment he joined Anthropic. The receipts are on GitHub. #Karpathy ...",
+      "url": "https://youtube.com/watch?v=AId2NxSPvp8",
+      "thumbnail": "https://i.ytimg.com/vi/AId2NxSPvp8/hqdefault.jpg",
+      "person": "Andrej Karpathy",
+      "person_role": "AI Researcher (ex-Tesla, ex-OpenAI)",
+      "source": "people_search"
+    },
+    {
+      "video_id": "OWARSNmvvgg",
+      "title": "Karpathy&#39;s LLM Council: A Deliberative Ensemble of AI Minds",
+      "channel": "Intellectually Curious Podcast",
+      "published": "2026-08-02T13:51:11Z",
+      "description": "A look at Andrej Karpathy's open-source LLM Council, a local web app that crowdsources multiple top LLMs to deliberate on a ...",
+      "url": "https://youtube.com/watch?v=OWARSNmvvgg",
+      "thumbnail": "https://i.ytimg.com/vi/OWARSNmvvgg/hqdefault.jpg",
+      "person": "Andrej Karpathy",
+      "person_role": "AI Researcher (ex-Tesla, ex-OpenAI)",
+      "source": "people_search"
+    }
+  ],
+  "transcript_files": [
+    "/opt/work/dyson-data/scans/youtube/transcripts/2026-08-03_dream_labs_ai_jI4ZVB_MPhU.md",
+    "/opt/work/dyson-data/scans/youtube/transcripts/2026-08-02_intellectually_curious_podcast_OZ2-frkylck.md",
+    "/opt/work/dyson-data/scans/youtube/transcripts/2026-07-28_reza_hey_RHHa3K6C3LI.md",
+    "/opt/work/dyson-data/scans/youtube/transcripts/2026-08-02_intellectually_curious_podcast_N-6zj01ax0g.md"
+  ]
+}

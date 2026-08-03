@@ -1,0 +1,28 @@
+{
+  "run_time": "2026-08-03T18:34:53.724042+00:00",
+  "lookback_days": 3,
+  "modes_run": {
+    "people_search": true,
+    "channel_uploads": false
+  },
+  "people_checked": 46,
+  "channels_checked": 0,
+  "new_videos_count": 1,
+  "transcripts_fetched": 0,
+  "api_errors": 80,
+  "new_videos": [
+    {
+      "video_id": "KBZWdE1nB48",
+      "title": "How Palmer Luckey, Peter Thiel, Alex Karp &amp; Elon Musk Think",
+      "channel": "Joe Lonsdale",
+      "published": "2026-08-01T21:47:37Z",
+      "description": "Joe Lonsdale, his wife Taylor Lonsdale and Katie Miller discuss the defining traits of legendary founders Palmer Luckey, Peter ...",
+      "url": "https://youtube.com/watch?v=KBZWdE1nB48",
+      "thumbnail": "https://i.ytimg.com/vi/KBZWdE1nB48/hqdefault.jpg",
+      "person": "Alex Karp",
+      "person_role": "CEO, Palantir",
+      "source": "people_search"
+    }
+  ],
+  "transcript_files": []
+}

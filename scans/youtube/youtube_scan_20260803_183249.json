@@ -1,0 +1,68 @@
+{
+  "run_time": "2026-08-03T18:32:49.198827+00:00",
+  "lookback_days": 7,
+  "modes_run": {
+    "people_search": true,
+    "channel_uploads": false
+  },
+  "people_checked": 1,
+  "channels_checked": 0,
+  "new_videos_count": 4,
+  "transcripts_fetched": 3,
+  "api_errors": 0,
+  "new_videos": [
+    {
+      "video_id": "DjW3LXJoqqU",
+      "title": "Gavin Baker on Nvidia vs Google, the three scaling laws, and the real economics of AI.",
+      "channel": "In Summary 25min",
+      "published": "2026-07-28T23:26:06Z",
+      "description": "In this episode of Invest Like The Best, Patrick O'Shaughnessy talks with Gavin Baker of Atreides Management for a clear-eyed ...",
+      "url": "https://youtube.com/watch?v=DjW3LXJoqqU",
+      "thumbnail": "https://i.ytimg.com/vi/DjW3LXJoqqU/hqdefault.jpg",
+      "person": "Gavin Baker",
+      "person_role": "Managing Partner & CIO, Atreides Management",
+      "source": "people_search"
+    },
+    {
+      "video_id": "Kk1SUYVbtuY",
+      "title": "The $3 Trillion AI Company Nobody Saw Coming",
+      "channel": "Neural Nexus",
+      "published": "2026-07-29T18:00:06Z",
+      "description": "Tech investor Gavin Baker reveals why Anthropic could command a staggering $3 trillion market valuation with massive 85% ...",
+      "url": "https://youtube.com/watch?v=Kk1SUYVbtuY",
+      "thumbnail": "https://i.ytimg.com/vi/Kk1SUYVbtuY/hqdefault.jpg",
+      "person": "Gavin Baker",
+      "person_role": "Managing Partner & CIO, Atreides Management",
+      "source": "people_search"
+    },
+    {
+      "video_id": "a_0B8F_4Qx4",
+      "title": "Why AI Isn&#39;t a Bubble — It&#39;s a Supercycle 🚀",
+      "channel": "Token Economy Ai",
+      "published": "2026-08-03T08:15:18Z",
+      "description": "Gavin Baker called Nvidia, Astera Labs, Coherent, and Cerebras. Here is why the smart money treats AI as a supercycle, not a ...",
+      "url": "https://youtube.com/watch?v=a_0B8F_4Qx4",
+      "thumbnail": "https://i.ytimg.com/vi/a_0B8F_4Qx4/hqdefault.jpg",
+      "person": "Gavin Baker",
+      "person_role": "Managing Partner & CIO, Atreides Management",
+      "source": "people_search"
+    },
+    {
+      "video_id": "AIhKly3gcXo",
+      "title": "Speech #3 Research Informative",
+      "channel": "Gavin Baker",
+      "published": "2026-07-30T00:11:35Z",
+      "description": "",
+      "url": "https://youtube.com/watch?v=AIhKly3gcXo",
+      "thumbnail": "https://i.ytimg.com/vi/AIhKly3gcXo/hqdefault.jpg",
+      "person": "Gavin Baker",
+      "person_role": "Managing Partner & CIO, Atreides Management",
+      "source": "people_search"
+    }
+  ],
+  "transcript_files": [
+    "/opt/work/dyson-data/scans/youtube/transcripts/2026-07-28_in_summary_25min_DjW3LXJoqqU.md",
+    "/opt/work/dyson-data/scans/youtube/transcripts/2026-07-29_neural_nexus_Kk1SUYVbtuY.md",
+    "/opt/work/dyson-data/scans/youtube/transcripts/2026-07-30_gavin_baker_AIhKly3gcXo.md"
+  ]
+}
