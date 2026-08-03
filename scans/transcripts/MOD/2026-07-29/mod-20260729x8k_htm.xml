@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xbrl
+  xmlns="http://www.xbrl.org/2003/instance"
+  xmlns:dei="http://xbrl.sec.gov/dei/2025"
+  xmlns:link="http://www.xbrl.org/2003/linkbase"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <link:schemaRef xlink:href="mod-20260729.xsd" xlink:type="simple"/>
+    <context id="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000067347</identifier>
+        </entity>
+        <period>
+            <startDate>2026-07-29</startDate>
+            <endDate>2026-07-29</endDate>
+        </period>
+    </context>
+    <dei:EntityCentralIndexKey
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Tc_upzuP8QWeEmHmfxsTkokFA_1_1">0000067347</dei:EntityCentralIndexKey>
+    <dei:AmendmentFlag
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Tc_qg_E2a5aQ02I6TjfcoL0xg_2_1">false</dei:AmendmentFlag>
+    <dei:DocumentType
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Narr_h4lZKlF9kUynQnUoVQWwrQ">8-K</dei:DocumentType>
+    <dei:DocumentPeriodEndDate
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Narr_pd3Rtqh9R0aQeSxtMcaBUg">2026-07-29</dei:DocumentPeriodEndDate>
+    <dei:EntityRegistrantName
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Narr_40JDhiC0202d4tT-NRxF0A">Modine Manufacturing Company</dei:EntityRegistrantName>
+    <dei:EntityIncorporationStateCountryCode
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Tc_8W2XS8wcFkqwJEx-1aXErA_1_0">WI</dei:EntityIncorporationStateCountryCode>
+    <dei:EntityFileNumber
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Tc_kgAgQycpR0Oq0TS7UPzSTA_1_1">001-01373</dei:EntityFileNumber>
+    <dei:EntityTaxIdentificationNumber
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Tc_fIRO1FqxNUq5pKVYgacDiA_1_2">39-0482000</dei:EntityTaxIdentificationNumber>
+    <dei:EntityAddressAddressLine1
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Narr_xui_4aozHk6UF3Mq6p53tQ">1500 DeKoven Avenue</dei:EntityAddressAddressLine1>
+    <dei:EntityAddressCityOrTown
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Narr_BsHb0ycACkmyynxh2IJmTA">Racine</dei:EntityAddressCityOrTown>
+    <dei:EntityAddressStateOrProvince
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Narr_PAIgpu-Yf0S-An8wsGMp6Q">WI</dei:EntityAddressStateOrProvince>
+    <dei:EntityAddressPostalZipCode
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Tc_vfUcOsF17kKUNdKE0eGVZA_1_2">53403</dei:EntityAddressPostalZipCode>
+    <dei:CityAreaCode
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Narr_NBU1wS_pmUynNNXjzgDLBQ">262</dei:CityAreaCode>
+    <dei:LocalPhoneNumber
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Narr_yEeX5rrYmka3OIya-EOiaQ">636-1200</dei:LocalPhoneNumber>
+    <dei:WrittenCommunications
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Narr_IhI9zSdBBkqAK1fVgGRbVA">false</dei:WrittenCommunications>
+    <dei:SolicitingMaterial
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Narr_Q-euDqYJhEWgF4zJJOyKCg">false</dei:SolicitingMaterial>
+    <dei:PreCommencementTenderOffer
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Narr_iGcyRCV-p0yLB1FjXdOqwA">false</dei:PreCommencementTenderOffer>
+    <dei:PreCommencementIssuerTenderOffer
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Narr_2VzT-J3brk-al1wf3xMQJQ">false</dei:PreCommencementIssuerTenderOffer>
+    <dei:Security12bTitle
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Tc_fUsM8OSS70qUlnC0O9ba5g_2_0">Common Stock, $0.625 par value</dei:Security12bTitle>
+    <dei:TradingSymbol
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Tc__qq1_QzZL0ykMtjZi6NMzQ_2_2">MOD</dei:TradingSymbol>
+    <dei:SecurityExchangeName
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Tc_VYbyrn63-U2qvCtsC83vUw_2_4">NYSE</dei:SecurityExchangeName>
+    <dei:EntityEmergingGrowthCompany
+      contextRef="Duration_7_29_2026_To_7_29_2026_fKr6HNZbdUq693vmn9EK9A"
+      id="Narr_haHYBsXOZUO4mQMN_bRgTQ">false</dei:EntityEmergingGrowthCompany>
+</xbrl>

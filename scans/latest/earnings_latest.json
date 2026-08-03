@@ -1,15 +1,15 @@
 {
-  "run_time": "2026-08-03T09:36:25.589451+00:00",
+  "run_time": "2026-08-03T14:36:26.985810+00:00",
   "lookback_days": 7,
   "tickers_checked": 29,
-  "new_items_count": 43,
+  "new_items_count": 45,
   "new_items": [
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "title": "3 Big Takeaways From Microsoft's Earnings",
-      "link": "https://www.fool.com/investing/2026/08/03/3-big-takeaways-from-microsofts-earnings/?.tsrc=rss",
-      "date": "Mon, 03 Aug 2026 08:35:00 +0000",
+      "title": "S&amp;P Global Grew Revenue 10% and Still Missed on Earnings. Except, Maybe It Didn't.",
+      "link": "https://www.fool.com/investing/2026/08/03/sp-global-grew-revenue-10-and-still-missed-on-earn/?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 14:05:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
@@ -17,9 +17,9 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "title": "AMD Reports Tuesday. One Number Decides Whether 54 Times Forward Earnings Was Ever Defensible.",
-      "link": "https://www.fool.com/investing/2026/08/03/amd-reports-tuesday-one-number-decides-whether-54/?.tsrc=rss",
-      "date": "Mon, 03 Aug 2026 08:01:00 +0000",
+      "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 14:04:19 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
@@ -27,9 +27,9 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "title": "Tesla Missed Earnings by 38%, but Elon Musk Isn't Worried. Here's What Investors Should Make of That.",
-      "link": "https://www.fool.com/investing/2026/08/03/tesla-missed-earnings-by-38-but-elon-musk-isnt-wor/?.tsrc=rss",
-      "date": "Mon, 03 Aug 2026 07:25:00 +0000",
+      "title": "Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at About 20 Times Forward Earnings.",
+      "link": "https://www.fool.com/investing/2026/08/03/taiwan-semiconductor-just-reclaimed-a-2-trillion-m/?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 13:46:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
@@ -37,9 +37,9 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "title": "SpaceX Reports Its First-Ever Earnings Tuesday. Here Are the 5 Numbers That Will Define Whether the $1.4 Trillion Valuation Makes Any Sense.",
-      "link": "https://www.fool.com/investing/2026/08/03/spacex-reports-its-first-ever-earnings-tuesday-her/?.tsrc=rss",
-      "date": "Mon, 03 Aug 2026 07:15:00 +0000",
+      "title": "Palantir Aims For 12th Straight Revenue Acceleration, But U.S. Growth Is Key",
+      "link": "https://finance.yahoo.com/m/33ee4818-7027-3212-9b2a-b6d8f44b3316/palantir-aims-for-12th.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 13:10:35 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
@@ -47,9 +47,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "AMD Reports Tuesday. One Number Decides Whether 54 Times Forward Earnings Was Ever Defensible.",
-      "link": "https://www.fool.com/investing/2026/08/03/amd-reports-tuesday-one-number-decides-whether-54/?.tsrc=rss",
-      "date": "Mon, 03 Aug 2026 08:01:00 +0000",
+      "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 14:04:19 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -57,9 +57,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "Dow, S&amp;P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, PLTR, CRML, IONQ Stocks In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-as-markets-gear-up-for-another-key-earnings-week-uso-pltr-crml-ionq-stocks-in-focus/cZoT25dRJ5Z?.tsrc=rss",
-      "date": "Mon, 03 Aug 2026 06:50:46 +0000",
+      "title": "Schneider Electric (ENXTPA:SU) Posts Strong Half Year Earnings, Is It Still Undervalued?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/schneider-electric-enxtpa-su-posts-130830008.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 13:08:30 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -67,9 +67,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-      "link": "https://finance.yahoo.com/m/a6fd7cc1-160f-33be-9c9b-10601e0fcebe/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
-      "date": "Mon, 03 Aug 2026 04:21:41 +0000",
+      "title": "Earnings live updates: Marriott stock falls as Middle East drags, Trump brothers-backed American Bitcoin swings to loss",
+      "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 13:04:25 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -77,9 +77,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "Earnings to watch this week: SpaceX's first earnings report, Disney, AMD, &amp; McDonald's",
-      "link": "https://finance.yahoo.com/video/earnings-watch-week-spacexs-first-180000072.html?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 18:00:00 +0000",
+      "title": "AMD Q2 Earnings On Deck: What To Expect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-q2-earnings-deck-expect-120615704.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 12:06:15 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -87,9 +87,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week",
-      "link": "https://finance.yahoo.com/m/d48ba174-5866-3af8-8bf4-9425cfbf2121/jobs-report%2C-palantir%2C-amd%2C.html?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 18:00:00 +0000",
+      "title": "Stocks Rise Pre-Bell as Trump Calls Off Planned Iran Strikes; Labor Market Data, Corporate Earnings on Deck",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-trump-115120773.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 11:51:20 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -97,12 +97,52 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "Earnings, PMI and Other Key Things to Watch this Week",
-      "link": "https://www.barchart.com/story/news/3602857/earnings-pmi-and-other-key-things-to-watch-this-week?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 17:00:02 +0000",
+      "title": "Ocular Therapeutix\u2122 Reports Second Quarter 2026 Financial Results and Business Highlights",
+      "link": "https://finance.yahoo.com/healthcare/articles/ocular-therapeutix-reports-second-quarter-110000734.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 11:00:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "title": "AMD to report Q2 earnings as chip stocks continue to waver",
+      "link": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 11:00:00 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_infrastructure",
+      "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "title": "US Equity Investors to Focus on Quarterly Earnings, Nonfarm Payrolls, Iran Geopolitics This Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-quarterly-093901802.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 09:39:01 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_infrastructure",
+      "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "title": "Broadcom Inc. to Announce Third Quarter Fiscal Year 2026 Financial Results on Wednesday, September 2, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-announce-third-quarter-120000388.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 12:00:00 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_infrastructure",
+      "ticker_notes": "Custom ASICs for hyperscalers, VMware, networking monopoly."
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor",
+      "title": "Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at About 20 Times Forward Earnings.",
+      "link": "https://www.fool.com/investing/2026/08/03/taiwan-semiconductor-just-reclaimed-a-2-trillion-m/?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 13:46:00 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_infrastructure",
+      "ticker_notes": "The fab. Everyone's chips flow through TSMC. Geopolitical linchpin."
     },
     {
       "ticker": "TSM",
@@ -115,41 +155,21 @@
       "ticker_notes": "The fab. Everyone's chips flow through TSMC. Geopolitical linchpin."
     },
     {
-      "ticker": "MU",
-      "name": "Micron",
-      "title": "Silicon Motion Crushed Earnings and Surprised Memory Chip Bears",
-      "link": "https://www.fool.com/investing/2026/08/01/silicon-motion-technology-crushed-earnings/?.tsrc=rss",
-      "date": "Sat, 01 Aug 2026 19:59:00 +0000",
+      "ticker": "ASML",
+      "name": "ASML",
+      "title": "ASML reports transactions under its current share buyback program",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-reports-transactions-under-current-120000759.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 12:00:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
-      "ticker_notes": "HBM3E/HBM4 for AI memory. Supply/demand cycles."
-    },
-    {
-      "ticker": "ANET",
-      "name": "Arista Networks",
-      "title": "Earnings, PMI and Other Key Things to Watch this Week",
-      "link": "https://www.barchart.com/story/news/3602857/earnings-pmi-and-other-key-things-to-watch-this-week?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 17:00:02 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "Datacenter networking \u2014 Ethernet vs InfiniBand."
-    },
-    {
-      "ticker": "ANET",
-      "name": "Arista Networks",
-      "title": "Can Solid Top-Line Expansion Benefit KLIC's Q3 Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/solid-top-line-expansion-benefit-165400697.html?.tsrc=rss",
-      "date": "Thu, 30 Jul 2026 16:54:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "Datacenter networking \u2014 Ethernet vs InfiniBand."
+      "ticker_notes": "EUV monopoly. The machine that makes the machines."
     },
     {
       "ticker": "CRWD",
       "name": "CrowdStrike",
-      "title": "CrowdStrike 2026 Threat Hunting Report: AI is Now Embedded Across Modern Adversary Operations",
-      "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-2026-threat-hunting-report-070100727.html?.tsrc=rss",
-      "date": "Mon, 03 Aug 2026 07:01:00 +0000",
+      "title": "Software catches a bid as investors rotate ahead of Palantir earnings",
+      "link": "https://finance.yahoo.com/technology/articles/software-catches-bid-investors-rotate-123937611.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 12:39:37 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Post-outage recovery. Security as AI infra requirement."
@@ -175,21 +195,21 @@
       "ticker_notes": "Uranium fuel, nuclear renaissance from AI datacenter demand."
     },
     {
-      "ticker": "GEV",
-      "name": "GE Vernova",
-      "title": "GE HealthCare Stock Soars After Earnings\u2014and It\u2019s Suddenly the Best Performing GE",
-      "link": "https://finance.yahoo.com/m/919c0d8d-f872-3409-92fd-f91d0effd0f6/ge-healthcare-stock-soars.html?.tsrc=rss",
-      "date": "Wed, 29 Jul 2026 20:20:00 +0000",
+      "ticker": "OKLO",
+      "name": "Oklo",
+      "title": "Here's How to Play NuScale Stock Before Q2 Earnings Release",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-play-nuscale-stock-q2-122800128.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 12:28:00 +0000",
       "source": "yahoo_finance",
       "thesis": "energy_power",
-      "ticker_notes": "Gas turbines, grid equipment, nuclear \u2014 picks-and-shovels of power."
+      "ticker_notes": "SMR play, Sam Altman-backed, nuclear for datacenters."
     },
     {
       "ticker": "SMR",
       "name": "NuScale Power",
-      "title": "NuScale Power's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
-      "link": "https://www.fool.com/investing/2026/08/02/nuscale-powers-next-earnings-report-on-aug-5-could-send-the-stock-soaring-heres-why/?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 21:09:01 +0000",
+      "title": "Here's How to Play NuScale Stock Before Q2 Earnings Release",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-play-nuscale-stock-q2-122800128.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 12:28:00 +0000",
       "source": "yahoo_finance",
       "thesis": "energy_power",
       "ticker_notes": "SMR developer, first NRC-approved design."
@@ -197,9 +217,9 @@
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "title": "3 Big Takeaways From Microsoft's Earnings",
-      "link": "https://www.fool.com/investing/2026/08/03/3-big-takeaways-from-microsofts-earnings/?.tsrc=rss",
-      "date": "Mon, 03 Aug 2026 08:35:00 +0000",
+      "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 14:04:19 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Azure/OpenAI partnership, Copilot, enterprise AI distribution."
@@ -207,9 +227,9 @@
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "title": "LinkedIn reports solid Q2 revenue growth",
-      "link": "https://www.socialmediatoday.com/news/linkedin-reports-solid-q2-revenue-growth/826786/?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 19:06:04 +0000",
+      "title": "Software catches a bid as investors rotate ahead of Palantir earnings",
+      "link": "https://finance.yahoo.com/technology/articles/software-catches-bid-investors-rotate-123937611.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 12:39:37 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Azure/OpenAI partnership, Copilot, enterprise AI distribution."
@@ -217,9 +237,9 @@
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "title": "3 Reasons Microsoft Stock Soared After Q4 Earnings",
-      "link": "https://www.barchart.com/story/news/3602955/3-reasons-microsoft-stock-soared-after-q4-earnings?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 17:30:02 +0000",
+      "title": "Apple's Record Quarter Ran Into A Memory Bill",
+      "link": "https://www.trefis.com/articles/609846/apples-record-quarter-ran-into-a-memory-bill/2026-08-03?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 12:39:34 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Azure/OpenAI partnership, Copilot, enterprise AI distribution."
@@ -227,9 +247,9 @@
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "title": "As Cloud Revenue Soars, Is It Time to Buy Microsoft Stock?",
-      "link": "https://www.fool.com/investing/2026/08/02/cloud-revenue-soars-time-buy-microsoft-stock/?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 16:35:00 +0000",
+      "title": "IREN (NasdaqGS:IREN) Lands Microsoft And Nvidia AI Cloud Deals Covering Most Revenue Target",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iren-nasdaqgs-iren-lands-microsoft-110841703.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 11:08:41 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Azure/OpenAI partnership, Copilot, enterprise AI distribution."
@@ -237,9 +257,9 @@
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "title": "Microsoft vs. Apple: Comparing Revenue Trends and the Impact of Artificial Intelligence",
-      "link": "https://www.fool.com/coverage/charts/2026/08/02/microsoft-vs-apple-comparing-revenue-trends-and-the-impact-of-artificial-intelligence/?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 13:13:01 +0000",
+      "title": "AMD to report Q2 earnings as chip stocks continue to waver",
+      "link": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 11:00:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Azure/OpenAI partnership, Copilot, enterprise AI distribution."
@@ -247,9 +267,9 @@
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "title": "Nvidia vs. Alphabet: What Revenue Trends Reveal About the AI Leaders",
-      "link": "https://247wallst.com/investing/2026/08/02/nvidia-vs-alphabet-what-revenue-trends-reveal-about-the-ai-leaders/?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 16:00:12 +0000",
+      "title": "Apple's Record Quarter Ran Into A Memory Bill",
+      "link": "https://www.trefis.com/articles/609846/apples-record-quarter-ran-into-a-memory-bill/2026-08-03?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 12:39:34 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Gemini, TPU, DeepMind, YouTube. Full-stack AI."
@@ -257,19 +277,9 @@
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "title": "IonQ vs. Alphabet:  What Revenue Trends Reveal About the Quantum Computing Chipmaker and the Artificial Intelligence Giant",
-      "link": "https://www.fool.com/coverage/charts/2026/08/02/ionq-vs-alphabet-what-revenue-trends-reveal-about-the-quantum-computing-chipmaker-and-the-artificial-intelligence-giant/?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 12:25:01 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "Gemini, TPU, DeepMind, YouTube. Full-stack AI."
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "title": "Nvidia vs. Alphabet: What Do Revenue Trends Tell Investors About These Artificial Intelligence Companies?",
-      "link": "https://www.fool.com/coverage/charts/2026/08/01/nvidia-vs-alphabet-what-do-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 01:25:01 +0000",
+      "title": "SpaceX Stock Falls Again\u2014New Month, Same Problems Ahead of Earnings",
+      "link": "https://finance.yahoo.com/m/88d80a06-3e3d-3acc-88e7-0866c8fce02a/spacex-stock-falls-again%E2%80%94new.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 11:16:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Gemini, TPU, DeepMind, YouTube. Full-stack AI."
@@ -277,9 +287,9 @@
     {
       "ticker": "META",
       "name": "Meta",
-      "title": "Is Meta Platforms Stock a Buy on the Dip as Revenue Surges?",
-      "link": "https://www.fool.com/investing/2026/08/02/is-meta-platforms-stock-a-buy-on-dip-as-revenue/?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 21:20:00 +0000",
+      "title": "Unlocking Meta Platforms (META) International Revenues: Trends, Surprises, and Prospects",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/unlocking-meta-platforms-meta-international-131506093.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 13:15:06 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Llama open-source, massive GPU fleet, Reality Labs option."
@@ -287,9 +297,19 @@
     {
       "ticker": "META",
       "name": "Meta",
-      "title": "3 Reasons Microsoft Stock Soared After Q4 Earnings",
-      "link": "https://www.barchart.com/story/news/3602955/3-reasons-microsoft-stock-soared-after-q4-earnings?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 17:30:02 +0000",
+      "title": "SNAP Stock Falls Premarket Ahead Of Quarterly Report: Investors Watch User Growth, Ad Sales",
+      "link": "https://stocktwits.com/news-articles/markets/equity/snap-stock-falls-premarket-ahead-of-quarterly-report-investors-watch-user-growth-ad-sales/cZoTIp7RJdP?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 09:42:54 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_software_models",
+      "ticker_notes": "Llama open-source, massive GPU fleet, Reality Labs option."
+    },
+    {
+      "ticker": "META",
+      "name": "Meta",
+      "title": "U.S. Futures Rise as Middle East Diplomacy Returns to Focus Ahead of Palantir Results: Dow Jones, S&amp;P, Nasdaq, Wall Street",
+      "link": "https://investorshub.advfn.com/market-news/article/33193/u-s-futures-rise-as-middle-east-diplomacy-returns-to-focus-ahead-of-palantir-results-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 09:10:58 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Llama open-source, massive GPU fleet, Reality Labs option."
@@ -297,9 +317,9 @@
     {
       "ticker": "AMZN",
       "name": "Amazon",
-      "title": "Is Amazon Stock a Buy After CEO Andy Jassy's $1 Trillion AWS Revenue Prediction?",
-      "link": "https://www.fool.com/investing/2026/08/02/is-amazon-stock-a-buy-after-ceo-andy-jassys-1-tril/?.tsrc=rss",
-      "date": "Mon, 03 Aug 2026 00:20:00 +0000",
+      "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 14:04:19 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "AWS, Trainium/Inferentia, Anthropic investment."
@@ -307,9 +327,19 @@
     {
       "ticker": "AMZN",
       "name": "Amazon",
-      "title": "Wall Street Is Rewarding AI Results, Not Just AI Spending",
-      "link": "https://www.barchart.com/story/news/3603901/wall-street-is-rewarding-ai-results-not-just-ai-spending?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 21:19:26 +0000",
+      "title": "Apple's Record Quarter Ran Into A Memory Bill",
+      "link": "https://www.trefis.com/articles/609846/apples-record-quarter-ran-into-a-memory-bill/2026-08-03?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 12:39:34 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_software_models",
+      "ticker_notes": "AWS, Trainium/Inferentia, Anthropic investment."
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "title": "Amazon.com vs. Airbnb: Comparing Revenue Trends Between an E-Commerce Leader and a Travel Giant",
+      "link": "https://www.fool.com/coverage/charts/2026/08/03/amazon-com-vs-airbnb-comparing-revenue-trends-between-an-e-commerce-leader-and-a-travel-giant/?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 12:23:01 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "AWS, Trainium/Inferentia, Anthropic investment."
@@ -317,9 +347,9 @@
     {
       "ticker": "SNOW",
       "name": "Snowflake",
-      "title": "Wall Street Is Rewarding AI Results, Not Just AI Spending",
-      "link": "https://www.barchart.com/story/news/3603901/wall-street-is-rewarding-ai-results-not-just-ai-spending?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 21:19:26 +0000",
+      "title": "Snowflake to Announce Financial Results for the Second Quarter of Fiscal 2027 on September 2, 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-announce-financial-results-second-130000577.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 13:00:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Data cloud, AI workloads, Cortex AI."
@@ -337,9 +367,19 @@
     {
       "ticker": "DDOG",
       "name": "Datadog",
-      "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-      "link": "https://finance.yahoo.com/m/a6fd7cc1-160f-33be-9c9b-10601e0fcebe/dow-jones-futures-rise%2C-oil.html?.tsrc=rss",
-      "date": "Mon, 03 Aug 2026 04:21:41 +0000",
+      "title": "Datadog (DDOG) Q2 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/datadog-ddog-q2-earnings-horizon-131505145.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 13:15:05 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_software_models",
+      "ticker_notes": "Observability for cloud/AI infrastructure."
+    },
+    {
+      "ticker": "DDOG",
+      "name": "Datadog",
+      "title": "BofA crowns monitoring platform top software pick before earnings",
+      "link": "https://www.thestreet.com/investing/stocks/bofa-crowns-datadog-top-software-pick-ahead-of-earnings?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 13:03:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Observability for cloud/AI infrastructure."
@@ -357,9 +397,9 @@
     {
       "ticker": "PLTR",
       "name": "Palantir",
-      "title": "Dow, S&amp;P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, PLTR, CRML, IONQ Stocks In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-climb-as-markets-gear-up-for-another-key-earnings-week-uso-pltr-crml-ionq-stocks-in-focus/cZoT25dRJ5Z?.tsrc=rss",
-      "date": "Mon, 03 Aug 2026 06:50:46 +0000",
+      "title": "Earnings live updates: Marriott stock falls as Middle East drags, Trump brothers-backed American Bitcoin swings to loss",
+      "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 13:04:25 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "AIP platform, government + commercial AI."
@@ -367,9 +407,9 @@
     {
       "ticker": "PLTR",
       "name": "Palantir",
-      "title": "Palantir Earnings Will Show If the Software Rocket Is Running Out of Fuel",
-      "link": "https://finance.yahoo.com/m/47288337-006e-3970-a5c2-a7981533f300/palantir-earnings-will-show.html?.tsrc=rss",
-      "date": "Mon, 03 Aug 2026 06:30:00 +0000",
+      "title": "Software catches a bid as investors rotate ahead of Palantir earnings",
+      "link": "https://finance.yahoo.com/technology/articles/software-catches-bid-investors-rotate-123937611.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 12:39:37 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "AIP platform, government + commercial AI."
@@ -377,9 +417,9 @@
     {
       "ticker": "PLTR",
       "name": "Palantir",
-      "title": "PLTR Stock Is 40% Off Its Peak: Will Q2 Earnings Turn Things Around For Good?",
-      "link": "https://stocktwits.com/news-articles/markets/equity/pltr-stock-is-40-off-its-peak-will-q2-earnings-turn-things-around-for-good/cZoRxBGRJ5N?.tsrc=rss",
-      "date": "Mon, 03 Aug 2026 02:33:12 +0000",
+      "title": "Palantir Stock Could Swing 10% After Today's Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-could-swing-10-120500956.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 12:05:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "AIP platform, government + commercial AI."
@@ -387,9 +427,9 @@
     {
       "ticker": "PLTR",
       "name": "Palantir",
-      "title": "Wall Street Can\u2019t Agree on Palantir Stock. Earnings Will Reveal Who\u2019s Right.",
-      "link": "https://www.barchart.com/story/news/3603670/wall-street-cant-agree-on-palantir-stock-earnings-will-reveal-whos-right?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 20:03:30 +0000",
+      "title": "Stocks Rise Pre-Bell as Trump Calls Off Planned Iran Strikes; Labor Market Data, Corporate Earnings on Deck",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-trump-115120773.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 11:51:20 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "AIP platform, government + commercial AI."
@@ -397,9 +437,9 @@
     {
       "ticker": "PLTR",
       "name": "Palantir",
-      "title": "Palantir Is Set to Deliver Strong Q2. Analysts See 60% Upside Potential for PLTR Stock.",
-      "link": "https://www.barchart.com/story/news/3603614/palantir-is-set-to-deliver-strong-q2-analysts-see-60-upside-potential-for-pltr-stock?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 19:30:02 +0000",
+      "title": "US Equity Investors to Focus on Quarterly Earnings, Nonfarm Payrolls, Iran Geopolitics This Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-quarterly-093901802.html?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 09:39:01 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "AIP platform, government + commercial AI."
@@ -407,29 +447,9 @@
     {
       "ticker": "PLTR",
       "name": "Palantir",
-      "title": "Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week",
-      "link": "https://finance.yahoo.com/m/d48ba174-5866-3af8-8bf4-9425cfbf2121/jobs-report%2C-palantir%2C-amd%2C.html?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 18:00:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "AIP platform, government + commercial AI."
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "title": "Earnings, PMI and Other Key Things to Watch this Week",
-      "link": "https://www.barchart.com/story/news/3602857/earnings-pmi-and-other-key-things-to-watch-this-week?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 17:00:02 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "AIP platform, government + commercial AI."
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "title": "Palantir Technologies (PLTR) Q2 Earnings: What To Expect",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-pltr-q2-earnings-071657984.html?.tsrc=rss",
-      "date": "Sun, 02 Aug 2026 07:16:57 +0000",
+      "title": "U.S. Futures Rise as Middle East Diplomacy Returns to Focus Ahead of Palantir Results: Dow Jones, S&amp;P, Nasdaq, Wall Street",
+      "link": "https://investorshub.advfn.com/market-news/article/33193/u-s-futures-rise-as-middle-east-diplomacy-returns-to-focus-ahead-of-palantir-results-dow-jones-sp-nasdaq-wall-street?.tsrc=rss",
+      "date": "Mon, 03 Aug 2026 09:10:58 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "AIP platform, government + commercial AI."

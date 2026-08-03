@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xbrl
+  xml:lang="en-US"
+  xmlns="http://www.xbrl.org/2003/instance"
+  xmlns:dei="http://xbrl.sec.gov/dei/2026"
+  xmlns:glw="http://www.corning.com/20260728"
+  xmlns:link="http://www.xbrl.org/2003/linkbase"
+  xmlns:us-gaap="http://fasb.org/us-gaap/2026"
+  xmlns:xbrldi="http://xbrl.org/2006/xbrldi"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <link:schemaRef xlink:href="glw-20260728.xsd" xlink:type="simple"/>
+    <context id="c-1">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000024741</identifier>
+        </entity>
+        <period>
+            <startDate>2026-07-28</startDate>
+            <endDate>2026-07-28</endDate>
+        </period>
+    </context>
+    <context id="c-2">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000024741</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <startDate>2026-07-28</startDate>
+            <endDate>2026-07-28</endDate>
+        </period>
+    </context>
+    <context id="c-3">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000024741</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">glw:A4.125NotesDue2031Member</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <startDate>2026-07-28</startDate>
+            <endDate>2026-07-28</endDate>
+        </period>
+    </context>
+    <dei:EntityCentralIndexKey contextRef="c-1" id="f-23">0000024741</dei:EntityCentralIndexKey>
+    <dei:EntityRegistrantName contextRef="c-1" id="f-24">CORNING INC /NY</dei:EntityRegistrantName>
+    <dei:AmendmentFlag contextRef="c-1" id="f-25">false</dei:AmendmentFlag>
+    <dei:DocumentType contextRef="c-1" id="f-1">8-K</dei:DocumentType>
+    <dei:DocumentPeriodEndDate contextRef="c-1" id="f-2">2026-07-28</dei:DocumentPeriodEndDate>
+    <dei:EntityFileNumber contextRef="c-1" id="f-3">1-3247</dei:EntityFileNumber>
+    <dei:EntityIncorporationStateCountryCode contextRef="c-1" id="f-4">NY</dei:EntityIncorporationStateCountryCode>
+    <dei:EntityTaxIdentificationNumber contextRef="c-1" id="f-5">16-0393470</dei:EntityTaxIdentificationNumber>
+    <dei:EntityAddressAddressLine1 contextRef="c-1" id="f-6">One Riverfront Plaza</dei:EntityAddressAddressLine1>
+    <dei:EntityAddressCityOrTown contextRef="c-1" id="f-7">Corning</dei:EntityAddressCityOrTown>
+    <dei:EntityAddressStateOrProvince contextRef="c-1" id="f-8">NY</dei:EntityAddressStateOrProvince>
+    <dei:EntityAddressPostalZipCode contextRef="c-1" id="f-9">14831</dei:EntityAddressPostalZipCode>
+    <dei:CityAreaCode contextRef="c-1" id="f-10">607</dei:CityAreaCode>
+    <dei:LocalPhoneNumber contextRef="c-1" id="f-11">974-9000</dei:LocalPhoneNumber>
+    <dei:Security12bTitle contextRef="c-2" id="f-12">Common Stock, $0.50 par value per share</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="c-2" id="f-13">GLW</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="c-2" id="f-14">NYSE</dei:SecurityExchangeName>
+    <dei:Security12bTitle contextRef="c-3" id="f-15">4.125% Notes due 2031</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="c-3" id="f-16">GLW31</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="c-3" id="f-17">NYSE</dei:SecurityExchangeName>
+    <dei:EntityEmergingGrowthCompany contextRef="c-1" id="f-18">false</dei:EntityEmergingGrowthCompany>
+    <dei:WrittenCommunications contextRef="c-1" id="f-19">false</dei:WrittenCommunications>
+    <dei:SolicitingMaterial contextRef="c-1" id="f-20">false</dei:SolicitingMaterial>
+    <dei:PreCommencementTenderOffer contextRef="c-1" id="f-21">false</dei:PreCommencementTenderOffer>
+    <dei:PreCommencementIssuerTenderOffer contextRef="c-1" id="f-22">false</dei:PreCommencementIssuerTenderOffer>
+</xbrl>

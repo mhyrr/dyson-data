@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xbrl
+  xml:lang="en-US"
+  xmlns="http://www.xbrl.org/2003/instance"
+  xmlns:dei="http://xbrl.sec.gov/dei/2025"
+  xmlns:link="http://www.xbrl.org/2003/linkbase"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <link:schemaRef xlink:href="nvt-20260731.xsd" xlink:type="simple"/>
+    <context id="c-1">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0001720635</identifier>
+        </entity>
+        <period>
+            <startDate>2026-07-31</startDate>
+            <endDate>2026-07-31</endDate>
+        </period>
+    </context>
+    <dei:EntityCentralIndexKey contextRef="c-1" id="f-25">0001720635</dei:EntityCentralIndexKey>
+    <dei:AmendmentFlag contextRef="c-1" id="f-26">false</dei:AmendmentFlag>
+    <dei:DocumentType contextRef="c-1" id="f-1">8-K</dei:DocumentType>
+    <dei:DocumentPeriodEndDate contextRef="c-1" id="f-2">2026-07-31</dei:DocumentPeriodEndDate>
+    <dei:EntityRegistrantName contextRef="c-1" id="f-3">nVent Electric plc</dei:EntityRegistrantName>
+    <dei:EntityIncorporationStateCountryCode contextRef="c-1" id="f-4">L2</dei:EntityIncorporationStateCountryCode>
+    <dei:EntityFileNumber contextRef="c-1" id="f-5">001-38265</dei:EntityFileNumber>
+    <dei:EntityTaxIdentificationNumber contextRef="c-1" id="f-6">98-1391970</dei:EntityTaxIdentificationNumber>
+    <dei:EntityAddressAddressLine1 contextRef="c-1" id="f-7">The Mille, 1000 Great West Road, 8th Floor (East)</dei:EntityAddressAddressLine1>
+    <dei:EntityAddressCityOrTown contextRef="c-1" id="f-8">London</dei:EntityAddressCityOrTown>
+    <dei:EntityAddressPostalZipCode contextRef="c-1" id="f-9">TW8 9DW</dei:EntityAddressPostalZipCode>
+    <dei:EntityAddressCountry contextRef="c-1" id="f-10">GB</dei:EntityAddressCountry>
+    <dei:CountryRegion contextRef="c-1" id="f-11">44</dei:CountryRegion>
+    <dei:CityAreaCode contextRef="c-1" id="f-12">20</dei:CityAreaCode>
+    <dei:LocalPhoneNumber contextRef="c-1" id="f-13">3966-0279</dei:LocalPhoneNumber>
+    <dei:WrittenCommunications contextRef="c-1" id="f-14">false</dei:WrittenCommunications>
+    <dei:SolicitingMaterial contextRef="c-1" id="f-15">false</dei:SolicitingMaterial>
+    <dei:PreCommencementTenderOffer contextRef="c-1" id="f-16">false</dei:PreCommencementTenderOffer>
+    <dei:PreCommencementIssuerTenderOffer contextRef="c-1" id="f-17">false</dei:PreCommencementIssuerTenderOffer>
+    <dei:Security12bTitle contextRef="c-1" id="f-18">Ordinary Shares, nominal value $0.01 per share</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="c-1" id="f-19">NVT</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="c-1" id="f-20">NYSE</dei:SecurityExchangeName>
+    <dei:EntityEmergingGrowthCompany contextRef="c-1" id="f-21">false</dei:EntityEmergingGrowthCompany>
+    <dei:DocumentPeriodEndDate contextRef="c-1" id="f-22">2026-07-31</dei:DocumentPeriodEndDate>
+    <dei:DocumentPeriodEndDate contextRef="c-1" id="f-23">2026-07-31</dei:DocumentPeriodEndDate>
+    <dei:DocumentPeriodEndDate contextRef="c-1" id="f-24">2026-07-31</dei:DocumentPeriodEndDate>
+</xbrl>

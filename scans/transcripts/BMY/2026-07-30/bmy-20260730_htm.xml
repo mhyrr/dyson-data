@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xbrl
+  xml:lang="en-US"
+  xmlns="http://www.xbrl.org/2003/instance"
+  xmlns:bmy="http://www.bms.com/20260730"
+  xmlns:dei="http://xbrl.sec.gov/dei/2026"
+  xmlns:link="http://www.xbrl.org/2003/linkbase"
+  xmlns:us-gaap="http://fasb.org/us-gaap/2026"
+  xmlns:xbrldi="http://xbrl.org/2006/xbrldi"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <link:schemaRef xlink:href="bmy-20260730.xsd" xlink:type="simple"/>
+    <context id="c-1">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000014272</identifier>
+        </entity>
+        <period>
+            <startDate>2026-07-30</startDate>
+            <endDate>2026-07-30</endDate>
+        </period>
+    </context>
+    <context id="c-2">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000014272</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">bmy:CommonStock0.10ParValueMember</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <startDate>2026-07-30</startDate>
+            <endDate>2026-07-30</endDate>
+        </period>
+    </context>
+    <context id="c-3">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000014272</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">bmy:CelgeneContingentValueRightsMember</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <startDate>2026-07-30</startDate>
+            <endDate>2026-07-30</endDate>
+        </period>
+    </context>
+    <context id="c-4">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000014272</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">bmy:A2.973NotesDue2030Member</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <startDate>2026-07-30</startDate>
+            <endDate>2026-07-30</endDate>
+        </period>
+    </context>
+    <context id="c-5">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000014272</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">bmy:A3.363NotesDue2033Member</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <startDate>2026-07-30</startDate>
+            <endDate>2026-07-30</endDate>
+        </period>
+    </context>
+    <context id="c-6">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000014272</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">bmy:A1.750Notesdue2035Member</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <startDate>2026-07-30</startDate>
+            <endDate>2026-07-30</endDate>
+        </period>
+    </context>
+    <context id="c-7">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000014272</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">bmy:A3.857NotesDue2038Member</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <startDate>2026-07-30</startDate>
+            <endDate>2026-07-30</endDate>
+        </period>
+    </context>
+    <context id="c-8">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000014272</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">bmy:A4.289NotesDue2045Member</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <startDate>2026-07-30</startDate>
+            <endDate>2026-07-30</endDate>
+        </period>
+    </context>
+    <context id="c-9">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000014272</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">bmy:A4.581NotesDue2055Member</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <startDate>2026-07-30</startDate>
+            <endDate>2026-07-30</endDate>
+        </period>
+    </context>
+    <dei:EntityCentralIndexKey contextRef="c-1" id="f-42">0000014272</dei:EntityCentralIndexKey>
+    <dei:AmendmentFlag contextRef="c-1" id="f-43">false</dei:AmendmentFlag>
+    <dei:DocumentType contextRef="c-1" id="f-1">8-K</dei:DocumentType>
+    <dei:DocumentPeriodEndDate contextRef="c-1" id="f-2">2026-07-30</dei:DocumentPeriodEndDate>
+    <dei:EntityRegistrantName contextRef="c-1" id="f-3">BRISTOL-MYERS SQUIBB COMPANY</dei:EntityRegistrantName>
+    <dei:EntityIncorporationStateCountryCode contextRef="c-1" id="f-4">DE</dei:EntityIncorporationStateCountryCode>
+    <dei:EntityFileNumber contextRef="c-1" id="f-5">001-01136</dei:EntityFileNumber>
+    <dei:EntityTaxIdentificationNumber contextRef="c-1" id="f-6">22-0790350</dei:EntityTaxIdentificationNumber>
+    <dei:EntityAddressAddressLine1 contextRef="c-1" id="f-7">Route 206 &amp; Province Line Road</dei:EntityAddressAddressLine1>
+    <dei:EntityAddressCityOrTown contextRef="c-1" id="f-8">Princeton</dei:EntityAddressCityOrTown>
+    <dei:EntityAddressStateOrProvince contextRef="c-1" id="f-9">NJ</dei:EntityAddressStateOrProvince>
+    <dei:EntityAddressPostalZipCode contextRef="c-1" id="f-10">08543</dei:EntityAddressPostalZipCode>
+    <dei:CityAreaCode contextRef="c-1" id="f-11">609</dei:CityAreaCode>
+    <dei:LocalPhoneNumber contextRef="c-1" id="f-12">252-4621</dei:LocalPhoneNumber>
+    <dei:WrittenCommunications contextRef="c-1" id="f-13">false</dei:WrittenCommunications>
+    <dei:SolicitingMaterial contextRef="c-1" id="f-14">false</dei:SolicitingMaterial>
+    <dei:PreCommencementTenderOffer contextRef="c-1" id="f-15">false</dei:PreCommencementTenderOffer>
+    <dei:PreCommencementIssuerTenderOffer contextRef="c-1" id="f-16">false</dei:PreCommencementIssuerTenderOffer>
+    <dei:Security12bTitle contextRef="c-2" id="f-17">Common Stock, $0.10 Par Value</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="c-2" id="f-18">BMY</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="c-2" id="f-19">NYSE</dei:SecurityExchangeName>
+    <dei:Security12bTitle contextRef="c-3" id="f-20">Celgene Contingent Value Rights</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="c-3" id="f-21">CELG RT</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="c-3" id="f-22">NYSE</dei:SecurityExchangeName>
+    <dei:Security12bTitle contextRef="c-4" id="f-23">2.973% Notes due 2030</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="c-4" id="f-24">BMY/30</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="c-4" id="f-25">NYSE</dei:SecurityExchangeName>
+    <dei:Security12bTitle contextRef="c-5" id="f-26">3.363% Notes due 2033</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="c-5" id="f-27">BMY/33</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="c-5" id="f-28">NYSE</dei:SecurityExchangeName>
+    <dei:Security12bTitle contextRef="c-6" id="f-29">1.750% Notes due 2035</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="c-6" id="f-30">BMY35</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="c-6" id="f-31">NYSE</dei:SecurityExchangeName>
+    <dei:Security12bTitle contextRef="c-7" id="f-32">3.857% Notes due 2038</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="c-7" id="f-33">BMY/38</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="c-7" id="f-34">NYSE</dei:SecurityExchangeName>
+    <dei:Security12bTitle contextRef="c-8" id="f-35">4.289% Notes due 2045</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="c-8" id="f-36">BMY/45</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="c-8" id="f-37">NYSE</dei:SecurityExchangeName>
+    <dei:Security12bTitle contextRef="c-9" id="f-38">4.581% Notes due 2055</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="c-9" id="f-39">BMY/55</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="c-9" id="f-40">NYSE</dei:SecurityExchangeName>
+    <dei:EntityEmergingGrowthCompany contextRef="c-1" id="f-41">false</dei:EntityEmergingGrowthCompany>
+</xbrl>
