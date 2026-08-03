@@ -1,0 +1,168 @@
+=== Dyson X Monitor -- Daily Persona Post Log ===
+Date: 2026-08-03 00:10 UTC
+Range: 2026-08-02 to 2026-08-03 (1 day)
+Personas with X handles: 41
+Batches: 3
+Errors: 0
+============================================================
+
+--- Batch 1: CEOs/founders (20 handles) ---
+Handles: @nvidia, @LisaSu, @elonmusk, @sama, @AnthropicAI, @sundarpichai, @finkd, @ajassy, @satyanadella, @BroadcomAVGO, @Oracle, @DavidSacks, @patrickc, @bchesky, @demishassabis, @renehaas237, @MicronCEO, @cristianoamon, @ylecun, @karpathy
+
+@karpathy | 2026-08-02 23:20 | https://x.com/karpathy/status/2084056739197108667
+so fun! :) at some point i wonder if ngram (tables) or even something like decision trees start to give superior log probs, and at much smaller program lengths overall (sum of program + weights). i.e. what is the best val loss model overall, for 25KB of user space. fun q!
+Likes: 22 | Reposts: 1 | Replies: 2 | Views: 3194
+---
+
+@karpathy | 2026-08-02 20:45 | https://x.com/karpathy/status/2084017844455690558
+agree!! i quite like the idea of procedural code for storyboarding and control, and then video to video models for texturing and looksmaxxing.
+Likes: 91 | Reposts: 1 | Replies: 3 | Views: 13675
+---
+
+@elonmusk | 2026-08-02 21:45 | https://x.com/elonmusk/status/2084032763280138546
+The fake alive human fraud is 10 times worse in America & Europe
+Likes: 24042 | Reposts: 4124 | Replies: 1776 | Views: 7M+
+---
+
+@elonmusk | 2026-08-02 21:42 | https://x.com/elonmusk/status/2084032183887335530
+It is actually a world of difference
+Likes: 7151 | Reposts: 250 | Replies: 460 | Views: 766k
+---
+
+@elonmusk | 2026-08-02 21:41 | https://x.com/elonmusk/status/2084031845860065692
+Indeed
+Likes: 444 | Reposts: 51 | Replies: 65 | Views: 52k
+---
+
+@elonmusk | 2026-08-02 21:39 | https://x.com/elonmusk/status/2084031298276827136
+Likes: 906 | Reposts: 49 | Replies: 67 | Views: 52k
+---
+
+--- Batch 2: Investors/researchers/commentators (18 handles) ---
+Handles: @AravSrinivas, @pmarca, @GavinSBaker, @chamath, @saylor, @JeffDean, @KobeissiLetter, @yunta_tsai, @nabeelqu, @tszzl, @PalmerLuckey, @Gwynne_Shotwell, @mntruell, @steipete, @trq212, @deanwball, @nejatian, @signulll
+
+@saylor | 2026-08-02 22:34 | https://x.com/saylor/status/2084045087818891762
+We're now tracking Bitcoin's 200-week moving average and its premium to that level on https://www.strategy.com/ Since the 200W MA became available, Bitcoin has traded above it 92% of the time. Today, it sits almost exactly on the line.
+Likes: 5300 | Reposts: 515 | Replies: 549 | Views: 547k
+---
+
+@yunta_tsai | 2026-08-02 23:58 | https://x.com/yunta_tsai/status/2084066323827659215
+Probably I should dig out my Tegra dev board.
+Likes: 8 | Views: 703
+---
+
+@yunta_tsai | 2026-08-02 23:49 | https://x.com/yunta_tsai/status/2084063978737782850
+Dear "smart" TV, please give me an option to wipe your firmware so I can rebuild it from the ground up without those fake "smart" features.
+Likes: 553 | Reposts: 11 | Replies: 54 | Views: 19662
+---
+
+@yunta_tsai | 2026-08-02 20:42 | https://x.com/yunta_tsai/status/2084016925164949684
+It seems the new flex is not a Mac Studio Ultra but a DGX on your desk.
+Likes: 200 | Views: 18622
+---
+
+@KobeissiLetter | 2026-08-02 22:04 | https://x.com/KobeissiLetter/status/2084037538356892010
+BREAKING: US stock market futures rise after President Trump calls off strikes on Iran and says a deal is near:
+- S&P 500: +0.5%
+- Nasdaq 100: +0.8%
+- Dow Jones: +0.4%
+- WTI Crude: -7.5%
+- Brent: -10.0%
+- Gold: +0.7%
+Peace deal headlines are back.
+Likes: 3800 | Views: 428k
+---
+
+@KobeissiLetter | 2026-08-02 22:01 | https://x.com/KobeissiLetter/status/2084036898977144985
+BREAKING: US oil prices crash below $79/barrel after President Trump cancels US strikes on Iran and says a deal is near.
+Likes: 6300 | Views: 1.4M
+---
+
+@nabeelqu | 2026-08-02 21:39 | https://x.com/nabeelqu/status/2084031240953286925
+(Quote: "Claudechilles and The AGI Tortoise")
+---
+
+@nabeelqu | 2026-08-02 19:01 | https://x.com/nabeelqu/status/2083991582554968426
+It is legitimately funny that the models can perform such miracles in Very Serious Disciplines and yet are so bad at posting still. This shouldn't even be due to a lack of training data either -- presumably they have all the tweets). Posting well is an AGI-complete problem.
+Likes: 68 | Views: 49k
+---
+
+@nabeelqu | 2026-08-02 18:45 | https://x.com/nabeelqu/status/2083987542492279282
+Clearly you can get pretty damn far with whatever type of AI this is though, but I think for "real AGI" the "G" matters.
+---
+
+@tszzl | 2026-08-02 19:39 | https://x.com/tszzl/status/2084001047828463951
+people are incredibly mean to mathematicians in this time. they really relish when an ai solves something and frame in a zero sum way w human mathematicians. i think it evens out some childhood era math trauma they have?
+Likes: 3000 | Views: 295k
+---
+
+@PalmerLuckey | 2026-08-02 22:49 | https://x.com/PalmerLuckey/status/2084048937401626823
+Making the vast landscape of bad-in-different-ways counterfeit games work correctly is not a priority for ModRetro, safest thing to do is get a real copy of the real game.
+---
+
+@PalmerLuckey | 2026-08-02 22:31 | https://x.com/PalmerLuckey/status/2084044520879272379
+All current HDMI mods add at least an additional frame of latency, that is one of the main reasons the N64 exists!
+Likes: 974
+---
+
+@PalmerLuckey | 2026-08-02 20:39 | https://x.com/PalmerLuckey/status/2084016221566161075
+Great, since you have it all figured out, go out and make this plane of yours that would be vastly cheaper than any comparable aircraft made by any person or company on the planet.
+---
+
+@PalmerLuckey | 2026-08-02 18:25 | https://x.com/PalmerLuckey/status/2083982578214981879
+No, you cannot. Building an aircraft with 2500hp+ and 10,000lbs+ payload capacity for a million dollars would revolutinize the industry. Comparing long-range fixed-wing bombers launched from an aircraft carrier to VTOL attack aircraft is dumb. Helicopters exist for a reason.
+---
+
+@PalmerLuckey | 2026-08-02 18:04 | https://x.com/PalmerLuckey/status/2083977135744750045
+Almost all of your numbers are wrong, but the cost estimates are particularly bad. You cannot buy or build an A-1 or anything even remotely like it for $100k, nor can you perform attack helicopter missions with fixed wing aircraft that can't land or take off from ships/confined areas/urban environments/etc. And fiber optic drones are not analog nor immune to EW.
+---
+
+@trq212 | 2026-08-02 18:07 | https://x.com/trq212/status/2083978109376987365
+i think there are lots of parallels to what happened with chess
+---
+
+@trq212 | 2026-08-02 18:06 | https://x.com/trq212/status/2083977795290734975
+you can already see Jevons paradox at work in mathematics
+there is more happening, it is easier to understand and mathematicians have more time to discuss it with us at higher abstraction levels
+demand for people who think and know about math will go up
+Likes: 1400
+---
+
+@steipete | 2026-08-02 18:03 | https://x.com/steipete/status/2083976289485230449
+That's a fairly new kind of spam. https://github.com/jinhaosong-source?tab=overview&from=2026-07-01&to=2026-07-31
+Likes: 342
+---
+
+@nejatian | 2026-08-02 20:46 | https://x.com/nejatian/status/2084018118477943223
+We at @opendoor are hiring someone with 2-5 years experience in processing/mortgage. I want a go-getter who is already using AI day to day. My DMs are open. Please send me your LinkedIn. Want someone who can start ASAP. Don't have time to post this job on career page.
+Likes: 679 | Views: 114k
+---
+
+@signulll | 2026-08-02 23:29 | https://x.com/signulll/status/2084059116884947300
+08.02.2026
+Likes: 195 | Views: 14k
+---
+
+@signulll | 2026-08-02 22:40 | https://x.com/signulll/status/2084046781290061956
+this is quite a ridiculous statement to make today. but for the avg person this is going to more true as new products mask which models they utilize over time.
+---
+
+--- Batch 3: New additions (3 handles) ---
+Handles: @bgurley, @altcap, @EpsilonTheory
+
+@altcap | 2026-08-02 12:03 | https://x.com/altcap/status/2083886525507354891
+(reply) 
+Likes: 21 | Views: 4100
+---
+
+@bgurley | 2026-08-02 00:13 | https://x.com/bgurley/status/2083707655873597765
+That's another topic. Read the book "fear factor." Some of us don't have it.
+Likes: 16 | Views: 4200
+---
+
+@bgurley | 2026-08-01 23:41 | https://x.com/i/status/2083699757965525448
+I've never met Leo... Well above top 1%. Probably > 1/10,000. That said I don't think he was a "student of finance." I asked ChatGPT to name the top 25 investing books... percentage that discussed leverage and tail risk... Quite unusual to chose a career where you are smart at everything else perhaps, but ignorant about one of the most discussed elements... It's dangerous to talk about this execution as anything other than reckless and careless... Nothing surprising happened here. Just what you would expect from running a portfolio that leveraged. Was just a matter of time. Very "simple" math.
+Likes: 1400 | Reposts: 66 | Views: 253k
+---
+
+=== No posts in last 24h for remaining handles ===

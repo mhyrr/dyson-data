@@ -1,0 +1,20 @@
+{
+  "run_time": "2026-08-03T18:06:02.422492+00:00",
+  "from_date": "2026-08-02",
+  "to_date": "2026-08-03",
+  "days": 1,
+  "personas_with_x": 1,
+  "personas_without_x": 0,
+  "batches": 1,
+  "errors": [
+    {
+      "batch": 1,
+      "handles": [
+        "GavinSBaker"
+      ],
+      "error": "HTTP 403",
+      "detail": "{\"code\":\"permission-denied\",\"error\":\"Your newly created team doesn't have any credits or licenses yet. You can purchase those on https://console.x.ai/team/e2907822-2fe1-45d6-a86a-8da16a8e1627.\"}"
+    }
+  ],
+  "responses": []
+}

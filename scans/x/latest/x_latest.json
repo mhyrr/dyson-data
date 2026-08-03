@@ -1,0 +1,11 @@
+{
+  "run_time": "2026-08-03T18:06:02.422492+00:00",
+  "from_date": "2026-08-02",
+  "to_date": "2026-08-03",
+  "log_file": "scans/x/2026/08/03/x_log_20260803_180602.txt",
+  "raw_file": "scans/x/2026/08/03/x_raw_20260803_180602.json",
+  "personas_fetched": 1,
+  "batches": 1,
+  "errors": 1,
+  "text_chars": 0
+}
