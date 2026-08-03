@@ -1,249 +1,7 @@
 {
-  "run_time": "2026-08-03T14:20:37.650991+00:00",
-  "total_filings": 17,
+  "run_time": "2026-08-03T16:01:10.887790+00:00",
+  "total_filings": 12,
   "filings": [
-    {
-      "ticker": "FCX",
-      "company": "Freeport-McMoRan",
-      "earnings_date": "2026-07-23",
-      "filing_date": "2026-07-23",
-      "accession": "0000831259-26-000033",
-      "form": "8-K",
-      "items": "2.02,7.01,9.01",
-      "documents": [
-        {
-          "filename": "0000831259-26-000033.txt",
-          "size_bytes": 9171416,
-          "path": "FCX/2026-07-23/0000831259-26-000033.txt"
-        },
-        {
-          "filename": "0000831259-26-000033-xbrl.zip",
-          "size_bytes": 131263,
-          "path": "FCX/2026-07-23/0000831259-26-000033-xbrl.zip"
-        },
-        {
-          "filename": "a2026headerrelease.jpg",
-          "size_bytes": 112823,
-          "path": "FCX/2026-07-23/a2026headerrelease.jpg"
-        },
-        {
-          "filename": "a2q2026exhibit991.htm",
-          "size_bytes": 2734047,
-          "path": "FCX/2026-07-23/a2q2026exhibit991.htm"
-        },
-        {
-          "filename": "copperbar.jpg",
-          "size_bytes": 1043,
-          "path": "FCX/2026-07-23/copperbar.jpg"
-        },
-        {
-          "filename": "fcx-20260723.htm",
-          "size_bytes": 25710,
-          "path": "FCX/2026-07-23/fcx-20260723.htm"
-        },
-        {
-          "filename": "fcx-20260723.xsd",
-          "size_bytes": 1780,
-          "path": "FCX/2026-07-23/fcx-20260723.xsd"
-        },
-        {
-          "filename": "fcx-20260723_g1.jpg",
-          "size_bytes": 3554,
-          "path": "FCX/2026-07-23/fcx-20260723_g1.jpg"
-        },
-        {
-          "filename": "fcx-20260723_htm.xml",
-          "size_bytes": 2735,
-          "path": "FCX/2026-07-23/fcx-20260723_htm.xml"
-        },
-        {
-          "filename": "fcx-20260723_lab.xml",
-          "size_bytes": 21885,
-          "path": "FCX/2026-07-23/fcx-20260723_lab.xml"
-        },
-        {
-          "filename": "fcx-20260723_pre.xml",
-          "size_bytes": 12511,
-          "path": "FCX/2026-07-23/fcx-20260723_pre.xml"
-        },
-        {
-          "filename": "fcx2q26cc_final.htm",
-          "size_bytes": 47157,
-          "path": "FCX/2026-07-23/fcx2q26cc_final.htm"
-        },
-        {
-          "filename": "fcx2q26cc_final001.jpg",
-          "size_bytes": 54098,
-          "path": "FCX/2026-07-23/fcx2q26cc_final001.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final002.jpg",
-          "size_bytes": 405718,
-          "path": "FCX/2026-07-23/fcx2q26cc_final002.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final003.jpg",
-          "size_bytes": 136327,
-          "path": "FCX/2026-07-23/fcx2q26cc_final003.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final004.jpg",
-          "size_bytes": 150692,
-          "path": "FCX/2026-07-23/fcx2q26cc_final004.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final005.jpg",
-          "size_bytes": 161542,
-          "path": "FCX/2026-07-23/fcx2q26cc_final005.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final006.jpg",
-          "size_bytes": 136708,
-          "path": "FCX/2026-07-23/fcx2q26cc_final006.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final007.jpg",
-          "size_bytes": 181307,
-          "path": "FCX/2026-07-23/fcx2q26cc_final007.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final008.jpg",
-          "size_bytes": 138626,
-          "path": "FCX/2026-07-23/fcx2q26cc_final008.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final009.jpg",
-          "size_bytes": 128456,
-          "path": "FCX/2026-07-23/fcx2q26cc_final009.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final010.jpg",
-          "size_bytes": 142724,
-          "path": "FCX/2026-07-23/fcx2q26cc_final010.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final011.jpg",
-          "size_bytes": 103159,
-          "path": "FCX/2026-07-23/fcx2q26cc_final011.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final012.jpg",
-          "size_bytes": 143502,
-          "path": "FCX/2026-07-23/fcx2q26cc_final012.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final013.jpg",
-          "size_bytes": 97864,
-          "path": "FCX/2026-07-23/fcx2q26cc_final013.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final014.jpg",
-          "size_bytes": 41346,
-          "path": "FCX/2026-07-23/fcx2q26cc_final014.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final015.jpg",
-          "size_bytes": 133673,
-          "path": "FCX/2026-07-23/fcx2q26cc_final015.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final016.jpg",
-          "size_bytes": 153246,
-          "path": "FCX/2026-07-23/fcx2q26cc_final016.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final017.jpg",
-          "size_bytes": 159503,
-          "path": "FCX/2026-07-23/fcx2q26cc_final017.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final018.jpg",
-          "size_bytes": 120586,
-          "path": "FCX/2026-07-23/fcx2q26cc_final018.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final019.jpg",
-          "size_bytes": 153411,
-          "path": "FCX/2026-07-23/fcx2q26cc_final019.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final020.jpg",
-          "size_bytes": 119805,
-          "path": "FCX/2026-07-23/fcx2q26cc_final020.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final021.jpg",
-          "size_bytes": 133575,
-          "path": "FCX/2026-07-23/fcx2q26cc_final021.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final022.jpg",
-          "size_bytes": 170840,
-          "path": "FCX/2026-07-23/fcx2q26cc_final022.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final023.jpg",
-          "size_bytes": 205693,
-          "path": "FCX/2026-07-23/fcx2q26cc_final023.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final024.jpg",
-          "size_bytes": 153167,
-          "path": "FCX/2026-07-23/fcx2q26cc_final024.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final025.jpg",
-          "size_bytes": 168789,
-          "path": "FCX/2026-07-23/fcx2q26cc_final025.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final026.jpg",
-          "size_bytes": 211245,
-          "path": "FCX/2026-07-23/fcx2q26cc_final026.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final027.jpg",
-          "size_bytes": 141249,
-          "path": "FCX/2026-07-23/fcx2q26cc_final027.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final028.jpg",
-          "size_bytes": 172227,
-          "path": "FCX/2026-07-23/fcx2q26cc_final028.jpg"
-        },
-        {
-          "filename": "fcx2q26cc_final029.jpg",
-          "size_bytes": 51174,
-          "path": "FCX/2026-07-23/fcx2q26cc_final029.jpg"
-        },
-        {
-          "filename": "FilingSummary.xml",
-          "size_bytes": 1684,
-          "path": "FCX/2026-07-23/FilingSummary.xml"
-        },
-        {
-          "filename": "fmlogo2026.jpg",
-          "size_bytes": 6290,
-          "path": "FCX/2026-07-23/fmlogo2026.jpg"
-        },
-        {
-          "filename": "MetaLinks.json",
-          "size_bytes": 16919,
-          "path": "FCX/2026-07-23/MetaLinks.json"
-        },
-        {
-          "filename": "pr-banner2026.jpg",
-          "size_bytes": 18941,
-          "path": "FCX/2026-07-23/pr-banner2026.jpg"
-        },
-        {
-          "filename": "R1.htm",
-          "size_bytes": 38095,
-          "path": "FCX/2026-07-23/R1.htm"
-        }
-      ],
-      "fetched_at": "2026-08-03T14:19:21.270947+00:00"
-    },
     {
       "ticker": "MOD",
       "company": "Modine Manufacturing",
@@ -419,273 +177,7 @@
           "path": "MOD/2026-07-29/R1.htm"
         }
       ],
-      "fetched_at": "2026-08-03T14:19:31.296799+00:00"
-    },
-    {
-      "ticker": "KMI",
-      "company": "Kinder Morgan",
-      "earnings_date": "2026-07-22",
-      "filing_date": "2026-07-22",
-      "accession": "0001506307-26-000063",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0001506307-26-000063.txt",
-          "size_bytes": 763465,
-          "path": "KMI/2026-07-22/0001506307-26-000063.txt"
-        },
-        {
-          "filename": "0001506307-26-000063-xbrl.zip",
-          "size_bytes": 45709,
-          "path": "KMI/2026-07-22/0001506307-26-000063-xbrl.zip"
-        },
-        {
-          "filename": "FilingSummary.xml",
-          "size_bytes": 1804,
-          "path": "KMI/2026-07-22/FilingSummary.xml"
-        },
-        {
-          "filename": "kmi-20260722.htm",
-          "size_bytes": 31596,
-          "path": "KMI/2026-07-22/kmi-20260722.htm"
-        },
-        {
-          "filename": "kmi-20260722.xsd",
-          "size_bytes": 2872,
-          "path": "KMI/2026-07-22/kmi-20260722.xsd"
-        },
-        {
-          "filename": "kmi-20260722_def.xml",
-          "size_bytes": 15860,
-          "path": "KMI/2026-07-22/kmi-20260722_def.xml"
-        },
-        {
-          "filename": "kmi-20260722_g1.gif",
-          "size_bytes": 6277,
-          "path": "KMI/2026-07-22/kmi-20260722_g1.gif"
-        },
-        {
-          "filename": "kmi-20260722_htm.xml",
-          "size_bytes": 4116,
-          "path": "KMI/2026-07-22/kmi-20260722_htm.xml"
-        },
-        {
-          "filename": "kmi-20260722_lab.xml",
-          "size_bytes": 28544,
-          "path": "KMI/2026-07-22/kmi-20260722_lab.xml"
-        },
-        {
-          "filename": "kmi-20260722_pre.xml",
-          "size_bytes": 16587,
-          "path": "KMI/2026-07-22/kmi-20260722_pre.xml"
-        },
-        {
-          "filename": "kmi2026q28-kex991.htm",
-          "size_bytes": 509355,
-          "path": "KMI/2026-07-22/kmi2026q28-kex991.htm"
-        },
-        {
-          "filename": "kminca02a08a.gif",
-          "size_bytes": 6277,
-          "path": "KMI/2026-07-22/kminca02a08a.gif"
-        },
-        {
-          "filename": "MetaLinks.json",
-          "size_bytes": 22024,
-          "path": "KMI/2026-07-22/MetaLinks.json"
-        },
-        {
-          "filename": "R1.htm",
-          "size_bytes": 43705,
-          "path": "KMI/2026-07-22/R1.htm"
-        }
-      ],
-      "fetched_at": "2026-08-03T14:19:36.953479+00:00"
-    },
-    {
-      "ticker": "GEV",
-      "company": "GE Vernova",
-      "earnings_date": "2026-07-22",
-      "filing_date": "2026-07-22",
-      "accession": "0001996810-26-000147",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0001996810-26-000147.txt",
-          "size_bytes": 2404075,
-          "path": "GEV/2026-07-22/0001996810-26-000147.txt"
-        },
-        {
-          "filename": "0001996810-26-000147-xbrl.zip",
-          "size_bytes": 45342,
-          "path": "GEV/2026-07-22/0001996810-26-000147-xbrl.zip"
-        },
-        {
-          "filename": "FilingSummary.xml",
-          "size_bytes": 1631,
-          "path": "GEV/2026-07-22/FilingSummary.xml"
-        },
-        {
-          "filename": "ge-vrnv_standardxrgbxevrgrna.jpg",
-          "size_bytes": 178046,
-          "path": "GEV/2026-07-22/ge-vrnv_standardxrgbxevrgrna.jpg"
-        },
-        {
-          "filename": "gev-20260722.htm",
-          "size_bytes": 30716,
-          "path": "GEV/2026-07-22/gev-20260722.htm"
-        },
-        {
-          "filename": "gev-20260722.xsd",
-          "size_bytes": 1798,
-          "path": "GEV/2026-07-22/gev-20260722.xsd"
-        },
-        {
-          "filename": "gev-20260722_htm.xml",
-          "size_bytes": 2704,
-          "path": "GEV/2026-07-22/gev-20260722_htm.xml"
-        },
-        {
-          "filename": "gev-20260722_lab.xml",
-          "size_bytes": 21885,
-          "path": "GEV/2026-07-22/gev-20260722_lab.xml"
-        },
-        {
-          "filename": "gev-20260722_pre.xml",
-          "size_bytes": 12523,
-          "path": "GEV/2026-07-22/gev-20260722_pre.xml"
-        },
-        {
-          "filename": "gev2q2026form8-k.pdf",
-          "size_bytes": 986140,
-          "path": "GEV/2026-07-22/gev2q2026form8-k.pdf"
-        },
-        {
-          "filename": "gevpressrelease2q26.htm",
-          "size_bytes": 644707,
-          "path": "GEV/2026-07-22/gevpressrelease2q26.htm"
-        },
-        {
-          "filename": "MetaLinks.json",
-          "size_bytes": 17063,
-          "path": "GEV/2026-07-22/MetaLinks.json"
-        },
-        {
-          "filename": "R1.htm",
-          "size_bytes": 38063,
-          "path": "GEV/2026-07-22/R1.htm"
-        }
-      ],
-      "fetched_at": "2026-08-03T14:19:40.964281+00:00"
-    },
-    {
-      "ticker": "QS",
-      "company": "QuantumScape",
-      "earnings_date": "2026-07-22",
-      "filing_date": "2026-07-22",
-      "accession": "0001193125-26-312423",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0001193125-26-312423.txt",
-          "size_bytes": 1201084,
-          "path": "QS/2026-07-22/0001193125-26-312423.txt"
-        },
-        {
-          "filename": "0001193125-26-312423-xbrl.zip",
-          "size_bytes": 31508,
-          "path": "QS/2026-07-22/0001193125-26-312423-xbrl.zip"
-        },
-        {
-          "filename": "FilingSummary.xml",
-          "size_bytes": 1661,
-          "path": "QS/2026-07-22/FilingSummary.xml"
-        },
-        {
-          "filename": "img120573443_0.jpg",
-          "size_bytes": 70081,
-          "path": "QS/2026-07-22/img120573443_0.jpg"
-        },
-        {
-          "filename": "img120573443_1.jpg",
-          "size_bytes": 47369,
-          "path": "QS/2026-07-22/img120573443_1.jpg"
-        },
-        {
-          "filename": "img120573443_2.gif",
-          "size_bytes": 38097,
-          "path": "QS/2026-07-22/img120573443_2.gif"
-        },
-        {
-          "filename": "img120573443_3.jpg",
-          "size_bytes": 5732,
-          "path": "QS/2026-07-22/img120573443_3.jpg"
-        },
-        {
-          "filename": "img120573443_4.jpg",
-          "size_bytes": 5900,
-          "path": "QS/2026-07-22/img120573443_4.jpg"
-        },
-        {
-          "filename": "img120573443_5.jpg",
-          "size_bytes": 69540,
-          "path": "QS/2026-07-22/img120573443_5.jpg"
-        },
-        {
-          "filename": "img120573443_6.jpg",
-          "size_bytes": 40175,
-          "path": "QS/2026-07-22/img120573443_6.jpg"
-        },
-        {
-          "filename": "img120573443_7.gif",
-          "size_bytes": 11957,
-          "path": "QS/2026-07-22/img120573443_7.gif"
-        },
-        {
-          "filename": "img120573443_8.gif",
-          "size_bytes": 22759,
-          "path": "QS/2026-07-22/img120573443_8.gif"
-        },
-        {
-          "filename": "MetaLinks.json",
-          "size_bytes": 18249,
-          "path": "QS/2026-07-22/MetaLinks.json"
-        },
-        {
-          "filename": "qs-20260722.htm",
-          "size_bytes": 55635,
-          "path": "QS/2026-07-22/qs-20260722.htm"
-        },
-        {
-          "filename": "qs-20260722.xsd",
-          "size_bytes": 26213,
-          "path": "QS/2026-07-22/qs-20260722.xsd"
-        },
-        {
-          "filename": "qs-20260722_htm.xml",
-          "size_bytes": 4760,
-          "path": "QS/2026-07-22/qs-20260722_htm.xml"
-        },
-        {
-          "filename": "qs-ex99_1.htm",
-          "size_bytes": 565185,
-          "path": "QS/2026-07-22/qs-ex99_1.htm"
-        },
-        {
-          "filename": "qs-ex99_2.htm",
-          "size_bytes": 9762,
-          "path": "QS/2026-07-22/qs-ex99_2.htm"
-        },
-        {
-          "filename": "R1.htm",
-          "size_bytes": 39711,
-          "path": "QS/2026-07-22/R1.htm"
-        }
-      ],
-      "fetched_at": "2026-08-03T14:19:47.155532+00:00"
+      "fetched_at": "2026-08-03T16:00:24.818468+00:00"
     },
     {
       "ticker": "GLW",
@@ -757,7 +249,7 @@
           "path": "GLW/2026-07-28/R1.htm"
         }
       ],
-      "fetched_at": "2026-08-03T14:19:50.866760+00:00"
+      "fetched_at": "2026-08-03T16:00:28.987855+00:00"
     },
     {
       "ticker": "HUBB",
@@ -829,7 +321,7 @@
           "path": "HUBB/2026-07-28/R1.htm"
         }
       ],
-      "fetched_at": "2026-08-03T14:19:54.651262+00:00"
+      "fetched_at": "2026-08-03T16:00:32.585336+00:00"
     },
     {
       "ticker": "XYL",
@@ -901,7 +393,7 @@
           "path": "XYL/2026-07-28/xyl07282026ex991.htm"
         }
       ],
-      "fetched_at": "2026-08-03T14:19:58.272715+00:00"
+      "fetched_at": "2026-08-03T16:00:36.216377+00:00"
     },
     {
       "ticker": "MSFT",
@@ -958,79 +450,7 @@
           "path": "MSFT/2026-07-29/R1.htm"
         }
       ],
-      "fetched_at": "2026-08-03T14:20:01.049622+00:00"
-    },
-    {
-      "ticker": "GOOG",
-      "company": "Alphabet Inc",
-      "earnings_date": "2026-07-22",
-      "filing_date": "2026-07-22",
-      "accession": "0001652044-26-000066",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0001652044-26-000066.txt",
-          "size_bytes": 815591,
-          "path": "GOOG/2026-07-22/0001652044-26-000066.txt"
-        },
-        {
-          "filename": "0001652044-26-000066-xbrl.zip",
-          "size_bytes": 39728,
-          "path": "GOOG/2026-07-22/0001652044-26-000066-xbrl.zip"
-        },
-        {
-          "filename": "FilingSummary.xml",
-          "size_bytes": 1717,
-          "path": "GOOG/2026-07-22/FilingSummary.xml"
-        },
-        {
-          "filename": "goog-20260722.htm",
-          "size_bytes": 65815,
-          "path": "GOOG/2026-07-22/goog-20260722.htm"
-        },
-        {
-          "filename": "goog-20260722.xsd",
-          "size_bytes": 10268,
-          "path": "GOOG/2026-07-22/goog-20260722.xsd"
-        },
-        {
-          "filename": "goog-20260722_def.xml",
-          "size_bytes": 33134,
-          "path": "GOOG/2026-07-22/goog-20260722_def.xml"
-        },
-        {
-          "filename": "goog-20260722_htm.xml",
-          "size_bytes": 22373,
-          "path": "GOOG/2026-07-22/goog-20260722_htm.xml"
-        },
-        {
-          "filename": "goog-20260722_lab.xml",
-          "size_bytes": 71660,
-          "path": "GOOG/2026-07-22/goog-20260722_lab.xml"
-        },
-        {
-          "filename": "goog-20260722_pre.xml",
-          "size_bytes": 36022,
-          "path": "GOOG/2026-07-22/goog-20260722_pre.xml"
-        },
-        {
-          "filename": "googexhibit991q22026.htm",
-          "size_bytes": 371494,
-          "path": "GOOG/2026-07-22/googexhibit991q22026.htm"
-        },
-        {
-          "filename": "MetaLinks.json",
-          "size_bytes": 40560,
-          "path": "GOOG/2026-07-22/MetaLinks.json"
-        },
-        {
-          "filename": "R1.htm",
-          "size_bytes": 101425,
-          "path": "GOOG/2026-07-22/R1.htm"
-        }
-      ],
-      "fetched_at": "2026-08-03T14:20:04.855437+00:00"
+      "fetched_at": "2026-08-03T16:00:38.990721+00:00"
     },
     {
       "ticker": "MPWR",
@@ -1102,7 +522,7 @@
           "path": "MPWR/2026-07-30/R1.htm"
         }
       ],
-      "fetched_at": "2026-08-03T14:20:08.505835+00:00"
+      "fetched_at": "2026-08-03T16:00:42.582259+00:00"
     },
     {
       "ticker": "AMZN",
@@ -1184,7 +604,7 @@
           "path": "AMZN/2026-07-30/R1.htm"
         }
       ],
-      "fetched_at": "2026-08-03T14:20:12.870697+00:00"
+      "fetched_at": "2026-08-03T16:00:46.640443+00:00"
     },
     {
       "ticker": "BMY",
@@ -1346,7 +766,7 @@
           "path": "BMY/2026-07-30/R1.htm"
         }
       ],
-      "fetched_at": "2026-08-03T14:20:21.522948+00:00"
+      "fetched_at": "2026-08-03T16:00:55.033735+00:00"
     },
     {
       "ticker": "NVT",
@@ -1423,7 +843,7 @@
           "path": "NVT/2026-07-31/R1.htm"
         }
       ],
-      "fetched_at": "2026-08-03T14:20:25.573221+00:00"
+      "fetched_at": "2026-08-03T16:00:58.868120+00:00"
     },
     {
       "ticker": "CVX",
@@ -1495,7 +915,7 @@
           "path": "CVX/2026-07-31/R1.htm"
         }
       ],
-      "fetched_at": "2026-08-03T14:20:29.207259+00:00"
+      "fetched_at": "2026-08-03T16:01:02.426949+00:00"
     },
     {
       "ticker": "ETN",
@@ -1567,7 +987,7 @@
           "path": "ETN/2026-07-31/R1.htm"
         }
       ],
-      "fetched_at": "2026-08-03T14:20:32.794318+00:00"
+      "fetched_at": "2026-08-03T16:01:06.007108+00:00"
     },
     {
       "ticker": "ATKR",
@@ -1644,7 +1064,7 @@
           "path": "ATKR/2026-08-03/R1.htm"
         }
       ],
-      "fetched_at": "2026-08-03T14:20:37.150524+00:00"
+      "fetched_at": "2026-08-03T16:01:10.387368+00:00"
     }
   ]
 }

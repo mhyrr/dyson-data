@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--XBRL Document Created with the Workiva Platform-->
+<!--Copyright 2026 Workiva-->
+<!--r:019e22ec-d870-7135-aea9-cd8cc21f090e,g:9cce6a49-697c-418b-81a9-9dda4e100b90-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:etn="http://www.eaton.com/20260630" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:dtr-types="http://www.xbrl.org/dtr/type/2024-01-31" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.eaton.com/20260630">
+  <xs:import namespace="http://fasb.org/srt/2026" schemaLocation="https://xbrl.fasb.org/srt/2026/elts/srt-2026.xsd"/>
+  <xs:import namespace="http://fasb.org/us-gaap/2026" schemaLocation="https://xbrl.fasb.org/us-gaap/2026/elts/us-gaap-2026.xsd"/>
+  <xs:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
+  <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+  <xs:import namespace="http://www.xbrl.org/dtr/type/2024-01-31" schemaLocation="https://www.xbrl.org/dtr/type/2024-01-31/types.xsd"/>
+  <xs:import namespace="http://xbrl.sec.gov/country/2026" schemaLocation="https://xbrl.sec.gov/country/2026/country-2026.xsd"/>
+  <xs:import namespace="http://xbrl.sec.gov/dei/2026" schemaLocation="https://xbrl.sec.gov/dei/2026/dei-2026.xsd"/>
+  <xs:import namespace="http://xbrl.sec.gov/ecd/2026" schemaLocation="https://xbrl.sec.gov/ecd/2026/ecd-2026.xsd"/>
+  <xs:annotation>
+    <xs:appinfo>
+      <link:linkbaseRef xmlns:xlink="http://www.w3.org/1999/xlink" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="etn-20260630_pre.xml" xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef" xlink:type="simple"/>
+      <link:linkbaseRef xmlns:xlink="http://www.w3.org/1999/xlink" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="etn-20260630_def.xml" xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef" xlink:type="simple"/>
+      <link:linkbaseRef xmlns:xlink="http://www.w3.org/1999/xlink" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="etn-20260630_lab.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
+      <link:linkbaseRef xmlns:xlink="http://www.w3.org/1999/xlink" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="etn-20260630_cal.xml" xlink:role="http://www.xbrl.org/2003/role/calculationLinkbaseRef" xlink:type="simple"/>
+      <link:roleType id="CoverPage" roleURI="http://www.eaton.com/role/CoverPage">
+        <link:definition>0000001 - Document - Cover Page</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="CONSOLIDATEDSTATEMENTSOFINCOME" roleURI="http://www.eaton.com/role/CONSOLIDATEDSTATEMENTSOFINCOME">
+        <link:definition>9952151 - Statement - CONSOLIDATED STATEMENTS OF INCOME</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="CONSOLIDATEDSTATEMENTSOFCOMPREHENSIVEINCOME" roleURI="http://www.eaton.com/role/CONSOLIDATEDSTATEMENTSOFCOMPREHENSIVEINCOME">
+        <link:definition>9952152 - Statement - CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="CONSOLIDATEDBALANCESHEETS" roleURI="http://www.eaton.com/role/CONSOLIDATEDBALANCESHEETS">
+        <link:definition>9952153 - Statement - CONSOLIDATED BALANCE SHEETS</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="CONSOLIDATEDBALANCESHEETSParenthetical" roleURI="http://www.eaton.com/role/CONSOLIDATEDBALANCESHEETSParenthetical">
+        <link:definition>9952154 - Statement - CONSOLIDATED BALANCE SHEETS (Parenthetical)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="CONDENSEDCONSOLIDATEDSTATEMENTSOFCASHFLOWS" roleURI="http://www.eaton.com/role/CONDENSEDCONSOLIDATEDSTATEMENTSOFCASHFLOWS">
+        <link:definition>9952155 - Statement - CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="BASISOFPRESENTATION" roleURI="http://www.eaton.com/role/BASISOFPRESENTATION">
+        <link:definition>9952156 - Disclosure - BASIS OF PRESENTATION</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ACQUISITIONSANDDIVESTITUREOFBUSINESSES" roleURI="http://www.eaton.com/role/ACQUISITIONSANDDIVESTITUREOFBUSINESSES">
+        <link:definition>9952157 - Disclosure - ACQUISITIONS AND DIVESTITURE OF BUSINESSES</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="REVENUERECOGNITION" roleURI="http://www.eaton.com/role/REVENUERECOGNITION">
+        <link:definition>9952158 - Disclosure - REVENUE RECOGNITION</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="CREDITLOSSESFORRECEIVABLES" roleURI="http://www.eaton.com/role/CREDITLOSSESFORRECEIVABLES">
+        <link:definition>9952159 - Disclosure - CREDIT LOSSES FOR RECEIVABLES</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="INVENTORY" roleURI="http://www.eaton.com/role/INVENTORY">
+        <link:definition>9952160 - Disclosure - INVENTORY</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="GOODWILL" roleURI="http://www.eaton.com/role/GOODWILL">
+        <link:definition>9952161 - Disclosure - GOODWILL</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="SUPPLYCHAINFINANCEPROGRAM" roleURI="http://www.eaton.com/role/SUPPLYCHAINFINANCEPROGRAM">
+        <link:definition>9952162 - Disclosure - SUPPLY CHAIN FINANCE PROGRAM</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="DEBT" roleURI="http://www.eaton.com/role/DEBT">
+        <link:definition>9952163 - Disclosure - DEBT</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="RETIREMENTBENEFITSPLANS" roleURI="http://www.eaton.com/role/RETIREMENTBENEFITSPLANS">
+        <link:definition>9952164 - Disclosure - RETIREMENT BENEFITS PLANS</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="LEGALCONTINGENCIES" roleURI="http://www.eaton.com/role/LEGALCONTINGENCIES">
+        <link:definition>9952165 - Disclosure - LEGAL CONTINGENCIES</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="INCOMETAXES" roleURI="http://www.eaton.com/role/INCOMETAXES">
+        <link:definition>9952166 - Disclosure - INCOME TAXES</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="EATONSHAREHOLDERSEQUITY" roleURI="http://www.eaton.com/role/EATONSHAREHOLDERSEQUITY">
+        <link:definition>9952167 - Disclosure - EATON SHAREHOLDERS' EQUITY</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="FAIRVALUEMEASUREMENTS" roleURI="http://www.eaton.com/role/FAIRVALUEMEASUREMENTS">
+        <link:definition>9952168 - Disclosure - FAIR VALUE MEASUREMENTS</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="RESTRUCTURINGCHARGES" roleURI="http://www.eaton.com/role/RESTRUCTURINGCHARGES">
+        <link:definition>9952169 - Disclosure - RESTRUCTURING CHARGES</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="BUSINESSSEGMENTINFORMATION" roleURI="http://www.eaton.com/role/BUSINESSSEGMENTINFORMATION">
+        <link:definition>9952170 - Disclosure - BUSINESS SEGMENT INFORMATION</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="BASISOFPRESENTATIONPolicies" roleURI="http://www.eaton.com/role/BASISOFPRESENTATIONPolicies">
+        <link:definition>9955511 - Disclosure - BASIS OF PRESENTATION (Policies)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ACQUISITIONSANDDIVESTITUREOFBUSINESSESTables" roleURI="http://www.eaton.com/role/ACQUISITIONSANDDIVESTITUREOFBUSINESSESTables">
+        <link:definition>9955512 - Disclosure - ACQUISITIONS AND DIVESTITURE OF BUSINESSES (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="REVENUERECOGNITIONTables" roleURI="http://www.eaton.com/role/REVENUERECOGNITIONTables">
+        <link:definition>9955513 - Disclosure - REVENUE RECOGNITION (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="INVENTORYTables" roleURI="http://www.eaton.com/role/INVENTORYTables">
+        <link:definition>9955514 - Disclosure - INVENTORY (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="GOODWILLTables" roleURI="http://www.eaton.com/role/GOODWILLTables">
+        <link:definition>9955515 - Disclosure - GOODWILL (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="SUPPLYCHAINFINANCEPROGRAMTables" roleURI="http://www.eaton.com/role/SUPPLYCHAINFINANCEPROGRAMTables">
+        <link:definition>9955516 - Disclosure - SUPPLY CHAIN FINANCE PROGRAM (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="RETIREMENTBENEFITSPLANSTables" roleURI="http://www.eaton.com/role/RETIREMENTBENEFITSPLANSTables">
+        <link:definition>9955517 - Disclosure - RETIREMENT BENEFITS PLANS (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="EATONSHAREHOLDERSEQUITYTables" roleURI="http://www.eaton.com/role/EATONSHAREHOLDERSEQUITYTables">
+        <link:definition>9955518 - Disclosure - EATON SHAREHOLDERS' EQUITY (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="FAIRVALUEMEASUREMENTSTables" roleURI="http://www.eaton.com/role/FAIRVALUEMEASUREMENTSTables">
+        <link:definition>9955519 - Disclosure - FAIR VALUE MEASUREMENTS (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="RESTRUCTURINGCHARGESTables" roleURI="http://www.eaton.com/role/RESTRUCTURINGCHARGESTables">
+        <link:definition>9955520 - Disclosure - RESTRUCTURING CHARGES (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="BUSINESSSEGMENTINFORMATIONTables" roleURI="http://www.eaton.com/role/BUSINESSSEGMENTINFORMATIONTables">
+        <link:definition>9955521 - Disclosure - BUSINESS SEGMENT INFORMATION (Tables)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ACQUISITIONSANDDIVESTITUREOFBUSINESSESNarrativeDetails" roleURI="http://www.eaton.com/role/ACQUISITIONSANDDIVESTITUREOFBUSINESSESNarrativeDetails">
+        <link:definition>9955522 - Disclosure - ACQUISITIONS AND DIVESTITURE OF BUSINESSES - Narrative (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ACQUISITIONSANDDIVESTITUREOFBUSINESSESNarrativeDetails_1" roleURI="http://www.eaton.com/role/ACQUISITIONSANDDIVESTITUREOFBUSINESSESNarrativeDetails_1">
+        <link:definition>9955522 - Disclosure - ACQUISITIONS AND DIVESTITURE OF BUSINESSES - Narrative (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ACQUISITIONSANDDIVESTITUREOFBUSINESSESRecognizedIdentifiedAssetsAcquiredandLiabilitiesAssumedDetails" roleURI="http://www.eaton.com/role/ACQUISITIONSANDDIVESTITUREOFBUSINESSESRecognizedIdentifiedAssetsAcquiredandLiabilitiesAssumedDetails">
+        <link:definition>9955523 - Disclosure - ACQUISITIONS AND DIVESTITURE OF BUSINESSES - Recognized Identified Assets Acquired and Liabilities Assumed (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ACQUISITIONSANDDIVESTITUREOFBUSINESSESExpenseDetails" roleURI="http://www.eaton.com/role/ACQUISITIONSANDDIVESTITUREOFBUSINESSESExpenseDetails">
+        <link:definition>9955524 - Disclosure - ACQUISITIONS AND DIVESTITURE OF BUSINESSES - Expense (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ACQUISITIONSANDDIVESTITUREOFBUSINESSESExpenseDetails_1" roleURI="http://www.eaton.com/role/ACQUISITIONSANDDIVESTITUREOFBUSINESSESExpenseDetails_1">
+        <link:definition>9955524 - Disclosure - ACQUISITIONS AND DIVESTITURE OF BUSINESSES - Expense (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="REVENUERECOGNITIONDisaggregationofSalesDetails" roleURI="http://www.eaton.com/role/REVENUERECOGNITIONDisaggregationofSalesDetails">
+        <link:definition>9955525 - Disclosure - REVENUE RECOGNITION - Disaggregation of Sales (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="REVENUERECOGNITIONNarrativeDetails" roleURI="http://www.eaton.com/role/REVENUERECOGNITIONNarrativeDetails">
+        <link:definition>9955526 - Disclosure - REVENUE RECOGNITION - Narrative (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="REVENUERECOGNITIONNarrativeDetails_1" roleURI="http://www.eaton.com/role/REVENUERECOGNITIONNarrativeDetails_1">
+        <link:definition>9955526 - Disclosure - REVENUE RECOGNITION - Narrative (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="REVENUERECOGNITIONChangesinDeferredRevenueLiabilitiesDetails" roleURI="http://www.eaton.com/role/REVENUERECOGNITIONChangesinDeferredRevenueLiabilitiesDetails">
+        <link:definition>9955527 - Disclosure - REVENUE RECOGNITION - Changes in Deferred Revenue Liabilities (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="CREDITLOSSESFORRECEIVABLESDetails" roleURI="http://www.eaton.com/role/CREDITLOSSESFORRECEIVABLESDetails">
+        <link:definition>9955528 - Disclosure - CREDIT LOSSES FOR RECEIVABLES (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="INVENTORYDetails" roleURI="http://www.eaton.com/role/INVENTORYDetails">
+        <link:definition>9955529 - Disclosure - INVENTORY (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="GOODWILLChangesinCarryingAmountofGoodwillDetails" roleURI="http://www.eaton.com/role/GOODWILLChangesinCarryingAmountofGoodwillDetails">
+        <link:definition>9955530 - Disclosure - GOODWILL - Changes in Carrying Amount of Goodwill (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="GOODWILLNarrativeDetails" roleURI="http://www.eaton.com/role/GOODWILLNarrativeDetails">
+        <link:definition>9955531 - Disclosure - GOODWILL - Narrative (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="SUPPLYCHAINFINANCEPROGRAMDetails" roleURI="http://www.eaton.com/role/SUPPLYCHAINFINANCEPROGRAMDetails">
+        <link:definition>9955532 - Disclosure - SUPPLY CHAIN FINANCE PROGRAM (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="DEBTDetails" roleURI="http://www.eaton.com/role/DEBTDetails">
+        <link:definition>9955533 - Disclosure - DEBT (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="RETIREMENTBENEFITSPLANSBenefitsExpenseDetails" roleURI="http://www.eaton.com/role/RETIREMENTBENEFITSPLANSBenefitsExpenseDetails">
+        <link:definition>9955534 - Disclosure - RETIREMENT BENEFITS PLANS - Benefits Expense (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="RETIREMENTBENEFITSPLANSNarrativeDetails" roleURI="http://www.eaton.com/role/RETIREMENTBENEFITSPLANSNarrativeDetails">
+        <link:definition>9955535 - Disclosure - RETIREMENT BENEFITS PLANS - Narrative (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="INCOMETAXESDetails" roleURI="http://www.eaton.com/role/INCOMETAXESDetails">
+        <link:definition>9955536 - Disclosure - INCOME TAXES (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="EATONSHAREHOLDERSEQUITYChangesinShareholdersEquityDetails" roleURI="http://www.eaton.com/role/EATONSHAREHOLDERSEQUITYChangesinShareholdersEquityDetails">
+        <link:definition>9955537 - Disclosure - EATON SHAREHOLDERS' EQUITY - Changes in Shareholders' Equity (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="EATONSHAREHOLDERSEQUITYNarrativeDetails" roleURI="http://www.eaton.com/role/EATONSHAREHOLDERSEQUITYNarrativeDetails">
+        <link:definition>9955538 - Disclosure - EATON SHAREHOLDERS' EQUITY - Narrative (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="EATONSHAREHOLDERSEQUITYChangesinAccumulatedOtherComprehensiveLossDetails" roleURI="http://www.eaton.com/role/EATONSHAREHOLDERSEQUITYChangesinAccumulatedOtherComprehensiveLossDetails">
+        <link:definition>9955539 - Disclosure - EATON SHAREHOLDERS' EQUITY - Changes in Accumulated Other Comprehensive Loss (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="EATONSHAREHOLDERSEQUITYReclassificationsOutofAccumulatedOtherComprehensiveLossDetails" roleURI="http://www.eaton.com/role/EATONSHAREHOLDERSEQUITYReclassificationsOutofAccumulatedOtherComprehensiveLossDetails">
+        <link:definition>9955540 - Disclosure - EATON SHAREHOLDERS' EQUITY - Reclassifications Out of Accumulated Other Comprehensive Loss (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="EATONSHAREHOLDERSEQUITYNetIncomeperOrdinaryShareAttributabletoShareholdersDetails" roleURI="http://www.eaton.com/role/EATONSHAREHOLDERSEQUITYNetIncomeperOrdinaryShareAttributabletoShareholdersDetails">
+        <link:definition>9955541 - Disclosure - EATON SHAREHOLDERS' EQUITY - Net Income per Ordinary Share Attributable to Shareholders (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="FAIRVALUEMEASUREMENTSFinancialInstrumentsRecognizedatFairValueDetails" roleURI="http://www.eaton.com/role/FAIRVALUEMEASUREMENTSFinancialInstrumentsRecognizedatFairValueDetails">
+        <link:definition>9955542 - Disclosure - FAIR VALUE MEASUREMENTS - Financial Instruments Recognized at Fair Value (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="FAIRVALUEMEASUREMENTSNarrativeDetails" roleURI="http://www.eaton.com/role/FAIRVALUEMEASUREMENTSNarrativeDetails">
+        <link:definition>9955543 - Disclosure - FAIR VALUE MEASUREMENTS - Narrative (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="RESTRUCTURINGCHARGESNarrativeDetails" roleURI="http://www.eaton.com/role/RESTRUCTURINGCHARGESNarrativeDetails">
+        <link:definition>9955544 - Disclosure - RESTRUCTURING CHARGES - Narrative (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="RESTRUCTURINGCHARGESRestructuringProgramChargesDetails" roleURI="http://www.eaton.com/role/RESTRUCTURINGCHARGESRestructuringProgramChargesDetails">
+        <link:definition>9955545 - Disclosure - RESTRUCTURING CHARGES - Restructuring Program Charges (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="RESTRUCTURINGCHARGESRestructuringProgramChargesIncomeRelatedToBusinessSegmentsDetails" roleURI="http://www.eaton.com/role/RESTRUCTURINGCHARGESRestructuringProgramChargesIncomeRelatedToBusinessSegmentsDetails">
+        <link:definition>9955546 - Disclosure - RESTRUCTURING CHARGES - Restructuring Program Charges (Income) Related To Business Segments (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="RESTRUCTURINGCHARGESLiabilitiesRelatedtoRestructuringDetails" roleURI="http://www.eaton.com/role/RESTRUCTURINGCHARGESLiabilitiesRelatedtoRestructuringDetails">
+        <link:definition>9955547 - Disclosure - RESTRUCTURING CHARGES - Liabilities Related to Restructuring (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="BUSINESSSEGMENTINFORMATIONBusinessSegmentInformationDetails" roleURI="http://www.eaton.com/role/BUSINESSSEGMENTINFORMATIONBusinessSegmentInformationDetails">
+        <link:definition>9955548 - Disclosure - BUSINESS SEGMENT INFORMATION - Business Segment Information (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="BUSINESSSEGMENTINFORMATIONIdentifiableAssetsCapitalExpendituresforPPEandDepreciationofPPEbySegmentDetails" roleURI="http://www.eaton.com/role/BUSINESSSEGMENTINFORMATIONIdentifiableAssetsCapitalExpendituresforPPEandDepreciationofPPEbySegmentDetails">
+        <link:definition>9955549 - Disclosure - BUSINESS SEGMENT INFORMATION - Identifiable Assets, Capital Expenditures for PPE, and Depreciation of PPE by Segment (Details)</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element id="etn_SeniorNotes3.850Due2028Member" abstract="true" name="SeniorNotes3.850Due2028Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_SeniorNotes3.950Due2029Member" abstract="true" name="SeniorNotes3.950Due2029Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_SeniorNotes4.450Due2030Member" abstract="true" name="SeniorNotes4.450Due2030Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_SeniorNotes4.200Due2031Member" abstract="true" name="SeniorNotes4.200Due2031Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_SeniorNotes4.500Due2033Member" abstract="true" name="SeniorNotes4.500Due2033Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_SeniorNotes3.550Due2034Member" abstract="true" name="SeniorNotes3.550Due2034Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_SeniorNotes3.625Due2035Member" abstract="true" name="SeniorNotes3.625Due2035Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_SeniorNotes4.800Due2036Member" abstract="true" name="SeniorNotes4.800Due2036Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_SeniorNotes4.000Due2038Member" abstract="true" name="SeniorNotes4.000Due2038Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_SeniorNotes5.450Due2056Member" abstract="true" name="SeniorNotes5.450Due2056Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_LandAndBuildings" abstract="false" name="LandAndBuildings" nillable="true" xbrli:periodType="instant" xbrli:balance="debit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_ScheduleOfCompensationExpenseTableTextBlock" abstract="false" name="ScheduleOfCompensationExpenseTableTextBlock" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:textBlockItemType"/>
+  <xs:element id="etn_IdentifiableAssetsCapitalExpendituresForPPEAndDepreciationOfPPEBySegmentTableTextBlock" abstract="false" name="IdentifiableAssetsCapitalExpendituresForPPEAndDepreciationOfPPEBySegmentTableTextBlock" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:textBlockItemType"/>
+  <xs:element id="etn_FibrebondCorporationMember" abstract="true" name="FibrebondCorporationMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_ResilientPowerSystemsInc.Member" abstract="true" name="ResilientPowerSystemsInc.Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_UltraPCSLimitedMember" abstract="true" name="UltraPCSLimitedMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_BoydThermalMember" abstract="true" name="BoydThermalMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_BacklogIntangibleAssetsMember" abstract="true" name="BacklogIntangibleAssetsMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_MobilityBusinessMember" abstract="true" name="MobilityBusinessMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_SPANMember" abstract="true" name="SPANMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_SpinCoMember" abstract="true" name="SpinCoMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_BusinessAcquisitionEmployeeTransactionAndRetentionAwardsAmount" abstract="false" name="BusinessAcquisitionEmployeeTransactionAndRetentionAwardsAmount" nillable="true" xbrli:periodType="duration" xbrli:balance="credit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_BusinessAcquisitionEmployeeTransactionAndRetentionAwardsNumberOfInstallments" abstract="false" name="BusinessAcquisitionEmployeeTransactionAndRetentionAwardsNumberOfInstallments" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="xbrli:integerItemType"/>
+  <xs:element id="etn_PotentialPaymentsToAcquireBusinesses" abstract="false" name="PotentialPaymentsToAcquireBusinesses" nillable="true" xbrli:periodType="duration" xbrli:balance="credit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_BusinessCombinationsContingentConsiderationMaximumEmployeeIncentivePayable" abstract="false" name="BusinessCombinationsContingentConsiderationMaximumEmployeeIncentivePayable" nillable="true" xbrli:periodType="duration" xbrli:balance="credit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_BusinessAcquisitionRecognizedLiabilityAssumedEmployeeIncentivesTerm" abstract="false" name="BusinessAcquisitionRecognizedLiabilityAssumedEmployeeIncentivesTerm" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="xbrli:durationItemType"/>
+  <xs:element id="etn_BusinessAcquisitionEmployeeIncentivesExpense" abstract="false" name="BusinessAcquisitionEmployeeIncentivesExpense" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_EquitySecuritiesWithoutReadilyDeterminableFairValuePercentage" abstract="false" name="EquitySecuritiesWithoutReadilyDeterminableFairValuePercentage" nillable="true" xbrli:periodType="instant" substitutionGroup="xbrli:item" type="dtr-types:percentItemType"/>
+  <xs:element id="etn_BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentAccountsReceivable" abstract="false" name="BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentAccountsReceivable" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentPrepaidExpensesAndOtherCurrentAssets" abstract="false" name="BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentPrepaidExpensesAndOtherCurrentAssets" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentOtherIntangibleAssets" abstract="false" name="BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentOtherIntangibleAssets" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentOtherNoncurrentAssets" abstract="false" name="BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentOtherNoncurrentAssets" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentAccountsPayable" abstract="false" name="BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentAccountsPayable" nillable="true" xbrli:periodType="duration" xbrli:balance="credit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentOtherCurrentLiabilities" abstract="false" name="BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentOtherCurrentLiabilities" nillable="true" xbrli:periodType="duration" xbrli:balance="credit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentOtherNoncurrentLiabilities" abstract="false" name="BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentOtherNoncurrentLiabilities" nillable="true" xbrli:periodType="duration" xbrli:balance="credit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentIdentifiableNetAssets" abstract="false" name="BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentIdentifiableNetAssets" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_BusinessAcquisitionEmployeeTransactionAndRetentionAwardExpense" abstract="false" name="BusinessAcquisitionEmployeeTransactionAndRetentionAwardExpense" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_SystemsMember" abstract="true" name="SystemsMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_VehicleMember" abstract="true" name="VehicleMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_EMobilityMember" abstract="true" name="EMobilityMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_ElectricalAmericasSegmentMember" abstract="true" name="ElectricalAmericasSegmentMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_ElectricalGlobalSegmentMember" abstract="true" name="ElectricalGlobalSegmentMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_AerospaceSegmentMember" abstract="true" name="AerospaceSegmentMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_MobilitySegmentMember" abstract="true" name="MobilitySegmentMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_OriginalEquipmentManufacturersMember" abstract="true" name="OriginalEquipmentManufacturersMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_AftermarketDistributionAndEndUserMember" abstract="true" name="AftermarketDistributionAndEndUserMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_IndustrialandOtherMember" abstract="true" name="IndustrialandOtherMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_ContractWithCustomerLiabilityCustomerDepositsAndBillings" abstract="false" name="ContractWithCustomerLiabilityCustomerDepositsAndBillings" nillable="true" xbrli:periodType="duration" xbrli:balance="credit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_ContractWithCustomerLiabilityTranslationGainLossAndOther" abstract="false" name="ContractWithCustomerLiabilityTranslationGainLossAndOther" nillable="true" xbrli:periodType="duration" xbrli:balance="credit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_SupplierFinanceProgramObligationAddition" abstract="false" name="SupplierFinanceProgramObligationAddition" nillable="true" xbrli:periodType="duration" xbrli:balance="credit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_SupplierFinanceProgramObligationSettlement" abstract="false" name="SupplierFinanceProgramObligationSettlement" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_SupplierFinanceProgramTranslationAdjustment" abstract="false" name="SupplierFinanceProgramTranslationAdjustment" nillable="true" xbrli:periodType="duration" xbrli:balance="credit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_FiveYearCreditFacilityExpiringOnSeptember272030Member" abstract="true" name="FiveYearCreditFacilityExpiringOnSeptember272030Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_A2026U.S.NotesMember" abstract="true" name="A2026U.S.NotesMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_A3.850NotesDue2028Member" abstract="true" name="A3.850NotesDue2028Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_A3.950NotesDue2029Member" abstract="true" name="A3.950NotesDue2029Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_A4.200NotesDue2031Member" abstract="true" name="A4.200NotesDue2031Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_A4.500NotesDue2033Member" abstract="true" name="A4.500NotesDue2033Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_A4.800NotesDue2036Member" abstract="true" name="A4.800NotesDue2036Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_A5.450NotesDue2056Member" abstract="true" name="A5.450NotesDue2056Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_A2026EuroNotesMember" abstract="true" name="A2026EuroNotesMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_A3.550EuroNotesDue2034Member" abstract="true" name="A3.550EuroNotesDue2034Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_A4.000EuroNotesDue2038Member" abstract="true" name="A4.000EuroNotesDue2038Member" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_LineOfCreditFacilityBorrowingCapacityUpsized" abstract="false" name="LineOfCreditFacilityBorrowingCapacityUpsized" nillable="true" xbrli:periodType="instant" xbrli:balance="credit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_NumberOfTranches" abstract="false" name="NumberOfTranches" nillable="true" xbrli:periodType="instant" substitutionGroup="xbrli:item" type="xbrli:integerItemType"/>
+  <xs:element id="etn_BenefitPlans" abstract="false" name="BenefitPlans" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_DefinedBenefitPlanFundedUnfundedStatusOfPlanGainLoss" abstract="false" name="DefinedBenefitPlanFundedUnfundedStatusOfPlanGainLoss" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_CommonStockSharesIssuedNotDisclosed" abstract="false" name="CommonStockSharesIssuedNotDisclosed" nillable="true" xbrli:periodType="instant" substitutionGroup="xbrli:item" type="xbrli:booleanItemType"/>
+  <xs:element id="etn_NumberOfAuthorizedSharesNotDisclosed" abstract="false" name="NumberOfAuthorizedSharesNotDisclosed" nillable="true" xbrli:periodType="instant" substitutionGroup="xbrli:item" type="xbrli:booleanItemType"/>
+  <xs:element id="etn_A2022ProgramMember" abstract="true" name="A2022ProgramMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_A2025ProgramMember" abstract="true" name="A2025ProgramMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_A2025And2022ProgramMember" abstract="true" name="A2025And2022ProgramMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_AOCIDerivativeQualifyingAsHedgeExcludedComponentAndAccumulatedForeignCurrencyAdjustmentAttributableToParentMember" abstract="true" name="AOCIDerivativeQualifyingAsHedgeExcludedComponentAndAccumulatedForeignCurrencyAdjustmentAttributableToParentMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_AccumulatedGainLossNetInvestmentHedgeParentMember" abstract="true" name="AccumulatedGainLossNetInvestmentHedgeParentMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
+  <xs:element id="etn_SummaryOfFinancialInstrumentsRecognizedAtFairValueAndFairValueMeasurementUsedAbstract" abstract="true" name="SummaryOfFinancialInstrumentsRecognizedAtFairValueAndFairValueMeasurementUsedAbstract" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="xbrli:stringItemType"/>
+  <xs:element id="etn_DerivativeAssetStatementOfFinancialPositionExtensibleEnumerationNotDisclosedFlag" abstract="false" name="DerivativeAssetStatementOfFinancialPositionExtensibleEnumerationNotDisclosedFlag" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="xbrli:stringItemType"/>
+  <xs:element id="etn_DerivativeLiabilityStatementOfFinancialPositionExtensibleEnumerationNotDisclosedFlag" abstract="false" name="DerivativeLiabilityStatementOfFinancialPositionExtensibleEnumerationNotDisclosedFlag" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="xbrli:stringItemType"/>
+  <xs:element id="etn_IncomeTaxExpenseBenefitFromRestructuringCharges" abstract="false" name="IncomeTaxExpenseBenefitFromRestructuringCharges" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_RestructuringChargesAfterTax" abstract="false" name="RestructuringChargesAfterTax" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_PaymentsUtilizationAndTranslationForRestructuring" abstract="false" name="PaymentsUtilizationAndTranslationForRestructuring" nillable="true" xbrli:periodType="duration" xbrli:balance="credit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+  <xs:element id="etn_OtherCorporateExpenseNet" abstract="false" name="OtherCorporateExpenseNet" nillable="true" xbrli:periodType="duration" xbrli:balance="debit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
+</xs:schema>
