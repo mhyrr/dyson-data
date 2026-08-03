@@ -1,0 +1,10 @@
+Video ID: OWm9wqWs86A
+Title: AI Is Starting to Improve Itself
+Channel: Peter H. Diamandis
+URL: https://youtube.com/watch?v=OWm9wqWs86A
+Segments: 35
+Language: en
+
+--- Transcript ---
+
+The holy grail of AI is recursive self-improvement. It's the idea that AI makes itself smarter. You use that smarter AI to create the next generation of AI. This week, a startup called Wo AI published what they call experimental evidence for the first recursive self-improvement. They built the system with an outer AI agent whose job is to rewrite the code and the research strategy for an inner AI agent. In their experiment, they claim that 8 days of machine self-improvement beat two years of expert human effort. >> For me, this is by far the most important story or slide we're going to cover today. I'm beyond excited for a couple of reasons. I'm not really focused on the self-awareness or the loop that will go there. But this is self accelerating experimentation. It's improving the process by which it searches and evaluates and selects improvements. And the innovation loop begins to compound. That for me is the key. Why? Because this this whole thing we've been doing called the organizational singularity relies on one thing which is can you get to recursive self-improvement at the workflow level. So this is the first glimpse of the organizational singularity because AI is not just doing tasks in a in a workflow. It's redesigning the workflow that makes it better for doing future tasks.

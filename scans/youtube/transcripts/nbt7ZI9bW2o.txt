@@ -1,0 +1,448 @@
+Video ID: nbt7ZI9bW2o
+Title: The Market Is Wrong About SpaceX
+Channel: Limitless Podcast
+URL: https://youtube.com/watch?v=nbt7ZI9bW2o
+Segments: 438
+Language: en
+
+--- Transcript ---
+
+Ejaaz:
+Since they IPO'd six weeks ago, SpaceX stock has absolutely crated. Ejaaz:
+It's down more than 50% from its all-time high. And as we're recording this, Ejaaz:
+it reached a new all-time low of $107 per share. Ejaaz:
+So the question on everyone's mind is, is SpaceX done for? Was it massively Ejaaz:
+overpriced? Will this company make it? Well, this might be a hot take, Ejaaz:
+but I think that the market is incredibly wrong about SpaceX. Ejaaz:
+And I think it's an incredibly mispriced asset. Ejaaz:
+Think about it from two simple perspectives. In order to get the best AI model Ejaaz:
+out there, you need the most energy. Where do you get the most energy? Ejaaz:
+From the sun. In order to do that, you need access to space, Ejaaz:
+cheap access to space. SpaceX is the only company that has the advantage here. Ejaaz:
+And they recently had Flight 13 for their new spaceship, which was a massive Ejaaz:
+success. And they launched Starlink V3. It was an incredible test. Ejaaz:
+We're gonna get into that. Ejaaz:
+The bull case and the bear case is gonna be a sobering take on Limitless, Ejaaz:
+which is, you know, unique for us on why SpaceX is a generational company. Josh:
+The bull case is mostly determinant of just the baddest technology that they Josh:
+are producing now. And I think we're going to talk about that a lot in terms Josh:
+of actual market sentiment. Josh:
+It's tough, right? It's like the stock IPO and it was incredible. Josh:
+It went up to $225 per share. Josh:
+That's over two and a quarter trillion dollar market cap, which, Josh:
+you know, that's unreasonable. That is so much money. The multiples on the returns Josh:
+in terms of how much revenue they're making are just astronomical. It doesn't make sense. Josh:
+It's not just the public market that can't figure out how to price this. Josh:
+There's a lot of values from these privately held banks that are trying to put Josh:
+price per share estimates on it. Josh:
+And they still can't figure it out either. I think this is the widest distribution Josh:
+of what banks are kind of valuing the company at. We have Morningstar putting it at $63. Josh:
+And then we have Morgan Stanley on their bull case putting it at $600. Josh:
+And to me, that signals that this company is mostly misunderstood. Josh:
+People don't know how to value it. They don't know how to value a company that Josh:
+is planning to change the world today. Josh:
+Because a lot of the value is promised in the future. So how do you trade that? Josh:
+What multiple does that trade at? And maybe in order to better understand that, Josh:
+we could talk about the real technology that they're building that's going to Josh:
+get them to this spectacular market cap. Because I can be empathetic. Josh:
+I mean, if you bought this a couple weeks ago at 225, it's been a tough ride. Josh:
+I think we're here to provide a little bit of reassurance that like, Josh:
+hey, short-term, unsure, but long-term, there's some really compelling cases Josh:
+to be made for why Starship, for why SpaceX in general, there's going to be Josh:
+a lot of star naming in this episode. Josh:
+Is a really spectacular company. And it has monopolies across the board and Josh:
+things that other companies just can't really compete on. Ejaaz:
+I think it's important to lay out the bear case for SpaceX, because we've been Ejaaz:
+incredibly bullish about Elon Musk and all of his companies on this show. Ejaaz:
+And in fact, I think both of us bought the IPO when it did an IPO. Ejaaz:
+So we're in it with everyone. If you're an investor that bought that IPO, we're here with you. Ejaaz:
+We feel your pain. So let's walk through the bear case. Well, Ejaaz:
+I'm definitely also unbothered, but we'll get to the bull case a little later. Ejaaz:
+But let's let's look at the bad case let's see what the armchair critics are Ejaaz:
+saying online the i told you so's okay so there's a few things happening right now number one Ejaaz:
+the fact that SpaceX was probably massively overvalued. We know that Elon Musk, Ejaaz:
+in order to execute on his vision of turning civilization into a Kardashev type Ejaaz:
+one civilization, you need a lot of money to do that. Ejaaz:
+Space travel is incredibly expensive. So he tried to raise as much money as he can. Ejaaz:
+That's what he eventually did. The market is now showing us that it wants to Ejaaz:
+kind of reprice it to what it's actually valued at. Ejaaz:
+And so it IPO'd at $135. It's now sitting at an all-time low at $107. Ejaaz:
+I think as we're looking at our screens right now, it's at like $111 at the time of recording. Ejaaz:
+Another big critic is only 4% of the share supply was revealed or made available Ejaaz:
+for everyone. That is out of, I think it's around 16 billion shares. Ejaaz:
+And I think another 1 billion worth of shares gets unlocked in about a week's Ejaaz:
+time, August 6th, I believe, which is two days after their first quarterly report. Ejaaz:
+So there's a lot of things going on here. People are speculating, Ejaaz:
+is the Q3 report going to be very good, or is it going to be bad? Ejaaz:
+Well, if you look at their financial statements from 2025, it's kind of sobering. Ejaaz:
+They took a net loss of, I think, $4.5 billion. Ejaaz:
+The Grok models, as we know, hasn't been able to keep up with the frontier until Ejaaz:
+recently with Grok 4.5. We have a lot of information on that going forward as part of our bull case. Ejaaz:
+But the point is, there is a very low float. Ejaaz:
+And if the stock price isn't able to keep up and maintain its high price on Ejaaz:
+a small float, how do we expect it to do it on a large float? Ejaaz:
+For the rest of the year, I think something crazy like 56% of the rest of the Ejaaz:
+stock supply is aiming to be unlocked and you need purchases to be able to support that. Ejaaz:
+So we understand the bear take, but there is also a lot of good things that Ejaaz:
+are expected for this company. Ejaaz:
+And as we said on our ball case episode around the SpaceX IPO, Ejaaz:
+this is a long-term investment. Ejaaz:
+If you believe that space travel, harnessing the sun's energy, Ejaaz:
+Training AI models on infinite energy is incredibly important. Ejaaz:
+If you believe that robotics, if you believe that Tesla and SpaceX are going Ejaaz:
+to have a merger eventually or that they're synonymous companies run by the same CEO, Ejaaz:
+then you believe that SpaceX is going to be a fundamental and once in a generation Ejaaz:
+type company 10 years out from now. Josh:
+In summary, I mean, SpaceX is trading at about 80 times sales, Josh:
+which is incredibly high. I mean, Palantir is the next highest. Josh:
+Everyone freaks out about that, trading at about 60 times. This is a huge multiple on the future. Josh:
+Here's the future that they're building. And this is where I want to talk about Josh:
+the kind of technical features of SpaceX as a company. Josh:
+And there's four key pillars that we could talk about here. One being Starship. Josh:
+The second being Starlink, the satellite network above our heads currently flying right now. Josh:
+The third is the AI opportunity. And the fourth is their ability to manufacture Josh:
+physical things better than everyone else. So maybe we should start with Starship Josh:
+because Starship launch flight 13 just happened last week and it was glorious. Josh:
+Starship, for those who are not aware, this is the Mars rocket. Josh:
+This is the moon rocket. Now, it's mostly known as the lunar rocket because Josh:
+the plan is to get a Martian base, get a mass driver, a lot of sci-fi stuff. Josh:
+But to bring it back down to what just happened, basically, 407 foot skyscraper went into space. Josh:
+This was their 16th attempt and it actually worked about as well as it could have been. Josh:
+So there's a few things that they're testing for each one of these launches. Josh:
+The first is the ability to actually get the rocket into space, Josh:
+which clearly it did very well. Josh:
+The second is to land both of the objects back on Earth. Josh:
+Those went well. We'll talk about that in a second. And the third is the ability Josh:
+to actually distribute payload into orbit. Josh:
+And for the first time ever, that went well with real production hardware. Josh:
+So we've seen these Starship launches before. We've got the Starship into space and it's distributed. Josh:
+They use this thing called the Pez dispenser, which is a funny way of just kind Josh:
+of distributing these Starlink satellites. Josh:
+One thing noteworthy about this is for the first time ever, Starship launched Josh:
+active Starlink version 3 satellites into space. These weren't dummy units. Josh:
+They were actual real pieces of hardware that are now connected to the Starlink Josh:
+network and have all of the capabilities available. Josh:
+Of direct to sell and much more bandwidth than we're used to traditionally with Josh:
+the Starlink terminals. Josh:
+The other thing that it did really well and that we're watching on this launch Josh:
+video right here is that it actually landed back on the ocean softly for the Josh:
+first time. You'll notice that it landed so soft that the rocket actually didn't explode. Josh:
+It was incredible and it's been floating there. I think it was floating there Josh:
+for like over two days, almost three days, just floating around in the ocean Josh:
+because it landed so softly it didn't blow up. Josh:
+And then there is the booster, which we've seen them land before a few times on those arms. Josh:
+It didn't do that this time, that wasn't in the test, but it had a pretty decent Josh:
+landing to the point where they'll be able to test that again. Josh:
+So this launch went about as good as it could have been. Josh:
+You'll notice the heat shields on this video that we're seeing, that did well. Josh:
+A big part about re-entry when you're rapidly deploying these rockets is making Josh:
+sure that you can rapidly deploy these rockets. Josh:
+And a big part of that is protecting your rocket ship from the re-entry burn. Josh:
+The ship is going like at many times the speed of sound through a very dense Josh:
+atmosphere, and it causes a lot of heat. Josh:
+You'll notice that from flight 10 all the way on the left to flight 13 all the Josh:
+way on the right, that heat shield is doing really well. So all the signs are Josh:
+pointing towards rapid reusability coming up quickly, so much so that the next Josh:
+Starship launch flight, they're going to test the landing of the actual ship. Josh:
+So we're going to get a video, probably, of the ship actually landing back on those chopstick arms. Josh:
+And I think that's going to be spectacular. So everything so far is working fairly well. Ejaaz:
+My major takeaway from this is the technology is so far advanced at SpaceX for Ejaaz:
+spaceship flight, at least, versus any other company. Ejaaz:
+I think their nearest competitor is Jeff Bezos' Blue Origin, Ejaaz:
+that Elon is just in a field of his own right now. But I think what a lot of Ejaaz:
+the market and investors are thinking right now is, I don't see how this materially Ejaaz:
+impacts my life today. So why should I care about this? Ejaaz:
+How do I price in what these rockets are eventually going to bring to me? Ejaaz:
+I don't have that kind of an effect on myself right now in my day-to-day life. Ejaaz:
+And I think that's probably a fair take, but it's also, in that very same sense, a mispriced take. Ejaaz:
+I mean, look at this thing. This thing is like larger, we're launching things Ejaaz:
+that are larger than the Statue of Liberty, for reference here, right? Ejaaz:
+And then we're putting like thrusters on these things, 33 Raptors, Ejaaz:
+and we're just sending these things with massive payloads. Ejaaz:
+I think it's like 5,000 tons into space to release these Starlink satellites. Ejaaz:
+I think it released 20 V3 Starlink satellites, which is more broadband connectivity Ejaaz:
+than Starlink has had in its previous generation. So it's just insane how much Ejaaz:
+Power and innovation is in these actual things. Ejaaz:
+That being said, it's an expensive endeavor and there is a high error rate. Ejaaz:
+But if there's one man to pull it off, it's Elon. And he's repeatedly shown Ejaaz:
+this with his other companies at Tesla. Ejaaz:
+And he's done this at SpaceX for over 20 years now. So is the market mispricing Ejaaz:
+this asset? Yes, potentially. Ejaaz:
+But also, this is over a long time horizon type of thing. Ejaaz:
+If you're investing in this and you're looking at this for over, Ejaaz:
+say, a six-week period, this is probably not the right kind of asset to invest Ejaaz:
+in. This is a long-time thing, and this is something that I personally have Ejaaz:
+a lot of conviction on. But one thing to mention about this company is Ejaaz:
+it's not just about SpaceX anymore. It's not just about space in any kind of material sense. Ejaaz:
+It is about AI and a number of different other things. Ejaaz:
+So as we know, SpaceX and XAI merged about, I think a couple of months ago, Ejaaz:
+Pre-IPO, and they are currently in ownership of all the Grok models. Ejaaz:
+And Grok actually came out with a new model, 4.5 recently. And while Grok 4.5 Ejaaz:
+isn't necessarily a frontier model, it is about 80 to 90% of a frontier model, Ejaaz:
+and it's incredibly cheap, and it's very fast to use. Ejaaz:
+And in this current world, where a lot of enterprises are spending tens to hundreds Ejaaz:
+of millions of dollars on AI every single year, they're looking at ways to cut Ejaaz:
+down costs. And Grok 4.5 is a really good way to do that. Ejaaz:
+But the second major thing is Elon has built one of the largest compute clusters Ejaaz:
+for GPUs, better than anyone and everyone. He's aggressively expanding it. Ejaaz:
+He announced, I think, Colossus 4 a few weeks ago. Now, the reason why this Ejaaz:
+is important is Thank you. Ejaaz:
+The scaling laws haven't changed. More compute equals better AI models. Ejaaz:
+So if you are Mark Zuckerberg or if you are Elon Musk, who have the largest Ejaaz:
+data centers right now, you have a good shot of taking on the likes of Anthropic Ejaaz:
+and OpenAir at some point. Ejaaz:
+And this is shown in the model release cater. So we have Grok 4.5 right now, Ejaaz:
+but in two weeks' time, as of this recording, you're going to have Grok 4.7. Ejaaz:
+And then two weeks after that, you're going to have Grok 5. And each of these Ejaaz:
+models are successfully much larger than its predecessor, which means it's more Ejaaz:
+intelligent and more effective and arguably could catch up to the very capable Ejaaz:
+Fable and Mythos models that come from Anthropic Ejaaz:
+And GPT 5.6 that comes from OpenAI right now. So that's another major business unit. Ejaaz:
+Then the final thing is the fact that when you have all this compute, Ejaaz:
+what's the best thing to do with it if you're not training your own models? Ejaaz:
+It's selling it to other businesses. And SpaceX has indirectly become one of Ejaaz:
+the largest neoclouds out there to the tune of, I think it's like they're selling Ejaaz:
+$60 billion worth of compute over the next, I think, nine to 12 months. Ejaaz:
+Anthropic is one of their largest purchases, paying them $1.25 billion per month. Ejaaz:
+So the point is, whilst it might be losing money right now, while space travel Ejaaz:
+might be a very expensive business, it has all these other business units which Ejaaz:
+are looking to be incredibly profitable in the near future. And I don't think Ejaaz:
+people are pricing that in. Josh:
+Yeah, the iterative nature of SpaceX is, I think, something that only people Josh:
+who observe it on a regular basis witness. Josh:
+And from the people who aren't there on the outside it just looks like these Josh:
+products don't really change or evolve much but when you see them on a per product basis how Josh:
+quickly they iterate and how strongly they grow it's really amazing when you Josh:
+think about the raptor engines the engines that power starship from version one to version three Josh:
+the efficiency has gone two to three Josh:
+x every single time the cost has gone absolutely ridiculous in terms of Josh:
+the downwards direction this happens with the starlink terminal satellites like Josh:
+you mentioned it has every one of these version 3s is equivalent to 20 times that of a version 2. Josh:
+Same thing happened with their Starlink terminal. They're now on version five. Josh:
+The new version is 60% more efficient. Josh:
+And all of these increases compound in a way that adds a tremendous amount of Josh:
+value to each one of these verticals. Josh:
+In the case of the AI argument, the AI pillar of this company, Josh:
+I mean, you mentioned that no one's really able to build as fast as they are Josh:
+and iterate again, as fast as they do. Josh:
+They built that Colossus data center in what, 160 something days, Josh:
+which is like many many hundreds of days faster than any other company can yeah Josh:
+by a long shot and the next one's going up even faster and the iterative nature Josh:
+of their ability to build hard hardware products Josh:
+is i think one of the most compelling values and it gets kind of into that fourth Josh:
+pillar of manufacturing Josh:
+where a company who's able to move atoms in an organized way efficiently and Josh:
+effectively is so much more valuable than a company that isn't because we've Josh:
+gotten good over the last 20 years at building Josh:
+software really well and when you think about the most valuable companies in Josh:
+the world a lot of it revolves around their ability to create software i mean Josh:
+look at all the ai labs we talk about Josh:
+on a daily basis not a single one of them has released any compelling pieces Josh:
+of hardware it's all just been bits on a screen and it's really difficult to Josh:
+manage supply chains and move these things around and that's why we see companies Josh:
+like anthropic companies like google going to spacex and asking them like Josh:
+hey could you give us some of that compute we don't quite know how to build Josh:
+it as fast as you do but we'd love to use it and spacex is the company that Josh:
+can do that and in fact if spacex was just an ai company. Josh:
+It would be the most remarkable AI company in the world because of its ability Josh:
+to manufacture data centers at scale and to do the things required to do so. Josh:
+Remember the episode we filmed a few weeks ago, or even last week, Josh:
+I think it was, where Elon personally purchased a billion dollars worth of power Josh:
+just so he could plug in a Colossus data center and get that online faster. Josh:
+And their ability to do that at scale is something that's really compelling Josh:
+and highly competitive because they can build anything. Josh:
+And when you think about what comes down the line for these companies. Josh:
+You think about, in the case of Tesla, we have CyberCab and Optimus, Josh:
+and there is certainly a world in which these new companies are going to merge. Josh:
+We see a lot of the crossover happening where now cybercabs are equipped with Josh:
+Starlink terminals and Starship is using the cold rolled stainless steel that is used in Cybertruck. Josh:
+And all of this, this hard physical labor is really going into creating a really Josh:
+compelling company, a really compelling manufacturing story, Josh:
+I think more than anything else, and doing so all mostly domestically. Josh:
+There's been this battle to move things back here to the United States and everything Josh:
+that these companies make is right here on U.S. soil. And it's, Josh:
+they just do an amazing job of doing it. Ejaaz:
+I do think to a certain degree, you have to be sort of crazy or delusional to Ejaaz:
+believe in the vision that SpaceX and any Elon Musk company is pitching out there. Josh:
+It's crazy. It is crazy. Ejaaz:
+It's quite out there. And like, I don't blame you for critics that I see in Ejaaz:
+the comments for a lot of our videos where we talk about SpaceX in particular. Ejaaz:
+They're like, you know, you know, this guy's crazy. Like, he's not gonna be able to pull this off. Ejaaz:
+And, you know, as a normal, sensible person would agree with you. Ejaaz:
+But one thing I will say is, if you do believe that this vision is able to be Ejaaz:
+executed upon, whether it's Elon, but mostly his team that does Ejaaz:
+A lot of the hard work, then you can feasibly put an investment thesis against Ejaaz:
+not just SpaceX, but any Elon company. Ejaaz:
+I think about it like this. If you purchase SpaceX stock, you're basically buying, Ejaaz:
+what is it, a space launch company Ejaaz:
+a telecom company, you are buying a GPU data center, and you're also buying a Frontier AI lab. Ejaaz:
+All of that comes packaged in once. And if all of it has to work, Ejaaz:
+if one thing doesn't work, then kind of like the thesis gets broken. Ejaaz:
+But then there's also this other company called Tesla, which is now like a Frontier Ejaaz:
+robotics company. It's not just a car company, right? Ejaaz:
+And so what do these robots eventually need? They need some form of a brain Ejaaz:
+to guide them, to scale them in a mass production type of way. Ejaaz:
+Well, you have Grok models, which are trained on a ton of experimental physical data. Ejaaz:
+And Elon Musk is working on that separately. So at some point, Ejaaz:
+you see a lot of synonymous kind of cohesion between these two companies. Ejaaz:
+So you have to be delusional. Now, to kind of like ground ourselves a bit, Ejaaz:
+there is a lot of bearish events, if you want to categorize it like that, Ejaaz:
+happening over the next six months until the end of this year. Ejaaz:
+The main one, in my opinion, is the supply unlock. Ejaaz:
+If you have 56% to 60% of the entire supply for shares for SpaceX getting unlocked Ejaaz:
+by the end of the year, the big question in everyone's mind is, Ejaaz:
+is there enough money to even support the current valuation that there is? Ejaaz:
+Or should I just wait and see for all of these shares to become unlocked? Ejaaz:
+Let the price find an actual, you know, Ejaaz:
+Price that the market thinks is valuable, if that makes sense, Ejaaz:
+and then buy later on when that price is hit. Ejaaz:
+Now, we don't do investment advice here. We just kind of talk about what our general thesis will be. Ejaaz:
+But let's look at some other companies that were in a similar position almost Ejaaz:
+a decade ago. If you look at Meta, when they IPO'd, I believe, Ejaaz:
+in 2012, their stock price went below IPO price for about a year. Ejaaz:
+And since then, it's gone on a meteoric rise. The same thing can be said of Ejaaz:
+Uber over a shorter timeline, privately held. So the point is companies aren't always fairly priced. Ejaaz:
+I think Elon Musk raised a ton of money to be able to execute on this gargantuan Ejaaz:
+vision that he has. And the market is now pricing it more fairly. Ejaaz:
+Keep an eye on the supply unlocks. The first one is going to be August 7th, Ejaaz:
+two days after their first ever quarterly earnings. Ejaaz:
+I'm curious in those quarterly earnings whether they actually turned towards Ejaaz:
+profitability in some forms of ways. I'm going to look at the individual business Ejaaz:
+units, perhaps Grok specifically. Ejaaz:
+And yeah, I guess we'll see where we go from there. But right now, Ejaaz:
+I'm a long term believer in this company. I believe there's only one person Ejaaz:
+that's able to execute and pull this off. Ejaaz:
+And I believe Elon is that moonshot bet. Josh:
+Agents, you know what else I'm bullish on? It's this company called Ledger. Josh:
+And thank you to Ledger for sponsoring this part of the episode, Josh:
+where if you are building with AI agents, you're worried about security. Josh:
+And an agent with unchecked access is a pretty brilliant but probabilistic teammate Josh:
+with access to important secrets. Josh:
+So Ledger Agent Stack fixes that with four open source tools. Josh:
+DMK Skills and CLIs for Ledger Wallet, Ledger Enterprise, and Ledger Enterprise Josh:
+Multisig that lets your agent work with crypto while you stay in full control. Josh:
+Tell your agent, you can rebalance my wallet, ETH to 40%, fastest swaps, Josh:
+it does the math, drafts the swaps, and then stops. Josh:
+The transaction lands on your Ledger signer and nothing moves until you approve it. Josh:
+Agents propose, humans approve, Ledger's signer enforces. Josh:
+And the coolest thing for me is this works with Cloud Code, Codex, Josh:
+Cursor, and it's all open source, ready today on developers.ledger.com. Josh:
+You can find a link in the description below. Thank you to Ledger for supporting our show. Josh:
+And I want to finish the bullish case for Starship with the manufacturing story Josh:
+again one more time, just talking about how quick they're actually going to Josh:
+make this reality happen. Because Ejaz, you did kind of humble us a little bit. Josh:
+This is a sci-fi future that seems impossible. This seems like something you Josh:
+would read in a book more so than witness it with your own eyes. Josh:
+I've seen it happen with Tesla before. I haven't driven a car in a couple of years. Josh:
+Like the Model Y is the best-selling car in the world. They've done Mission Josh:
+Impossible before. This is not anything new to them. Josh:
+And I see a very clear case in which they could do it again. Josh:
+When you look at Starship, for example, Josh:
+Do you know how long it takes to build a Starship now? Ejaaz:
+It's two weeks. Josh:
+It's two weeks long to build a Starship. Wow. And they're simultaneously building Josh:
+seven of them at once. Is that for the new one? Josh:
+Starship number 41. Wow. Yes, this is Starship version three. Ejaaz:
+Dude. That's so impressive. Josh:
+Ships 41 through 48 are in simultaneous productions. They're building seven Josh:
+of these at once. They're building one every 14 days currently. Josh:
+And that pipeline is going to be increasing significantly. So for this year Josh:
+in 2026, Gwynne Shotwell, the COO, the godsend of SpaceX, Basically, Josh:
+the effective CEO of SpaceX is saying they're planning to launch one starship every single month. Josh:
+In 2027, they're planning to launch one to 400 starships in the year. Josh:
+So the cadence is going to increase significantly. And the way it works is it's Josh:
+unbelievable. It's like these rolls of steel go in and then a 400 foot rocket Josh:
+just rolls out after a couple of days. Josh:
+And they're going to be doing this over and over. Josh:
+And as they do, the Starlink capabilities are going to multiply 20 fold per launch. Josh:
+And all of these things kind of compound in a way that, again, Josh:
+it's that iterative improvement and it compounding on itself in a way that is Josh:
+so incredibly compelling. And you could see how this is going to happen across Josh:
+the company with data centers. Josh:
+The first one's like 160 something days. The second one's going to take 100. Josh:
+The third one's going to take 50. Josh:
+They're just going to continue to iterate their way down. And before you know Josh:
+it, they have this unbelievable ability to manufacture these very complicated things at scale. Josh:
+So that's kind of what I'm looking for. And when I look at these, Josh:
+it's very difficult to value something on an exponential curve because of how Josh:
+slow that initial exponential is before it kicks up. Josh:
+And then once it does kick up, over the matter of a couple of months, Josh:
+it could change the entire look and feel of a business. And we saw this with Josh:
+Tesla in 2018, where it took a very long time. Tesla, for the people who weren't Josh:
+around, it was the most shorted stock in the market for years. Josh:
+And it had the highest short float of any company in the world. Josh:
+And then over one year, it went up like 10x. Josh:
+And it very aggressively repriced because people realized, hey, Josh:
+they actually are going to manufacture the most popular car in the world and Josh:
+figure out the self-driving thing. Josh:
+We're probably going to see something like that happen with SpaceX. Josh:
+It probably takes a long time because, I mean, like you said, Josh:
+there's a lot of bearish signals that they will have to get through first if Josh:
+you are a short-term trader. Josh:
+If you're someone who's interested in the share price this year or next year. Josh:
+This might be a bumpy ride. Josh:
+I mean, because there is a stat that I read that I was like, Josh:
+oh, that sucks. In the case of IPOs in general, the last 15 largest US IPOs since, Josh:
+drawing down 50% since the IPO and have averaged finishing the year down 33% where they go public. Josh:
+So there is no precedent for strong IPOs really in this case. Josh:
+It has the valuation problem where it's trading at 80 times trailing sales, Josh:
+profit is non-existent, there's a long way for it to go. Josh:
+But if you believe in this future, it is an incredibly compelling version in Josh:
+which this company is worth more than many other of the top companies combined. Josh:
+It just takes a long time and and it's hard and it's going to be a really difficult Josh:
+battle, but it is possible. And if you're a long-term investor, Josh:
+that's kind of the thing to hold on to. Ejaaz:
+It's a big vision, but Elon has proven time and again that he is an amazing Ejaaz:
+zero to one physical infrastructure scale. Ejaaz:
+And that's exactly the opportunity that SpaceX presents, albeit at a very ambitious Ejaaz:
+vision. If you think about it, I think in the optimistic timeline, Ejaaz:
+the SpaceX shuttle business itself could pay for the entire company, right? Ejaaz:
+If you think about its vision of putting AI satellites out there to train models Ejaaz:
+on infinite amounts of energy from the sun, Anthropica will want that. Ejaaz:
+OpenAI will want that. All the competitors will eventually want that. Ejaaz:
+And there's only kind of like one highway to get there in the cheapest, Ejaaz:
+most cost efficient way. And that would be through SpaceX. But again, Ejaaz:
+it's a bet on whether they are able to pull it off. Ejaaz:
+When it comes to the stock price in general, even if you are skeptical on the Ejaaz:
+stock price, if you're a bullish person about this, there is a silver lining Ejaaz:
+where it's like, okay, well, if the supply unlock comes on later this year, Ejaaz:
+maybe there's a better way to get access to this. Ejaaz:
+And maybe you just kind of like wait patiently for them to be able to pull this off. Ejaaz:
+But one thing is for sure, Elon is kind of hell bent on making this a reality. Ejaaz:
+And time will tell whether this is something that is going to pay off. Ejaaz:
+Again, you need a lot of time to figure this stuff out. And AI is probably the Ejaaz:
+most mispriced asset in general, because no one knows what any of this is going to do. Ejaaz:
+The point of the kind of like mispriced valuation that we're seeing right now Ejaaz:
+is there's not enough market to uphold these prices. You've got the anthropic Ejaaz:
+OpenAI IPOs coming on later this year, so we're going to need even more money for that. Ejaaz:
+And I think a big precursor to SpaceX going up in price in general will be, Ejaaz:
+does AI create enough GDP value across the entire globe? Ejaaz:
+And that is a question mark, albeit a small one, because it's impacting so many Ejaaz:
+sectors at the same time. Ejaaz:
+So we'll get more clarity over time. But again, once clarity is achieved, Ejaaz:
+you're kind of like a little bit late to that eventual trade. Ejaaz:
+So I understand the bear case. I understand the bull case, but one thing is Ejaaz:
+going to be for sure, Josh and I are going to be up 24-7, racking our brains Ejaaz:
+around this thing until we figure it out, and we'll be reporting on it live Ejaaz:
+on this show every single week. Ejaaz:
+So I think that brings us to the end of this episode. Thank you so much for Ejaaz:
+listening. This was an incredibly exciting episode to do because, Ejaaz:
+you know, we were kind of going against some of our bull cases that we had of Ejaaz:
+the previous one that we had around SpaceX. Ejaaz:
+But thank you so much for listening. If you're listening to this on YouTube Ejaaz:
+and you aren't subscribed, what's happening? Ejaaz:
+Please leave us a comment subscribe turn on notifications it helps us out massively Ejaaz:
+if you're listening to us on spotify or apple music or any way that you're listening Ejaaz:
+to us please leave us a comment or give us a rating it helps us out hugely um Ejaaz:
+but i think that's it is anything else josh Josh:
+Yeah no it's just it's exciting like stars this company feels very very easy Josh:
+to understand if you if you read sci-fi books and you understand the future Josh:
+and you're like oh man this is this is the only company in the world that kind of makes makes me feel, Josh:
+a certain way when I go out and watch these launches. Josh:
+And there's like no one trying to capture and build the future like they are. So it's exciting. Josh:
+And I don't know if it's going to work. It's a really ambitious project. Josh:
+So by betting on the company, you're kind of betting on this really uncertain future. Josh:
+But hey, it's a lot more exciting if it does work than if it doesn't. Josh:
+And I think that's what I'm most excited about. So yeah, like you said, Josh:
+thank you all so much for watching. Don't forget to share it with a friend who might also enjoy. Josh:
+And yeah, we'll see you guys in the next episode.

@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-08-01T21:22:32.904874+00:00",
+  "run_time": "2026-08-03T09:30:20.382642+00:00",
   "total_videos": 29,
   "fetched": 29,
   "failed": 0,
@@ -7,201 +7,151 @@
     {
       "video_id": "EPJl3bTxT3s",
       "title": "Bloomberg This Weekend | Jensen Huang Exclusive Interview, White House Correspondents\u2019 Dinner Redo",
-      "status": "fetched",
-      "chars": 123409,
-      "segments": 2434
+      "status": "cached"
     },
     {
       "video_id": "nKXKaBQngwE",
       "title": "Jensen Huang Says the AI Doomers Are Wrong - Is He?",
-      "status": "fetched",
-      "chars": 8272,
-      "segments": 248
+      "status": "cached"
     },
     {
       "video_id": "v-wRewlQWy8",
       "title": "Musk Rejects Far-Right Label\ud83d\ude80\ud83d\udd25 #inspiration #elonmusk #interview",
-      "status": "fetched",
-      "chars": 1192,
-      "segments": 42
+      "status": "cached"
     },
     {
       "video_id": "_MN6hKMYhyo",
       "title": "Elon Musk explains why he\u2019s not racist",
-      "status": "fetched",
-      "chars": 2712,
-      "segments": 86
+      "status": "cached"
     },
     {
       "video_id": "coMmXO0f7bY",
       "title": "elon musk crashes out during interview... absolute delusion",
-      "status": "fetched",
-      "chars": 140524,
-      "segments": 3982
+      "status": "cached"
     },
     {
       "video_id": "b_44Ra8msls",
       "title": "OpenAI President On Reinventing Computers",
-      "status": "fetched",
-      "chars": 24686,
-      "segments": 684
+      "status": "cached"
     },
     {
       "video_id": "d9CTnCH-r1g",
       "title": "Our position on open-weights models - By Dario Amodei",
-      "status": "fetched",
-      "chars": 9826,
-      "segments": 297
+      "status": "cached"
     },
     {
       "video_id": "TqNiSTeNtb0",
       "title": "The $1/Hour Robot Is Coming: Four Industry Leaders Explain What\u2019s Next",
-      "status": "fetched",
-      "chars": 73913,
-      "segments": 2140
+      "status": "cached"
     },
     {
       "video_id": "qy6CBueM5CA",
       "title": "The Incredible Deal Behind Darth Vader\u2019s AI Voice",
-      "status": "fetched",
-      "chars": 979,
-      "segments": 27
+      "status": "cached"
     },
     {
       "video_id": "8LFUuMqUqfM",
       "title": "Mark Cuban: AI is not going to take away 50% of the jobs.",
-      "status": "fetched",
-      "chars": 646,
-      "segments": 21
+      "status": "cached"
     },
     {
       "video_id": "Rn0qsdB2ZTQ",
       "title": "Mark Cuban: \u201cA lot of data centers will be turned into pickleball courts.\u201d",
-      "status": "fetched",
-      "chars": 1451,
-      "segments": 41
+      "status": "cached"
     },
     {
       "video_id": "b8V_4jb8Yes",
       "title": "Chamath: Google Is the Ultimate AI Compounding Machine",
-      "status": "fetched",
-      "chars": 1085,
-      "segments": 31
+      "status": "cached"
     },
     {
       "video_id": "Ka2y-0Of0Dc",
       "title": "Chamath: Banning Open Source AI Will Crash the Stock Market",
-      "status": "fetched",
-      "chars": 1565,
-      "segments": 42
+      "status": "cached"
     },
     {
       "video_id": "WzyMNLI1gdY",
       "title": "Will Private Astronauts Be Allowed on the Moon?",
-      "status": "fetched",
-      "chars": 1604,
-      "segments": 42
+      "status": "cached"
     },
     {
       "video_id": "dl_p1Cg_-WI",
       "title": "Robots Will Go to the Moon Before We Do",
-      "status": "fetched",
-      "chars": 1315,
-      "segments": 35
+      "status": "cached"
     },
     {
       "video_id": "mC7u396X2Kc",
       "title": "Never Bet Against Elon Musk",
-      "status": "fetched",
-      "chars": 1018,
-      "segments": 28
+      "status": "cached"
     },
     {
       "video_id": "LEmPELhraM4",
       "title": "Jared Isaacman on the Moment That Changed His Life",
-      "status": "fetched",
-      "chars": 663,
-      "segments": 18
+      "status": "cached"
     },
     {
       "video_id": "ydiSJNTPWeM",
       "title": "AI Is Moving Faster Than Regulation",
-      "status": "fetched",
-      "chars": 1216,
-      "segments": 33
+      "status": "cached"
     },
     {
       "video_id": "nV_lyWrkBs8",
       "title": "Jared Isaacman: NASA's Moon Base by 2028, Optimus Robots on the Moon, and 15 Years to Mars | Ep #274",
-      "status": "fetched",
-      "chars": 94013,
-      "segments": 2515
+      "status": "cached"
     },
     {
       "video_id": "yf2KVZxmWl8",
       "title": "Intelligence Has a Shelf Life",
-      "status": "fetched",
-      "chars": 561,
-      "segments": 15
+      "status": "cached"
     },
     {
       "video_id": "kZ2aep0aO3M",
       "title": "Why Spend Billions?",
-      "status": "fetched",
-      "chars": 844,
-      "segments": 23
+      "status": "cached"
     },
     {
       "video_id": "DieItMhlOz0",
       "title": "The Best Doctor May Soon Be AI",
-      "status": "fetched",
-      "chars": 680,
-      "segments": 18
+      "status": "cached"
     },
     {
       "video_id": "OWm9wqWs86A",
       "title": "AI Is Starting to Improve Itself",
-      "status": "cached"
+      "status": "fetched",
+      "chars": 1306,
+      "segments": 35
     },
     {
       "video_id": "nbt7ZI9bW2o",
       "title": "The Market Is Wrong About SpaceX",
-      "status": "cached"
+      "status": "fetched",
+      "chars": 33358,
+      "segments": 438
     },
     {
       "video_id": "H7AQaSNu-Fk",
       "title": "Not Using Opus 5 Will Cost You (A Lot)",
-      "status": "fetched",
-      "chars": 33063,
-      "segments": 432
+      "status": "cached"
     },
     {
       "video_id": "QHRUwziQ-oE",
       "title": "Short-Term AI Fear, Long-Term Compute Scarcity",
-      "status": "fetched",
-      "chars": 47222,
-      "segments": 1271
+      "status": "cached"
     },
     {
       "video_id": "byAj35QlGbs",
       "title": "Blake Scholl: The Problem With Becoming an Expert",
-      "status": "fetched",
-      "chars": 48403,
-      "segments": 1302
+      "status": "cached"
     },
     {
       "video_id": "qyPCVqFUyDo",
       "title": "Boris Cherny: We Cut 80% of Claude Code\u2019s Prompt",
-      "status": "fetched",
-      "chars": 36052,
-      "segments": 1096
+      "status": "cached"
     },
     {
       "video_id": "c3TxAUir2R8",
       "title": "Self-Maintaining APIs",
-      "status": "fetched",
-      "chars": 1442,
-      "segments": 39
+      "status": "cached"
     }
   ]
 }
