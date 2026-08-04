@@ -1,33 +1,595 @@
 {
-  "run_time": "2026-08-03T17:20:50.359765+00:00",
-  "total_filings": 1,
+  "run_time": "2026-08-04T16:00:54.605250+00:00",
+  "total_filings": 12,
   "filings": [
     {
-      "ticker": "GOOG",
-      "company": "Alphabet Inc",
-      "earnings_date": "2026-07-22",
-      "filing_date": "2026-07-22",
-      "accession": "0001652044-26-000066",
+      "ticker": "MOD",
+      "company": "Modine Manufacturing",
+      "earnings_date": "2026-07-29",
+      "filing_date": "2026-07-29",
+      "accession": "0001104659-26-088230",
       "form": "8-K",
       "items": "2.02,9.01",
       "documents": [
         {
-          "filename": "0001652044-26-000066.txt",
-          "size_bytes": 815591,
-          "path": "GOOG/2026-07-22/0001652044-26-000066.txt"
+          "filename": "0001104659-26-088230.txt",
+          "size_bytes": 4636520,
+          "path": "MOD/2026-07-29/0001104659-26-088230.txt"
         },
         {
-          "filename": "goog-20260722.htm",
-          "size_bytes": 65815,
-          "path": "GOOG/2026-07-22/goog-20260722.htm"
+          "filename": "mod-20260729x8k.htm",
+          "size_bytes": 42022,
+          "path": "MOD/2026-07-29/mod-20260729x8k.htm"
         },
         {
-          "filename": "googexhibit991q22026.htm",
-          "size_bytes": 371494,
-          "path": "GOOG/2026-07-22/googexhibit991q22026.htm"
+          "filename": "mod-20260729xex99d1.htm",
+          "size_bytes": 494453,
+          "path": "MOD/2026-07-29/mod-20260729xex99d1.htm"
+        },
+        {
+          "filename": "mod-20260729xex99d1001.jpg",
+          "size_bytes": 12035,
+          "path": "MOD/2026-07-29/mod-20260729xex99d1001.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2.htm",
+          "size_bytes": 32652,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2.htm"
+        },
+        {
+          "filename": "mod-20260729xex99d2g001.jpg",
+          "size_bytes": 205416,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g001.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g002.jpg",
+          "size_bytes": 111611,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g002.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g003.jpg",
+          "size_bytes": 308471,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g003.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g004.jpg",
+          "size_bytes": 176505,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g004.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g005.jpg",
+          "size_bytes": 175473,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g005.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g006.jpg",
+          "size_bytes": 115936,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g006.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g007.jpg",
+          "size_bytes": 124647,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g007.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g008.jpg",
+          "size_bytes": 127486,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g008.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g009.jpg",
+          "size_bytes": 129007,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g009.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g010.jpg",
+          "size_bytes": 138803,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g010.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g011.jpg",
+          "size_bytes": 157692,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g011.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g012.jpg",
+          "size_bytes": 181644,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g012.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g013.jpg",
+          "size_bytes": 123138,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g013.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g014.jpg",
+          "size_bytes": 99344,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g014.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g015.jpg",
+          "size_bytes": 104420,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g015.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g016.jpg",
+          "size_bytes": 113549,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g016.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g017.jpg",
+          "size_bytes": 112111,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g017.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g018.jpg",
+          "size_bytes": 85709,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g018.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g019.jpg",
+          "size_bytes": 89927,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g019.jpg"
+        },
+        {
+          "filename": "mod-20260729xex99d2g020.jpg",
+          "size_bytes": 197903,
+          "path": "MOD/2026-07-29/mod-20260729xex99d2g020.jpg"
         }
       ],
-      "fetched_at": "2026-08-03T17:20:49.859370+00:00"
+      "fetched_at": "2026-08-04T16:00:29.881891+00:00"
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft Corp",
+      "earnings_date": "2026-07-29",
+      "filing_date": "2026-07-29",
+      "accession": "0001193125-26-323632",
+      "form": "8-K",
+      "items": "2.02,9.01",
+      "documents": [
+        {
+          "filename": "0001193125-26-323632.txt",
+          "size_bytes": 1150858,
+          "path": "MSFT/2026-07-29/0001193125-26-323632.txt"
+        },
+        {
+          "filename": "msft-20260729.htm",
+          "size_bytes": 63346,
+          "path": "MSFT/2026-07-29/msft-20260729.htm"
+        },
+        {
+          "filename": "msft-ex99_1.htm",
+          "size_bytes": 901600,
+          "path": "MSFT/2026-07-29/msft-ex99_1.htm"
+        }
+      ],
+      "fetched_at": "2026-08-04T16:00:31.747695+00:00"
+    },
+    {
+      "ticker": "MPWR",
+      "company": "Monolithic Power Systems",
+      "earnings_date": "2026-07-30",
+      "filing_date": "2026-07-30",
+      "accession": "0001628280-26-051029",
+      "form": "8-K",
+      "items": "2.02,9.01",
+      "documents": [
+        {
+          "filename": "0001628280-26-051029.txt",
+          "size_bytes": 530930,
+          "path": "MPWR/2026-07-30/0001628280-26-051029.txt"
+        },
+        {
+          "filename": "logosmall.jpg",
+          "size_bytes": 8430,
+          "path": "MPWR/2026-07-30/logosmall.jpg"
+        },
+        {
+          "filename": "mpwr-20260630xexx991.htm",
+          "size_bytes": 351672,
+          "path": "MPWR/2026-07-30/mpwr-20260630xexx991.htm"
+        },
+        {
+          "filename": "mpwr-20260730.htm",
+          "size_bytes": 28570,
+          "path": "MPWR/2026-07-30/mpwr-20260730.htm"
+        }
+      ],
+      "fetched_at": "2026-08-04T16:00:33.346098+00:00"
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon.com",
+      "earnings_date": "2026-07-30",
+      "filing_date": "2026-07-30",
+      "accession": "0001018724-26-000024",
+      "form": "8-K",
+      "items": "2.02,9.01",
+      "documents": [
+        {
+          "filename": "0001018724-26-000024.txt",
+          "size_bytes": 1308541,
+          "path": "AMZN/2026-07-30/0001018724-26-000024.txt"
+        },
+        {
+          "filename": "amazon_logo.jpg",
+          "size_bytes": 287304,
+          "path": "AMZN/2026-07-30/amazon_logo.jpg"
+        },
+        {
+          "filename": "amzn-20260630xex991.htm",
+          "size_bytes": 671722,
+          "path": "AMZN/2026-07-30/amzn-20260630xex991.htm"
+        },
+        {
+          "filename": "amzn-20260630xex992.htm",
+          "size_bytes": 4311,
+          "path": "AMZN/2026-07-30/amzn-20260630xex992.htm"
+        },
+        {
+          "filename": "amzn-20260730.htm",
+          "size_bytes": 47253,
+          "path": "AMZN/2026-07-30/amzn-20260730.htm"
+        }
+      ],
+      "fetched_at": "2026-08-04T16:00:35.245145+00:00"
+    },
+    {
+      "ticker": "BMY",
+      "company": "Bristol-Myers Squibb",
+      "earnings_date": "2026-07-30",
+      "filing_date": "2026-07-30",
+      "accession": "0000014272-26-000018",
+      "form": "8-K",
+      "items": "2.02,7.01,9.01",
+      "documents": [
+        {
+          "filename": "0000014272-26-000018.txt",
+          "size_bytes": 3411893,
+          "path": "BMY/2026-07-30/0000014272-26-000018.txt"
+        },
+        {
+          "filename": "a2026q2ex991-filing.htm",
+          "size_bytes": 886065,
+          "path": "BMY/2026-07-30/a2026q2ex991-filing.htm"
+        },
+        {
+          "filename": "bmslogo2a.jpg",
+          "size_bytes": 26957,
+          "path": "BMY/2026-07-30/bmslogo2a.jpg"
+        },
+        {
+          "filename": "bmy-20260730.htm",
+          "size_bytes": 42816,
+          "path": "BMY/2026-07-30/bmy-20260730.htm"
+        },
+        {
+          "filename": "q22026earningspresentati.htm",
+          "size_bytes": 21447,
+          "path": "BMY/2026-07-30/q22026earningspresentati.htm"
+        },
+        {
+          "filename": "q22026earningspresentati001.jpg",
+          "size_bytes": 34937,
+          "path": "BMY/2026-07-30/q22026earningspresentati001.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati002.jpg",
+          "size_bytes": 288686,
+          "path": "BMY/2026-07-30/q22026earningspresentati002.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati003.jpg",
+          "size_bytes": 49322,
+          "path": "BMY/2026-07-30/q22026earningspresentati003.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati004.jpg",
+          "size_bytes": 96922,
+          "path": "BMY/2026-07-30/q22026earningspresentati004.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati005.jpg",
+          "size_bytes": 146846,
+          "path": "BMY/2026-07-30/q22026earningspresentati005.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati006.jpg",
+          "size_bytes": 78958,
+          "path": "BMY/2026-07-30/q22026earningspresentati006.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati007.jpg",
+          "size_bytes": 47062,
+          "path": "BMY/2026-07-30/q22026earningspresentati007.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati008.jpg",
+          "size_bytes": 84868,
+          "path": "BMY/2026-07-30/q22026earningspresentati008.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati009.jpg",
+          "size_bytes": 104967,
+          "path": "BMY/2026-07-30/q22026earningspresentati009.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati010.jpg",
+          "size_bytes": 94288,
+          "path": "BMY/2026-07-30/q22026earningspresentati010.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati011.jpg",
+          "size_bytes": 103929,
+          "path": "BMY/2026-07-30/q22026earningspresentati011.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati012.jpg",
+          "size_bytes": 63718,
+          "path": "BMY/2026-07-30/q22026earningspresentati012.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati013.jpg",
+          "size_bytes": 90220,
+          "path": "BMY/2026-07-30/q22026earningspresentati013.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati014.jpg",
+          "size_bytes": 88043,
+          "path": "BMY/2026-07-30/q22026earningspresentati014.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati015.jpg",
+          "size_bytes": 106717,
+          "path": "BMY/2026-07-30/q22026earningspresentati015.jpg"
+        },
+        {
+          "filename": "q22026earningspresentati016.jpg",
+          "size_bytes": 84289,
+          "path": "BMY/2026-07-30/q22026earningspresentati016.jpg"
+        }
+      ],
+      "fetched_at": "2026-08-04T16:00:41.428085+00:00"
+    },
+    {
+      "ticker": "NVT",
+      "company": "nVent Electric",
+      "earnings_date": "2026-07-31",
+      "filing_date": "2026-07-31",
+      "accession": "0001628280-26-051203",
+      "form": "8-K",
+      "items": "2.02,9.01",
+      "documents": [
+        {
+          "filename": "0001628280-26-051203.txt",
+          "size_bytes": 950192,
+          "path": "NVT/2026-07-31/0001628280-26-051203.txt"
+        },
+        {
+          "filename": "nventlogorgbf2a08a.jpg",
+          "size_bytes": 109940,
+          "path": "NVT/2026-07-31/nventlogorgbf2a08a.jpg"
+        },
+        {
+          "filename": "nvt-20260731.htm",
+          "size_bytes": 30215,
+          "path": "NVT/2026-07-31/nvt-20260731.htm"
+        },
+        {
+          "filename": "nvt-20260731_g1.jpg",
+          "size_bytes": 109940,
+          "path": "NVT/2026-07-31/nvt-20260731_g1.jpg"
+        },
+        {
+          "filename": "q22026nvtpressrelease.htm",
+          "size_bytes": 369495,
+          "path": "NVT/2026-07-31/q22026nvtpressrelease.htm"
+        }
+      ],
+      "fetched_at": "2026-08-04T16:00:43.531512+00:00"
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron Corp",
+      "earnings_date": "2026-07-31",
+      "filing_date": "2026-07-31",
+      "accession": "0000093410-26-000162",
+      "form": "8-K",
+      "items": "2.02,9.01",
+      "documents": [
+        {
+          "filename": "0000093410-26-000162.txt",
+          "size_bytes": 741863,
+          "path": "CVX/2026-07-31/0000093410-26-000162.txt"
+        },
+        {
+          "filename": "a06302026ex9918-k.htm",
+          "size_bytes": 549190,
+          "path": "CVX/2026-07-31/a06302026ex9918-k.htm"
+        },
+        {
+          "filename": "cvx-20260731.htm",
+          "size_bytes": 32114,
+          "path": "CVX/2026-07-31/cvx-20260731.htm"
+        },
+        {
+          "filename": "humanenergylogoa09a.jpg",
+          "size_bytes": 6916,
+          "path": "CVX/2026-07-31/humanenergylogoa09a.jpg"
+        }
+      ],
+      "fetched_at": "2026-08-04T16:00:45.142430+00:00"
+    },
+    {
+      "ticker": "BWXT",
+      "company": "BWX Technologies",
+      "earnings_date": "2026-08-03",
+      "filing_date": "2026-08-03",
+      "accession": "0001486957-26-000041",
+      "form": "8-K",
+      "items": "2.02,9.01",
+      "documents": [
+        {
+          "filename": "0001486957-26-000041.txt",
+          "size_bytes": 570863,
+          "path": "BWXT/2026-08-03/0001486957-26-000041.txt"
+        },
+        {
+          "filename": "bwxt_63026x8k.htm",
+          "size_bytes": 24426,
+          "path": "BWXT/2026-08-03/bwxt_63026x8k.htm"
+        },
+        {
+          "filename": "bwxt_63026xerexhibit991.htm",
+          "size_bytes": 519887,
+          "path": "BWXT/2026-08-03/bwxt_63026xerexhibit991.htm"
+        },
+        {
+          "filename": "newsreleasegraphic.jpg",
+          "size_bytes": 18805,
+          "path": "BWXT/2026-08-03/newsreleasegraphic.jpg"
+        }
+      ],
+      "fetched_at": "2026-08-04T16:00:46.744050+00:00"
+    },
+    {
+      "ticker": "WMB",
+      "company": "Williams Companies",
+      "earnings_date": "2026-08-03",
+      "filing_date": "2026-08-03",
+      "accession": "0000107263-26-000024",
+      "form": "8-K",
+      "items": "2.02,9.01",
+      "documents": [
+        {
+          "filename": "0000107263-26-000024.txt",
+          "size_bytes": 1448948,
+          "path": "WMB/2026-08-03/0000107263-26-000024.txt"
+        },
+        {
+          "filename": "wmb-20260803.htm",
+          "size_bytes": 29944,
+          "path": "WMB/2026-08-03/wmb-20260803.htm"
+        },
+        {
+          "filename": "wmb_20260630xer.htm",
+          "size_bytes": 1219000,
+          "path": "WMB/2026-08-03/wmb_20260630xer.htm"
+        },
+        {
+          "filename": "wmb_image1a19.jpg",
+          "size_bytes": 13508,
+          "path": "WMB/2026-08-03/wmb_image1a19.jpg"
+        }
+      ],
+      "fetched_at": "2026-08-04T16:00:48.297266+00:00"
+    },
+    {
+      "ticker": "ETN",
+      "company": "Eaton Corp",
+      "earnings_date": "2026-07-31",
+      "filing_date": "2026-07-31",
+      "accession": "0001551182-26-000027",
+      "form": "8-K",
+      "items": "2.02,9.01",
+      "documents": [
+        {
+          "filename": "0001551182-26-000027.txt",
+          "size_bytes": 579371,
+          "path": "ETN/2026-07-31/0001551182-26-000027.txt"
+        },
+        {
+          "filename": "etn-20260731.htm",
+          "size_bytes": 45353,
+          "path": "ETN/2026-07-31/etn-20260731.htm"
+        },
+        {
+          "filename": "etn06302026exhibit99.htm",
+          "size_bytes": 280591,
+          "path": "ETN/2026-07-31/etn06302026exhibit99.htm"
+        }
+      ],
+      "fetched_at": "2026-08-04T16:00:49.614409+00:00"
+    },
+    {
+      "ticker": "POWL",
+      "company": "Powell Industries",
+      "earnings_date": "2026-08-03",
+      "filing_date": "2026-08-03",
+      "accession": "0000080420-26-000103",
+      "form": "8-K",
+      "items": "2.02,8.01,9.01",
+      "documents": [
+        {
+          "filename": "0000080420-26-000103.txt",
+          "size_bytes": 381472,
+          "path": "POWL/2026-08-03/0000080420-26-000103.txt"
+        },
+        {
+          "filename": "ex991-powlq3xfy2026earning.htm",
+          "size_bytes": 110803,
+          "path": "POWL/2026-08-03/ex991-powlq3xfy2026earning.htm"
+        },
+        {
+          "filename": "ex992-powlq3xfy2026dividen.htm",
+          "size_bytes": 7116,
+          "path": "POWL/2026-08-03/ex992-powlq3xfy2026dividen.htm"
+        },
+        {
+          "filename": "image_01a.jpg",
+          "size_bytes": 38009,
+          "path": "POWL/2026-08-03/image_01a.jpg"
+        },
+        {
+          "filename": "image_0a.jpg",
+          "size_bytes": 38009,
+          "path": "POWL/2026-08-03/image_0a.jpg"
+        },
+        {
+          "filename": "powl-20260803.htm",
+          "size_bytes": 29959,
+          "path": "POWL/2026-08-03/powl-20260803.htm"
+        }
+      ],
+      "fetched_at": "2026-08-04T16:00:52.229688+00:00"
+    },
+    {
+      "ticker": "ATKR",
+      "company": "Atkore Inc",
+      "earnings_date": "2026-08-03",
+      "filing_date": "2026-08-03",
+      "accession": "0001628280-26-051510",
+      "form": "8-K",
+      "items": "2.02,9.01",
+      "documents": [
+        {
+          "filename": "0001628280-26-051510.txt",
+          "size_bytes": 638654,
+          "path": "ATKR/2026-08-03/0001628280-26-051510.txt"
+        },
+        {
+          "filename": "atkorelogo.jpg",
+          "size_bytes": 4920,
+          "path": "ATKR/2026-08-03/atkorelogo.jpg"
+        },
+        {
+          "filename": "atkr-20260803.htm",
+          "size_bytes": 21911,
+          "path": "ATKR/2026-08-03/atkr-20260803.htm"
+        },
+        {
+          "filename": "atkr-20260803_g1.gif",
+          "size_bytes": 12965,
+          "path": "ATKR/2026-08-03/atkr-20260803_g1.gif"
+        },
+        {
+          "filename": "atkr3q26exhibit991.htm",
+          "size_bytes": 426768,
+          "path": "ATKR/2026-08-03/atkr3q26exhibit991.htm"
+        }
+      ],
+      "fetched_at": "2026-08-04T16:00:54.104801+00:00"
     }
   ]
 }
