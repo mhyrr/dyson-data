@@ -1,7 +1,44 @@
 {
-  "run_time": "2026-08-03T16:00:15.620821+00:00",
-  "tickers_analyzed": 1,
+  "run_time": "2026-08-04T09:36:33.084588+00:00",
+  "tickers_analyzed": 4,
   "analyses": [
+    {
+      "symbol": "BWXT",
+      "company": "BWX Technologies",
+      "last_quarter": "Q2 2026",
+      "beat_rate": 100.0,
+      "flags": [
+        "consistent_beater"
+      ],
+      "eps_trend": "accelerating",
+      "rev_trend": "accelerating",
+      "avg_yoy_eps_growth": 15.62,
+      "avg_yoy_rev_growth": 16.69
+    },
+    {
+      "symbol": "WMB",
+      "company": "Williams Companies",
+      "last_quarter": "Q2 2026",
+      "beat_rate": 50.0,
+      "flags": [],
+      "eps_trend": "accelerating",
+      "rev_trend": "accelerating",
+      "avg_yoy_eps_growth": 7.94,
+      "avg_yoy_rev_growth": 8.4
+    },
+    {
+      "symbol": "POWL",
+      "company": "Powell Industries",
+      "last_quarter": "Q3 2026",
+      "beat_rate": 75.0,
+      "flags": [
+        "consistent_beater"
+      ],
+      "eps_trend": "accelerating",
+      "rev_trend": "accelerating",
+      "avg_yoy_eps_growth": 27.18,
+      "avg_yoy_rev_growth": 11.58
+    },
     {
       "symbol": "ATKR",
       "company": "Atkore Inc",

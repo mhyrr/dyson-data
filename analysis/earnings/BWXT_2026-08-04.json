@@ -1,0 +1,194 @@
+{
+  "symbol": "BWXT",
+  "company": "BWX Technologies",
+  "thesis": "scarcity_next_wave",
+  "conviction": "MEDIUM",
+  "action": "BUY",
+  "analysis_time": "2026-08-04T09:36:33.184660+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 44,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-08-03",
+    "eps_actual": 1.07,
+    "eps_estimate": 1.04,
+    "eps_surprise": 0.03,
+    "eps_surprise_pct": 0.03,
+    "revenue_actual": 901625000,
+    "revenue_estimate": 902964872,
+    "revenue_surprise_pct": 0,
+    "eps_prior_year": 1.02,
+    "revenue_prior_year": 764039000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-05-03",
+    "eps_estimate": 1.18,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 8,
+    "misses": 0,
+    "meet": 0,
+    "beat_rate": 100.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 15.62,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 1
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 1.08
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 1.12
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 1.07
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 16.69,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 866300000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 885842000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 860217000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 901625000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.14,
+    "avg_revenue_surprise_pct": 4.62,
+    "estimate_accuracy_eps_pct": 16.73
+  },
+  "flags": [
+    "consistent_beater"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-11-04",
+      "eps_actual": 0.83,
+      "eps_est": 0.77,
+      "eps_surprise": 0.06,
+      "eps_surprise_pct": 0.08,
+      "revenue_actual": 672000000,
+      "revenue_est": 658540000,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 0.67,
+      "revenue_prior_year": 590000000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-02-24",
+      "eps_actual": 0.92,
+      "eps_est": 0.81,
+      "eps_surprise": 0.11,
+      "eps_surprise_pct": 0.14,
+      "revenue_actual": 746267000,
+      "revenue_est": 719980000,
+      "revenue_surprise_pct": 0.04,
+      "eps_prior_year": 1.01,
+      "revenue_prior_year": 725515000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-05-05",
+      "eps_actual": 0.91,
+      "eps_est": 0.76,
+      "eps_surprise": 0.15,
+      "eps_surprise_pct": 0.2,
+      "revenue_actual": 682258000,
+      "revenue_est": 645980000,
+      "revenue_surprise_pct": 0.06,
+      "eps_prior_year": 0.76,
+      "revenue_prior_year": 603933000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-08-04",
+      "eps_actual": 1.02,
+      "eps_est": 0.79,
+      "eps_surprise": 0.23,
+      "eps_surprise_pct": 0.29,
+      "revenue_actual": 764039000,
+      "revenue_est": 712804944,
+      "revenue_surprise_pct": 0.07,
+      "eps_prior_year": 0.82,
+      "revenue_prior_year": 681465000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-11-03",
+      "eps_actual": 1,
+      "eps_est": 0.85,
+      "eps_surprise": 0.15,
+      "eps_surprise_pct": 0.18,
+      "revenue_actual": 866300000,
+      "revenue_est": 796509768,
+      "revenue_surprise_pct": 0.09,
+      "eps_prior_year": 0.83,
+      "revenue_prior_year": 672000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-23",
+      "eps_actual": 1.08,
+      "eps_est": 0.89,
+      "eps_surprise": 0.19,
+      "eps_surprise_pct": 0.21,
+      "revenue_actual": 885842000,
+      "revenue_est": 834184674,
+      "revenue_surprise_pct": 0.06,
+      "eps_prior_year": 0.92,
+      "revenue_prior_year": 746267000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-05-04",
+      "eps_actual": 1.12,
+      "eps_est": 0.92,
+      "eps_surprise": 0.2,
+      "eps_surprise_pct": 0.22,
+      "revenue_actual": 860217000,
+      "revenue_est": 834637760,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 0.91,
+      "revenue_prior_year": 682258000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-08-03",
+      "eps_actual": 1.07,
+      "eps_est": 1.04,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.03,
+      "revenue_actual": 901625000,
+      "revenue_est": 902964872,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 1.02,
+      "revenue_prior_year": 764039000
+    }
+  ],
+  "ticker_notes": "Naval nuclear monopoly; HALEU optionality; defense + energy"
+}

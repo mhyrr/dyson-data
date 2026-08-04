@@ -1,0 +1,196 @@
+{
+  "symbol": "ATKR",
+  "company": "Atkore Inc",
+  "thesis": "ai_infra_discovery+electrical",
+  "conviction": "MEDIUM",
+  "action": "BUY",
+  "analysis_time": "2026-08-04T09:36:34.021780+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 41,
+  "last_quarter": {
+    "period": "Q3 2026",
+    "date": "2026-08-03",
+    "eps_actual": 1.92,
+    "eps_estimate": 1.49,
+    "eps_surprise": 0.43,
+    "eps_surprise_pct": 0.29,
+    "revenue_actual": 794800000,
+    "revenue_estimate": 760952768,
+    "revenue_surprise_pct": 0.04,
+    "eps_prior_year": 1.63,
+    "revenue_prior_year": 735045000
+  },
+  "next_quarter": {
+    "period": "Q2 2027",
+    "date": "2027-05-04",
+    "eps_estimate": null,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 6,
+    "misses": 2,
+    "meet": 0,
+    "beat_rate": 75.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": -44.05,
+    "recent_quarters": [
+      {
+        "period": "Q4 2025",
+        "eps": 0.69
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 0.83
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 1.23
+      },
+      {
+        "period": "Q3 2026",
+        "eps": 1.92
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": -5.23,
+    "recent_quarters": [
+      {
+        "period": "Q4 2025",
+        "revenue": 752011000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 655548000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 731377000
+      },
+      {
+        "period": "Q3 2026",
+        "revenue": 794800000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.1062,
+    "avg_revenue_surprise_pct": 1.62,
+    "estimate_accuracy_eps_pct": 21.48
+  },
+  "flags": [
+    "consistent_beater",
+    "eps_declining",
+    "hard_to_estimate"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q4 2024",
+      "date": "2024-11-21",
+      "eps_actual": 2.43,
+      "eps_est": 2.47,
+      "eps_surprise": -0.04,
+      "eps_surprise_pct": -0.02,
+      "revenue_actual": 788296000,
+      "revenue_est": 748320000,
+      "revenue_surprise_pct": 0.05,
+      "eps_prior_year": 4.21,
+      "revenue_prior_year": 869889000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-02-04",
+      "eps_actual": 1.63,
+      "eps_est": 1.55,
+      "eps_surprise": 0.08,
+      "eps_surprise_pct": 0.05,
+      "revenue_actual": 661597000,
+      "revenue_est": 679770000,
+      "revenue_surprise_pct": -0.03,
+      "eps_prior_year": 4.12,
+      "revenue_prior_year": 798481000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-05-06",
+      "eps_actual": 2.04,
+      "eps_est": 1.77,
+      "eps_surprise": 0.27,
+      "eps_surprise_pct": 0.15,
+      "revenue_actual": 701725000,
+      "revenue_est": 697710000,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 4.08,
+      "revenue_prior_year": 792911000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-08-05",
+      "eps_actual": 1.63,
+      "eps_est": 1.5,
+      "eps_surprise": 0.13,
+      "eps_surprise_pct": 0.09,
+      "revenue_actual": 735045000,
+      "revenue_est": 733648902,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 3.8,
+      "revenue_prior_year": 822364000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2025-11-20",
+      "eps_actual": 0.69,
+      "eps_est": 1.22,
+      "eps_surprise": -0.53,
+      "eps_surprise_pct": -0.43,
+      "revenue_actual": 752011000,
+      "revenue_est": 735725088,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 2.43,
+      "revenue_prior_year": 788296000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-02-03",
+      "eps_actual": 0.83,
+      "eps_est": 0.59,
+      "eps_surprise": 0.24,
+      "eps_surprise_pct": 0.41,
+      "revenue_actual": 655548000,
+      "revenue_est": 650432880,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 1.63,
+      "revenue_prior_year": 661597000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-05-05",
+      "eps_actual": 1.23,
+      "eps_est": 0.96,
+      "eps_surprise": 0.27,
+      "eps_surprise_pct": 0.28,
+      "revenue_actual": 731377000,
+      "revenue_est": 711341576,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 2.04,
+      "revenue_prior_year": 701725000
+    },
+    {
+      "period": "Q3 2026",
+      "date": "2026-08-03",
+      "eps_actual": 1.92,
+      "eps_est": 1.49,
+      "eps_surprise": 0.43,
+      "eps_surprise_pct": 0.29,
+      "revenue_actual": 794800000,
+      "revenue_est": 760952768,
+      "revenue_surprise_pct": 0.04,
+      "eps_prior_year": 1.63,
+      "revenue_prior_year": 735045000
+    }
+  ],
+  "ticker_notes": "NEW Jul 13: 11.5x fwd P/E \u2014 the only cheap name in a layer that re-rated to 35-60x (POWL 48x, HPS.A 60x). Conduit/cable-tray content scales with every DC MW. The hair: PVC pricing pressure \u2014 that's why it's cheap. Small position, floor from valuation + buybacks"
+}
