@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-08-03T13:15:14.867074+00:00",
+  "run_time": "2026-08-04T13:15:21.140029+00:00",
   "days_scanned": 7,
   "total_tickers": 41,
   "total_transactions": 12,
@@ -7,6 +7,32 @@
   "sell_count": 12,
   "cluster_buys": [],
   "transactions": [
+    {
+      "ticker": "FCX",
+      "insider": "Stephen T. Higgins",
+      "position": "EVP & CAO",
+      "filing_date": "2026-08-03",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 7550.0,
+      "price": 63.0,
+      "value": 475650.0,
+      "acquired_disposed": "D",
+      "accession": "0001214659-26-009498"
+    },
+    {
+      "ticker": "MRVL",
+      "insider": "Chris Koopmans",
+      "position": "President and COO",
+      "filing_date": "2026-08-03",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 10000.0,
+      "price": 180.5,
+      "value": 1805000.0,
+      "acquired_disposed": "D",
+      "accession": "0001628280-26-051905"
+    },
     {
       "ticker": "ADBE",
       "insider": "Jillian Forusz",
@@ -136,32 +162,6 @@
       "value": 149606.8,
       "acquired_disposed": "D",
       "accession": "0001193125-26-324312"
-    },
-    {
-      "ticker": "GOOG",
-      "insider": "GV 2019 GP, L.L.C. / GV 2019 GP, L.P. / GV 2019, L.P. / GV 2021 GP, L.L.C. / GV 2021 GP, L.P. / GV 2021, L.P. / Alphabet Inc.",
-      "position": "10% Owner/ 10% Owner/ 10% Owner/ 10% Owner/ 10% Owner/ 10% Owner/ 10% Owner",
-      "filing_date": "2026-07-27",
-      "transaction_code": "S",
-      "transaction_type": "SELL",
-      "shares": 63297.0,
-      "price": 19.0573,
-      "value": 1206269.92,
-      "acquired_disposed": "D",
-      "accession": "0001168404-26-000039"
-    },
-    {
-      "ticker": "GOOG",
-      "insider": "GV 2019 GP, L.L.C. / GV 2019 GP, L.P. / GV 2019, L.P. / GV 2021 GP, L.L.C. / GV 2021 GP, L.P. / GV 2021, L.P. / Alphabet Inc.",
-      "position": "10% Owner/ 10% Owner/ 10% Owner/ 10% Owner/ 10% Owner/ 10% Owner/ 10% Owner",
-      "filing_date": "2026-07-27",
-      "transaction_code": "S",
-      "transaction_type": "SELL",
-      "shares": 23417.0,
-      "price": 18.8752,
-      "value": 442000.56,
-      "acquired_disposed": "D",
-      "accession": "0001168404-26-000039"
     }
   ]
 }
