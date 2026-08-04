@@ -1,60 +1,24 @@
 {
-  "run_time": "2026-08-03T09:00:13.798284+00:00",
+  "run_time": "2026-08-04T09:00:20.020495+00:00",
   "days_ahead": 45,
   "days_back": 14,
   "total_tickers": 41,
   "summary": {
-    "imminent": 7,
+    "imminent": 4,
     "this_week": 2,
-    "next_2_weeks": 2,
+    "next_2_weeks": 1,
     "this_month": 3,
     "no_date": 1,
     "reported": 6
   },
   "imminent_tickers": [
     {
-      "symbol": "PFE",
-      "company": "Pfizer Inc",
-      "next_earnings": "2026-08-04",
-      "time": "before_open",
-      "period": "QQ2 2026",
-      "days_until": 0,
-      "eps_est": 0.68
-    },
-    {
-      "symbol": "MRK",
-      "company": "Merck & Co",
-      "next_earnings": "2026-08-04",
-      "time": "before_open",
-      "period": "QQ2 2026",
-      "days_until": 0,
-      "eps_est": 0.23
-    },
-    {
-      "symbol": "CIFR",
-      "company": "Cipher Digital",
-      "next_earnings": "2026-08-04",
-      "time": "before_open",
-      "period": "QQ2 2026",
-      "days_until": 0,
-      "eps_est": -0.11
-    },
-    {
-      "symbol": "Q",
-      "company": "Qnity Electronics",
-      "next_earnings": "2026-08-04",
-      "time": "before_open",
-      "period": "QQ2 2026",
-      "days_until": 0,
-      "eps_est": 1.06
-    },
-    {
       "symbol": "LEU",
       "company": "Centrus Energy",
       "next_earnings": "2026-08-05",
       "time": "after_close",
       "period": "QQ2 2026",
-      "days_until": 1,
+      "days_until": 0,
       "eps_est": 1.02
     },
     {
@@ -63,7 +27,7 @@
       "next_earnings": "2026-08-05",
       "time": "before_open",
       "period": "QQ2 2026",
-      "days_until": 1,
+      "days_until": 0,
       "eps_est": -0.26
     },
     {
@@ -72,24 +36,33 @@
       "next_earnings": "2026-08-05",
       "time": "after_close",
       "period": "QQ3 2026",
-      "days_until": 1,
+      "days_until": 0,
       "eps_est": 0.06
-    }
-  ],
-  "this_week_tickers": [
+    },
     {
       "symbol": "MP",
       "company": "MP Materials",
       "next_earnings": "2026-08-06",
       "time": "after_close",
-      "period": "QQ2 2026"
-    },
+      "period": "QQ2 2026",
+      "days_until": 1,
+      "eps_est": 0.02
+    }
+  ],
+  "this_week_tickers": [
     {
       "symbol": "OKLO",
       "company": "Oklo Inc",
       "next_earnings": "2026-08-07",
       "time": "before_open",
       "period": "QQ2 2026"
+    },
+    {
+      "symbol": "COHR",
+      "company": "Coherent Corp",
+      "next_earnings": "2026-08-12",
+      "time": "after_close",
+      "period": "QQ4 2026"
     }
   ],
   "calendar": [
@@ -156,7 +129,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": -5384,
+      "days_until_earnings": -5385,
       "status": "reported"
     },
     {
@@ -222,7 +195,7 @@
           "revenue_surprise_pct": 0.04
         }
       ],
-      "days_until_earnings": -5213,
+      "days_until_earnings": -5214,
       "status": "reported"
     },
     {
@@ -288,74 +261,8 @@
           "revenue_surprise_pct": 0.06
         }
       ],
-      "days_until_earnings": -5177,
+      "days_until_earnings": -5178,
       "status": "reported"
-    },
-    {
-      "symbol": "POWL",
-      "company": "Powell Industries",
-      "thesis": "ai_infra+pmi",
-      "conviction": "HIGH",
-      "action": "WATCH",
-      "timeframe": "2026",
-      "next_earnings": "2026-08-03",
-      "next_earnings_time": "after_close",
-      "next_earnings_period": "QQ3 2026",
-      "next_earnings_confirmed": true,
-      "next_earnings_eps_est": 1.47,
-      "next_earnings_revenue_est": 317155760,
-      "last_earnings": "2026-05-04",
-      "last_earnings_period": "QQ2 2026",
-      "last_earnings_eps_actual": 1.25,
-      "last_earnings_eps_est": 1.34,
-      "last_earnings_eps_surprise": -0.09,
-      "last_earnings_revenue_actual": 296615000,
-      "last_earnings_revenue_surprise": -2322920,
-      "source": "stockanalysis.com",
-      "notes": "Jul 13: $232 \u2014 nearly in the flush zone. Aug 4 FQ3 print (cons EPS ~$1.47) is the trigger: b-t-b wobble to $210-225 initiates $5-7K; below $190 (~30x fwd) real position. Founder selling + 33% O&G back",
-      "recent_headlines": [],
-      "last_earnings_eps_surprise_pct": -0.07,
-      "last_earnings_revenue_surprise_pct": -0.01,
-      "recent_quarters": [
-        {
-          "period": "QQ2 2026",
-          "date": "2026-05-04",
-          "eps_actual": 1.25,
-          "eps_est": 1.34,
-          "eps_surprise": -0.09,
-          "revenue_actual": 296615000,
-          "revenue_surprise_pct": -0.01
-        },
-        {
-          "period": "QQ1 2026",
-          "date": "2026-02-03",
-          "eps_actual": 1.13,
-          "eps_est": 0.96,
-          "eps_surprise": 0.17,
-          "revenue_actual": 251184000,
-          "revenue_surprise_pct": -0.02
-        },
-        {
-          "period": "QQ4 2025",
-          "date": "2025-11-18",
-          "eps_actual": 1.41,
-          "eps_est": 1.25,
-          "eps_surprise": 0.16,
-          "revenue_actual": 297983000,
-          "revenue_surprise_pct": 0.02
-        },
-        {
-          "period": "QQ3 2025",
-          "date": "2025-08-05",
-          "eps_actual": 1.32,
-          "eps_est": 1.25,
-          "eps_surprise": 0.07,
-          "revenue_actual": 286273000,
-          "revenue_surprise_pct": -0.04
-        }
-      ],
-      "days_until_earnings": -1,
-      "status": "overdue"
     },
     {
       "symbol": "WPM",
@@ -420,7 +327,7 @@
           "revenue_surprise_pct": 0.07
         }
       ],
-      "days_until_earnings": -5108,
+      "days_until_earnings": -5109,
       "status": "reported"
     },
     {
@@ -486,70 +393,136 @@
           "revenue_surprise_pct": -0.18
         }
       ],
-      "days_until_earnings": -4843,
+      "days_until_earnings": -4844,
       "status": "reported"
     },
     {
-      "symbol": "BWXT",
-      "company": "BWX Technologies",
-      "thesis": "scarcity_next_wave",
-      "conviction": "MEDIUM",
+      "symbol": "PFE",
+      "company": "Pfizer Inc",
+      "thesis": "buffett_value",
+      "conviction": "HIGH",
       "action": "BUY",
-      "timeframe": "2026",
-      "next_earnings": "2026-08-03",
-      "next_earnings_time": "after_close",
+      "timeframe": "12-24mo",
+      "next_earnings": "2026-08-04",
+      "next_earnings_time": "before_open",
       "next_earnings_period": "QQ2 2026",
       "next_earnings_confirmed": true,
-      "next_earnings_eps_est": 1.04,
-      "next_earnings_revenue_est": 902964872,
-      "last_earnings": "2026-05-04",
+      "next_earnings_eps_est": 0.68,
+      "next_earnings_revenue_est": 14425590168,
+      "last_earnings": "2026-05-05",
       "last_earnings_period": "QQ1 2026",
-      "last_earnings_eps_actual": 1.12,
-      "last_earnings_eps_est": 0.92,
-      "last_earnings_eps_surprise": 0.2,
-      "last_earnings_revenue_actual": 860217000,
-      "last_earnings_revenue_surprise": 25579240,
+      "last_earnings_eps_actual": 0.75,
+      "last_earnings_eps_est": 0.72,
+      "last_earnings_eps_surprise": 0.03,
+      "last_earnings_revenue_actual": 14451000000,
+      "last_earnings_revenue_surprise": 645447744,
       "source": "stockanalysis.com",
-      "notes": "Naval nuclear monopoly; HALEU optionality; defense + energy",
+      "notes": "6.5% dividend yield; 31% below fair value; Seagen oncology pipeline; 55yr dividend streak; forward P/E ~9x",
       "recent_headlines": [],
-      "last_earnings_eps_surprise_pct": 0.22,
+      "last_earnings_eps_surprise_pct": 0.04,
+      "last_earnings_revenue_surprise_pct": 0.05,
+      "recent_quarters": [
+        {
+          "period": "QQ1 2026",
+          "date": "2026-05-05",
+          "eps_actual": 0.75,
+          "eps_est": 0.72,
+          "eps_surprise": 0.03,
+          "revenue_actual": 14451000000,
+          "revenue_surprise_pct": 0.05
+        },
+        {
+          "period": "QQ4 2025",
+          "date": "2026-02-03",
+          "eps_actual": 0.66,
+          "eps_est": 0.56,
+          "eps_surprise": 0.1,
+          "revenue_actual": 17557000000,
+          "revenue_surprise_pct": 0.04
+        },
+        {
+          "period": "QQ3 2025",
+          "date": "2025-11-04",
+          "eps_actual": 0.87,
+          "eps_est": 0.65,
+          "eps_surprise": 0.22,
+          "revenue_actual": 16654000000,
+          "revenue_surprise_pct": 0.01
+        },
+        {
+          "period": "QQ2 2025",
+          "date": "2025-08-05",
+          "eps_actual": 0.78,
+          "eps_est": 0.58,
+          "eps_surprise": 0.2,
+          "revenue_actual": 14700000000,
+          "revenue_surprise_pct": 0.08
+        }
+      ],
+      "days_until_earnings": -1,
+      "status": "overdue"
+    },
+    {
+      "symbol": "MRK",
+      "company": "Merck & Co",
+      "thesis": "buffett_value",
+      "conviction": "HIGH",
+      "action": "BUY",
+      "timeframe": "12-18mo",
+      "next_earnings": "2026-08-04",
+      "next_earnings_time": "before_open",
+      "next_earnings_period": "QQ2 2026",
+      "next_earnings_confirmed": true,
+      "next_earnings_eps_est": 0.23,
+      "next_earnings_revenue_est": 16388251199.2,
+      "last_earnings": "2026-04-30",
+      "last_earnings_period": "QQ1 2026",
+      "last_earnings_eps_actual": -1.28,
+      "last_earnings_eps_est": -1.48,
+      "last_earnings_eps_surprise": 0.2,
+      "last_earnings_revenue_actual": 16286000000,
+      "last_earnings_revenue_surprise": 428933280,
+      "source": "stockanalysis.com",
+      "notes": "Keytruda franchise + Winrevair $2B peak; P/E 14x vs 25x historical; 74% discount to avg multiple; 3.5% yield",
+      "recent_headlines": [],
+      "last_earnings_eps_surprise_pct": 0.14,
       "last_earnings_revenue_surprise_pct": 0.03,
       "recent_quarters": [
         {
           "period": "QQ1 2026",
-          "date": "2026-05-04",
-          "eps_actual": 1.12,
-          "eps_est": 0.92,
+          "date": "2026-04-30",
+          "eps_actual": -1.28,
+          "eps_est": -1.48,
           "eps_surprise": 0.2,
-          "revenue_actual": 860217000,
+          "revenue_actual": 16286000000,
           "revenue_surprise_pct": 0.03
         },
         {
           "period": "QQ4 2025",
-          "date": "2026-02-23",
-          "eps_actual": 1.08,
-          "eps_est": 0.89,
-          "eps_surprise": 0.19,
-          "revenue_actual": 885842000,
-          "revenue_surprise_pct": 0.06
+          "date": "2026-02-03",
+          "eps_actual": 2.04,
+          "eps_est": 2.02,
+          "eps_surprise": 0.02,
+          "revenue_actual": 16400000000,
+          "revenue_surprise_pct": 0.01
         },
         {
           "period": "QQ3 2025",
-          "date": "2025-11-03",
-          "eps_actual": 1,
-          "eps_est": 0.85,
-          "eps_surprise": 0.15,
-          "revenue_actual": 866300000,
-          "revenue_surprise_pct": 0.09
+          "date": "2025-10-30",
+          "eps_actual": 2.58,
+          "eps_est": 2.35,
+          "eps_surprise": 0.23,
+          "revenue_actual": 17276000000,
+          "revenue_surprise_pct": 0.02
         },
         {
           "period": "QQ2 2025",
-          "date": "2025-08-04",
-          "eps_actual": 1.02,
-          "eps_est": 0.79,
-          "eps_surprise": 0.23,
-          "revenue_actual": 764039000,
-          "revenue_surprise_pct": 0.07
+          "date": "2025-07-29",
+          "eps_actual": 2.13,
+          "eps_est": 2.01,
+          "eps_surprise": 0.12,
+          "revenue_actual": 15806000000,
+          "revenue_surprise_pct": 0
         }
       ],
       "days_until_earnings": -1,
@@ -618,206 +591,8 @@
           "revenue_surprise_pct": 0.15
         }
       ],
-      "days_until_earnings": -5115,
+      "days_until_earnings": -5116,
       "status": "reported"
-    },
-    {
-      "symbol": "WMB",
-      "company": "Williams Companies",
-      "thesis": "ai_infra+molecules",
-      "conviction": "MEDIUM-HIGH",
-      "action": "BUY",
-      "timeframe": "12-24mo",
-      "next_earnings": "2026-08-03",
-      "next_earnings_time": "after_close",
-      "next_earnings_period": "QQ2 2026",
-      "next_earnings_confirmed": true,
-      "next_earnings_eps_est": 0.51,
-      "next_earnings_revenue_est": 2783129648,
-      "last_earnings": "2026-05-04",
-      "last_earnings_period": "QQ1 2026",
-      "last_earnings_eps_actual": 0.73,
-      "last_earnings_eps_est": 0.62,
-      "last_earnings_eps_surprise": 0.11,
-      "last_earnings_revenue_actual": 3030000000,
-      "last_earnings_revenue_surprise": -253975120,
-      "source": "stockanalysis.com",
-      "notes": "NEW Jul 13: molecules frontier \u2014 $7.3B power-innovation projects in execution (NEO 682MW 2H28, Atlas NE-DC pipeline YE26) + 6GW backlog; 101GW BTM gas announced industry-wide. Turbines are scarce; who",
-      "recent_headlines": [],
-      "last_earnings_eps_surprise_pct": 0.18,
-      "last_earnings_revenue_surprise_pct": -0.08,
-      "recent_quarters": [
-        {
-          "period": "QQ1 2026",
-          "date": "2026-05-04",
-          "eps_actual": 0.73,
-          "eps_est": 0.62,
-          "eps_surprise": 0.11,
-          "revenue_actual": 3030000000,
-          "revenue_surprise_pct": -0.08
-        },
-        {
-          "period": "QQ4 2025",
-          "date": "2026-02-10",
-          "eps_actual": 0.55,
-          "eps_est": 0.57,
-          "eps_surprise": -0.02,
-          "revenue_actual": 3198000000,
-          "revenue_surprise_pct": 0.02
-        },
-        {
-          "period": "QQ3 2025",
-          "date": "2025-11-03",
-          "eps_actual": 0.49,
-          "eps_est": 0.51,
-          "eps_surprise": -0.02,
-          "revenue_actual": 2923000000,
-          "revenue_surprise_pct": -0.02
-        },
-        {
-          "period": "QQ2 2025",
-          "date": "2025-08-04",
-          "eps_actual": 0.46,
-          "eps_est": 0.49,
-          "eps_surprise": -0.03,
-          "revenue_actual": 2781000000,
-          "revenue_surprise_pct": -0.03
-        }
-      ],
-      "days_until_earnings": -1,
-      "status": "overdue"
-    },
-    {
-      "symbol": "PFE",
-      "company": "Pfizer Inc",
-      "thesis": "buffett_value",
-      "conviction": "HIGH",
-      "action": "BUY",
-      "timeframe": "12-24mo",
-      "next_earnings": "2026-08-04",
-      "next_earnings_time": "before_open",
-      "next_earnings_period": "QQ2 2026",
-      "next_earnings_confirmed": true,
-      "next_earnings_eps_est": 0.68,
-      "next_earnings_revenue_est": 14425590168,
-      "last_earnings": "2026-05-05",
-      "last_earnings_period": "QQ1 2026",
-      "last_earnings_eps_actual": 0.75,
-      "last_earnings_eps_est": 0.72,
-      "last_earnings_eps_surprise": 0.03,
-      "last_earnings_revenue_actual": 14451000000,
-      "last_earnings_revenue_surprise": 645447744,
-      "source": "stockanalysis.com",
-      "notes": "6.5% dividend yield; 31% below fair value; Seagen oncology pipeline; 55yr dividend streak; forward P/E ~9x",
-      "recent_headlines": [],
-      "last_earnings_eps_surprise_pct": 0.04,
-      "last_earnings_revenue_surprise_pct": 0.05,
-      "recent_quarters": [
-        {
-          "period": "QQ1 2026",
-          "date": "2026-05-05",
-          "eps_actual": 0.75,
-          "eps_est": 0.72,
-          "eps_surprise": 0.03,
-          "revenue_actual": 14451000000,
-          "revenue_surprise_pct": 0.05
-        },
-        {
-          "period": "QQ4 2025",
-          "date": "2026-02-03",
-          "eps_actual": 0.66,
-          "eps_est": 0.56,
-          "eps_surprise": 0.1,
-          "revenue_actual": 17557000000,
-          "revenue_surprise_pct": 0.04
-        },
-        {
-          "period": "QQ3 2025",
-          "date": "2025-11-04",
-          "eps_actual": 0.87,
-          "eps_est": 0.65,
-          "eps_surprise": 0.22,
-          "revenue_actual": 16654000000,
-          "revenue_surprise_pct": 0.01
-        },
-        {
-          "period": "QQ2 2025",
-          "date": "2025-08-05",
-          "eps_actual": 0.78,
-          "eps_est": 0.58,
-          "eps_surprise": 0.2,
-          "revenue_actual": 14700000000,
-          "revenue_surprise_pct": 0.08
-        }
-      ],
-      "days_until_earnings": 0,
-      "status": "imminent"
-    },
-    {
-      "symbol": "MRK",
-      "company": "Merck & Co",
-      "thesis": "buffett_value",
-      "conviction": "HIGH",
-      "action": "BUY",
-      "timeframe": "12-18mo",
-      "next_earnings": "2026-08-04",
-      "next_earnings_time": "before_open",
-      "next_earnings_period": "QQ2 2026",
-      "next_earnings_confirmed": true,
-      "next_earnings_eps_est": 0.23,
-      "next_earnings_revenue_est": 16388251199.2,
-      "last_earnings": "2026-04-30",
-      "last_earnings_period": "QQ1 2026",
-      "last_earnings_eps_actual": -1.28,
-      "last_earnings_eps_est": -1.48,
-      "last_earnings_eps_surprise": 0.2,
-      "last_earnings_revenue_actual": 16286000000,
-      "last_earnings_revenue_surprise": 428933280,
-      "source": "stockanalysis.com",
-      "notes": "Keytruda franchise + Winrevair $2B peak; P/E 14x vs 25x historical; 74% discount to avg multiple; 3.5% yield",
-      "recent_headlines": [],
-      "last_earnings_eps_surprise_pct": 0.14,
-      "last_earnings_revenue_surprise_pct": 0.03,
-      "recent_quarters": [
-        {
-          "period": "QQ1 2026",
-          "date": "2026-04-30",
-          "eps_actual": -1.28,
-          "eps_est": -1.48,
-          "eps_surprise": 0.2,
-          "revenue_actual": 16286000000,
-          "revenue_surprise_pct": 0.03
-        },
-        {
-          "period": "QQ4 2025",
-          "date": "2026-02-03",
-          "eps_actual": 2.04,
-          "eps_est": 2.02,
-          "eps_surprise": 0.02,
-          "revenue_actual": 16400000000,
-          "revenue_surprise_pct": 0.01
-        },
-        {
-          "period": "QQ3 2025",
-          "date": "2025-10-30",
-          "eps_actual": 2.58,
-          "eps_est": 2.35,
-          "eps_surprise": 0.23,
-          "revenue_actual": 17276000000,
-          "revenue_surprise_pct": 0.02
-        },
-        {
-          "period": "QQ2 2025",
-          "date": "2025-07-29",
-          "eps_actual": 2.13,
-          "eps_est": 2.01,
-          "eps_surprise": 0.12,
-          "revenue_actual": 15806000000,
-          "revenue_surprise_pct": 0
-        }
-      ],
-      "days_until_earnings": 0,
-      "status": "imminent"
     },
     {
       "symbol": "CIFR",
@@ -882,8 +657,8 @@
           "revenue_surprise_pct": -0.12
         }
       ],
-      "days_until_earnings": 0,
-      "status": "imminent"
+      "days_until_earnings": -1,
+      "status": "overdue"
     },
     {
       "symbol": "Q",
@@ -939,8 +714,8 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 0,
-      "status": "imminent"
+      "days_until_earnings": -1,
+      "status": "overdue"
     },
     {
       "symbol": "LEU",
@@ -1005,7 +780,7 @@
           "revenue_surprise_pct": 0.16
         }
       ],
-      "days_until_earnings": 1,
+      "days_until_earnings": 0,
       "status": "imminent"
     },
     {
@@ -1071,7 +846,7 @@
           "revenue_surprise_pct": -0.35
         }
       ],
-      "days_until_earnings": 1,
+      "days_until_earnings": 0,
       "status": "imminent"
     },
     {
@@ -1137,7 +912,7 @@
           "revenue_surprise_pct": -0.23
         }
       ],
-      "days_until_earnings": 1,
+      "days_until_earnings": 0,
       "status": "imminent"
     },
     {
@@ -1203,8 +978,8 @@
           "revenue_surprise_pct": 0.22
         }
       ],
-      "days_until_earnings": 2,
-      "status": "this_week"
+      "days_until_earnings": 1,
+      "status": "imminent"
     },
     {
       "symbol": "OKLO",
@@ -1269,7 +1044,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 3,
+      "days_until_earnings": 2,
       "status": "this_week"
     },
     {
@@ -1335,8 +1110,8 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 8,
-      "status": "next_2_weeks"
+      "days_until_earnings": 7,
+      "status": "this_week"
     },
     {
       "symbol": "DE",
@@ -1401,7 +1176,7 @@
           "revenue_surprise_pct": 0.17
         }
       ],
-      "days_until_earnings": 13,
+      "days_until_earnings": 12,
       "status": "next_2_weeks"
     },
     {
@@ -1467,7 +1242,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 22,
+      "days_until_earnings": 21,
       "status": "this_month"
     },
     {
@@ -1480,7 +1255,7 @@
       "next_earnings": "2026-08-27",
       "next_earnings_time": "after_close",
       "next_earnings_period": "QQ2 2027",
-      "next_earnings_confirmed": false,
+      "next_earnings_confirmed": true,
       "next_earnings_eps_est": 0.87,
       "next_earnings_revenue_est": 2703987880,
       "last_earnings": "2026-05-27",
@@ -1533,7 +1308,7 @@
           "revenue_surprise_pct": 0
         }
       ],
-      "days_until_earnings": 23,
+      "days_until_earnings": 22,
       "status": "this_month"
     },
     {
@@ -1599,7 +1374,7 @@
           "revenue_surprise_pct": -0.01
         }
       ],
-      "days_until_earnings": 23,
+      "days_until_earnings": 22,
       "status": "this_month"
     },
     {
@@ -1665,7 +1440,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 37,
+      "days_until_earnings": 36,
       "status": "next_6_weeks"
     },
     {
@@ -1731,7 +1506,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": 78,
+      "days_until_earnings": 77,
       "status": "future"
     },
     {
@@ -1799,7 +1574,7 @@
       ],
       "schedule_date": "2026-07-22",
       "schedule_status": "reported",
-      "days_until_earnings": 78,
+      "days_until_earnings": 77,
       "status": "future"
     },
     {
@@ -1865,7 +1640,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 78,
+      "days_until_earnings": 77,
       "status": "future"
     },
     {
@@ -1931,7 +1706,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 84,
+      "days_until_earnings": 83,
       "status": "future"
     },
     {
@@ -1997,7 +1772,7 @@
           "revenue_surprise_pct": -0.02
         }
       ],
-      "days_until_earnings": 84,
+      "days_until_earnings": 83,
       "status": "future"
     },
     {
@@ -2063,7 +1838,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 84,
+      "days_until_earnings": 83,
       "status": "future"
     },
     {
@@ -2131,7 +1906,7 @@
       ],
       "schedule_date": "2026-07-29",
       "schedule_status": "reported",
-      "days_until_earnings": 85,
+      "days_until_earnings": 84,
       "status": "future"
     },
     {
@@ -2197,7 +1972,7 @@
           "revenue_surprise_pct": 0.09
         }
       ],
-      "days_until_earnings": 85,
+      "days_until_earnings": 84,
       "status": "future"
     },
     {
@@ -2263,7 +2038,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 86,
+      "days_until_earnings": 85,
       "status": "future"
     },
     {
@@ -2331,7 +2106,7 @@
       ],
       "schedule_date": "2026-07-30",
       "schedule_status": "reported",
-      "days_until_earnings": 86,
+      "days_until_earnings": 85,
       "status": "future"
     },
     {
@@ -2397,7 +2172,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": 86,
+      "days_until_earnings": 85,
       "status": "future"
     },
     {
@@ -2463,7 +2238,7 @@
           "revenue_surprise_pct": 0.05
         }
       ],
-      "days_until_earnings": 87,
+      "days_until_earnings": 86,
       "status": "future"
     },
     {
@@ -2529,7 +2304,139 @@
           "revenue_surprise_pct": 0
         }
       ],
-      "days_until_earnings": 87,
+      "days_until_earnings": 86,
+      "status": "future"
+    },
+    {
+      "symbol": "BWXT",
+      "company": "BWX Technologies",
+      "thesis": "scarcity_next_wave",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "2026",
+      "next_earnings": "2026-11-02",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ3 2026",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 1.23,
+      "next_earnings_revenue_est": 977848424,
+      "last_earnings": "2026-08-03",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 1.07,
+      "last_earnings_eps_est": 1.04,
+      "last_earnings_eps_surprise": 0.03,
+      "last_earnings_revenue_actual": 901625000,
+      "last_earnings_revenue_surprise": -1339872,
+      "source": "stockanalysis.com",
+      "notes": "Naval nuclear monopoly; HALEU optionality; defense + energy",
+      "recent_headlines": [],
+      "last_earnings_eps_surprise_pct": 0.03,
+      "last_earnings_revenue_surprise_pct": 0,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-08-03",
+          "eps_actual": 1.07,
+          "eps_est": 1.04,
+          "eps_surprise": 0.03,
+          "revenue_actual": 901625000,
+          "revenue_surprise_pct": 0
+        },
+        {
+          "period": "QQ1 2026",
+          "date": "2026-05-04",
+          "eps_actual": 1.12,
+          "eps_est": 0.92,
+          "eps_surprise": 0.2,
+          "revenue_actual": 860217000,
+          "revenue_surprise_pct": 0.03
+        },
+        {
+          "period": "QQ4 2025",
+          "date": "2026-02-23",
+          "eps_actual": 1.08,
+          "eps_est": 0.89,
+          "eps_surprise": 0.19,
+          "revenue_actual": 885842000,
+          "revenue_surprise_pct": 0.06
+        },
+        {
+          "period": "QQ3 2025",
+          "date": "2025-11-03",
+          "eps_actual": 1,
+          "eps_est": 0.85,
+          "eps_surprise": 0.15,
+          "revenue_actual": 866300000,
+          "revenue_surprise_pct": 0.09
+        }
+      ],
+      "days_until_earnings": 89,
+      "status": "future"
+    },
+    {
+      "symbol": "WMB",
+      "company": "Williams Companies",
+      "thesis": "ai_infra+molecules",
+      "conviction": "MEDIUM-HIGH",
+      "action": "BUY",
+      "timeframe": "12-24mo",
+      "next_earnings": "2026-11-02",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ3 2026",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 0.55,
+      "next_earnings_revenue_est": 2917769752,
+      "last_earnings": "2026-08-03",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 0.5,
+      "last_earnings_eps_est": 0.51,
+      "last_earnings_eps_surprise": -0.01,
+      "last_earnings_revenue_actual": 3053000000,
+      "last_earnings_revenue_surprise": 269870336,
+      "source": "stockanalysis.com",
+      "notes": "NEW Jul 13: molecules frontier \u2014 $7.3B power-innovation projects in execution (NEO 682MW 2H28, Atlas NE-DC pipeline YE26) + 6GW backlog; 101GW BTM gas announced industry-wide. Turbines are scarce; who",
+      "recent_headlines": [],
+      "last_earnings_eps_surprise_pct": -0.02,
+      "last_earnings_revenue_surprise_pct": 0.1,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-08-03",
+          "eps_actual": 0.5,
+          "eps_est": 0.51,
+          "eps_surprise": -0.01,
+          "revenue_actual": 3053000000,
+          "revenue_surprise_pct": 0.1
+        },
+        {
+          "period": "QQ1 2026",
+          "date": "2026-05-04",
+          "eps_actual": 0.73,
+          "eps_est": 0.62,
+          "eps_surprise": 0.11,
+          "revenue_actual": 3030000000,
+          "revenue_surprise_pct": -0.08
+        },
+        {
+          "period": "QQ4 2025",
+          "date": "2026-02-10",
+          "eps_actual": 0.55,
+          "eps_est": 0.57,
+          "eps_surprise": -0.02,
+          "revenue_actual": 3198000000,
+          "revenue_surprise_pct": 0.02
+        },
+        {
+          "period": "QQ3 2025",
+          "date": "2025-11-03",
+          "eps_actual": 0.49,
+          "eps_est": 0.51,
+          "eps_surprise": -0.02,
+          "revenue_actual": 2923000000,
+          "revenue_surprise_pct": -0.02
+        }
+      ],
+      "days_until_earnings": 89,
       "status": "future"
     },
     {
@@ -2595,7 +2502,7 @@
           "revenue_surprise_pct": -0.01
         }
       ],
-      "days_until_earnings": 91,
+      "days_until_earnings": 90,
       "status": "future"
     },
     {
@@ -2634,7 +2541,73 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 101,
+      "days_until_earnings": 100,
+      "status": "future"
+    },
+    {
+      "symbol": "POWL",
+      "company": "Powell Industries",
+      "thesis": "ai_infra+pmi",
+      "conviction": "HIGH",
+      "action": "WATCH",
+      "timeframe": "2026",
+      "next_earnings": "2026-11-17",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ4 2026",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 1.6,
+      "next_earnings_revenue_est": 332305040,
+      "last_earnings": "2026-08-03",
+      "last_earnings_period": "QQ3 2026",
+      "last_earnings_eps_actual": 1.42,
+      "last_earnings_eps_est": 1.47,
+      "last_earnings_eps_surprise": -0.05,
+      "last_earnings_revenue_actual": 312000000,
+      "last_earnings_revenue_surprise": -5155760,
+      "source": "stockanalysis.com",
+      "notes": "Jul 13: $232 \u2014 nearly in the flush zone. Aug 4 FQ3 print (cons EPS ~$1.47) is the trigger: b-t-b wobble to $210-225 initiates $5-7K; below $190 (~30x fwd) real position. Founder selling + 33% O&G back",
+      "recent_headlines": [],
+      "last_earnings_eps_surprise_pct": -0.03,
+      "last_earnings_revenue_surprise_pct": -0.02,
+      "recent_quarters": [
+        {
+          "period": "QQ3 2026",
+          "date": "2026-08-03",
+          "eps_actual": 1.42,
+          "eps_est": 1.47,
+          "eps_surprise": -0.05,
+          "revenue_actual": 312000000,
+          "revenue_surprise_pct": -0.02
+        },
+        {
+          "period": "QQ2 2026",
+          "date": "2026-05-04",
+          "eps_actual": 1.25,
+          "eps_est": 1.34,
+          "eps_surprise": -0.09,
+          "revenue_actual": 296615000,
+          "revenue_surprise_pct": -0.01
+        },
+        {
+          "period": "QQ1 2026",
+          "date": "2026-02-03",
+          "eps_actual": 1.13,
+          "eps_est": 0.96,
+          "eps_surprise": 0.17,
+          "revenue_actual": 251184000,
+          "revenue_surprise_pct": -0.02
+        },
+        {
+          "period": "QQ4 2025",
+          "date": "2025-11-18",
+          "eps_actual": 1.41,
+          "eps_est": 1.25,
+          "eps_surprise": 0.16,
+          "revenue_actual": 297983000,
+          "revenue_surprise_pct": 0.02
+        }
+      ],
+      "days_until_earnings": 104,
       "status": "future"
     },
     {
@@ -2700,7 +2673,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 107,
+      "days_until_earnings": 106,
       "status": "future"
     },
     {
