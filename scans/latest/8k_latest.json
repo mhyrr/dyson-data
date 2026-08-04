@@ -1,49 +1,122 @@
 {
-  "run_time": "2026-08-03T13:20:14.890068+00:00",
+  "run_time": "2026-08-04T13:20:21.171500+00:00",
   "days_scanned": 3,
   "total_tickers": 41,
-  "total_filings": 5,
-  "material_filings": 5,
+  "total_filings": 11,
+  "material_filings": 11,
   "filings": [
     {
-      "ticker": "ETN",
-      "filing_date": "2026-07-31",
-      "date_of_report": "2026-07-31",
+      "ticker": "IREN",
+      "filing_date": "2026-08-04",
+      "date_of_report": "2026-08-04",
       "items": [
-        "Item 2.02",
+        "Item 7.01",
+        "Item 8.01",
         "Item 9.01"
       ],
       "material": true,
       "description": "",
-      "accession": "0001551182-26-000027",
+      "accession": "0001140361-26-031053",
+      "has_earnings": false,
+      "has_press_release": false
+    },
+    {
+      "ticker": "POWL",
+      "filing_date": "2026-08-03",
+      "date_of_report": "2026-08-03",
+      "items": [
+        "Item 2.02",
+        "Item 8.01",
+        "Item 9.01"
+      ],
+      "material": true,
+      "description": "",
+      "accession": "0000080420-26-000103",
       "has_earnings": true,
       "has_press_release": true
     },
     {
-      "ticker": "NVT",
-      "filing_date": "2026-07-31",
-      "date_of_report": "2026-07-31",
+      "ticker": "KMI",
+      "filing_date": "2026-08-03",
+      "date_of_report": "2026-07-28",
+      "items": [
+        "Item 8.01",
+        "Item 9.01"
+      ],
+      "material": true,
+      "description": "",
+      "accession": "0001104659-26-089797",
+      "has_earnings": false,
+      "has_press_release": false
+    },
+    {
+      "ticker": "BWXT",
+      "filing_date": "2026-08-03",
+      "date_of_report": "2026-06-30",
       "items": [
         "Item 2.02",
         "Item 9.01"
       ],
       "material": true,
       "description": "",
-      "accession": "0001628280-26-051203",
+      "accession": "0001486957-26-000041",
       "has_earnings": true,
       "has_press_release": true
     },
     {
-      "ticker": "CVX",
-      "filing_date": "2026-07-31",
-      "date_of_report": "2026-07-31",
+      "ticker": "PFE",
+      "filing_date": "2026-08-04",
+      "date_of_report": "2026-08-04",
       "items": [
         "Item 2.02",
         "Item 9.01"
       ],
       "material": true,
       "description": "",
-      "accession": "0000093410-26-000162",
+      "accession": "0000078003-26-000094",
+      "has_earnings": true,
+      "has_press_release": true
+    },
+    {
+      "ticker": "MRK",
+      "filing_date": "2026-08-04",
+      "date_of_report": "2026-08-04",
+      "items": [
+        "Item 2.02",
+        "Item 9.01"
+      ],
+      "material": true,
+      "description": "",
+      "accession": "0001104659-26-090045",
+      "has_earnings": true,
+      "has_press_release": true
+    },
+    {
+      "ticker": "CIFR",
+      "filing_date": "2026-08-04",
+      "date_of_report": "2026-08-04",
+      "items": [
+        "Item 2.02",
+        "Item 7.01",
+        "Item 9.01"
+      ],
+      "material": true,
+      "description": "",
+      "accession": "0001819989-26-000038",
+      "has_earnings": true,
+      "has_press_release": true
+    },
+    {
+      "ticker": "Q",
+      "filing_date": "2026-08-04",
+      "date_of_report": "2026-08-04",
+      "items": [
+        "Item 2.02",
+        "Item 9.01"
+      ],
+      "material": true,
+      "description": "",
+      "accession": "0002058873-26-000028",
       "has_earnings": true,
       "has_press_release": true
     },
@@ -75,6 +148,20 @@
       "accession": "0001666138-26-000016",
       "has_earnings": false,
       "has_press_release": false
+    },
+    {
+      "ticker": "WMB",
+      "filing_date": "2026-08-03",
+      "date_of_report": "2026-08-03",
+      "items": [
+        "Item 2.02",
+        "Item 9.01"
+      ],
+      "material": true,
+      "description": "",
+      "accession": "0000107263-26-000024",
+      "has_earnings": true,
+      "has_press_release": true
     }
   ]
 }
