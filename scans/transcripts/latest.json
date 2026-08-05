@@ -1,170 +1,38 @@
 {
-  "run_time": "2026-08-04T16:00:54.605250+00:00",
-  "total_filings": 12,
+  "run_time": "2026-08-05T16:01:05.652918+00:00",
+  "total_filings": 15,
   "filings": [
     {
-      "ticker": "MOD",
-      "company": "Modine Manufacturing",
-      "earnings_date": "2026-07-29",
-      "filing_date": "2026-07-29",
-      "accession": "0001104659-26-088230",
+      "ticker": "KTOS",
+      "company": "Kratos Defense",
+      "earnings_date": "2026-08-04",
+      "filing_date": "2026-08-04",
+      "accession": "0001069258-26-000075",
       "form": "8-K",
       "items": "2.02,9.01",
       "documents": [
         {
-          "filename": "0001104659-26-088230.txt",
-          "size_bytes": 4636520,
-          "path": "MOD/2026-07-29/0001104659-26-088230.txt"
+          "filename": "0001069258-26-000075.txt",
+          "size_bytes": 680469,
+          "path": "KTOS/2026-08-04/0001069258-26-000075.txt"
         },
         {
-          "filename": "mod-20260729x8k.htm",
-          "size_bytes": 42022,
-          "path": "MOD/2026-07-29/mod-20260729x8k.htm"
+          "filename": "ktos-20260804.htm",
+          "size_bytes": 25878,
+          "path": "KTOS/2026-08-04/ktos-20260804.htm"
         },
         {
-          "filename": "mod-20260729xex99d1.htm",
-          "size_bytes": 494453,
-          "path": "MOD/2026-07-29/mod-20260729xex99d1.htm"
+          "filename": "ktos202606288kexhibit991.htm",
+          "size_bytes": 422841,
+          "path": "KTOS/2026-08-04/ktos202606288kexhibit991.htm"
         },
         {
-          "filename": "mod-20260729xex99d1001.jpg",
-          "size_bytes": 12035,
-          "path": "MOD/2026-07-29/mod-20260729xex99d1001.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2.htm",
-          "size_bytes": 32652,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2.htm"
-        },
-        {
-          "filename": "mod-20260729xex99d2g001.jpg",
-          "size_bytes": 205416,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g001.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g002.jpg",
-          "size_bytes": 111611,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g002.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g003.jpg",
-          "size_bytes": 308471,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g003.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g004.jpg",
-          "size_bytes": 176505,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g004.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g005.jpg",
-          "size_bytes": 175473,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g005.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g006.jpg",
-          "size_bytes": 115936,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g006.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g007.jpg",
-          "size_bytes": 124647,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g007.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g008.jpg",
-          "size_bytes": 127486,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g008.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g009.jpg",
-          "size_bytes": 129007,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g009.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g010.jpg",
-          "size_bytes": 138803,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g010.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g011.jpg",
-          "size_bytes": 157692,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g011.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g012.jpg",
-          "size_bytes": 181644,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g012.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g013.jpg",
-          "size_bytes": 123138,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g013.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g014.jpg",
-          "size_bytes": 99344,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g014.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g015.jpg",
-          "size_bytes": 104420,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g015.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g016.jpg",
-          "size_bytes": 113549,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g016.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g017.jpg",
-          "size_bytes": 112111,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g017.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g018.jpg",
-          "size_bytes": 85709,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g018.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g019.jpg",
-          "size_bytes": 89927,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g019.jpg"
-        },
-        {
-          "filename": "mod-20260729xex99d2g020.jpg",
-          "size_bytes": 197903,
-          "path": "MOD/2026-07-29/mod-20260729xex99d2g020.jpg"
+          "filename": "readinessdeliveredlogo.jpg",
+          "size_bytes": 57207,
+          "path": "KTOS/2026-08-04/readinessdeliveredlogo.jpg"
         }
       ],
-      "fetched_at": "2026-08-04T16:00:29.881891+00:00"
-    },
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft Corp",
-      "earnings_date": "2026-07-29",
-      "filing_date": "2026-07-29",
-      "accession": "0001193125-26-323632",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0001193125-26-323632.txt",
-          "size_bytes": 1150858,
-          "path": "MSFT/2026-07-29/0001193125-26-323632.txt"
-        },
-        {
-          "filename": "msft-20260729.htm",
-          "size_bytes": 63346,
-          "path": "MSFT/2026-07-29/msft-20260729.htm"
-        },
-        {
-          "filename": "msft-ex99_1.htm",
-          "size_bytes": 901600,
-          "path": "MSFT/2026-07-29/msft-ex99_1.htm"
-        }
-      ],
-      "fetched_at": "2026-08-04T16:00:31.747695+00:00"
+      "fetched_at": "2026-08-05T16:00:30.190008+00:00"
     },
     {
       "ticker": "MPWR",
@@ -196,7 +64,7 @@
           "path": "MPWR/2026-07-30/mpwr-20260730.htm"
         }
       ],
-      "fetched_at": "2026-08-04T16:00:33.346098+00:00"
+      "fetched_at": "2026-08-05T16:00:31.798938+00:00"
     },
     {
       "ticker": "AMZN",
@@ -233,7 +101,44 @@
           "path": "AMZN/2026-07-30/amzn-20260730.htm"
         }
       ],
-      "fetched_at": "2026-08-04T16:00:35.245145+00:00"
+      "fetched_at": "2026-08-05T16:00:33.717591+00:00"
+    },
+    {
+      "ticker": "MRK",
+      "company": "Merck & Co",
+      "earnings_date": "2026-08-04",
+      "filing_date": "2026-08-04",
+      "accession": "0001104659-26-090045",
+      "form": "8-K",
+      "items": "2.02,9.01",
+      "documents": [
+        {
+          "filename": "0001104659-26-090045.txt",
+          "size_bytes": 1353418,
+          "path": "MRK/2026-08-04/0001104659-26-090045.txt"
+        },
+        {
+          "filename": "tm2621496d1_8k.htm",
+          "size_bytes": 41817,
+          "path": "MRK/2026-08-04/tm2621496d1_8k.htm"
+        },
+        {
+          "filename": "tm2621496d1_ex99-1.htm",
+          "size_bytes": 400651,
+          "path": "MRK/2026-08-04/tm2621496d1_ex99-1.htm"
+        },
+        {
+          "filename": "tm2621496d1_ex99-1img001.jpg",
+          "size_bytes": 4969,
+          "path": "MRK/2026-08-04/tm2621496d1_ex99-1img001.jpg"
+        },
+        {
+          "filename": "tm2621496d1_ex99-2.htm",
+          "size_bytes": 601040,
+          "path": "MRK/2026-08-04/tm2621496d1_ex99-2.htm"
+        }
+      ],
+      "fetched_at": "2026-08-05T16:00:35.625381+00:00"
     },
     {
       "ticker": "BMY",
@@ -350,7 +255,7 @@
           "path": "BMY/2026-07-30/q22026earningspresentati016.jpg"
         }
       ],
-      "fetched_at": "2026-08-04T16:00:41.428085+00:00"
+      "fetched_at": "2026-08-05T16:00:42.016540+00:00"
     },
     {
       "ticker": "NVT",
@@ -387,7 +292,7 @@
           "path": "NVT/2026-07-31/q22026nvtpressrelease.htm"
         }
       ],
-      "fetched_at": "2026-08-04T16:00:43.531512+00:00"
+      "fetched_at": "2026-08-05T16:00:44.005239+00:00"
     },
     {
       "ticker": "CVX",
@@ -419,7 +324,7 @@
           "path": "CVX/2026-07-31/humanenergylogoa09a.jpg"
         }
       ],
-      "fetched_at": "2026-08-04T16:00:45.142430+00:00"
+      "fetched_at": "2026-08-05T16:00:45.651576+00:00"
     },
     {
       "ticker": "BWXT",
@@ -451,7 +356,144 @@
           "path": "BWXT/2026-08-03/newsreleasegraphic.jpg"
         }
       ],
-      "fetched_at": "2026-08-04T16:00:46.744050+00:00"
+      "fetched_at": "2026-08-05T16:00:47.267884+00:00"
+    },
+    {
+      "ticker": "CIFR",
+      "company": "Cipher Digital",
+      "earnings_date": "2026-08-04",
+      "filing_date": "2026-08-04",
+      "accession": "0001819989-26-000038",
+      "form": "8-K",
+      "items": "2.02,7.01,9.01",
+      "documents": [
+        {
+          "filename": "0001819989-26-000038.txt",
+          "size_bytes": 3281676,
+          "path": "CIFR/2026-08-04/0001819989-26-000038.txt"
+        },
+        {
+          "filename": "cifr-20260804.htm",
+          "size_bytes": 32298,
+          "path": "CIFR/2026-08-04/cifr-20260804.htm"
+        },
+        {
+          "filename": "cipherdigital_businessup.htm",
+          "size_bytes": 30131,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup.htm"
+        },
+        {
+          "filename": "cipherdigital_businessup001.jpg",
+          "size_bytes": 54320,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup001.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup002.jpg",
+          "size_bytes": 165609,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup002.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup003.jpg",
+          "size_bytes": 123371,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup003.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup004.jpg",
+          "size_bytes": 78370,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup004.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup005.jpg",
+          "size_bytes": 88283,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup005.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup006.jpg",
+          "size_bytes": 152204,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup006.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup007.jpg",
+          "size_bytes": 40722,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup007.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup008.jpg",
+          "size_bytes": 127528,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup008.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup009.jpg",
+          "size_bytes": 122323,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup009.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup010.jpg",
+          "size_bytes": 104642,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup010.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup011.jpg",
+          "size_bytes": 118085,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup011.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup012.jpg",
+          "size_bytes": 48604,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup012.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup013.jpg",
+          "size_bytes": 134550,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup013.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup014.jpg",
+          "size_bytes": 85402,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup014.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup015.jpg",
+          "size_bytes": 70882,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup015.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup016.jpg",
+          "size_bytes": 136765,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup016.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup017.jpg",
+          "size_bytes": 118606,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup017.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup018.jpg",
+          "size_bytes": 108750,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup018.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup019.jpg",
+          "size_bytes": 42940,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup019.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup020.jpg",
+          "size_bytes": 89754,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup020.jpg"
+        },
+        {
+          "filename": "cipherdigital_businessup021.jpg",
+          "size_bytes": 47331,
+          "path": "CIFR/2026-08-04/cipherdigital_businessup021.jpg"
+        },
+        {
+          "filename": "q226_earningsxprxdraftxvf.htm",
+          "size_bytes": 190695,
+          "path": "CIFR/2026-08-04/q226_earningsxprxdraftxvf.htm"
+        }
+      ],
+      "fetched_at": "2026-08-05T16:00:54.681140+00:00"
     },
     {
       "ticker": "WMB",
@@ -483,7 +525,7 @@
           "path": "WMB/2026-08-03/wmb_image1a19.jpg"
         }
       ],
-      "fetched_at": "2026-08-04T16:00:48.297266+00:00"
+      "fetched_at": "2026-08-05T16:00:56.584559+00:00"
     },
     {
       "ticker": "ETN",
@@ -510,7 +552,66 @@
           "path": "ETN/2026-07-31/etn06302026exhibit99.htm"
         }
       ],
-      "fetched_at": "2026-08-04T16:00:49.614409+00:00"
+      "fetched_at": "2026-08-05T16:00:57.961888+00:00"
+    },
+    {
+      "ticker": "PFE",
+      "company": "Pfizer Inc",
+      "earnings_date": "2026-08-04",
+      "filing_date": "2026-08-04",
+      "accession": "0000078003-26-000094",
+      "form": "8-K",
+      "items": "2.02,9.01",
+      "documents": [
+        {
+          "filename": "0000078003-26-000094.txt",
+          "size_bytes": 1281502,
+          "path": "PFE/2026-08-04/0000078003-26-000094.txt"
+        },
+        {
+          "filename": "pfe-20260804.htm",
+          "size_bytes": 37831,
+          "path": "PFE/2026-08-04/pfe-20260804.htm"
+        },
+        {
+          "filename": "pfe-6282026xex99.htm",
+          "size_bytes": 945691,
+          "path": "PFE/2026-08-04/pfe-6282026xex99.htm"
+        },
+        {
+          "filename": "pfizerlogo.jpg",
+          "size_bytes": 38679,
+          "path": "PFE/2026-08-04/pfizerlogo.jpg"
+        }
+      ],
+      "fetched_at": "2026-08-05T16:00:59.619581+00:00"
+    },
+    {
+      "ticker": "Q",
+      "company": "Qnity Electronics",
+      "earnings_date": "2026-08-04",
+      "filing_date": "2026-08-04",
+      "accession": "0002058873-26-000028",
+      "form": "8-K",
+      "items": "2.02,9.01",
+      "documents": [
+        {
+          "filename": "0002058873-26-000028.txt",
+          "size_bytes": 655187,
+          "path": "Q/2026-08-04/0002058873-26-000028.txt"
+        },
+        {
+          "filename": "exhibit991supplementalsche.htm",
+          "size_bytes": 478871,
+          "path": "Q/2026-08-04/exhibit991supplementalsche.htm"
+        },
+        {
+          "filename": "q-20260804.htm",
+          "size_bytes": 25155,
+          "path": "Q/2026-08-04/q-20260804.htm"
+        }
+      ],
+      "fetched_at": "2026-08-05T16:01:01.061264+00:00"
     },
     {
       "ticker": "POWL",
@@ -552,7 +653,7 @@
           "path": "POWL/2026-08-03/powl-20260803.htm"
         }
       ],
-      "fetched_at": "2026-08-04T16:00:52.229688+00:00"
+      "fetched_at": "2026-08-05T16:01:03.271929+00:00"
     },
     {
       "ticker": "ATKR",
@@ -589,7 +690,7 @@
           "path": "ATKR/2026-08-03/atkr3q26exhibit991.htm"
         }
       ],
-      "fetched_at": "2026-08-04T16:00:54.104801+00:00"
+      "fetched_at": "2026-08-05T16:01:05.152468+00:00"
     }
   ]
 }
