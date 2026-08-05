@@ -1,9 +1,9 @@
 {
-  "run_time": "2026-08-04T13:20:21.171500+00:00",
+  "run_time": "2026-08-05T13:20:27.467760+00:00",
   "days_scanned": 3,
   "total_tickers": 41,
-  "total_filings": 11,
-  "material_filings": 11,
+  "total_filings": 13,
+  "material_filings": 13,
   "filings": [
     {
       "ticker": "IREN",
@@ -92,6 +92,20 @@
       "has_press_release": true
     },
     {
+      "ticker": "KTOS",
+      "filing_date": "2026-08-04",
+      "date_of_report": "2026-08-04",
+      "items": [
+        "Item 2.02",
+        "Item 9.01"
+      ],
+      "material": true,
+      "description": "",
+      "accession": "0001069258-26-000075",
+      "has_earnings": true,
+      "has_press_release": true
+    },
+    {
       "ticker": "CIFR",
       "filing_date": "2026-08-04",
       "date_of_report": "2026-08-04",
@@ -160,6 +174,20 @@
       "material": true,
       "description": "",
       "accession": "0000107263-26-000024",
+      "has_earnings": true,
+      "has_press_release": true
+    },
+    {
+      "ticker": "EOSE",
+      "filing_date": "2026-08-05",
+      "date_of_report": "2026-08-05",
+      "items": [
+        "Item 2.02",
+        "Item 9.01"
+      ],
+      "material": true,
+      "description": "",
+      "accession": "0001628280-26-052903",
       "has_earnings": true,
       "has_press_release": true
     }
