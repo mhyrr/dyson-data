@@ -1,7 +1,10 @@
 AI:BigBear.ai Before Q2 Earnings: Buy, Sell or Hold the Stock?
 AI:Palantir Rockets 16% After Q2 Blowout; C3.ai, UiPath Sit Out the Rally
 AI:SoundHound to Post Q2 Earnings: Should You Buy, Sell or Hold the Stock?
-AMD:AMD Earnings 'Were Good,' Says Analyst Even as Stock Sinks 9% After Hours: Wall 
+AMD:7 numbers from AMD earnings reveal an ultra-bullish future: AlphaSpace stats to 
+AMD:AMD AI Boom Just Got Bigger -- Data Center Revenue Soars 107% in Second Quarter
+AMD:AMD Drops 6% Despite Record Quarter as NVIDIA Gains 4% on SpaceX Nod
+AMD:AMD Earnings 'Were Good,' Says Analyst Even as Stock Sinks 9% After Hours: Wall
 AMD:AMD Earnings Beat Estimates and Stock Falls 8%: Was the Bar Too High?
 AMD:AMD Price Prediction: Analysts Eye AI-Driven Upside Ahead of Earnings
 AMD:AMD Q2 Earnings On Deck: What To Expect
@@ -10,16 +13,19 @@ AMD:AMD Reports Q2 Earnings on Aug. 4. Here’s Why Analysts Remain Bullish.
 AMD:AMD Reports Tuesday. One Number Decides Whether 54 Times Forward Earnings Was Ev
 AMD:AMD Stock Drops After-Hours — AMD’s Q3 Outlook Beats Estimates But Investors Nee
 AMD:AMD Stock Drops As Chipmaker Disappoints With Modest Quarterly Beat
+AMD:AMD Stock Falls 8% Despite Data Center Revenue Doubling
 AMD:AMD Stock Jumps Overnight Ahead Of Q2 Print — Citigroup Loads Up, Analyst Sees O
 AMD:AMD Stock Rebounds With Chips Ahead Of Q2 Report; SpaceX Earnings, Lockup Expira
 AMD:AMD Stock Slides After Solid  Earnings Report
 AMD:AMD Stock Tumbles Overnight As CapEx Surge And SpaceX’s Nvidia Switch Overshadow
 AMD:AMD and SpaceX Earnings: Good or Bad?
 AMD:AMD results put AI spending boom under the microscope
+AMD:AMD sinks on revenue forecasts as competition with Nvidia grows more apparent
 AMD:AMD to report Q2 earnings as chip stocks continue to waver
 AMD:Advanced Micro (AMD) Q2 Earnings: How Key Metrics Compare to Wall Street Estimat
 AMD:Advanced Micro Devices Inc (AMD) (Q2 2026) Earnings Call Highlights: Record Reve
 AMD:Advanced Micro Devices Q2 Earnings Call Highlights
+AMD:Arista Networks Stock Surges as Earnings Prove AI Demand Is Real
 AMD:Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sa
 AMD:Dow Jones Futures Rise; SpaceX, AMD, Arista Lead Earnings Movers After S&amp;P 5
 AMD:Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, El
@@ -36,7 +42,10 @@ AMD:Nasdaq, S&amp;P 500 Futures Climb As Wall Street Awaits AMD, SpaceX Earnings
 AMD:Nvidia vs. Advanced Micro Devices: Evaluating Revenue Growth Trajectories for Th
 AMD:Ocular Therapeutix™ Reports Second Quarter 2026 Financial Results and Business H
 AMD:Palantir Technologies Earnings Buoy Wall Street Pre-Bell; Asia Mixed, Europe Up
+AMD:Reaction to AMD Earnings Shows Why It’s Hard Being in Second Place
+AMD:S&amp;P 500 hits record high on Disney, Eli Lilly earnings
 AMD:Schneider Electric (ENXTPA:SU) Posts Strong Half Year Earnings, Is It Still Unde
+AMD:Shopify surges, AMD slides premarket as earnings disappoint
 AMD:Should You Buy AMD Stock Ahead of Q2 Earnings? Here's What to Know
 AMD:SpaceX's first earnings, AMD Q2 results, JOLTS data: What to Watch
 AMD:SpaceX’s First Earnings Offer a Chance to Reverse Stock’s Plunge
@@ -44,9 +53,12 @@ AMD:Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting 
 AMD:Stocks Rise Pre-Bell Ahead of Latest Round of Earnings; Investors Gauge Uncertai
 AMD:Stocks Rise Pre-Bell as Trump Calls Off Planned Iran Strikes; Labor Market Data,
 AMD:Tech stocks today: Investors eye SpaceX's first earnings report
+AMD:The companies defying macro uncertainty and raising guidance: AlphaCheck
 AMD:US Equity Investors to Focus on Quarterly Earnings, Nonfarm Payrolls, Iran Geopo
+AMD:Why Nvidia Stock Is the Big Winner From SpaceX Earnings
 AMZN:AI Isn’t a Catch-All Trade for Stocks in This Earnings Season
 AMZN:AMD Stock Slides After Solid  Earnings Report
+AMZN:AMD Stock Slides After Solid  Earnings. The Chip Maker Has a Bigger Problem.
 AMZN:AMZN Q2 Deep Dive: AI-Driven AWS Growth and Cost Leverage Shape Outlook
 AMZN:AMZN Sued Over Alleged ‘Greenwashing’ Of Seafood Labels — Consumers Challenge Am
 AMZN:Amazon Web Services' Q2 Was Good. Google Cloud's Was Better. Here's Why It Matte
@@ -61,6 +73,7 @@ AMZN:Google exec warns AI spending could trigger a painful revenue gap
 AMZN:Is Amazon Stock a Buy After CEO Andy Jassy's $1 Trillion AWS Revenue Prediction?
 AMZN:Jeff Bezos Plans to Sell $4.07 Billion Worth of Amazon Stock as Shares Shoot Up
 AMZN:Nasdaq, S&amp;P 500 Futures Climb As Wall Street Awaits AMD, SpaceX Earnings Aft
+AMZN:NiSource Announces Second Quarter Results
 AMZN:Niagen Bioscience Inc (NAGE) (Q2 2026) Earnings Call Highlights: E-Commerce Surg
 AMZN:Pinterest Stock Falls Despite Earnings Beat
 AMZN:Review &amp; Preview: Saved by Earnings
@@ -73,11 +86,14 @@ AMZN:US Ban on Chinese Optical Parts Hurts Hyperscalers, Report Says
 AMZN:US Indices End Week Higher As Amazon Earnings Lift Sentiment, But Nasdaq Logs Wo
 AMZN:Wall Street Is Rewarding AI Results, Not Just AI Spending
 ANET:AI Cloud Networking Growth Drives Arista Earnings Beat
+ANET:Arista Earnings Beat. Cloud Networking Leader Hikes 2026 Sales Guidance.
 ANET:Arista Networks (ANET) Q2 Earnings and Revenues Surpass Estimates
 ANET:Arista Networks Inc (ANET) (Q2 2026) Earnings Call Highlights: Record $3 Billion
+ANET:Arista Networks Just Delivered Its First $3 Billion Quarter. Here's What It Mean
 ANET:Arista Networks Q2 Earnings Call Highlights
 ANET:Arista Networks Stock Surges as Earnings Prove AI Demand Is Real
 ANET:Arista Networks rallies 13% on strong Q2 beat and raised outlook
+ANET:Arista Networks stock leaps on strong Q2 beat and raised outlook
 ANET:Arista Networks, Inc. Reports Second Quarter 2026 Financial Results
 ANET:Arista Networks’ Huge AI Sales, Upcoming Earnings Lift Shares
 ANET:Arista forecasts upbeat quarterly revenue on AI-driven networking demand
@@ -100,8 +116,10 @@ ANET:Reddit Q2 Earnings Beat on Ad Growth and Strong Monetization
 ANET:Satellogic Gears Up to Report Q2 Earnings: Here's What to Expect
 ANET:SpaceX’s First Earnings Offer a Chance to Reverse Stock’s Plunge
 ANET:Stocks Rise Pre-Bell Ahead of Latest Round of Earnings; Investors Gauge Uncertai
+ANET:Stocks Rise Pre-Bell Amid Growing Hopes for Hormuz Deal; Traders Await More Corp
 ANET:The Bull Case For Arista Networks (ANET) Could Change Following Raised 2026 Guid
 ANET:The Trade Desk Set to Report Q2 Earnings: Here's What to Expect
+ANET:The companies defying macro uncertainty and raising guidance: AlphaCheck
 ANET:UMAC Set to Report Q2 Results: Can Revenue Growth Boost Earnings?
 ANET:Will Top-Line Improvement Benefit Palantir in Q2 Earnings?
 ANET:nLIGHT Gears Up to Report Q2 Earnings: What's in Store for the Stock?
@@ -116,12 +134,14 @@ ASML:ASML (ENXTAM:ASML) Just Raised Its Interim Dividend 17% And Backed 2026 Gui
 ASML:ASML reports transactions under its current share buyback program
 ASML:Microsoft’s Earnings Could Decide the Fate of a $700 Billion AI Spending Boom
 ASML:Threat Out of China Creeps Up on ASML: Is the Dip in the Stock Worth Buying?
+AVGO:AMD Drops 6% Despite Record Quarter as NVIDIA Gains 4% on SpaceX Nod
 AVGO:AMD Price Prediction: Analysts Eye AI-Driven Upside Ahead of Earnings
 AVGO:Apollo Global Management Q2 Earnings Call Highlights
 AVGO:Apple Tops Third-Quarter Estimates; IPad, Services Revenue Falls Short
 AVGO:Broadcom Inc. to Announce Third Quarter Fiscal Year 2026 Financial Results on We
 AVGO:Can Strong Data Center Revenues Boost AMD's Top Line in Q2 Earnings?
 AVGO:GOOGL Backs $15B Financing For Anthropic-Linked Texas AI Campus — Project Report
+AVGO:GlobalFoundries Inc. (GFS) Surpasses Q2 Earnings and Revenue Estimates
 AVGO:Marvell Technology Is Betting More Of Its Revenue On One End Market
 AVGO:Should You Buy AMD Stock Ahead of Q2 Earnings? Here's What to Know
 AVGO:US Ban on Chinese Optical Parts Hurts Hyperscalers, Report Says
@@ -152,6 +172,7 @@ CRWD:CrowdStrike 2026 Threat Hunting Report: AI is Now Embedded Across Modern Ad
 CRWD:CrowdStrike Announces Date of Fiscal Second Quarter 2027 Financial Results Confe
 CRWD:Move Over Memory, Fortinet Earnings Show Cybersecurity Stocks Are Red-Hot AI Pla
 CRWD:Software catches a bid as investors rotate ahead of Palantir earnings
+CRWD:The companies defying macro uncertainty and raising guidance: AlphaCheck
 CRWD:Varonis Systems (VRNS) Q2 Earnings and Revenues Top Estimates
 DDOG:BofA crowns monitoring platform top software pick before earnings
 DDOG:DDOG's Multi-Year Contracts Grow: Is Revenue Growth More Predictable?
@@ -178,13 +199,17 @@ GOOGL:Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These
 GOOGL:Amazon's AWS business has taken on a life of its own: Earnings call takeaways
 GOOGL:Apple stock plunges: CEO Tim Cook explains weak revenue forecast
 GOOGL:Apple's Record Quarter Ran Into A Memory Bill
+GOOGL:Arista Networks Stock Surges as Earnings Prove AI Demand Is Real
 GOOGL:Beyond the Mag 7: Rising Q3 Estimates Signal a Market-Wide Earnings Expansion
+GOOGL:Canada's Shopify forecasts revenue above estimates, shares surge
 GOOGL:Chatham Lodging Trust Q2 2026 Earnings Call Summary
 GOOGL:Here's When SpaceX Expects $1 Trillion in Annual Revenue
 GOOGL:IonQ vs. Alphabet:  What Revenue Trends Reveal About the Quantum Computing Chipm
 GOOGL:META, GOOGL Stocks In Focus — White House Plans Meeting With Tech Giants On Tues
 GOOGL:Meta stock poised for a new losing streak: Earnings call takeaways
 GOOGL:Microsoft, Amazon and Alphabet's are part of Zacks Earnings Preview
+GOOGL:New report warns China transceiver ban would hurt U.S. AI giants
+GOOGL:NiSource Announces Second Quarter Results
 GOOGL:Nvidia vs. Alphabet: What Do Revenue Trends Tell Investors About These Artificia
 GOOGL:Nvidia vs. Alphabet: What Revenue Trends Reveal About the AI Leaders
 GOOGL:Palantir Cashes In on Its Early SpaceX Bet As IPO Windfall Juices Quarterly Earn
@@ -218,6 +243,8 @@ META:28% Revenue Growth Ignored: Why Panic-Selling Meta Stock Over Infrastructur
 META:3 Reasons Microsoft Stock Soared After Q4 Earnings
 META:AI Isn’t a Catch-All Trade for Stocks in This Earnings Season
 META:Amazon.com Stock Is Cheaper Than The Market On Earnings And Pricier On Cash
+META:Aramark Declares Quarterly Dividend
+META:Arista Networks Stock Surges as Earnings Prove AI Demand Is Real
 META:Capital Power Q2 Earnings Call Highlights
 META:Ford Jumped, Meta Dropped on Earnings Surprises — Time to Buy or Sell?
 META:Google exec warns AI spending could trigger a painful revenue gap
@@ -228,9 +255,12 @@ META:Mark Zuckerberg tells investors why Meta is selling compute and still buyin
 META:Meta Platforms (META) Q2 Growth Puts AI Spending And Valuation Back In Focus
 META:Meta Platforms Stock Plunges On Earnings; This Bearish Options Trade Could Earn
 META:Microsoft is Soaring After Earnings While Meta Platforms Drops. Is The Market Gi
+META:New report warns China transceiver ban would hurt U.S. AI giants
 META:Pembina Pipeline Q2 Earnings Call Highlights
 META:Pinterest Stock Falls Despite Earnings Beat
 META:Pinterest expects slower quarterly revenue growth as ad competition heats up
+META:Pinterest falls 5% on expected slowdown in third-quarter revenue growth
+META:Reaction to AMD Earnings Shows Why It’s Hard Being in Second Place
 META:Research Firm Says Big Tech Earnings Just Flipped Valuation Risk
 META:SNAP Stock Falls Premarket Ahead Of Quarterly Report: Investors Watch User Growt
 META:Shopify Q2 Earnings Preview: What To Expect From Upcoming Report
@@ -251,20 +281,25 @@ MSFT:3 Big Takeaways From Microsoft's Earnings
 MSFT:3 Reasons Microsoft Stock Soared After Q4 Earnings
 MSFT:AI Isn’t a Catch-All Trade for Stocks in This Earnings Season
 MSFT:AMD Stock Slides After Solid  Earnings Report
+MSFT:AMD Stock Slides After Solid  Earnings. The Chip Maker Has a Bigger Problem.
 MSFT:AMD to report Q2 earnings as chip stocks continue to waver
 MSFT:Apple's Record Quarter Ran Into A Memory Bill
+MSFT:Arista Networks Stock Surges as Earnings Prove AI Demand Is Real
 MSFT:Arista forecasts upbeat quarterly revenue on AI-driven networking demand
 MSFT:As Cloud Revenue Soars, Is It Time to Buy Microsoft Stock?
 MSFT:Beyond the Mag 7: Rising Q3 Estimates Signal a Market-Wide Earnings Expansion
+MSFT:Canada's Shopify forecasts revenue above estimates, shares surge
 MSFT:Google exec warns AI spending could trigger a painful revenue gap
 MSFT:Grid Dynamics Q2 Earnings Call Highlights
 MSFT:Here's When SpaceX Expects $1 Trillion in Annual Revenue
 MSFT:IREN (NasdaqGS:IREN) Lands Microsoft And Nvidia AI Cloud Deals Covering Most Rev
 MSFT:LinkedIn reports solid Q2 revenue growth
 MSFT:MSFT Stock Gains 25% In 3 Days: Report Says New Xbox 360 Games Could Come To Win
+MSFT:Microsoft Extends Winning Streak Amid Earnings Surge; Is The Stock A Buy Now?
 MSFT:Microsoft is Soaring After Earnings While Meta Platforms Drops. Is The Market Gi
 MSFT:Microsoft vs. Aehr Test Systems: Comparing Revenue Trends Between These Artifici
 MSFT:Microsoft vs. Apple: Comparing Revenue Trends and the Impact of Artificial Intel
+MSFT:New report warns China transceiver ban would hurt U.S. AI giants
 MSFT:Research Firm Says Big Tech Earnings Just Flipped Valuation Risk
 MSFT:Software catches a bid as investors rotate ahead of Palantir earnings
 MSFT:Tech stocks today: Investors eye SpaceX's first earnings report
@@ -273,7 +308,7 @@ MSFT:The Sharpest Exchanges From META's Earnings Call
 MSFT:US Ban on Chinese Optical Parts Hurts Hyperscalers, Report Says
 MSFT:US Equity Indexes Rise This Week as AI Monetization Evidence in Big-Tech Quarter
 MSFT:WEC Energy Group Q2 Earnings Call Highlights
-MSFT:What Southern Copper (SCCO)'s Record Q2 Dividend and Earnings Amid Lower Output 
+MSFT:What Southern Copper (SCCO)'s Record Q2 Dividend and Earnings Amid Lower Output
 MU:Buy Sandisk Stock Before Q4 Earnings? Here's What to Know
 MU:Can Strong Data Center &amp; Edge Boost SNDK's Top Line in Q4 Earnings?
 MU:Micron Trades at Just 5 Times Forward Earnings. Here's Why the Market Doesn't Tr
@@ -286,27 +321,37 @@ MU:Why Micron Stock Keeps Falling?
 MU:Why Wall Street Keeps Underestimating Micron
 NVDA:3 Big Takeaways From Microsoft's Earnings
 NVDA:AI demand pushes Foxconn's monthly revenue to record in July
+NVDA:AMD Drops 6% Despite Record Quarter as NVIDIA Gains 4% on SpaceX Nod
 NVDA:AMD Reports Tuesday. One Number Decides Whether 54 Times Forward Earnings Was Ev
+NVDA:AMD sinks on revenue forecasts as competition with Nvidia grows more apparent
 NVDA:After Palantir’s Blowout Earnings, Here’s Where The Stock Could Head Next
 NVDA:Apple Just Reported Earnings. With Tim Cook's Era Ending, Is the Stock a Buy for
 NVDA:Applied Optoelectronics Rockets 17%, Coherent Climbs 11%, Lumentum Gains 6% on R
+NVDA:GLP-1’s Drove Eli Lilly’s Record-Breaking Q2, but AI Will Be Its Future
 NVDA:Is Palantir a Buy as Its Revenue Surges 93% and Continues to Accelerate?
+NVDA:Mastercard Is in Millions of Portfolios. Last Quarter, Elite Investors Were Quie
 NVDA:McDonald’s Slowest Quarter in a Year Costs Its US President His Job
 NVDA:Meet the Dividend Stock That Keeps Raising Its Payout No Matter What the Market
 NVDA:Palantir Aims For 12th Straight Revenue Acceleration, But U.S. Growth Is Key
+NVDA:Palantir Crushes Earnings in Q2. Is the Stock Heading Back to $200?
+NVDA:Reaction to AMD Earnings Shows Why It’s Hard Being in Second Place
 NVDA:S&amp;P Global Grew Revenue 10% and Still Missed on Earnings. Except, Maybe It D
 NVDA:SoFi Just Reported Earnings. Is the Stock a Buy Now?
+NVDA:SpaceX Beat Expectations in Its First Earnings Report Since Going Public. Here's
 NVDA:SpaceX Reports Its First-Ever Earnings Tuesday. Here Are the 5 Numbers That Will
+NVDA:SpaceX stock declines post-earnings. Are investors worried about AI spending?
 NVDA:Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at
 NVDA:Tech stocks today: Investors eye SpaceX's first earnings report
 NVDA:Tesla Missed Earnings by 38%, but Elon Musk Isn't Worried. Here's What Investors
 NVDA:The Real AI Cost Question That Defines The Next Quarter of Alphabet Vs. Microsof
 NVDA:Tim Cook's Last Quarter as CEO Was Apple's Best June Quarter Ever. The Stock Fel
 NVDA:Why Newell Brands Stock Keeps Rising
+NVDA:Why Nvidia Stock Is the Big Winner From SpaceX Earnings
 NXST:Nexstar Media Group Declares Quarterly Cash Dividend of $1.86 Per Share
 OKLO:Here's How to Play NuScale Stock Before Q2 Earnings Release
 OKLO:Oklo Announces Date for Second Quarter 2026 Financial Results and Business Updat
 OKLO:Oklo Reports Earnings on Aug. 7. Here's What Investors Should Be Watching.
+OKLO:Should You Invest in OKLO Stock Before Q2 Earnings Release?
 ORCL:AAPL, MSFT, and ORCL Forecasts – Earnings Guidance &amp; Gaps Drive Big Tech Mov
 ORCL:AMD Price Prediction: Analysts Eye AI-Driven Upside Ahead of Earnings
 ORCL:AMD Stock Slides After Solid  Earnings Report
@@ -342,6 +387,7 @@ PLTR:Palantir (PLTR) Stock Could Be 48% Undervalued Despite Raised AI Guidance
 PLTR:Palantir Aims For 12th Straight Revenue Acceleration, But U.S. Growth Is Key
 PLTR:Palantir CEO Alex Karp celebrates 93% revenue growth as stock soars after blockb
 PLTR:Palantir Cashes In on Its Early SpaceX Bet As IPO Windfall Juices Quarterly Earn
+PLTR:Palantir Crushes Earnings in Q2. Is the Stock Heading Back to $200?
 PLTR:Palantir Earnings Will Show If the Software Rocket Is Running Out of Fuel
 PLTR:Palantir Holds the Edge Ahead of Earnings
 PLTR:Palantir Is Set to Deliver Strong Q2. Analysts See 60% Upside Potential for PLTR
@@ -377,6 +423,7 @@ PLTR:Why Zeta Global Holdings (ZETA) Is Up 10.8% After Another Beat-and-Raise AI
 PLTR:Will Top-Line Improvement Benefit Palantir in Q2 Earnings?
 SMR:Here's How to Play NuScale Stock Before Q2 Earnings Release
 SMR:NuScale Power's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Her
+SMR:Should You Invest in OKLO Stock Before Q2 Earnings Release?
 SNOW:AI Traction Fuels Snowflake’s (SNOW) Guidance Boost
 SNOW:After Palantir’s Blowout Earnings, Here’s Where The Stock Could Head Next
 SNOW:CCC Intelligent Solutions Holdings Inc. (CCC) Q2 Earnings Match Estimates
@@ -388,9 +435,10 @@ SNOW:Snowflake to Announce Financial Results for the Second Quarter of Fiscal 20
 SNOW:Wall Street Is Rewarding AI Results, Not Just AI Spending
 TSM:AI Isn’t a Catch-All Trade for Stocks in This Earnings Season
 TSM:Cathie Wood Just Bet $26 Million on SpaceX Days Before Earnings
+TSM:Pinnacle West Capital Corporation Q2 2026 Earnings Call Summary
+TSM:Pinnacle West Capital Q2 Earnings Call Highlights
 TSM:Stanley Druckenmiller Holds Taiwan Semiconductor After Its Q2 Beat, Betting Chip
 TSM:TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's
-TSM:TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's 
 TSM:Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at
 VST:5 Utility Stocks Poised to Outperform Q2 Earnings Estimates
 VST:Ameren to Release Q2 Earnings: What's in Store for the Stock?

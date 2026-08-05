@@ -1,15 +1,15 @@
 {
-  "run_time": "2026-08-05T09:36:38.355075+00:00",
+  "run_time": "2026-08-05T14:36:39.031842+00:00",
   "lookback_days": 7,
   "tickers_checked": 29,
-  "new_items_count": 86,
+  "new_items_count": 51,
   "new_items": [
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "title": "Tim Cook's Last Quarter as CEO Was Apple's Best June Quarter Ever. The Stock Fell Anyway.",
-      "link": "https://www.fool.com/investing/2026/08/05/tim-cooks-last-quarter-as-ceo-was-apples-best-june/?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 08:47:00 +0000",
+      "title": "Palantir Crushes Earnings in Q2. Is the Stock Heading Back to $200?",
+      "link": "https://www.fool.com/investing/2026/08/05/palantir-crushes-earnings-in-q2-is-the-stock-headi/?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 14:24:53 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
@@ -17,9 +17,9 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "title": "Is Palantir a Buy as Its Revenue Surges 93% and Continues to Accelerate?",
-      "link": "https://www.fool.com/investing/2026/08/05/palantir-stock-buy-revenue-surge-growth/?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 08:15:00 +0000",
+      "title": "AMD Drops 6% Despite Record Quarter as NVIDIA Gains 4% on SpaceX Nod",
+      "link": "https://247wallst.com/investing/2026/08/05/amd-drops-6-despite-record-quarter-as-nvidia-gains-4-on-spacex-nod/?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 14:20:36 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
@@ -27,9 +27,69 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "title": "AI demand pushes Foxconn's monthly revenue to record in July",
-      "link": "https://finance.yahoo.com/technology/ai/articles/foxconns-monthly-revenue-hits-record-074534993.html?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 07:45:34 +0000",
+      "title": "Reaction to AMD Earnings Shows Why It\u2019s Hard Being in Second Place",
+      "link": "https://finance.yahoo.com/m/726be9b0-1a93-34a9-a249-f7e2680152e0/reaction-to-amd-earnings.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 14:13:00 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_infrastructure",
+      "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "title": "Why Nvidia Stock Is the Big Winner From SpaceX Earnings",
+      "link": "https://finance.yahoo.com/m/4bd74170-7f90-3341-83a5-1cf73b210611/why-nvidia-stock-is-the-big.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 14:02:00 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_infrastructure",
+      "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "title": "Mastercard Is in Millions of Portfolios. Last Quarter, Elite Investors Were Quietly Buying Its Rival",
+      "link": "https://247wallst.com/investing/2026/08/05/mastercard-is-in-millions-of-portfolios-last-quarter-elite-investors-were-quietly-buying-its-rival/?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 13:58:23 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_infrastructure",
+      "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "title": "SpaceX Beat Expectations in Its First Earnings Report Since Going Public. Here's Why the Market Still Isn't Thrilled",
+      "link": "https://www.fool.com/investing/2026/08/05/spacex-beat-expectations-in-its-first-earnings-rep/?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 13:52:30 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_infrastructure",
+      "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "title": "GLP-1\u2019s Drove Eli Lilly\u2019s Record-Breaking Q2, but AI Will Be Its Future",
+      "link": "https://247wallst.com/investing/2026/08/05/glp-1s-drove-eli-lillys-record-breaking-q2-but-ai-will-be-its-future/?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 13:50:30 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_infrastructure",
+      "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "title": "AMD sinks on revenue forecasts as competition with Nvidia grows more apparent",
+      "link": "https://finance.yahoo.com/video/amd-sinks-revenue-forecasts-competition-134557567.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 13:45:57 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_infrastructure",
+      "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "title": "SpaceX stock declines post-earnings. Are investors worried about AI spending?",
+      "link": "https://finance.yahoo.com/video/spacex-stock-declines-post-earnings-133053667.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 13:30:53 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
@@ -37,9 +97,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "Advanced Micro Devices Inc (AMD) (Q2 2026) Earnings Call Highlights: Record Revenue and Data ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-inc-amd-050250626.html?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 05:02:50 +0000",
+      "title": "AMD Drops 6% Despite Record Quarter as NVIDIA Gains 4% on SpaceX Nod",
+      "link": "https://247wallst.com/investing/2026/08/05/amd-drops-6-despite-record-quarter-as-nvidia-gains-4-on-spacex-nod/?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 14:20:36 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -47,9 +107,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "Dow Jones Futures Rise; SpaceX, AMD, Arista Lead Earnings Movers After S&amp;P 500 Jumps To High",
-      "link": "https://finance.yahoo.com/m/63f73cc3-b9b2-3295-a581-3f2fee0b0e0e/dow-jones-futures-rise%3B.html?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 02:48:27 +0000",
+      "title": "Reaction to AMD Earnings Shows Why It\u2019s Hard Being in Second Place",
+      "link": "https://finance.yahoo.com/m/726be9b0-1a93-34a9-a249-f7e2680152e0/reaction-to-amd-earnings.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 14:13:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -57,9 +117,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "AMD Stock Tumbles Overnight As CapEx Surge And SpaceX\u2019s Nvidia Switch Overshadow Q2 Beat",
-      "link": "https://stocktwits.com/news-articles/markets/equity/amd-stock-tumbles-overnight-as-cap-ex-surge-and-space-x-s-nvidia-switch-overshadow-q2-beat/cZo4BNHRJ4F?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 01:58:58 +0000",
+      "title": "The companies defying macro uncertainty and raising guidance: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/the-companies-defying-macro-uncertainty-and-raising-guidance-alphacheck-140605238.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 14:06:05 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -67,9 +127,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "AMD Earnings 'Were Good,' Says Analyst Even as Stock Sinks 9% After Hours: Wall Street Wanted a 'Blowout' Forecast",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-earnings-were-good-says-015720661.html?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 01:57:20 +0000",
+      "title": "Why Nvidia Stock Is the Big Winner From SpaceX Earnings",
+      "link": "https://finance.yahoo.com/m/4bd74170-7f90-3341-83a5-1cf73b210611/why-nvidia-stock-is-the-big.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 14:02:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -77,9 +137,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "AMD and SpaceX Earnings: Good or Bad?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-spacex-earnings-good-bad-235500303.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 23:55:00 +0000",
+      "title": "Arista Networks Stock Surges as Earnings Prove AI Demand Is Real",
+      "link": "https://finance.yahoo.com/m/b6e106e5-4e33-3ce2-9439-8b5e5685ecc0/arista-networks-stock-surges.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 13:56:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -87,9 +147,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "Advanced Micro Devices Q2 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/advanced-micro-devices-q2-earnings-call-highlights-2026-08-04/?utm_source=yahoofinance&amp;utm_medium=yahoofinance&amp;.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 23:04:00 +0000",
+      "title": "S&amp;P 500 hits record high on Disney, Eli Lilly earnings",
+      "link": "https://qz.com/sp500-dow-record-high-disney-eli-lilly-earnings-080526?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 13:51:25 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -97,9 +157,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "Advanced Micro (AMD) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-amd-q2-earnings-220002343.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 22:00:02 +0000",
+      "title": "AMD sinks on revenue forecasts as competition with Nvidia grows more apparent",
+      "link": "https://finance.yahoo.com/video/amd-sinks-revenue-forecasts-competition-134557567.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 13:45:57 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -107,9 +167,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "AMD Stock Slides After Solid  Earnings Report",
-      "link": "https://finance.yahoo.com/m/a6d2c627-33f4-3a19-8794-fd0716f99926/amd-stock-slides-after-solid-.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:32:00 +0000",
+      "title": "7 numbers from AMD earnings reveal an ultra-bullish future: AlphaSpace stats to know",
+      "link": "https://finance.yahoo.com/markets/article/7-numbers-from-amd-earnings-reveal-an-ultra-bullish-future-alphaspace-stats-to-know-131200091.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 13:12:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -117,9 +177,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "AMD Stock Drops After-Hours \u2014 AMD\u2019s Q3 Outlook Beats Estimates But Investors Need More To Justify Valuations",
-      "link": "https://stocktwits.com/news-articles/markets/equity/amd-q3-outlook-beats-estimates-but-valuation-conerns-persist/cZo5DWIRJ41?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:16:16 +0000",
+      "title": "AMD AI Boom Just Got Bigger -- Data Center Revenue Soars 107% in Second Quarter",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-ai-boom-just-got-124722305.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 12:47:22 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -127,9 +187,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "AMD Stock Drops As Chipmaker Disappoints With Modest Quarterly Beat",
-      "link": "https://finance.yahoo.com/m/ecdfb7f1-53cb-34e4-b59f-50cf65691925/amd-stock-drops-as-chipmaker.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:08:10 +0000",
+      "title": "AMD Stock Falls 8% Despite Data Center Revenue Doubling",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-falls-8-despite-123847752.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 12:38:47 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -137,9 +197,9 @@
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "AMD Earnings Beat Estimates and Stock Falls 8%: Was the Bar Too High?",
-      "link": "https://beincrypto.com/amd-q2-2026-earnings-beat-selloff/?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 20:57:10 +0000",
+      "title": "Shopify surges, AMD slides premarket as earnings disappoint",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-surges-amd-slides-premarket-122338508.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 12:23:38 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
@@ -147,9 +207,9 @@
     {
       "ticker": "AVGO",
       "name": "Broadcom",
-      "title": "US Ban on Chinese Optical Parts Hurts Hyperscalers, Report Says",
-      "link": "https://finance.yahoo.com/technology/ai/articles/us-ban-chinese-optical-parts-082307752.html?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 08:23:07 +0000",
+      "title": "AMD Drops 6% Despite Record Quarter as NVIDIA Gains 4% on SpaceX Nod",
+      "link": "https://247wallst.com/investing/2026/08/05/amd-drops-6-despite-record-quarter-as-nvidia-gains-4-on-spacex-nod/?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 14:20:36 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Custom ASICs for hyperscalers, VMware, networking monopoly."
@@ -157,9 +217,9 @@
     {
       "ticker": "AVGO",
       "name": "Broadcom",
-      "title": "Apollo Global Management Q2 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/apollo-global-management-q2-earnings-call-highlights-2026-08-04/?utm_source=yahoofinance&amp;utm_medium=yahoofinance&amp;.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 20:04:04 +0000",
+      "title": "GlobalFoundries Inc. (GFS) Surpasses Q2 Earnings and Revenue Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/globalfoundries-inc-gfs-surpasses-q2-121504035.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 12:15:04 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Custom ASICs for hyperscalers, VMware, networking monopoly."
@@ -167,109 +227,29 @@
     {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor",
-      "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
-      "link": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html?.tsrc=rss",
-      "date": "Sat, 01 Aug 2026 22:00:22 +0000",
+      "title": "Pinnacle West Capital Q2 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/pinnacle-west-capital-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&amp;utm_medium=yahoofinance&amp;.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 12:04:07 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "The fab. Everyone's chips flow through TSMC. Geopolitical linchpin."
     },
     {
-      "ticker": "ASML",
-      "name": "ASML",
-      "title": "ASML (ENXTAM:ASML) Just Raised Its Interim Dividend 17% And Backed 2026 Guidance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/asml-enxtam-asml-just-raised-141339117.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 14:13:39 +0000",
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor",
+      "title": "Pinnacle West Capital Corporation Q2 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-pinnacle-west-capital-corporation-q2-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss&amp;.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 01:20:53 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
-      "ticker_notes": "EUV monopoly. The machine that makes the machines."
-    },
-    {
-      "ticker": "ARM",
-      "name": "ARM Holdings",
-      "title": "ARM Stock Just Posted Its Best Day In Over A Year \u2014 A Week After Q1 Beat: Retail Gets More Bullish",
-      "link": "https://stocktwits.com/news-articles/markets/equity/arm-stock-just-posted-its-best-day-in-over-a-year-a-week-after-q1-beat-retail-gets-more-bullish/cZo4WGsRJ4v?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 04:43:12 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "IP licensing, datacenter CPU disruption, edge AI."
-    },
-    {
-      "ticker": "MRVL",
-      "name": "Marvell",
-      "title": "Marvel Biosciences Reports Positive Preclinical Data Demonstrating MB-204 Reverses Behavioural and Cognitive Deficits in a Mouse Model of Fragile X",
-      "link": "https://finance.yahoo.com/healthcare/articles/marvel-biosciences-reports-positive-preclinical-090000023.html?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 09:00:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "Custom silicon, datacenter networking, AI ASIC design wins."
-    },
-    {
-      "ticker": "MRVL",
-      "name": "Marvell",
-      "title": "US Ban on Chinese Optical Parts Hurts Hyperscalers, Report Says",
-      "link": "https://finance.yahoo.com/technology/ai/articles/us-ban-chinese-optical-parts-082307752.html?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 08:23:07 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "Custom silicon, datacenter networking, AI ASIC design wins."
-    },
-    {
-      "ticker": "MRVL",
-      "name": "Marvell",
-      "title": "Marvell Surges as China Ban Report Reignites Optical-Networking Stocks",
-      "link": "https://finance.yahoo.com/m/d907cc32-bb09-37ff-9b73-71565d5b1823/marvell-surges-as-china-ban.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 18:06:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "Custom silicon, datacenter networking, AI ASIC design wins."
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "title": "Micron Trades at Just 5 Times Forward Earnings. Here's Why the Market Doesn't Trust the Memory Supercycle Yet.",
-      "link": "https://www.fool.com/investing/2026/08/04/micron-trades-at-just-5-times-forward-earnings-her/?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 00:20:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "HBM3E/HBM4 for AI memory. Supply/demand cycles."
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "title": "Sandisk bulls are probably eyeing this number on earnings day: AlphaSpace stat of the evening",
-      "link": "https://finance.yahoo.com/markets/article/sandisk-bulls-are-probably-eyeing-this-number-on-earnings-day-alphaspace-stat-of-the-evening-220000368.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 22:00:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "HBM3E/HBM4 for AI memory. Supply/demand cycles."
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "title": "Top Stock Reports for Berkshire Hathaway, Micron &amp; Oracle",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-berkshire-hathaway-204200336.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 20:42:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "HBM3E/HBM4 for AI memory. Supply/demand cycles."
-    },
-    {
-      "ticker": "MU",
-      "name": "Micron",
-      "title": "Can Strong Data Center &amp; Edge Boost SNDK's Top Line in Q4 Earnings?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-data-center-edge-boost-172700928.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 17:27:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "HBM3E/HBM4 for AI memory. Supply/demand cycles."
+      "ticker_notes": "The fab. Everyone's chips flow through TSMC. Geopolitical linchpin."
     },
     {
       "ticker": "ANET",
       "name": "Arista Networks",
-      "title": "Arista Networks Inc (ANET) (Q2 2026) Earnings Call Highlights: Record $3 Billion Quarter and ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-inc-anet-q2-050501472.html?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 05:05:01 +0000",
+      "title": "The companies defying macro uncertainty and raising guidance: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/the-companies-defying-macro-uncertainty-and-raising-guidance-alphacheck-140605238.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 14:06:05 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Datacenter networking \u2014 Ethernet vs InfiniBand."
@@ -277,9 +257,9 @@
     {
       "ticker": "ANET",
       "name": "Arista Networks",
-      "title": "Arista Networks Q2 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/arista-networks-q2-earnings-call-highlights-2026-08-04/?utm_source=yahoofinance&amp;utm_medium=yahoofinance&amp;.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 04:03:53 +0000",
+      "title": "Arista Networks Just Delivered Its First $3 Billion Quarter. Here's What It Means for the AI Networking Trade.",
+      "link": "https://www.fool.com/investing/2026/08/05/arista-networks-just-delivered-its-first-3-billion/?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 12:34:53 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Datacenter networking \u2014 Ethernet vs InfiniBand."
@@ -287,9 +267,9 @@
     {
       "ticker": "ANET",
       "name": "Arista Networks",
-      "title": "Dow Jones Futures Rise; SpaceX, AMD, Arista Lead Earnings Movers After S&amp;P 500 Jumps To High",
-      "link": "https://finance.yahoo.com/m/63f73cc3-b9b2-3295-a581-3f2fee0b0e0e/dow-jones-futures-rise%3B.html?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 02:48:27 +0000",
+      "title": "Stocks Rise Pre-Bell Amid Growing Hopes for Hormuz Deal; Traders Await More Corporate Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-amid-121558765.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 12:15:58 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Datacenter networking \u2014 Ethernet vs InfiniBand."
@@ -297,9 +277,9 @@
     {
       "ticker": "ANET",
       "name": "Arista Networks",
-      "title": "Arista forecasts upbeat quarterly revenue on AI-driven networking demand",
-      "link": "https://finance.yahoo.com/technology/articles/arista-forecasts-upbeat-quarterly-revenue-221420916.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 22:14:20 +0000",
+      "title": "Arista Earnings Beat. Cloud Networking Leader Hikes 2026 Sales Guidance.",
+      "link": "https://finance.yahoo.com/m/30b0639a-a51d-338b-bfb4-53ff99db2f43/arista-earnings-beat.-cloud.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 11:30:46 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Datacenter networking \u2014 Ethernet vs InfiniBand."
@@ -307,37 +287,7 @@
     {
       "ticker": "ANET",
       "name": "Arista Networks",
-      "title": "Arista Networks (ANET) Q2 Earnings and Revenues Surpass Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-q2-earnings-214003640.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:40:03 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "Datacenter networking \u2014 Ethernet vs InfiniBand."
-    },
-    {
-      "ticker": "ANET",
-      "name": "Arista Networks",
-      "title": "AI Cloud Networking Growth Drives Arista Earnings Beat",
-      "link": "https://finance.yahoo.com/m/30b0639a-a51d-338b-bfb4-53ff99db2f43/ai-cloud-networking-growth.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:03:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "Datacenter networking \u2014 Ethernet vs InfiniBand."
-    },
-    {
-      "ticker": "ANET",
-      "name": "Arista Networks",
-      "title": "Arista Networks Stock Surges as Earnings Prove AI Demand Is Real",
-      "link": "https://finance.yahoo.com/m/b6e106e5-4e33-3ce2-9439-8b5e5685ecc0/arista-networks-stock-surges.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 20:55:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "Datacenter networking \u2014 Ethernet vs InfiniBand."
-    },
-    {
-      "ticker": "ANET",
-      "name": "Arista Networks",
-      "title": "Arista Networks rallies 13% on strong Q2 beat and raised outlook",
+      "title": "Arista Networks stock leaps on strong Q2 beat and raised outlook",
       "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-soars-13-strong-204329421.html?.tsrc=rss",
       "date": "Tue, 04 Aug 2026 20:43:29 +0000",
       "source": "yahoo_finance",
@@ -345,44 +295,14 @@
       "ticker_notes": "Datacenter networking \u2014 Ethernet vs InfiniBand."
     },
     {
-      "ticker": "ANET",
-      "name": "Arista Networks",
-      "title": "Arista Networks, Inc. Reports Second Quarter 2026 Financial Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-inc-reports-second-200500490.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 20:05:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "Datacenter networking \u2014 Ethernet vs InfiniBand."
-    },
-    {
-      "ticker": "ANET",
-      "name": "Arista Networks",
-      "title": "Equities Rally Intraday Amid Upbeat Earnings, Hormuz Reopening Hopes",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rally-intraday-amid-upbeat-181005089.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 18:10:05 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "Datacenter networking \u2014 Ethernet vs InfiniBand."
-    },
-    {
       "ticker": "CRWD",
       "name": "CrowdStrike",
-      "title": "CrowdStrike (CRWD) Stock May Be Above Fair Value On AI Threat Report",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-may-above-151138592.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 15:11:38 +0000",
+      "title": "The companies defying macro uncertainty and raising guidance: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/the-companies-defying-macro-uncertainty-and-raising-guidance-alphacheck-140605238.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 14:06:05 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "Post-outage recovery. Security as AI infra requirement."
-    },
-    {
-      "ticker": "VST",
-      "name": "Vistra Corp",
-      "title": "Pinnacle West Q2 Earnings Miss Estimates, Revenues Increase Y/Y",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-west-q2-earnings-miss-185400724.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 18:54:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "energy_power",
-      "ticker_notes": "Texas power gen, datacenter PPAs, biggest IPP."
     },
     {
       "ticker": "VST",
@@ -397,16 +317,6 @@
     {
       "ticker": "CCJ",
       "name": "Cameco",
-      "title": "Energy Fuels Set to Report Q2 Earnings: How to Play the Stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-set-report-q2-170600925.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 17:06:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "energy_power",
-      "ticker_notes": "Uranium fuel, nuclear renaissance from AI datacenter demand."
-    },
-    {
-      "ticker": "CCJ",
-      "name": "Cameco",
       "title": "Cameco Corp (CCJ) (Q2 2026) Earnings Call Highlights: Record Uranium Prices and Strategic ...",
       "link": "https://finance.yahoo.com/energy/articles/cameco-corp-ccj-q2-2026-190111354.html?.tsrc=rss",
       "date": "Fri, 31 Jul 2026 19:01:11 +0000",
@@ -415,41 +325,31 @@
       "ticker_notes": "Uranium fuel, nuclear renaissance from AI datacenter demand."
     },
     {
-      "ticker": "LNG",
-      "name": "Cheniere Energy",
-      "title": "Venture Global (VG) Reports Next Week: Wall Street Expects Earnings Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/venture-global-vg-reports-next-140002084.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 14:00:02 +0000",
-      "source": "yahoo_finance",
-      "thesis": "energy_power",
-      "ticker_notes": "LNG export, natural gas for power gen demand."
-    },
-    {
       "ticker": "OKLO",
       "name": "Oklo",
-      "title": "Oklo Reports Earnings on Aug. 7. Here's What Investors Should Be Watching.",
-      "link": "https://www.fool.com/investing/2026/08/04/oklos-next-earnings-report-on-aug-7-could-send-the-stock-soaring-heres-why/?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 20:20:01 +0000",
+      "title": "Should You Invest in OKLO Stock Before Q2 Earnings Release?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/invest-oklo-stock-q2-earnings-125700826.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 12:57:00 +0000",
       "source": "yahoo_finance",
       "thesis": "energy_power",
       "ticker_notes": "SMR play, Sam Altman-backed, nuclear for datacenters."
     },
     {
-      "ticker": "LEU",
-      "name": "Centrus Energy",
-      "title": "Energy Fuels Set to Report Q2 Earnings: How to Play the Stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-set-report-q2-170600925.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 17:06:00 +0000",
+      "ticker": "SMR",
+      "name": "NuScale Power",
+      "title": "Should You Invest in OKLO Stock Before Q2 Earnings Release?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/invest-oklo-stock-q2-earnings-125700826.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 12:57:00 +0000",
       "source": "yahoo_finance",
       "thesis": "energy_power",
-      "ticker_notes": "Uranium enrichment, HALEU fuel for advanced reactors."
+      "ticker_notes": "SMR developer, first NRC-approved design."
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "title": "US Ban on Chinese Optical Parts Hurts Hyperscalers, Report Says",
-      "link": "https://finance.yahoo.com/technology/ai/articles/us-ban-chinese-optical-parts-082307752.html?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 08:23:07 +0000",
+      "title": "Arista Networks Stock Surges as Earnings Prove AI Demand Is Real",
+      "link": "https://finance.yahoo.com/m/b6e106e5-4e33-3ce2-9439-8b5e5685ecc0/arista-networks-stock-surges.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 13:56:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Azure/OpenAI partnership, Copilot, enterprise AI distribution."
@@ -457,9 +357,9 @@
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "title": "Microsoft vs. Aehr Test Systems: Comparing Revenue Trends Between These Artificial Intelligence Companies",
-      "link": "https://www.fool.com/coverage/charts/2026/08/04/microsoft-vs-aehr-test-systems-comparing-revenue-trends-between-these-artificial-intelligence-companies/?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 23:25:01 +0000",
+      "title": "Microsoft Extends Winning Streak Amid Earnings Surge; Is The Stock A Buy Now?",
+      "link": "https://finance.yahoo.com/m/32d0b68b-7dcb-32ac-8506-1db647296a24/microsoft-extends-winning.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 12:00:48 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Azure/OpenAI partnership, Copilot, enterprise AI distribution."
@@ -467,9 +367,9 @@
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "title": "Microsoft is Soaring After Earnings While Meta Platforms Drops. Is The Market Giving Zuckerberg Too Little Credit?",
-      "link": "https://247wallst.com/videos/microsoft-is-soaring-after-earnings-while-meta-platforms-drops-is-the-market-giving-zuckerberg-too-little-credit/?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 22:38:51 +0000",
+      "title": "Canada's Shopify forecasts revenue above estimates, shares surge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/canadas-shopify-forecasts-quarterly-revenue-110923561.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 11:09:23 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Azure/OpenAI partnership, Copilot, enterprise AI distribution."
@@ -477,19 +377,9 @@
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "title": "Arista forecasts upbeat quarterly revenue on AI-driven networking demand",
-      "link": "https://finance.yahoo.com/technology/articles/arista-forecasts-upbeat-quarterly-revenue-221420916.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 22:14:20 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "Azure/OpenAI partnership, Copilot, enterprise AI distribution."
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "title": "AMD Stock Slides After Solid  Earnings Report",
+      "title": "AMD Stock Slides After Solid  Earnings. The Chip Maker Has a Bigger Problem.",
       "link": "https://finance.yahoo.com/m/a6d2c627-33f4-3a19-8794-fd0716f99926/amd-stock-slides-after-solid-.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:32:00 +0000",
+      "date": "Wed, 05 Aug 2026 10:13:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Azure/OpenAI partnership, Copilot, enterprise AI distribution."
@@ -497,19 +387,9 @@
     {
       "ticker": "MSFT",
       "name": "Microsoft",
-      "title": "Here's When SpaceX Expects $1 Trillion in Annual Revenue",
-      "link": "https://finance.yahoo.com/m/f7f2d72b-31c5-3111-97ea-c084778c2ca9/here%27s-when-spacex-expects-%241.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:28:03 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "Azure/OpenAI partnership, Copilot, enterprise AI distribution."
-    },
-    {
-      "ticker": "MSFT",
-      "name": "Microsoft",
-      "title": "What Southern Copper (SCCO)'s Record Q2 Dividend and Earnings Amid Lower Output Means For Shareholders",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/southern-copper-scco-record-q2-210955485.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:09:55 +0000",
+      "title": "New report warns China transceiver ban would hurt U.S. AI giants",
+      "link": "https://finance.yahoo.com/technology/ai/articles/report-warns-china-transceiver-ban-093946021.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 09:39:46 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Azure/OpenAI partnership, Copilot, enterprise AI distribution."
@@ -517,9 +397,9 @@
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "title": "SanDisk Stock Jumps 10% on New AI Memory Milestone With SK Hynix Ahead of Earnings",
-      "link": "https://beincrypto.com/sandisk-stock-sk-hynix-ai-milestone/?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 06:05:00 +0000",
+      "title": "Arista Networks Stock Surges as Earnings Prove AI Demand Is Real",
+      "link": "https://finance.yahoo.com/m/b6e106e5-4e33-3ce2-9439-8b5e5685ecc0/arista-networks-stock-surges.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 13:56:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Gemini, TPU, DeepMind, YouTube. Full-stack AI."
@@ -527,9 +407,9 @@
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "title": "Here's When SpaceX Expects $1 Trillion in Annual Revenue",
-      "link": "https://finance.yahoo.com/m/f7f2d72b-31c5-3111-97ea-c084778c2ca9/here%27s-when-spacex-expects-%241.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:28:03 +0000",
+      "title": "Canada's Shopify forecasts revenue above estimates, shares surge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/canadas-shopify-forecasts-quarterly-revenue-110923561.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 11:09:23 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Gemini, TPU, DeepMind, YouTube. Full-stack AI."
@@ -537,9 +417,9 @@
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "title": "SpaceX Second-Quarter Loss Narrows, Revenue Tops Views on Connectivity, AI Gains",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-second-quarter-loss-narrows-212739681.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:27:39 +0000",
+      "title": "NiSource Announces Second Quarter Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nisource-announces-second-quarter-results-103000419.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 10:30:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Gemini, TPU, DeepMind, YouTube. Full-stack AI."
@@ -547,39 +427,9 @@
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "title": "Chatham Lodging Trust Q2 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-chatham-lodging-trust-q2-2026-earnings-call-summary?utm_source=yahoo_finance&amp;utm_medium=rss&amp;.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:14:05 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "Gemini, TPU, DeepMind, YouTube. Full-stack AI."
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "title": "SpaceX Close to Adding a Tesla to Revenue",
-      "link": "https://finance.yahoo.com/m/adf11e56-ac34-392b-86c6-93c7ff6a26ec/spacex-close-to-adding-a.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:07:05 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "Gemini, TPU, DeepMind, YouTube. Full-stack AI."
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-      "link": "https://finance.yahoo.com/technology/articles/spacex-doubles-revenues-anthropic-google-203630798.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 20:36:30 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "Gemini, TPU, DeepMind, YouTube. Full-stack AI."
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet",
-      "title": "Pinterest expects slower quarterly revenue growth as ad competition heats up",
-      "link": "https://finance.yahoo.com/media-advertising/articles/pinterest-expects-slower-quarterly-revenue-200832530.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 20:08:32 +0000",
+      "title": "New report warns China transceiver ban would hurt U.S. AI giants",
+      "link": "https://finance.yahoo.com/technology/ai/articles/report-warns-china-transceiver-ban-093946021.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 09:39:46 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Gemini, TPU, DeepMind, YouTube. Full-stack AI."
@@ -587,9 +437,9 @@
     {
       "ticker": "META",
       "name": "Meta",
-      "title": "Microsoft is Soaring After Earnings While Meta Platforms Drops. Is The Market Giving Zuckerberg Too Little Credit?",
-      "link": "https://247wallst.com/videos/microsoft-is-soaring-after-earnings-while-meta-platforms-drops-is-the-market-giving-zuckerberg-too-little-credit/?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 22:38:51 +0000",
+      "title": "Reaction to AMD Earnings Shows Why It\u2019s Hard Being in Second Place",
+      "link": "https://finance.yahoo.com/m/726be9b0-1a93-34a9-a249-f7e2680152e0/reaction-to-amd-earnings.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 14:13:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Llama open-source, massive GPU fleet, Reality Labs option."
@@ -597,9 +447,9 @@
     {
       "ticker": "META",
       "name": "Meta",
-      "title": "Pinterest Stock Falls Despite Earnings Beat",
-      "link": "https://finance.yahoo.com/m/e9f798b4-1bcb-36d8-a24e-bfb0dc88a9e8/pinterest-stock-falls-despite.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 20:40:00 +0000",
+      "title": "Arista Networks Stock Surges as Earnings Prove AI Demand Is Real",
+      "link": "https://finance.yahoo.com/m/b6e106e5-4e33-3ce2-9439-8b5e5685ecc0/arista-networks-stock-surges.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 13:56:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Llama open-source, massive GPU fleet, Reality Labs option."
@@ -607,9 +457,9 @@
     {
       "ticker": "META",
       "name": "Meta",
-      "title": "Pinterest expects slower quarterly revenue growth as ad competition heats up",
-      "link": "https://finance.yahoo.com/media-advertising/articles/pinterest-expects-slower-quarterly-revenue-200832530.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 20:08:32 +0000",
+      "title": "Aramark Declares Quarterly Dividend",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aramark-declares-quarterly-dividend-113000224.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 11:30:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Llama open-source, massive GPU fleet, Reality Labs option."
@@ -617,9 +467,9 @@
     {
       "ticker": "META",
       "name": "Meta",
-      "title": "Wall Street Short Sellers Piled Into Amazon and Microsoft at Historic Rates Before Earnings. Now They\u2019re Rallying.",
-      "link": "https://247wallst.com/investing/2026/08/04/wall-street-short-sellers-piled-into-amazon-and-microsoft-at-historic-rates-before-earnings-now-theyre-rallying/?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 19:14:03 +0000",
+      "title": "New report warns China transceiver ban would hurt U.S. AI giants",
+      "link": "https://finance.yahoo.com/technology/ai/articles/report-warns-china-transceiver-ban-093946021.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 09:39:46 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Llama open-source, massive GPU fleet, Reality Labs option."
@@ -627,29 +477,9 @@
     {
       "ticker": "META",
       "name": "Meta",
-      "title": "Meta Platforms (META) Q2 Growth Puts AI Spending And Valuation Back In Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-q2-growth-171132506.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 17:11:32 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "Llama open-source, massive GPU fleet, Reality Labs option."
-    },
-    {
-      "ticker": "META",
-      "name": "Meta",
-      "title": "28% Revenue Growth Ignored: Why Panic-Selling Meta Stock Over Infrastructure Spend Is a Mistake",
-      "link": "https://247wallst.com/investing/2026/08/04/28-revenue-growth-ignored-why-panic-selling-meta-stock-over-infrastructure-spend-is-a-mistake/?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 15:22:49 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "Llama open-source, massive GPU fleet, Reality Labs option."
-    },
-    {
-      "ticker": "META",
-      "name": "Meta",
-      "title": "Amazon.com Stock Is Cheaper Than The Market On Earnings And Pricier On Cash",
-      "link": "https://www.trefis.com/articles/610042/amazon-com-stock-is-cheaper-than-the-market-on-earnings-and-pricier-on-cash/2026-08-04?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 15:18:26 +0000",
+      "title": "Pinterest falls 5% on expected slowdown in third-quarter revenue growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pinterest-falls-7-weak-third-205751038.html?.tsrc=rss",
+      "date": "Tue, 04 Aug 2026 20:57:51 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "Llama open-source, massive GPU fleet, Reality Labs option."
@@ -657,49 +487,9 @@
     {
       "ticker": "AMZN",
       "name": "Amazon",
-      "title": "US Ban on Chinese Optical Parts Hurts Hyperscalers, Report Says",
-      "link": "https://finance.yahoo.com/technology/ai/articles/us-ban-chinese-optical-parts-082307752.html?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 08:23:07 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "AWS, Trainium/Inferentia, Anthropic investment."
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "title": "Niagen Bioscience Inc (NAGE) (Q2 2026) Earnings Call Highlights: E-Commerce Surge and China ...",
-      "link": "https://finance.yahoo.com/healthcare/articles/niagen-bioscience-inc-nage-q2-050456498.html?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 05:04:56 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "AWS, Trainium/Inferentia, Anthropic investment."
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "title": "Arista forecasts upbeat quarterly revenue on AI-driven networking demand",
-      "link": "https://finance.yahoo.com/technology/articles/arista-forecasts-upbeat-quarterly-revenue-221420916.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 22:14:20 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "AWS, Trainium/Inferentia, Anthropic investment."
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "title": "Cipher Digital\u2019s Black Pearl site is earning revenue ahead of schedule: Q2 earnings",
-      "link": "https://blockspace.media/short/cipher-digitals-black-pearl-site-is-earning-revenue-ahead-of-schedule-q2-earnings/?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 22:11:44 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "AWS, Trainium/Inferentia, Anthropic investment."
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "title": "AMD Stock Slides After Solid  Earnings Report",
+      "title": "AMD Stock Slides After Solid  Earnings. The Chip Maker Has a Bigger Problem.",
       "link": "https://finance.yahoo.com/m/a6d2c627-33f4-3a19-8794-fd0716f99926/amd-stock-slides-after-solid-.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:32:00 +0000",
+      "date": "Wed, 05 Aug 2026 10:13:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "AWS, Trainium/Inferentia, Anthropic investment."
@@ -707,159 +497,19 @@
     {
       "ticker": "AMZN",
       "name": "Amazon",
-      "title": "Stock Market Today: Dow, S&amp;P 500 Hit New Highs; SpaceX Jumps Ahead Of Q2 Report",
-      "link": "https://finance.yahoo.com/m/9e9492e8-dc43-3309-bb2e-9b428195c126/stock-market-today%3A-dow%2C-s%26p.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 20:50:09 +0000",
+      "title": "NiSource Announces Second Quarter Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nisource-announces-second-quarter-results-103000419.html?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 10:30:00 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "AWS, Trainium/Inferentia, Anthropic investment."
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon",
-      "title": "Pinterest Stock Falls Despite Earnings Beat",
-      "link": "https://finance.yahoo.com/m/e9f798b4-1bcb-36d8-a24e-bfb0dc88a9e8/pinterest-stock-falls-despite.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 20:40:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "AWS, Trainium/Inferentia, Anthropic investment."
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "title": "[Latest] Global eClinical Solutions Market Size/Share Worth USD 42.55 Billion by 2035 at a 13.98% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-      "link": "https://finance.yahoo.com/healthcare/articles/latest-global-eclinical-solutions-market-043000742.html?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 04:30:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "OCI cloud, database AI, Ellison AI infra bet."
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "title": "The Hackett Group Q2 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/the-hackett-group-q2-earnings-call-highlights-2026-08-04/?utm_source=yahoofinance&amp;utm_medium=yahoofinance&amp;.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 00:04:25 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "OCI cloud, database AI, Ellison AI infra bet."
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "title": "AMD Stock Slides After Solid  Earnings Report",
-      "link": "https://finance.yahoo.com/m/a6d2c627-33f4-3a19-8794-fd0716f99926/amd-stock-slides-after-solid-.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:32:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "OCI cloud, database AI, Ellison AI infra bet."
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle",
-      "title": "Top Stock Reports for Berkshire Hathaway, Micron &amp; Oracle",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-berkshire-hathaway-204200336.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 20:42:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "OCI cloud, database AI, Ellison AI infra bet."
-    },
-    {
-      "ticker": "DDOG",
-      "name": "Datadog",
-      "title": "Dow Jones AI Giant Microsoft Breaks Out After Earnings-Fueled Surge",
-      "link": "https://finance.yahoo.com/m/77b38b28-13a7-35fe-85f2-9c61372b43ab/dow-jones-ai-giant-microsoft.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 19:29:59 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "Observability for cloud/AI infrastructure."
-    },
-    {
-      "ticker": "DDOG",
-      "name": "Datadog",
-      "title": "Datadog Before Q2 Earnings: Should You Buy, Sell or Hold the Stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/datadog-q2-earnings-buy-sell-151200282.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 15:12:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "Observability for cloud/AI infrastructure."
-    },
-    {
-      "ticker": "DDOG",
-      "name": "Datadog",
-      "title": "Earnings Preview: CoreWeave (CRWV) Q2 Earnings Expected to Decline",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-coreweave-crwv-q2-140004181.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 14:00:04 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "Observability for cloud/AI infrastructure."
-    },
-    {
       "ticker": "PLTR",
       "name": "Palantir",
-      "title": "Is Palantir a Buy as Its Revenue Surges 93% and Continues to Accelerate?",
-      "link": "https://www.fool.com/investing/2026/08/05/palantir-stock-buy-revenue-surge-growth/?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 08:15:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "AIP platform, government + commercial AI."
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "title": "Why Zeta Global Holdings (ZETA) Is Up 10.8% After Another Beat-and-Raise AI-Driven Quarter And What's Next",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-zeta-global-holdings-zeta-081421590.html?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 08:14:21 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "AIP platform, government + commercial AI."
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "title": "PLTR Stock Retreats Overnight: Analysts See \u2018No Sign Of Competitive Pressure\u2019 After Blowout Q2 Report",
-      "link": "https://stocktwits.com/news-articles/markets/equity/pltr-stock-retreats-overnight-analysts-see-no-sign-of-competitive-pressure-after-blowout-q2-report/cZo4fMuRJ4r?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 03:20:39 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "AIP platform, government + commercial AI."
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "title": "Palantir Short Sellers Lose $3 Billion After 30% Earnings Rally",
-      "link": "https://beincrypto.com/palantir-short-sellers-billion-loss/?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 02:38:00 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "AIP platform, government + commercial AI."
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "title": "Dow and S&amp;P 500 Hit Records on AI Earnings: When Will the Bubble Burst?",
-      "link": "https://beincrypto.com/dow-sp-500-record-ai-earnings/?.tsrc=rss",
-      "date": "Wed, 05 Aug 2026 02:00:20 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "AIP platform, government + commercial AI."
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "title": "US Stock Futures Flat After S&amp;P500, Dow End At Record Highs On Strong Earnings, Easing Geopolitical Concerns \u2014 PLTR, AZN, CMG, MRNA In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-flat-after-s-and-p500-dow-end-at-record-highs/cZo5yAlRJ4k?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 22:45:34 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_software_models",
-      "ticker_notes": "AIP platform, government + commercial AI."
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir",
-      "title": "Update: S&amp;P 500, Dow Scale New Peaks Amid Strong Earnings Flow, Strait of Hormuz Reopening Optimism",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-scale-peaks-211808769.html?.tsrc=rss",
-      "date": "Tue, 04 Aug 2026 21:18:08 +0000",
+      "title": "Palantir Crushes Earnings in Q2. Is the Stock Heading Back to $200?",
+      "link": "https://www.fool.com/investing/2026/08/05/palantir-crushes-earnings-in-q2-is-the-stock-headi/?.tsrc=rss",
+      "date": "Wed, 05 Aug 2026 14:24:53 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "AIP platform, government + commercial AI."
