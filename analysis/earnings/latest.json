@@ -1,7 +1,36 @@
 {
-  "run_time": "2026-08-04T16:00:21.899093+00:00",
-  "tickers_analyzed": 4,
+  "run_time": "2026-08-05T09:36:39.510270+00:00",
+  "tickers_analyzed": 9,
   "analyses": [
+    {
+      "symbol": "KTOS",
+      "company": "Kratos Defense",
+      "last_quarter": "Q2 2026",
+      "beat_rate": 100.0,
+      "flags": [
+        "consistent_beater",
+        "hard_to_estimate"
+      ],
+      "eps_trend": "accelerating",
+      "rev_trend": "accelerating",
+      "avg_yoy_eps_growth": 22.2,
+      "avg_yoy_rev_growth": 16.4
+    },
+    {
+      "symbol": "MRK",
+      "company": "Merck & Co",
+      "last_quarter": "Q2 2026",
+      "beat_rate": 87.5,
+      "flags": [
+        "consistent_beater",
+        "high_eps_growth",
+        "hard_to_estimate"
+      ],
+      "eps_trend": "decelerating",
+      "rev_trend": "decelerating",
+      "avg_yoy_eps_growth": 678.36,
+      "avg_yoy_rev_growth": 3.29
+    },
     {
       "symbol": "BWXT",
       "company": "BWX Technologies",
@@ -16,6 +45,20 @@
       "avg_yoy_rev_growth": 16.69
     },
     {
+      "symbol": "CIFR",
+      "company": "Cipher Digital",
+      "last_quarter": "Q2 2026",
+      "beat_rate": 50.0,
+      "flags": [
+        "high_eps_growth",
+        "hard_to_estimate"
+      ],
+      "eps_trend": "decelerating",
+      "rev_trend": "decelerating",
+      "avg_yoy_eps_growth": 59.45,
+      "avg_yoy_rev_growth": 12.5
+    },
+    {
       "symbol": "WMB",
       "company": "Williams Companies",
       "last_quarter": "Q2 2026",
@@ -25,6 +68,36 @@
       "rev_trend": "accelerating",
       "avg_yoy_eps_growth": 7.94,
       "avg_yoy_rev_growth": 8.4
+    },
+    {
+      "symbol": "PFE",
+      "company": "Pfizer Inc",
+      "last_quarter": "Q2 2026",
+      "beat_rate": 100.0,
+      "flags": [
+        "consistent_beater",
+        "large_surprises",
+        "high_eps_growth",
+        "hard_to_estimate"
+      ],
+      "eps_trend": "decelerating",
+      "rev_trend": "decelerating",
+      "avg_yoy_eps_growth": 157.85,
+      "avg_yoy_rev_growth": 7.41
+    },
+    {
+      "symbol": "Q",
+      "company": "Qnity Electronics",
+      "last_quarter": "Q2 2026",
+      "beat_rate": 75.0,
+      "flags": [
+        "consistent_beater",
+        "large_surprises"
+      ],
+      "eps_trend": "accelerating",
+      "rev_trend": "accelerating",
+      "avg_yoy_eps_growth": 21.62,
+      "avg_yoy_rev_growth": 14.75
     },
     {
       "symbol": "POWL",

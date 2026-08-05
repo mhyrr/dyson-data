@@ -1,0 +1,196 @@
+{
+  "symbol": "MRK",
+  "company": "Merck & Co",
+  "thesis": "buffett_value",
+  "conviction": "HIGH",
+  "action": "BUY",
+  "analysis_time": "2026-08-05T09:36:39.888253+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 58,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-08-04",
+    "eps_actual": -0.13,
+    "eps_estimate": 0.23,
+    "eps_surprise": -0.36,
+    "eps_surprise_pct": -1.57,
+    "revenue_actual": 16607000000,
+    "revenue_estimate": 16388251199.2,
+    "revenue_surprise_pct": 0.01,
+    "eps_prior_year": 2.13,
+    "revenue_prior_year": 15806000000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-04-29",
+    "eps_estimate": 2.45,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 7,
+    "misses": 1,
+    "meet": 0,
+    "beat_rate": 87.5
+  },
+  "eps_trend": {
+    "sequential_trend": "decelerating",
+    "avg_yoy_growth_pct": 678.36,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 2.58
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 2.04
+      },
+      {
+        "period": "Q1 2026",
+        "eps": -1.28
+      },
+      {
+        "period": "Q2 2026",
+        "eps": -0.13
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "decelerating",
+    "avg_yoy_growth_pct": 3.29,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 17276000000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 16400000000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 16286000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 16607000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.0488,
+    "avg_revenue_surprise_pct": 1.38,
+    "estimate_accuracy_eps_pct": 24.61
+  },
+  "flags": [
+    "consistent_beater",
+    "high_eps_growth",
+    "hard_to_estimate"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-10-31",
+      "eps_actual": 1.57,
+      "eps_est": 1.51,
+      "eps_surprise": 0.06,
+      "eps_surprise_pct": 0.04,
+      "revenue_actual": 16657000000,
+      "revenue_est": 16470000000,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 2.13,
+      "revenue_prior_year": 15962000000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-02-04",
+      "eps_actual": 1.72,
+      "eps_est": 1.68,
+      "eps_surprise": 0.04,
+      "eps_surprise_pct": 0.02,
+      "revenue_actual": 15624000000,
+      "revenue_est": 15510000000,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 0.03,
+      "revenue_prior_year": 14630000000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-04-24",
+      "eps_actual": 2.22,
+      "eps_est": 2.14,
+      "eps_surprise": 0.08,
+      "eps_surprise_pct": 0.04,
+      "revenue_actual": 15529000000,
+      "revenue_est": 15300000000,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 2.07,
+      "revenue_prior_year": 15775000000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-07-29",
+      "eps_actual": 2.13,
+      "eps_est": 2.01,
+      "eps_surprise": 0.12,
+      "eps_surprise_pct": 0.06,
+      "revenue_actual": 15806000000,
+      "revenue_est": 15847615380,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 2.28,
+      "revenue_prior_year": 16112000000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-10-30",
+      "eps_actual": 2.58,
+      "eps_est": 2.35,
+      "eps_surprise": 0.23,
+      "eps_surprise_pct": 0.1,
+      "revenue_actual": 17276000000,
+      "revenue_est": 17010613747.4,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 1.57,
+      "revenue_prior_year": 16657000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-03",
+      "eps_actual": 2.04,
+      "eps_est": 2.02,
+      "eps_surprise": 0.02,
+      "eps_surprise_pct": 0.01,
+      "revenue_actual": 16400000000,
+      "revenue_est": 16199500724,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 1.72,
+      "revenue_prior_year": 15624000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-04-30",
+      "eps_actual": -1.28,
+      "eps_est": -1.48,
+      "eps_surprise": 0.2,
+      "eps_surprise_pct": 0.14,
+      "revenue_actual": 16286000000,
+      "revenue_est": 15857066728,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 2.22,
+      "revenue_prior_year": 15529000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-08-04",
+      "eps_actual": -0.13,
+      "eps_est": 0.23,
+      "eps_surprise": -0.36,
+      "eps_surprise_pct": -1.57,
+      "revenue_actual": 16607000000,
+      "revenue_est": 16388251199.2,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": 2.13,
+      "revenue_prior_year": 15806000000
+    }
+  ],
+  "ticker_notes": "Keytruda franchise + Winrevair $2B peak; P/E 14x vs 25x historical; 74% discount to avg multiple; 3.5% yield"
+}

@@ -1,0 +1,195 @@
+{
+  "symbol": "CIFR",
+  "company": "Cipher Digital",
+  "thesis": "neo_cloud+ai_infra",
+  "conviction": "MEDIUM",
+  "action": "BUY",
+  "analysis_time": "2026-08-05T09:36:40.448656+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 20,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-08-04",
+    "eps_actual": -0.65,
+    "eps_estimate": -0.11,
+    "eps_surprise": -0.54,
+    "eps_surprise_pct": -4.91,
+    "revenue_actual": 24837000,
+    "revenue_estimate": 31898664,
+    "revenue_surprise_pct": -0.22,
+    "eps_prior_year": 0.08,
+    "revenue_prior_year": 43565000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-05-04",
+    "eps_estimate": 0.07,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 4,
+    "misses": 4,
+    "meet": 0,
+    "beat_rate": 50.0
+  },
+  "eps_trend": {
+    "sequential_trend": "decelerating",
+    "avg_yoy_growth_pct": 59.45,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 0.1
+      },
+      {
+        "period": "Q4 2025",
+        "eps": -0.14
+      },
+      {
+        "period": "Q1 2026",
+        "eps": -0.28
+      },
+      {
+        "period": "Q2 2026",
+        "eps": -0.65
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "decelerating",
+    "avg_yoy_growth_pct": 12.5,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 71707000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 59711000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 34838000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 24837000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": -0.0763,
+    "avg_revenue_surprise_pct": -11.5,
+    "estimate_accuracy_eps_pct": 344.8
+  },
+  "flags": [
+    "high_eps_growth",
+    "hard_to_estimate"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-10-31",
+      "eps_actual": -0.01,
+      "eps_est": -0.08,
+      "eps_surprise": 0.07,
+      "eps_surprise_pct": 0.88,
+      "revenue_actual": 24102000,
+      "revenue_est": 29220000,
+      "revenue_surprise_pct": -0.18,
+      "eps_prior_year": 0.01,
+      "revenue_prior_year": 30304000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-02-25",
+      "eps_actual": 0.14,
+      "eps_est": 0.05,
+      "eps_surprise": 0.09,
+      "eps_surprise_pct": 1.8,
+      "revenue_actual": 42223000,
+      "revenue_est": 41450000,
+      "revenue_surprise_pct": 0.02,
+      "eps_prior_year": 0.11,
+      "revenue_prior_year": 126842000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-05-06",
+      "eps_actual": 0.02,
+      "eps_est": 0.04,
+      "eps_surprise": -0.02,
+      "eps_surprise_pct": -0.5,
+      "revenue_actual": 48959000,
+      "revenue_est": 51520000,
+      "revenue_surprise_pct": -0.05,
+      "eps_prior_year": 0.13,
+      "revenue_prior_year": 48137000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-08-07",
+      "eps_actual": 0.08,
+      "eps_est": -0.01,
+      "eps_surprise": 0.09,
+      "eps_surprise_pct": 9,
+      "revenue_actual": 43565000,
+      "revenue_est": 49622504,
+      "revenue_surprise_pct": -0.12,
+      "eps_prior_year": -0.01,
+      "revenue_prior_year": 36808000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-11-03",
+      "eps_actual": 0.1,
+      "eps_est": 0.03,
+      "eps_surprise": 0.07,
+      "eps_surprise_pct": 2.33,
+      "revenue_actual": 71707000,
+      "revenue_est": 76104006,
+      "revenue_surprise_pct": -0.06,
+      "eps_prior_year": -0.01,
+      "revenue_prior_year": 24102000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-24",
+      "eps_actual": -0.14,
+      "eps_est": 0.03,
+      "eps_surprise": -0.17,
+      "eps_surprise_pct": -5.67,
+      "revenue_actual": 59711000,
+      "revenue_est": 82733026,
+      "revenue_surprise_pct": -0.28,
+      "eps_prior_year": 0.14,
+      "revenue_prior_year": 42223000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-05-05",
+      "eps_actual": -0.28,
+      "eps_est": -0.08,
+      "eps_surprise": -0.2,
+      "eps_surprise_pct": -2.5,
+      "revenue_actual": 34838000,
+      "revenue_est": 35937424,
+      "revenue_surprise_pct": -0.03,
+      "eps_prior_year": -0.11,
+      "revenue_prior_year": 48959000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-08-04",
+      "eps_actual": -0.65,
+      "eps_est": -0.11,
+      "eps_surprise": -0.54,
+      "eps_surprise_pct": -4.91,
+      "revenue_actual": 24837000,
+      "revenue_est": 31898664,
+      "revenue_surprise_pct": -0.22,
+      "eps_prior_year": 0.08,
+      "revenue_prior_year": 43565000
+    }
+  ],
+  "ticker_notes": "$5.5B AWS lease + Google deal; HPC revenue starts Aug 2026; analysts see 80-100% upside; binding contracts not LOIs; IREN companion play"
+}
