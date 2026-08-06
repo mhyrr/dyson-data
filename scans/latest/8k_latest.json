@@ -1,9 +1,9 @@
 {
-  "run_time": "2026-08-05T13:20:27.467760+00:00",
+  "run_time": "2026-08-06T13:20:33.739813+00:00",
   "days_scanned": 3,
   "total_tickers": 41,
-  "total_filings": 13,
-  "material_filings": 13,
+  "total_filings": 16,
+  "material_filings": 16,
   "filings": [
     {
       "ticker": "IREN",
@@ -60,6 +60,34 @@
       "material": true,
       "description": "",
       "accession": "0001486957-26-000041",
+      "has_earnings": true,
+      "has_press_release": true
+    },
+    {
+      "ticker": "LEU",
+      "filing_date": "2026-08-06",
+      "date_of_report": "2026-08-06",
+      "items": [
+        "Item 8.01",
+        "Item 9.01"
+      ],
+      "material": true,
+      "description": "",
+      "accession": "0001628280-26-053897",
+      "has_earnings": false,
+      "has_press_release": false
+    },
+    {
+      "ticker": "LEU",
+      "filing_date": "2026-08-05",
+      "date_of_report": "2026-08-05",
+      "items": [
+        "Item 2.02",
+        "Item 9.01"
+      ],
+      "material": true,
+      "description": "",
+      "accession": "0001628280-26-053433",
       "has_earnings": true,
       "has_press_release": true
     },
@@ -188,6 +216,20 @@
       "material": true,
       "description": "",
       "accession": "0001628280-26-052903",
+      "has_earnings": true,
+      "has_press_release": true
+    },
+    {
+      "ticker": "FLNC",
+      "filing_date": "2026-08-05",
+      "date_of_report": "2026-08-05",
+      "items": [
+        "Item 2.02",
+        "Item 9.01"
+      ],
+      "material": true,
+      "description": "",
+      "accession": "0001868941-26-000028",
       "has_earnings": true,
       "has_press_release": true
     }
