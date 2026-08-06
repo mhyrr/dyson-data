@@ -1,0 +1,143 @@
+{
+  "symbol": "Q",
+  "company": "Qnity Electronics",
+  "thesis": "ai_infra+materials",
+  "conviction": "MEDIUM-HIGH",
+  "action": "BUY",
+  "analysis_time": "2026-08-06T09:36:47.113817+00:00",
+  "quarters_analyzed": 4,
+  "total_history_quarters": 4,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-08-04",
+    "eps_actual": 1.19,
+    "eps_estimate": 1.06,
+    "eps_surprise": 0.13,
+    "eps_surprise_pct": 0.12,
+    "revenue_actual": 1429000000,
+    "revenue_estimate": 1348414400,
+    "revenue_surprise_pct": 0.06,
+    "eps_prior_year": 0.78,
+    "revenue_prior_year": 1170000000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-05-11",
+    "eps_estimate": 1.04,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 3,
+    "misses": 0,
+    "meet": 1,
+    "beat_rate": 75.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 21.62,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 1.01
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 0.82
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 1.08
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 1.19
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 14.75,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 1276000000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 1190000000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 1315000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 1429000000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.16,
+    "avg_revenue_surprise_pct": 4.33,
+    "estimate_accuracy_eps_pct": 19.94
+  },
+  "flags": [
+    "consistent_beater",
+    "large_surprises"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2025",
+      "date": "2025-11-18",
+      "eps_actual": 1.01,
+      "eps_est": null,
+      "eps_surprise": null,
+      "eps_surprise_pct": null,
+      "revenue_actual": 1276000000,
+      "revenue_est": null,
+      "revenue_surprise_pct": null,
+      "eps_prior_year": 0.95,
+      "revenue_prior_year": 1148000000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-26",
+      "eps_actual": 0.82,
+      "eps_est": 0.63,
+      "eps_surprise": 0.19,
+      "eps_surprise_pct": 0.3,
+      "revenue_actual": 1190000000,
+      "revenue_est": 1146100000,
+      "revenue_surprise_pct": 0.04,
+      "eps_prior_year": 0.87,
+      "revenue_prior_year": 1101000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-05-12",
+      "eps_actual": 1.08,
+      "eps_est": 0.92,
+      "eps_surprise": 0.16,
+      "eps_surprise_pct": 0.17,
+      "revenue_actual": 1315000000,
+      "revenue_est": 1270734400,
+      "revenue_surprise_pct": 0.03,
+      "eps_prior_year": 0.81,
+      "revenue_prior_year": 1118000000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-08-04",
+      "eps_actual": 1.19,
+      "eps_est": 1.06,
+      "eps_surprise": 0.13,
+      "eps_surprise_pct": 0.12,
+      "revenue_actual": 1429000000,
+      "revenue_est": 1348414400,
+      "revenue_surprise_pct": 0.06,
+      "eps_prior_year": 0.78,
+      "revenue_prior_year": 1170000000
+    }
+  ],
+  "ticker_notes": "NEW Jul 13: DuPont electronics-materials spin (Nov 2025). $144, -19% off high; ~32x fwd BELOW 40x+ peers (ENTG); CMP pads/slurries + photoresists + adv packaging materials. Consumables = f(wafer starts) and SemiAnalysis has N3 >100% effective utilization H2'26. Fresh spin, no natural shareholder bas"
+}

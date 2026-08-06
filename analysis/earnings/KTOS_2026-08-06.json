@@ -1,0 +1,195 @@
+{
+  "symbol": "KTOS",
+  "company": "Kratos Defense",
+  "thesis": "defense_tech",
+  "conviction": "HIGH",
+  "action": "BUY",
+  "analysis_time": "2026-08-06T09:36:45.398045+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 47,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-08-04",
+    "eps_actual": 0.21,
+    "eps_estimate": 0.13,
+    "eps_surprise": 0.08,
+    "eps_surprise_pct": 0.62,
+    "revenue_actual": 458800000,
+    "revenue_estimate": 411227824,
+    "revenue_surprise_pct": 0.12,
+    "eps_prior_year": 0.11,
+    "revenue_prior_year": 351500000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-05-05",
+    "eps_estimate": 0.15,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 8,
+    "misses": 0,
+    "meet": 0,
+    "beat_rate": 100.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 22.2,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": 0.14
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 0.18
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 0.16
+      },
+      {
+        "period": "Q2 2026",
+        "eps": 0.21
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 16.4,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 347600000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 345100000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 371000000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 458800000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.0413,
+    "avg_revenue_surprise_pct": 6.12,
+    "estimate_accuracy_eps_pct": 38.96
+  },
+  "flags": [
+    "consistent_beater",
+    "hard_to_estimate"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-11-07",
+      "eps_actual": 0.11,
+      "eps_est": 0.08,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.38,
+      "revenue_actual": 275900000,
+      "revenue_est": 277200000,
+      "revenue_surprise_pct": 0,
+      "eps_prior_year": 0.12,
+      "revenue_prior_year": 274600000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-02-26",
+      "eps_actual": 0.13,
+      "eps_est": 0.1,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.3,
+      "revenue_actual": 283100000,
+      "revenue_est": 288330000,
+      "revenue_surprise_pct": -0.02,
+      "eps_prior_year": 0.12,
+      "revenue_prior_year": 273800000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-05-07",
+      "eps_actual": 0.12,
+      "eps_est": 0.09,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.33,
+      "revenue_actual": 302600000,
+      "revenue_est": 292250000,
+      "revenue_surprise_pct": 0.04,
+      "eps_prior_year": 0.11,
+      "revenue_prior_year": 277200000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-08-07",
+      "eps_actual": 0.11,
+      "eps_est": 0.08,
+      "eps_surprise": 0.03,
+      "eps_surprise_pct": 0.38,
+      "revenue_actual": 351500000,
+      "revenue_est": 306200386,
+      "revenue_surprise_pct": 0.15,
+      "eps_prior_year": 0.14,
+      "revenue_prior_year": 300100000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-11-04",
+      "eps_actual": 0.14,
+      "eps_est": 0.1,
+      "eps_surprise": 0.04,
+      "eps_surprise_pct": 0.4,
+      "revenue_actual": 347600000,
+      "revenue_est": 323606300,
+      "revenue_surprise_pct": 0.07,
+      "eps_prior_year": 0.11,
+      "revenue_prior_year": 275900000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-23",
+      "eps_actual": 0.18,
+      "eps_est": 0.13,
+      "eps_surprise": 0.05,
+      "eps_surprise_pct": 0.38,
+      "revenue_actual": 345100000,
+      "revenue_est": 327773264,
+      "revenue_surprise_pct": 0.05,
+      "eps_prior_year": 0.13,
+      "revenue_prior_year": 283100000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-05-06",
+      "eps_actual": 0.16,
+      "eps_est": 0.12,
+      "eps_surprise": 0.04,
+      "eps_surprise_pct": 0.33,
+      "revenue_actual": 371000000,
+      "revenue_est": 344640296,
+      "revenue_surprise_pct": 0.08,
+      "eps_prior_year": 0.12,
+      "revenue_prior_year": 302600000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-08-04",
+      "eps_actual": 0.21,
+      "eps_est": 0.13,
+      "eps_surprise": 0.08,
+      "eps_surprise_pct": 0.62,
+      "revenue_actual": 458800000,
+      "revenue_est": 411227824,
+      "revenue_surprise_pct": 0.12,
+      "eps_prior_year": 0.11,
+      "revenue_prior_year": 351500000
+    }
+  ],
+  "ticker_notes": "RE-RATED Jul 13: -64% from $134 to $48 w/ NO split, NO break \u2014 Q1 rev +22.6%, FY26 guide raised to $1.70-1.76B, b-t-b 1.6x, record $2.01B backlog, Golden Dome + MACH-TB 2.0 + Iran tailwinds. Drone-hype multiple unwind = the abandonment we hunt. Wedbush $85/JPM OW $82; ARK bought $9.1M Jul. Stop-thin"
+}

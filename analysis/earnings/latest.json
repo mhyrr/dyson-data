@@ -1,6 +1,6 @@
 {
-  "run_time": "2026-08-05T16:00:28.200652+00:00",
-  "tickers_analyzed": 9,
+  "run_time": "2026-08-06T09:36:45.282865+00:00",
+  "tickers_analyzed": 8,
   "analyses": [
     {
       "symbol": "KTOS",
@@ -32,19 +32,6 @@
       "avg_yoy_rev_growth": 3.29
     },
     {
-      "symbol": "BWXT",
-      "company": "BWX Technologies",
-      "last_quarter": "Q2 2026",
-      "beat_rate": 100.0,
-      "flags": [
-        "consistent_beater"
-      ],
-      "eps_trend": "accelerating",
-      "rev_trend": "accelerating",
-      "avg_yoy_eps_growth": 15.62,
-      "avg_yoy_rev_growth": 16.69
-    },
-    {
       "symbol": "CIFR",
       "company": "Cipher Digital",
       "last_quarter": "Q2 2026",
@@ -57,17 +44,6 @@
       "rev_trend": "decelerating",
       "avg_yoy_eps_growth": 59.45,
       "avg_yoy_rev_growth": 12.5
-    },
-    {
-      "symbol": "WMB",
-      "company": "Williams Companies",
-      "last_quarter": "Q2 2026",
-      "beat_rate": 50.0,
-      "flags": [],
-      "eps_trend": "accelerating",
-      "rev_trend": "accelerating",
-      "avg_yoy_eps_growth": 7.94,
-      "avg_yoy_rev_growth": 8.4
     },
     {
       "symbol": "PFE",
@@ -86,6 +62,38 @@
       "avg_yoy_rev_growth": 7.41
     },
     {
+      "symbol": "LEU",
+      "company": "Centrus Energy",
+      "last_quarter": "Q2 2026",
+      "beat_rate": 62.5,
+      "flags": [
+        "large_surprises",
+        "high_eps_growth",
+        "hard_to_estimate"
+      ],
+      "eps_trend": "accelerating",
+      "rev_trend": "accelerating",
+      "avg_yoy_eps_growth": 32.41,
+      "avg_yoy_rev_growth": 19.12
+    },
+    {
+      "symbol": "EOSE",
+      "company": "Eos Energy Enterprises",
+      "last_quarter": "Q2 2026",
+      "beat_rate": 12.5,
+      "flags": [
+        "consistent_misser",
+        "large_surprises",
+        "high_rev_growth",
+        "eps_declining",
+        "hard_to_estimate"
+      ],
+      "eps_trend": "accelerating",
+      "rev_trend": "accelerating",
+      "avg_yoy_eps_growth": -160.23,
+      "avg_yoy_rev_growth": 831.75
+    },
+    {
       "symbol": "Q",
       "company": "Qnity Electronics",
       "last_quarter": "Q2 2026",
@@ -100,32 +108,19 @@
       "avg_yoy_rev_growth": 14.75
     },
     {
-      "symbol": "POWL",
-      "company": "Powell Industries",
+      "symbol": "FLNC",
+      "company": "Fluence Energy",
       "last_quarter": "Q3 2026",
-      "beat_rate": 75.0,
+      "beat_rate": 25.0,
       "flags": [
-        "consistent_beater"
-      ],
-      "eps_trend": "accelerating",
-      "rev_trend": "accelerating",
-      "avg_yoy_eps_growth": 27.18,
-      "avg_yoy_rev_growth": 11.58
-    },
-    {
-      "symbol": "ATKR",
-      "company": "Atkore Inc",
-      "last_quarter": "Q3 2026",
-      "beat_rate": 75.0,
-      "flags": [
-        "consistent_beater",
+        "consistent_misser",
         "eps_declining",
         "hard_to_estimate"
       ],
-      "eps_trend": "accelerating",
-      "rev_trend": "accelerating",
-      "avg_yoy_eps_growth": -44.05,
-      "avg_yoy_rev_growth": -5.23
+      "eps_trend": "decelerating",
+      "rev_trend": "decelerating",
+      "avg_yoy_eps_growth": -186.59,
+      "avg_yoy_rev_growth": 28.59
     }
   ]
 }
