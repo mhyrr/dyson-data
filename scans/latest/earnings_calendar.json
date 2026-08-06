@@ -1,10 +1,10 @@
 {
-  "run_time": "2026-08-05T09:00:26.333882+00:00",
+  "run_time": "2026-08-06T09:00:32.577499+00:00",
   "days_ahead": 45,
   "days_back": 14,
   "total_tickers": 41,
   "summary": {
-    "imminent": 2,
+    "imminent": 1,
     "this_week": 1,
     "next_2_weeks": 1,
     "this_month": 3,
@@ -13,21 +13,12 @@
   },
   "imminent_tickers": [
     {
-      "symbol": "MP",
-      "company": "MP Materials",
-      "next_earnings": "2026-08-06",
-      "time": "after_close",
-      "period": "QQ2 2026",
-      "days_until": 0,
-      "eps_est": 0.02
-    },
-    {
       "symbol": "OKLO",
       "company": "Oklo Inc",
       "next_earnings": "2026-08-07",
       "time": "before_open",
       "period": "QQ2 2026",
-      "days_until": 1,
+      "days_until": 0,
       "eps_est": -0.16
     }
   ],
@@ -104,7 +95,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": -5386,
+      "days_until_earnings": -5387,
       "status": "reported"
     },
     {
@@ -170,7 +161,7 @@
           "revenue_surprise_pct": 0.04
         }
       ],
-      "days_until_earnings": -5215,
+      "days_until_earnings": -5216,
       "status": "reported"
     },
     {
@@ -236,7 +227,7 @@
           "revenue_surprise_pct": 0.06
         }
       ],
-      "days_until_earnings": -5179,
+      "days_until_earnings": -5180,
       "status": "reported"
     },
     {
@@ -302,7 +293,7 @@
           "revenue_surprise_pct": 0.07
         }
       ],
-      "days_until_earnings": -5110,
+      "days_until_earnings": -5111,
       "status": "reported"
     },
     {
@@ -368,70 +359,70 @@
           "revenue_surprise_pct": -0.18
         }
       ],
-      "days_until_earnings": -4845,
+      "days_until_earnings": -4846,
       "status": "reported"
     },
     {
-      "symbol": "LEU",
-      "company": "Centrus Energy",
+      "symbol": "MP",
+      "company": "MP Materials",
       "thesis": "sma_quality+scarcity",
       "conviction": "MEDIUM",
       "action": "BUY",
-      "timeframe": "2028",
-      "next_earnings": "2026-08-05",
+      "timeframe": "12mo",
+      "next_earnings": "2026-08-06",
       "next_earnings_time": "after_close",
       "next_earnings_period": "QQ2 2026",
       "next_earnings_confirmed": true,
-      "next_earnings_eps_est": 1.02,
-      "next_earnings_revenue_est": 147726048,
-      "last_earnings": "2026-05-05",
+      "next_earnings_eps_est": 0.02,
+      "next_earnings_revenue_est": 97001816,
+      "last_earnings": "2026-05-07",
       "last_earnings_period": "QQ1 2026",
-      "last_earnings_eps_actual": 1.05,
-      "last_earnings_eps_est": 0.32,
-      "last_earnings_eps_surprise": 0.73,
-      "last_earnings_revenue_actual": 76700000,
-      "last_earnings_revenue_surprise": -2039032,
+      "last_earnings_eps_actual": 0.03,
+      "last_earnings_eps_est": -0.04,
+      "last_earnings_eps_surprise": 0.07,
+      "last_earnings_revenue_actual": 90649000,
+      "last_earnings_revenue_surprise": 15298200,
       "source": "stockanalysis.com",
-      "notes": "RE-RATED Jul 13: -65% from $464 high to $171 while FY26 rev guide RAISED to $450-500M, HALEU/Tech Solutions +47%, $2.4B contingent LEU commitments, Piketon expansion. 3-yr horizon matches 2028-30 SMR ",
+      "notes": "RE-RATED Jul 13: $52 after -15% month; DoD deal ($400M pref, NdPr floor $110/kg, warrants at $30.03) = hard floor under the stock. Entry 48-55; floor-protected pullback in a validated theme",
       "recent_headlines": [],
-      "last_earnings_eps_surprise_pct": 2.28,
-      "last_earnings_revenue_surprise_pct": -0.03,
+      "last_earnings_eps_surprise_pct": 1.75,
+      "last_earnings_revenue_surprise_pct": 0.2,
       "recent_quarters": [
         {
           "period": "QQ1 2026",
-          "date": "2026-05-05",
-          "eps_actual": 1.05,
-          "eps_est": 0.32,
-          "eps_surprise": 0.73,
-          "revenue_actual": 76700000,
-          "revenue_surprise_pct": -0.03
+          "date": "2026-05-07",
+          "eps_actual": 0.03,
+          "eps_est": -0.04,
+          "eps_surprise": 0.07,
+          "revenue_actual": 90649000,
+          "revenue_surprise_pct": 0.2
         },
         {
           "period": "QQ4 2025",
-          "date": "2026-02-10",
-          "eps_actual": 0.79,
-          "eps_est": 1.55,
-          "eps_surprise": -0.76,
-          "revenue_actual": 146200000,
-          "revenue_surprise_pct": 0
+          "date": "2026-02-26",
+          "eps_actual": 0.09,
+          "eps_est": 0.02,
+          "eps_surprise": 0.07,
+          "revenue_actual": 52685000,
+          "revenue_surprise_pct": -0.11
         },
         {
           "period": "QQ3 2025",
-          "date": "2025-11-05",
-          "eps_actual": 0.19,
-          "eps_est": 0.29,
-          "eps_surprise": -0.1,
-          "revenue_actual": 74900000,
-          "revenue_surprise_pct": -0.05
+          "date": "2025-11-06",
+          "eps_actual": -0.1,
+          "eps_est": -0.17,
+          "eps_surprise": 0.07,
+          "revenue_actual": 53553000,
+          "revenue_surprise_pct": 0.01
         },
         {
           "period": "QQ2 2025",
-          "date": "2025-08-05",
-          "eps_actual": 1.59,
-          "eps_est": 0.63,
-          "eps_surprise": 0.96,
-          "revenue_actual": 154500000,
-          "revenue_surprise_pct": 0.16
+          "date": "2025-08-07",
+          "eps_actual": -0.13,
+          "eps_est": -0.2,
+          "eps_surprise": 0.07,
+          "revenue_actual": 57393000,
+          "revenue_surprise_pct": 0.22
         }
       ],
       "days_until_earnings": -1,
@@ -500,206 +491,8 @@
           "revenue_surprise_pct": 0.07
         }
       ],
-      "days_until_earnings": -5117,
+      "days_until_earnings": -5118,
       "status": "reported"
-    },
-    {
-      "symbol": "EOSE",
-      "company": "Eos Energy Enterprises",
-      "thesis": "zinc_ldes+doe_loan+45x+feoc",
-      "conviction": "MEDIUM",
-      "action": "HOLD",
-      "timeframe": "2026-2027",
-      "next_earnings": "2026-08-05",
-      "next_earnings_time": "before_open",
-      "next_earnings_period": "QQ2 2026",
-      "next_earnings_confirmed": true,
-      "next_earnings_eps_est": -0.26,
-      "next_earnings_revenue_est": 72647088,
-      "last_earnings": "2026-05-13",
-      "last_earnings_period": "QQ1 2026",
-      "last_earnings_eps_actual": 0.12,
-      "last_earnings_eps_est": -0.24,
-      "last_earnings_eps_surprise": 0.36,
-      "last_earnings_revenue_actual": 56963000,
-      "last_earnings_revenue_surprise": 555000,
-      "source": "stockanalysis.com",
-      "notes": "NEW Jul 23 (thesis/2026_jul_23_solid_state_storage_battery_thesis.html). Orphan holding now tracked: 220sh, -56% vs $8.35 cost. NOT solid-state \u2014 zinc long-duration grid storage. Bull: DOE $303.5M loa",
-      "recent_headlines": [],
-      "last_earnings_eps_surprise_pct": 1.5,
-      "last_earnings_revenue_surprise_pct": 0.01,
-      "recent_quarters": [
-        {
-          "period": "QQ1 2026",
-          "date": "2026-05-13",
-          "eps_actual": 0.12,
-          "eps_est": -0.24,
-          "eps_surprise": 0.36,
-          "revenue_actual": 56963000,
-          "revenue_surprise_pct": 0.01
-        },
-        {
-          "period": "QQ4 2025",
-          "date": "2026-02-26",
-          "eps_actual": -0.72,
-          "eps_est": -0.23,
-          "eps_surprise": -0.49,
-          "revenue_actual": 57998000,
-          "revenue_surprise_pct": -0.37
-        },
-        {
-          "period": "QQ3 2025",
-          "date": "2025-11-05",
-          "eps_actual": -2.77,
-          "eps_est": -0.2,
-          "eps_surprise": -2.57,
-          "revenue_actual": 30512000,
-          "revenue_surprise_pct": -0.23
-        },
-        {
-          "period": "QQ2 2025",
-          "date": "2025-07-30",
-          "eps_actual": -0.37,
-          "eps_est": -0.14,
-          "eps_surprise": -0.23,
-          "revenue_actual": 15236000,
-          "revenue_surprise_pct": -0.35
-        }
-      ],
-      "days_until_earnings": -1,
-      "status": "overdue"
-    },
-    {
-      "symbol": "FLNC",
-      "company": "Fluence Energy",
-      "thesis": "grid_storage_integrator+ai_datacenter+itc2033",
-      "conviction": "MEDIUM",
-      "action": "HOLD",
-      "timeframe": "2026-2027",
-      "next_earnings": "2026-08-05",
-      "next_earnings_time": "after_close",
-      "next_earnings_period": "QQ3 2026",
-      "next_earnings_confirmed": true,
-      "next_earnings_eps_est": 0.06,
-      "next_earnings_revenue_est": 866774440,
-      "last_earnings": "2026-05-06",
-      "last_earnings_period": "QQ2 2026",
-      "last_earnings_eps_actual": -0.16,
-      "last_earnings_eps_est": -0.18,
-      "last_earnings_eps_surprise": 0.02,
-      "last_earnings_revenue_actual": 464891000,
-      "last_earnings_revenue_surprise": -151770976,
-      "source": "stockanalysis.com",
-      "notes": "NEW Jul 23 (thesis/2026_jul_23_solid_state_storage_battery_thesis.html). Orphan holding now tracked: 120sh, ~flat vs $15.40 cost. NOT solid-state \u2014 Li-ion grid-storage integrator. Bull: $5.6B record b",
-      "recent_headlines": [],
-      "last_earnings_eps_surprise_pct": 0.11,
-      "last_earnings_revenue_surprise_pct": -0.25,
-      "recent_quarters": [
-        {
-          "period": "QQ2 2026",
-          "date": "2026-05-06",
-          "eps_actual": -0.16,
-          "eps_est": -0.18,
-          "eps_surprise": 0.02,
-          "revenue_actual": 464891000,
-          "revenue_surprise_pct": -0.25
-        },
-        {
-          "period": "QQ1 2026",
-          "date": "2026-02-04",
-          "eps_actual": -0.34,
-          "eps_est": -0.18,
-          "eps_surprise": -0.16,
-          "revenue_actual": 475234000,
-          "revenue_surprise_pct": -0.01
-        },
-        {
-          "period": "QQ4 2025",
-          "date": "2025-11-24",
-          "eps_actual": 0.13,
-          "eps_est": 0.19,
-          "eps_surprise": -0.06,
-          "revenue_actual": 1041894000,
-          "revenue_surprise_pct": -0.25
-        },
-        {
-          "period": "QQ3 2025",
-          "date": "2025-08-11",
-          "eps_actual": 0.01,
-          "eps_est": 0.01,
-          "eps_surprise": 0,
-          "revenue_actual": 566926000,
-          "revenue_surprise_pct": -0.23
-        }
-      ],
-      "days_until_earnings": -1,
-      "status": "overdue"
-    },
-    {
-      "symbol": "MP",
-      "company": "MP Materials",
-      "thesis": "sma_quality+scarcity",
-      "conviction": "MEDIUM",
-      "action": "BUY",
-      "timeframe": "12mo",
-      "next_earnings": "2026-08-06",
-      "next_earnings_time": "after_close",
-      "next_earnings_period": "QQ2 2026",
-      "next_earnings_confirmed": true,
-      "next_earnings_eps_est": 0.02,
-      "next_earnings_revenue_est": 97001816,
-      "last_earnings": "2026-05-07",
-      "last_earnings_period": "QQ1 2026",
-      "last_earnings_eps_actual": 0.03,
-      "last_earnings_eps_est": -0.04,
-      "last_earnings_eps_surprise": 0.07,
-      "last_earnings_revenue_actual": 90649000,
-      "last_earnings_revenue_surprise": 15298200,
-      "source": "stockanalysis.com",
-      "notes": "RE-RATED Jul 13: $52 after -15% month; DoD deal ($400M pref, NdPr floor $110/kg, warrants at $30.03) = hard floor under the stock. Entry 48-55; floor-protected pullback in a validated theme",
-      "recent_headlines": [],
-      "last_earnings_eps_surprise_pct": 1.75,
-      "last_earnings_revenue_surprise_pct": 0.2,
-      "recent_quarters": [
-        {
-          "period": "QQ1 2026",
-          "date": "2026-05-07",
-          "eps_actual": 0.03,
-          "eps_est": -0.04,
-          "eps_surprise": 0.07,
-          "revenue_actual": 90649000,
-          "revenue_surprise_pct": 0.2
-        },
-        {
-          "period": "QQ4 2025",
-          "date": "2026-02-26",
-          "eps_actual": 0.09,
-          "eps_est": 0.02,
-          "eps_surprise": 0.07,
-          "revenue_actual": 52685000,
-          "revenue_surprise_pct": -0.11
-        },
-        {
-          "period": "QQ3 2025",
-          "date": "2025-11-06",
-          "eps_actual": -0.1,
-          "eps_est": -0.17,
-          "eps_surprise": 0.07,
-          "revenue_actual": 53553000,
-          "revenue_surprise_pct": 0.01
-        },
-        {
-          "period": "QQ2 2025",
-          "date": "2025-08-07",
-          "eps_actual": -0.13,
-          "eps_est": -0.2,
-          "eps_surprise": 0.07,
-          "revenue_actual": 57393000,
-          "revenue_surprise_pct": 0.22
-        }
-      ],
-      "days_until_earnings": 0,
-      "status": "imminent"
     },
     {
       "symbol": "OKLO",
@@ -764,7 +557,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 1,
+      "days_until_earnings": 0,
       "status": "imminent"
     },
     {
@@ -830,7 +623,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 6,
+      "days_until_earnings": 5,
       "status": "this_week"
     },
     {
@@ -840,10 +633,10 @@
       "conviction": "MEDIUM-HIGH",
       "action": "BUY",
       "timeframe": "12-24mo",
-      "next_earnings": "2026-08-17",
+      "next_earnings": "2026-08-20",
       "next_earnings_time": "before_open",
       "next_earnings_period": "QQ3 2026",
-      "next_earnings_confirmed": false,
+      "next_earnings_confirmed": true,
       "next_earnings_eps_est": 4.73,
       "next_earnings_revenue_est": 10782467136,
       "last_earnings": "2026-05-21",
@@ -896,7 +689,7 @@
           "revenue_surprise_pct": 0.17
         }
       ],
-      "days_until_earnings": 11,
+      "days_until_earnings": 13,
       "status": "next_2_weeks"
     },
     {
@@ -962,7 +755,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 20,
+      "days_until_earnings": 19,
       "status": "this_month"
     },
     {
@@ -1028,7 +821,7 @@
           "revenue_surprise_pct": 0
         }
       ],
-      "days_until_earnings": 21,
+      "days_until_earnings": 20,
       "status": "this_month"
     },
     {
@@ -1094,7 +887,7 @@
           "revenue_surprise_pct": -0.01
         }
       ],
-      "days_until_earnings": 21,
+      "days_until_earnings": 20,
       "status": "this_month"
     },
     {
@@ -1160,7 +953,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 35,
+      "days_until_earnings": 34,
       "status": "next_6_weeks"
     },
     {
@@ -1226,7 +1019,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": 76,
+      "days_until_earnings": 75,
       "status": "future"
     },
     {
@@ -1294,7 +1087,7 @@
       ],
       "schedule_date": "2026-07-22",
       "schedule_status": "reported",
-      "days_until_earnings": 76,
+      "days_until_earnings": 75,
       "status": "future"
     },
     {
@@ -1360,7 +1153,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 76,
+      "days_until_earnings": 75,
       "status": "future"
     },
     {
@@ -1426,7 +1219,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 82,
+      "days_until_earnings": 81,
       "status": "future"
     },
     {
@@ -1492,7 +1285,7 @@
           "revenue_surprise_pct": -0.02
         }
       ],
-      "days_until_earnings": 82,
+      "days_until_earnings": 81,
       "status": "future"
     },
     {
@@ -1558,7 +1351,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 82,
+      "days_until_earnings": 81,
       "status": "future"
     },
     {
@@ -1626,7 +1419,7 @@
       ],
       "schedule_date": "2026-07-29",
       "schedule_status": "reported",
-      "days_until_earnings": 83,
+      "days_until_earnings": 82,
       "status": "future"
     },
     {
@@ -1692,7 +1485,7 @@
           "revenue_surprise_pct": 0.09
         }
       ],
-      "days_until_earnings": 83,
+      "days_until_earnings": 82,
       "status": "future"
     },
     {
@@ -1758,7 +1551,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 84,
+      "days_until_earnings": 83,
       "status": "future"
     },
     {
@@ -1826,7 +1619,7 @@
       ],
       "schedule_date": "2026-07-30",
       "schedule_status": "reported",
-      "days_until_earnings": 84,
+      "days_until_earnings": 83,
       "status": "future"
     },
     {
@@ -1892,7 +1685,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 84,
+      "days_until_earnings": 83,
       "status": "future"
     },
     {
@@ -1958,7 +1751,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": 84,
+      "days_until_earnings": 83,
       "status": "future"
     },
     {
@@ -2024,7 +1817,7 @@
           "revenue_surprise_pct": 0.05
         }
       ],
-      "days_until_earnings": 85,
+      "days_until_earnings": 84,
       "status": "future"
     },
     {
@@ -2090,7 +1883,7 @@
           "revenue_surprise_pct": 0
         }
       ],
-      "days_until_earnings": 85,
+      "days_until_earnings": 84,
       "status": "future"
     },
     {
@@ -2156,7 +1949,7 @@
           "revenue_surprise_pct": 0.09
         }
       ],
-      "days_until_earnings": 88,
+      "days_until_earnings": 87,
       "status": "future"
     },
     {
@@ -2222,7 +2015,7 @@
           "revenue_surprise_pct": -0.06
         }
       ],
-      "days_until_earnings": 88,
+      "days_until_earnings": 87,
       "status": "future"
     },
     {
@@ -2288,7 +2081,7 @@
           "revenue_surprise_pct": -0.02
         }
       ],
-      "days_until_earnings": 88,
+      "days_until_earnings": 87,
       "status": "future"
     },
     {
@@ -2354,7 +2147,7 @@
           "revenue_surprise_pct": -0.01
         }
       ],
-      "days_until_earnings": 89,
+      "days_until_earnings": 88,
       "status": "future"
     },
     {
@@ -2418,6 +2211,138 @@
           "eps_surprise": 0.22,
           "revenue_actual": 16654000000,
           "revenue_surprise_pct": 0.01
+        }
+      ],
+      "days_until_earnings": 88,
+      "status": "future"
+    },
+    {
+      "symbol": "LEU",
+      "company": "Centrus Energy",
+      "thesis": "sma_quality+scarcity",
+      "conviction": "MEDIUM",
+      "action": "BUY",
+      "timeframe": "2028",
+      "next_earnings": "2026-11-04",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ3 2026",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 0.42,
+      "next_earnings_revenue_est": 80251192,
+      "last_earnings": "2026-08-05",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": 1.77,
+      "last_earnings_eps_est": 1.02,
+      "last_earnings_eps_surprise": 0.75,
+      "last_earnings_revenue_actual": 176100000,
+      "last_earnings_revenue_surprise": 28373952,
+      "source": "stockanalysis.com",
+      "notes": "RE-RATED Jul 13: -65% from $464 high to $171 while FY26 rev guide RAISED to $450-500M, HALEU/Tech Solutions +47%, $2.4B contingent LEU commitments, Piketon expansion. 3-yr horizon matches 2028-30 SMR ",
+      "recent_headlines": [],
+      "last_earnings_eps_surprise_pct": 0.74,
+      "last_earnings_revenue_surprise_pct": 0.19,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-08-05",
+          "eps_actual": 1.77,
+          "eps_est": 1.02,
+          "eps_surprise": 0.75,
+          "revenue_actual": 176100000,
+          "revenue_surprise_pct": 0.19
+        },
+        {
+          "period": "QQ1 2026",
+          "date": "2026-05-05",
+          "eps_actual": 1.05,
+          "eps_est": 0.32,
+          "eps_surprise": 0.73,
+          "revenue_actual": 76700000,
+          "revenue_surprise_pct": -0.03
+        },
+        {
+          "period": "QQ4 2025",
+          "date": "2026-02-10",
+          "eps_actual": 0.79,
+          "eps_est": 1.55,
+          "eps_surprise": -0.76,
+          "revenue_actual": 146200000,
+          "revenue_surprise_pct": 0
+        },
+        {
+          "period": "QQ3 2025",
+          "date": "2025-11-05",
+          "eps_actual": 0.19,
+          "eps_est": 0.29,
+          "eps_surprise": -0.1,
+          "revenue_actual": 74900000,
+          "revenue_surprise_pct": -0.05
+        }
+      ],
+      "days_until_earnings": 89,
+      "status": "future"
+    },
+    {
+      "symbol": "EOSE",
+      "company": "Eos Energy Enterprises",
+      "thesis": "zinc_ldes+doe_loan+45x+feoc",
+      "conviction": "MEDIUM",
+      "action": "HOLD",
+      "timeframe": "2026-2027",
+      "next_earnings": "2026-11-04",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ3 2026",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": -0.23,
+      "next_earnings_revenue_est": 85322512,
+      "last_earnings": "2026-08-05",
+      "last_earnings_period": "QQ2 2026",
+      "last_earnings_eps_actual": -1.2,
+      "last_earnings_eps_est": -0.26,
+      "last_earnings_eps_surprise": -0.94,
+      "last_earnings_revenue_actual": 68775000,
+      "last_earnings_revenue_surprise": -3872088,
+      "source": "stockanalysis.com",
+      "notes": "NEW Jul 23 (thesis/2026_jul_23_solid_state_storage_battery_thesis.html). Orphan holding now tracked: 220sh, -56% vs $8.35 cost. NOT solid-state \u2014 zinc long-duration grid storage. Bull: DOE $303.5M loa",
+      "recent_headlines": [],
+      "last_earnings_eps_surprise_pct": -3.62,
+      "last_earnings_revenue_surprise_pct": -0.05,
+      "recent_quarters": [
+        {
+          "period": "QQ2 2026",
+          "date": "2026-08-05",
+          "eps_actual": -1.2,
+          "eps_est": -0.26,
+          "eps_surprise": -0.94,
+          "revenue_actual": 68775000,
+          "revenue_surprise_pct": -0.05
+        },
+        {
+          "period": "QQ1 2026",
+          "date": "2026-05-13",
+          "eps_actual": 0.12,
+          "eps_est": -0.24,
+          "eps_surprise": 0.36,
+          "revenue_actual": 56963000,
+          "revenue_surprise_pct": 0.01
+        },
+        {
+          "period": "QQ4 2025",
+          "date": "2026-02-26",
+          "eps_actual": -0.72,
+          "eps_est": -0.23,
+          "eps_surprise": -0.49,
+          "revenue_actual": 57998000,
+          "revenue_surprise_pct": -0.37
+        },
+        {
+          "period": "QQ3 2025",
+          "date": "2025-11-05",
+          "eps_actual": -2.77,
+          "eps_est": -0.2,
+          "eps_surprise": -2.57,
+          "revenue_actual": 30512000,
+          "revenue_surprise_pct": -0.23
         }
       ],
       "days_until_earnings": 89,
@@ -2486,7 +2411,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 96,
+      "days_until_earnings": 95,
       "status": "future"
     },
     {
@@ -2525,7 +2450,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 99,
+      "days_until_earnings": 98,
       "status": "future"
     },
     {
@@ -2591,7 +2516,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 103,
+      "days_until_earnings": 102,
       "status": "future"
     },
     {
@@ -2657,7 +2582,73 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 105,
+      "days_until_earnings": 104,
+      "status": "future"
+    },
+    {
+      "symbol": "FLNC",
+      "company": "Fluence Energy",
+      "thesis": "grid_storage_integrator+ai_datacenter+itc2033",
+      "conviction": "MEDIUM",
+      "action": "HOLD",
+      "timeframe": "2026-2027",
+      "next_earnings": "2026-11-23",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ4 2026",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 0.25,
+      "next_earnings_revenue_est": 1547424552,
+      "last_earnings": "2026-08-05",
+      "last_earnings_period": "QQ3 2026",
+      "last_earnings_eps_actual": -0.24,
+      "last_earnings_eps_est": 0.06,
+      "last_earnings_eps_surprise": -0.3,
+      "last_earnings_revenue_actual": 600180000,
+      "last_earnings_revenue_surprise": -266594432,
+      "source": "stockanalysis.com",
+      "notes": "NEW Jul 23 (thesis/2026_jul_23_solid_state_storage_battery_thesis.html). Orphan holding now tracked: 120sh, ~flat vs $15.40 cost. NOT solid-state \u2014 Li-ion grid-storage integrator. Bull: $5.6B record b",
+      "recent_headlines": [],
+      "last_earnings_eps_surprise_pct": -5,
+      "last_earnings_revenue_surprise_pct": -0.31,
+      "recent_quarters": [
+        {
+          "period": "QQ3 2026",
+          "date": "2026-08-05",
+          "eps_actual": -0.24,
+          "eps_est": 0.06,
+          "eps_surprise": -0.3,
+          "revenue_actual": 600180000,
+          "revenue_surprise_pct": -0.31
+        },
+        {
+          "period": "QQ2 2026",
+          "date": "2026-05-06",
+          "eps_actual": -0.16,
+          "eps_est": -0.18,
+          "eps_surprise": 0.02,
+          "revenue_actual": 464891000,
+          "revenue_surprise_pct": -0.25
+        },
+        {
+          "period": "QQ1 2026",
+          "date": "2026-02-04",
+          "eps_actual": -0.34,
+          "eps_est": -0.18,
+          "eps_surprise": -0.16,
+          "revenue_actual": 475234000,
+          "revenue_surprise_pct": -0.01
+        },
+        {
+          "period": "QQ4 2025",
+          "date": "2025-11-24",
+          "eps_actual": 0.13,
+          "eps_est": 0.19,
+          "eps_surprise": -0.06,
+          "revenue_actual": 1041894000,
+          "revenue_surprise_pct": -0.25
+        }
+      ],
+      "days_until_earnings": 108,
       "status": "future"
     },
     {
