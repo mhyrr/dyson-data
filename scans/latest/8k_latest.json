@@ -1,9 +1,9 @@
 {
-  "run_time": "2026-08-06T13:20:33.739813+00:00",
+  "run_time": "2026-08-07T13:20:40.196777+00:00",
   "days_scanned": 3,
   "total_tickers": 41,
-  "total_filings": 16,
-  "material_filings": 16,
+  "total_filings": 12,
+  "material_filings": 12,
   "filings": [
     {
       "ticker": "IREN",
@@ -21,45 +21,16 @@
       "has_press_release": false
     },
     {
-      "ticker": "POWL",
-      "filing_date": "2026-08-03",
-      "date_of_report": "2026-08-03",
-      "items": [
-        "Item 2.02",
-        "Item 8.01",
-        "Item 9.01"
-      ],
-      "material": true,
-      "description": "",
-      "accession": "0000080420-26-000103",
-      "has_earnings": true,
-      "has_press_release": true
-    },
-    {
-      "ticker": "KMI",
-      "filing_date": "2026-08-03",
-      "date_of_report": "2026-07-28",
-      "items": [
-        "Item 8.01",
-        "Item 9.01"
-      ],
-      "material": true,
-      "description": "",
-      "accession": "0001104659-26-089797",
-      "has_earnings": false,
-      "has_press_release": false
-    },
-    {
-      "ticker": "BWXT",
-      "filing_date": "2026-08-03",
-      "date_of_report": "2026-06-30",
+      "ticker": "MP",
+      "filing_date": "2026-08-06",
+      "date_of_report": "2026-08-06",
       "items": [
         "Item 2.02",
         "Item 9.01"
       ],
       "material": true,
       "description": "",
-      "accession": "0001486957-26-000041",
+      "accession": "0001801368-26-000047",
       "has_earnings": true,
       "has_press_release": true
     },
@@ -163,47 +134,19 @@
       "has_press_release": true
     },
     {
-      "ticker": "ATKR",
-      "filing_date": "2026-08-03",
-      "date_of_report": "2026-08-03",
-      "items": [
-        "Item 2.02",
-        "Item 9.01"
-      ],
-      "material": true,
-      "description": "",
-      "accession": "0001628280-26-051510",
-      "has_earnings": true,
-      "has_press_release": true
-    },
-    {
-      "ticker": "ATKR",
-      "filing_date": "2026-08-03",
+      "ticker": "EOSE",
+      "filing_date": "2026-08-06",
       "date_of_report": "2026-08-03",
       "items": [
         "Item 1.01",
-        "Item 7.01",
+        "Item 3.02",
         "Item 9.01"
       ],
       "material": true,
       "description": "",
-      "accession": "0001666138-26-000016",
+      "accession": "0000950103-26-012019",
       "has_earnings": false,
       "has_press_release": false
-    },
-    {
-      "ticker": "WMB",
-      "filing_date": "2026-08-03",
-      "date_of_report": "2026-08-03",
-      "items": [
-        "Item 2.02",
-        "Item 9.01"
-      ],
-      "material": true,
-      "description": "",
-      "accession": "0000107263-26-000024",
-      "has_earnings": true,
-      "has_press_release": true
     },
     {
       "ticker": "EOSE",
