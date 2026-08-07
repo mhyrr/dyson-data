@@ -4,7 +4,7 @@
   "thesis": "sma_quality+scarcity",
   "conviction": "MEDIUM",
   "action": "BUY",
-  "analysis_time": "2026-08-07T09:36:52.600643+00:00",
+  "analysis_time": "2026-08-07T16:00:41.372885+00:00",
   "quarters_analyzed": 8,
   "total_history_quarters": 50,
   "last_quarter": {
@@ -21,9 +21,9 @@
     "revenue_prior_year": 154500000
   },
   "next_quarter": {
-    "period": "Q1 2027",
-    "date": "2027-05-04",
-    "eps_estimate": 0.83,
+    "period": "Q2 2027",
+    "date": "2027-08-04",
+    "eps_estimate": null,
     "confirmed": false
   },
   "beat_miss_pattern": {

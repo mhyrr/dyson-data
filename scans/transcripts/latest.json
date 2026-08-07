@@ -1,6 +1,6 @@
 {
-  "run_time": "2026-08-06T16:01:08.814892+00:00",
-  "total_filings": 15,
+  "run_time": "2026-08-07T16:01:11.803851+00:00",
+  "total_filings": 13,
   "filings": [
     {
       "ticker": "KTOS",
@@ -32,7 +32,7 @@
           "path": "KTOS/2026-08-04/readinessdeliveredlogo.jpg"
         }
       ],
-      "fetched_at": "2026-08-06T16:00:36.329044+00:00"
+      "fetched_at": "2026-08-07T16:00:42.949285+00:00"
     },
     {
       "ticker": "MRK",
@@ -69,76 +69,7 @@
           "path": "MRK/2026-08-04/tm2621496d1_ex99-2.htm"
         }
       ],
-      "fetched_at": "2026-08-06T16:00:38.206272+00:00"
-    },
-    {
-      "ticker": "NVT",
-      "company": "nVent Electric",
-      "earnings_date": "2026-07-31",
-      "filing_date": "2026-07-31",
-      "accession": "0001628280-26-051203",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0001628280-26-051203.txt",
-          "size_bytes": 950192,
-          "path": "NVT/2026-07-31/0001628280-26-051203.txt"
-        },
-        {
-          "filename": "nventlogorgbf2a08a.jpg",
-          "size_bytes": 109940,
-          "path": "NVT/2026-07-31/nventlogorgbf2a08a.jpg"
-        },
-        {
-          "filename": "nvt-20260731.htm",
-          "size_bytes": 30215,
-          "path": "NVT/2026-07-31/nvt-20260731.htm"
-        },
-        {
-          "filename": "nvt-20260731_g1.jpg",
-          "size_bytes": 109940,
-          "path": "NVT/2026-07-31/nvt-20260731_g1.jpg"
-        },
-        {
-          "filename": "q22026nvtpressrelease.htm",
-          "size_bytes": 369495,
-          "path": "NVT/2026-07-31/q22026nvtpressrelease.htm"
-        }
-      ],
-      "fetched_at": "2026-08-06T16:00:40.199634+00:00"
-    },
-    {
-      "ticker": "CVX",
-      "company": "Chevron Corp",
-      "earnings_date": "2026-07-31",
-      "filing_date": "2026-07-31",
-      "accession": "0000093410-26-000162",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0000093410-26-000162.txt",
-          "size_bytes": 741863,
-          "path": "CVX/2026-07-31/0000093410-26-000162.txt"
-        },
-        {
-          "filename": "a06302026ex9918-k.htm",
-          "size_bytes": 549190,
-          "path": "CVX/2026-07-31/a06302026ex9918-k.htm"
-        },
-        {
-          "filename": "cvx-20260731.htm",
-          "size_bytes": 32114,
-          "path": "CVX/2026-07-31/cvx-20260731.htm"
-        },
-        {
-          "filename": "humanenergylogoa09a.jpg",
-          "size_bytes": 6916,
-          "path": "CVX/2026-07-31/humanenergylogoa09a.jpg"
-        }
-      ],
-      "fetched_at": "2026-08-06T16:00:41.835071+00:00"
+      "fetched_at": "2026-08-07T16:00:44.819948+00:00"
     },
     {
       "ticker": "BWXT",
@@ -170,7 +101,7 @@
           "path": "BWXT/2026-08-03/newsreleasegraphic.jpg"
         }
       ],
-      "fetched_at": "2026-08-06T16:00:43.544562+00:00"
+      "fetched_at": "2026-08-07T16:00:46.419614+00:00"
     },
     {
       "ticker": "CIFR",
@@ -307,7 +238,7 @@
           "path": "CIFR/2026-08-04/q226_earningsxprxdraftxvf.htm"
         }
       ],
-      "fetched_at": "2026-08-06T16:00:50.912145+00:00"
+      "fetched_at": "2026-08-07T16:00:54.025727+00:00"
     },
     {
       "ticker": "WMB",
@@ -339,34 +270,7 @@
           "path": "WMB/2026-08-03/wmb_image1a19.jpg"
         }
       ],
-      "fetched_at": "2026-08-06T16:00:52.615534+00:00"
-    },
-    {
-      "ticker": "ETN",
-      "company": "Eaton Corp",
-      "earnings_date": "2026-07-31",
-      "filing_date": "2026-07-31",
-      "accession": "0001551182-26-000027",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0001551182-26-000027.txt",
-          "size_bytes": 579371,
-          "path": "ETN/2026-07-31/0001551182-26-000027.txt"
-        },
-        {
-          "filename": "etn-20260731.htm",
-          "size_bytes": 45353,
-          "path": "ETN/2026-07-31/etn-20260731.htm"
-        },
-        {
-          "filename": "etn06302026exhibit99.htm",
-          "size_bytes": 280591,
-          "path": "ETN/2026-07-31/etn06302026exhibit99.htm"
-        }
-      ],
-      "fetched_at": "2026-08-06T16:00:54.037399+00:00"
+      "fetched_at": "2026-08-07T16:00:55.701965+00:00"
     },
     {
       "ticker": "PFE",
@@ -398,7 +302,7 @@
           "path": "PFE/2026-08-04/pfizerlogo.jpg"
         }
       ],
-      "fetched_at": "2026-08-06T16:00:55.664049+00:00"
+      "fetched_at": "2026-08-07T16:00:57.321198+00:00"
     },
     {
       "ticker": "LEU",
@@ -425,7 +329,7 @@
           "path": "LEU/2026-08-05/leu-20260805.htm"
         }
       ],
-      "fetched_at": "2026-08-06T16:00:57.025464+00:00"
+      "fetched_at": "2026-08-07T16:00:58.667622+00:00"
     },
     {
       "ticker": "EOSE",
@@ -497,7 +401,39 @@
           "path": "EOSE/2026-08-05/eoseq2fy26earningsreleas009.jpg"
         }
       ],
-      "fetched_at": "2026-08-06T16:01:01.019044+00:00"
+      "fetched_at": "2026-08-07T16:01:02.659394+00:00"
+    },
+    {
+      "ticker": "MP",
+      "company": "MP Materials",
+      "earnings_date": "2026-08-06",
+      "filing_date": "2026-08-06",
+      "accession": "0001801368-26-000047",
+      "form": "8-K",
+      "items": "2.02,9.01",
+      "documents": [
+        {
+          "filename": "0001801368-26-000047.txt",
+          "size_bytes": 630396,
+          "path": "MP/2026-08-06/0001801368-26-000047.txt"
+        },
+        {
+          "filename": "image_2.jpg",
+          "size_bytes": 42479,
+          "path": "MP/2026-08-06/image_2.jpg"
+        },
+        {
+          "filename": "mp-20260806.htm",
+          "size_bytes": 23121,
+          "path": "MP/2026-08-06/mp-20260806.htm"
+        },
+        {
+          "filename": "mpmcq22026er.htm",
+          "size_bytes": 376762,
+          "path": "MP/2026-08-06/mpmcq22026er.htm"
+        }
+      ],
+      "fetched_at": "2026-08-07T16:01:04.311785+00:00"
     },
     {
       "ticker": "Q",
@@ -524,7 +460,7 @@
           "path": "Q/2026-08-04/q-20260804.htm"
         }
       ],
-      "fetched_at": "2026-08-06T16:01:02.618600+00:00"
+      "fetched_at": "2026-08-07T16:01:05.659419+00:00"
     },
     {
       "ticker": "POWL",
@@ -566,7 +502,7 @@
           "path": "POWL/2026-08-03/powl-20260803.htm"
         }
       ],
-      "fetched_at": "2026-08-06T16:01:04.763915+00:00"
+      "fetched_at": "2026-08-07T16:01:07.817981+00:00"
     },
     {
       "ticker": "ATKR",
@@ -603,7 +539,7 @@
           "path": "ATKR/2026-08-03/atkr3q26exhibit991.htm"
         }
       ],
-      "fetched_at": "2026-08-06T16:01:06.720436+00:00"
+      "fetched_at": "2026-08-07T16:01:09.691674+00:00"
     },
     {
       "ticker": "FLNC",
@@ -635,7 +571,7 @@
           "path": "FLNC/2026-08-05/image_0.jpg"
         }
       ],
-      "fetched_at": "2026-08-06T16:01:08.314552+00:00"
+      "fetched_at": "2026-08-07T16:01:11.303442+00:00"
     }
   ]
 }
