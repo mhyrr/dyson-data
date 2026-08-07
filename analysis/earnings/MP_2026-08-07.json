@@ -1,0 +1,197 @@
+{
+  "symbol": "MP",
+  "company": "MP Materials",
+  "thesis": "sma_quality+scarcity",
+  "conviction": "MEDIUM",
+  "action": "BUY",
+  "analysis_time": "2026-08-07T09:36:53.169077+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 23,
+  "last_quarter": {
+    "period": "Q2 2026",
+    "date": "2026-08-06",
+    "eps_actual": -0.01,
+    "eps_estimate": 0.02,
+    "eps_surprise": -0.03,
+    "eps_surprise_pct": -1.5,
+    "revenue_actual": 108490000,
+    "revenue_estimate": 97001816,
+    "revenue_surprise_pct": 0.12,
+    "eps_prior_year": -0.13,
+    "revenue_prior_year": 57393000
+  },
+  "next_quarter": {
+    "period": "Q1 2027",
+    "date": "2027-05-06",
+    "eps_estimate": 0.16,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 6,
+    "misses": 2,
+    "meet": 0,
+    "beat_rate": 75.0
+  },
+  "eps_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": -83.44,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "eps": -0.1
+      },
+      {
+        "period": "Q4 2025",
+        "eps": 0.09
+      },
+      {
+        "period": "Q1 2026",
+        "eps": 0.03
+      },
+      {
+        "period": "Q2 2026",
+        "eps": -0.01
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "accelerating",
+    "avg_yoy_growth_pct": 35.74,
+    "recent_quarters": [
+      {
+        "period": "Q3 2025",
+        "revenue": 53553000
+      },
+      {
+        "period": "Q4 2025",
+        "revenue": 52685000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 90649000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 108490000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": 0.0325,
+    "avg_revenue_surprise_pct": 14.0,
+    "estimate_accuracy_eps_pct": 96.96
+  },
+  "flags": [
+    "consistent_beater",
+    "high_rev_growth",
+    "eps_declining",
+    "hard_to_estimate"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q3 2024",
+      "date": "2024-11-07",
+      "eps_actual": -0.12,
+      "eps_est": -0.13,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0.08,
+      "revenue_actual": 62927000,
+      "revenue_est": 40140000,
+      "revenue_surprise_pct": 0.57,
+      "eps_prior_year": 0.04,
+      "revenue_prior_year": 52516000
+    },
+    {
+      "period": "Q4 2024",
+      "date": "2025-02-20",
+      "eps_actual": -0.12,
+      "eps_est": -0.13,
+      "eps_surprise": 0.01,
+      "eps_surprise_pct": 0.08,
+      "revenue_actual": 60986000,
+      "revenue_est": 50710000,
+      "revenue_surprise_pct": 0.2,
+      "eps_prior_year": -0.02,
+      "revenue_prior_year": 41205000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-05-08",
+      "eps_actual": -0.12,
+      "eps_est": -0.11,
+      "eps_surprise": -0.01,
+      "eps_surprise_pct": -0.09,
+      "revenue_actual": 60810000,
+      "revenue_est": 66780000,
+      "revenue_surprise_pct": -0.09,
+      "eps_prior_year": -0.04,
+      "revenue_prior_year": 48684000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-08-07",
+      "eps_actual": -0.13,
+      "eps_est": -0.2,
+      "eps_surprise": 0.07,
+      "eps_surprise_pct": 0.35,
+      "revenue_actual": 57393000,
+      "revenue_est": 47029370,
+      "revenue_surprise_pct": 0.22,
+      "eps_prior_year": -0.17,
+      "revenue_prior_year": 31258000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-11-06",
+      "eps_actual": -0.1,
+      "eps_est": -0.17,
+      "eps_surprise": 0.07,
+      "eps_surprise_pct": 0.41,
+      "revenue_actual": 53553000,
+      "revenue_est": 53057254,
+      "revenue_surprise_pct": 0.01,
+      "eps_prior_year": -0.12,
+      "revenue_prior_year": 62927000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2026-02-26",
+      "eps_actual": 0.09,
+      "eps_est": 0.02,
+      "eps_surprise": 0.07,
+      "eps_surprise_pct": 3.5,
+      "revenue_actual": 52685000,
+      "revenue_est": 59138894,
+      "revenue_surprise_pct": -0.11,
+      "eps_prior_year": -0.12,
+      "revenue_prior_year": 60986000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-05-07",
+      "eps_actual": 0.03,
+      "eps_est": -0.04,
+      "eps_surprise": 0.07,
+      "eps_surprise_pct": 1.75,
+      "revenue_actual": 90649000,
+      "revenue_est": 75350800,
+      "revenue_surprise_pct": 0.2,
+      "eps_prior_year": -0.12,
+      "revenue_prior_year": 60810000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-08-06",
+      "eps_actual": -0.01,
+      "eps_est": 0.02,
+      "eps_surprise": -0.03,
+      "eps_surprise_pct": -1.5,
+      "revenue_actual": 108490000,
+      "revenue_est": 97001816,
+      "revenue_surprise_pct": 0.12,
+      "eps_prior_year": -0.13,
+      "revenue_prior_year": 57393000
+    }
+  ],
+  "ticker_notes": "RE-RATED Jul 13: $52 after -15% month; DoD deal ($400M pref, NdPr floor $110/kg, warrants at $30.03) = hard floor under the stock. Entry 48-55; floor-protected pullback in a validated theme"
+}

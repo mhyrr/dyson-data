@@ -1,0 +1,196 @@
+{
+  "symbol": "FLNC",
+  "company": "Fluence Energy",
+  "thesis": "grid_storage_integrator+ai_datacenter+itc2033",
+  "conviction": "MEDIUM",
+  "action": "HOLD",
+  "analysis_time": "2026-08-07T09:36:53.454137+00:00",
+  "quarters_analyzed": 8,
+  "total_history_quarters": 20,
+  "last_quarter": {
+    "period": "Q3 2026",
+    "date": "2026-08-05",
+    "eps_actual": -0.24,
+    "eps_estimate": 0.06,
+    "eps_surprise": -0.3,
+    "eps_surprise_pct": -5,
+    "revenue_actual": 600180000,
+    "revenue_estimate": 866774440,
+    "revenue_surprise_pct": -0.31,
+    "eps_prior_year": 0.01,
+    "revenue_prior_year": 566926000
+  },
+  "next_quarter": {
+    "period": "Q2 2027",
+    "date": "2027-05-05",
+    "eps_estimate": -0.12,
+    "confirmed": false
+  },
+  "beat_miss_pattern": {
+    "beats": 2,
+    "misses": 5,
+    "meet": 1,
+    "beat_rate": 25.0
+  },
+  "eps_trend": {
+    "sequential_trend": "decelerating",
+    "avg_yoy_growth_pct": -186.59,
+    "recent_quarters": [
+      {
+        "period": "Q4 2025",
+        "eps": 0.13
+      },
+      {
+        "period": "Q1 2026",
+        "eps": -0.34
+      },
+      {
+        "period": "Q2 2026",
+        "eps": -0.16
+      },
+      {
+        "period": "Q3 2026",
+        "eps": -0.24
+      }
+    ]
+  },
+  "revenue_trend": {
+    "sequential_trend": "decelerating",
+    "avg_yoy_growth_pct": 28.59,
+    "recent_quarters": [
+      {
+        "period": "Q4 2025",
+        "revenue": 1041894000
+      },
+      {
+        "period": "Q1 2026",
+        "revenue": 475234000
+      },
+      {
+        "period": "Q2 2026",
+        "revenue": 464891000
+      },
+      {
+        "period": "Q3 2026",
+        "revenue": 600180000
+      }
+    ]
+  },
+  "surprise_analysis": {
+    "avg_eps_surprise": -0.0813,
+    "avg_revenue_surprise_pct": -21.38,
+    "estimate_accuracy_eps_pct": 93.8
+  },
+  "flags": [
+    "consistent_misser",
+    "eps_declining",
+    "hard_to_estimate"
+  ],
+  "all_recent_quarters": [
+    {
+      "period": "Q4 2024",
+      "date": "2024-11-25",
+      "eps_actual": 0.34,
+      "eps_est": 0.3,
+      "eps_surprise": 0.04,
+      "eps_surprise_pct": 0.13,
+      "revenue_actual": 1228000000,
+      "revenue_est": 1310000000,
+      "revenue_surprise_pct": -0.06,
+      "eps_prior_year": 0.02,
+      "revenue_prior_year": 672982000
+    },
+    {
+      "period": "Q1 2025",
+      "date": "2025-02-10",
+      "eps_actual": -0.32,
+      "eps_est": -0.22,
+      "eps_surprise": -0.1,
+      "eps_surprise_pct": -0.45,
+      "revenue_actual": 186788000,
+      "revenue_est": 373520000,
+      "revenue_surprise_pct": -0.5,
+      "eps_prior_year": -0.14,
+      "revenue_prior_year": 363956000
+    },
+    {
+      "period": "Q2 2025",
+      "date": "2025-05-07",
+      "eps_actual": -0.24,
+      "eps_est": -0.15,
+      "eps_surprise": -0.09,
+      "eps_surprise_pct": -0.6,
+      "revenue_actual": 431618000,
+      "revenue_est": 480900000,
+      "revenue_surprise_pct": -0.1,
+      "eps_prior_year": -0.07,
+      "revenue_prior_year": 623141000
+    },
+    {
+      "period": "Q3 2025",
+      "date": "2025-08-11",
+      "eps_actual": 0.01,
+      "eps_est": 0.01,
+      "eps_surprise": 0,
+      "eps_surprise_pct": 0,
+      "revenue_actual": 566926000,
+      "revenue_est": 739345928,
+      "revenue_surprise_pct": -0.23,
+      "eps_prior_year": 0,
+      "revenue_prior_year": 328091000
+    },
+    {
+      "period": "Q4 2025",
+      "date": "2025-11-24",
+      "eps_actual": 0.13,
+      "eps_est": 0.19,
+      "eps_surprise": -0.06,
+      "eps_surprise_pct": -0.32,
+      "revenue_actual": 1041894000,
+      "revenue_est": 1388729518,
+      "revenue_surprise_pct": -0.25,
+      "eps_prior_year": 0.34,
+      "revenue_prior_year": 1228000000
+    },
+    {
+      "period": "Q1 2026",
+      "date": "2026-02-04",
+      "eps_actual": -0.34,
+      "eps_est": -0.18,
+      "eps_surprise": -0.16,
+      "eps_surprise_pct": -0.89,
+      "revenue_actual": 475234000,
+      "revenue_est": 478371626,
+      "revenue_surprise_pct": -0.01,
+      "eps_prior_year": -0.32,
+      "revenue_prior_year": 186788000
+    },
+    {
+      "period": "Q2 2026",
+      "date": "2026-05-06",
+      "eps_actual": -0.16,
+      "eps_est": -0.18,
+      "eps_surprise": 0.02,
+      "eps_surprise_pct": 0.11,
+      "revenue_actual": 464891000,
+      "revenue_est": 616661984,
+      "revenue_surprise_pct": -0.25,
+      "eps_prior_year": -0.24,
+      "revenue_prior_year": 431618000
+    },
+    {
+      "period": "Q3 2026",
+      "date": "2026-08-05",
+      "eps_actual": -0.24,
+      "eps_est": 0.06,
+      "eps_surprise": -0.3,
+      "eps_surprise_pct": -5,
+      "revenue_actual": 600180000,
+      "revenue_est": 866774440,
+      "revenue_surprise_pct": -0.31,
+      "eps_prior_year": 0.01,
+      "revenue_prior_year": 566926000
+    }
+  ],
+  "ticker_notes": "NEW Jul 23 (thesis/2026_jul_23_solid_state_storage_battery_thesis.html). Orphan holding now tracked: 120sh, ~flat vs $15.40 cost. NOT solid-state \u2014 Li-ion grid-storage integrator. Bull: $5.6B record backlog, ~2.1x book-to-bill, NVIDIA 'Vera Rubin' EXCLUSIVE storage partner + 2 hyperscaler MSAs + 12G"
+}

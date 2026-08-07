@@ -1,8 +1,8 @@
 {
-  "run_time": "2026-08-06T23:04:11.596113+00:00",
+  "run_time": "2026-08-07T10:10:05.669822+00:00",
   "search_backend": "Firecrawl API (api.firecrawl.dev/v1/search)",
   "queries_run": 34,
-  "results_count": 60,
+  "results_count": 93,
   "results": [
     {
       "title": "Memory chip shortage to last through 2027, semiconductor boss says",
@@ -11,7 +11,7 @@
       "description": "# Memory chip shortage to last through 2027, semiconductor boss says\n- The boom in AI data center construction has caused a shortage of semiconductors, which are also crucial for electronics like smartphones.\n\nAs tens of [billions of dollars](https://www.cnbc.com/2025/12/19/data-center-deals-hit-record-amid-ai-funding-concerns-grip-investors.html) continue to be spent on data center infrastructure, the [demand for memory chips has gone through the roof](https://www.cnbc.com/2025/12/16/smartphone-prices-to-rise-in-2026-due-to-ai-fueled-chip-shortage.html), sparking an [unprecedented price rise](https://www.cnbc.com/2026/01/10/micron-ai-memory-shortage-hbm-nvidia-samsung.html) for the semiconductors, which is set to continue this year.",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:12.553349+00:00"
+      "found_at": "2026-08-07T10:06:40.158312+00:00"
     },
     {
       "title": "Global Economy Feels Impact of AI Chip Shortage and Surging Demand",
@@ -20,7 +20,7 @@
       "description": "# Global Economy Feels Impact of AI Chip Shortage and Surging Demand\n###### Julien De Rosa/AFP\nAt the same time, semiconductor shortages have become a macroeconomic concern.",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:12.553369+00:00"
+      "found_at": "2026-08-07T10:06:40.158332+00:00"
     },
     {
       "title": "Why AI-Driven Memory Chip Shortage is Making Technology More ...",
@@ -29,7 +29,7 @@
       "description": "AI demand is triggering a historic memory-chip shortage. Meeting exponential demand for chips will be costly and maybe even impossible.",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:12.553372+00:00"
+      "found_at": "2026-08-07T10:06:40.158335+00:00"
     },
     {
       "title": "Nvidia plans heavy cuts to GPU supply in early 2026",
@@ -38,7 +38,7 @@
       "description": "Nvidia plans heavy cuts to GPU supply in early 2026. Nvidia is expected to raise GeForce RTX GPU prices again by up to 30% Nvidia Will Spend $ ...",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:16.064836+00:00"
+      "found_at": "2026-08-07T10:06:43.555075+00:00"
     },
     {
       "title": "Nvidia to cut gaming GPU production by 30-40% starting 2026. It's over ...",
@@ -47,7 +47,7 @@
       "description": "# Nvidia to cut gaming GPU production by 30-40% starting 2026. It’s over boys it’s been a good run!\n[![u/doordash avatar](https://styles.redditmedia.com/t5_1thl1u/styles/profileIcon_o33mch9jlwa31.png?width=48&height=48&frame=1&auto=webp&crop=48%3A48%2Csmart&s=71f10a8ea8b2f7b8e3035fafec8664d397abbebf)u/doordash](https://www.reddit.com/r/pcmasterrace/comments/1povjfp/nvidia_to_cut_gaming_gpu_production_by_3040/)•[Ad](https://www.reddit.com/r/pcmasterrace/comments/1povjfp/nvidia_to_cut_gaming_gpu_production_by_3040/)\n\n![Clickable image which will reveal the video player: Eyes on the match, not on your to-do list. Get FIFA World Cup 2026™ essentials delivered with DoorDash, and stay locked in like Kaká.](https://external-preview.redd.it/enlpcngyanJ0ZmFoMal3qWpnEVoWc6c47C6bod8Jz8lbirytbqyc0UHvHZwZ.jpeg?format=pjpg&auto=webp&s=1c4851f2175408c8997f99a65755d262608b7009)\n\n[![u/FidaroAI avatar](https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png)u/FidaroAI](https://www.reddit.com/r/pcmasterrace/comments/1povjfp/nvidia_to_cut_gaming_gpu_production_by_3040/)•[Ad](https://www.reddit.com/r/pcmasterrace/comments/1povjfp/nvidia_to_cut_gaming_gpu_production_by_3040/)",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:16.064853+00:00"
+      "found_at": "2026-08-07T10:06:43.555090+00:00"
     },
     {
       "title": "Nvidia is hinting it will cut consumer RTX supply in 2026 by up to 40%",
@@ -56,7 +56,7 @@
       "description": "# Nvidia is hinting it will cut consumer RTX supply in 2026 by up to 40%\n##### Share on other sites\nReduced availability means demand will be higher than supply.\n\nReduced availability means demand will be higher than supply.\n\nWhat is the number, 80% of GPUs are sold in prebuilt new PCs verses standalone?",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:16.064856+00:00"
+      "found_at": "2026-08-07T10:06:43.555092+00:00"
     },
     {
       "title": "How Massive AI Data Center Investment Pushes the Economy & ...",
@@ -65,7 +65,7 @@
       "description": "Orders for computer and electronic products spiked by 3.1% in June from May and by 16.7% year-over-year, to a record $31.1 billion.",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:19.949207+00:00"
+      "found_at": "2026-08-07T10:06:47.421023+00:00"
     },
     {
       "title": "How AI Data Centers Are Reshaping Electronic Component Supply in 2026",
@@ -74,7 +74,7 @@
       "description": "AI data center spending will exceed $600B in 2026, consuming 70% of global memory production and driving component shortages across every ...",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:19.949220+00:00"
+      "found_at": "2026-08-07T10:06:47.421038+00:00"
     },
     {
       "title": "The great data center delay: Why your AI chips are stuck in 2026",
@@ -83,7 +83,7 @@
       "description": "AI-optimized data center facilities now require 100-500 megawatts reality checks on 2026 timelines. Industry analysis projects 30-50% of ...",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:19.949222+00:00"
+      "found_at": "2026-08-07T10:06:47.421040+00:00"
     },
     {
       "title": "The Foundry | The Fillmore - Philadelphia",
@@ -92,7 +92,7 @@
       "description": "Capacity Max Seated: 150 Max Standing: 500 Type Event Space Catering Preferred caterers only Beverages In-house suppliers only",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:23.441155+00:00"
+      "found_at": "2026-08-07T10:06:50.932578+00:00"
     },
     {
       "title": "Wedding Reception Venue in Queens - The Foundry",
@@ -101,7 +101,7 @@
       "description": "# Weddings & Events\n## Wedding Reception Hall Reservations\n### THE FOUNDRY TERRACE\nCapacity - 80-90 for cocktails.\n\n### THE FOUNDRY GREENHOUSE\nCapacity - 120 for ceremony, cocktails or dancing, 70 for dinner.",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:23.441171+00:00"
+      "found_at": "2026-08-07T10:06:50.932594+00:00"
     },
     {
       "title": "Event Rentals",
@@ -110,7 +110,7 @@
       "description": "21,500 Square Feet 400 Total Capacity Reserve ・ 2067 sq ft | 150 standing capacity | 115 seated capacity ・ 4256 sq ft | 300 standing capacity | 175 seated ...",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:23.441186+00:00"
+      "found_at": "2026-08-07T10:06:50.932612+00:00"
     },
     {
       "title": "The Memory Crisis Explained",
@@ -119,7 +119,7 @@
       "description": "The massive increase in demand for hbm memory is using up all the dram wafer capacity and with how high hbm is stacked each stack is taking multiple gigabytes of dram.",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:26.753142+00:00"
+      "found_at": "2026-08-07T10:06:54.485851+00:00"
     },
     {
       "title": "HBM Demand for AI Server Compute ASICs to Grow 35x by ...",
@@ -128,7 +128,7 @@
       "description": "# HBM Demand for AI Server Compute ASICs to Grow 35x by 2028\nGlobal High Bandwidth Memory (HBM) bit demand for AI Server Compute ASICs is projected to balloon 35x from 2024 to 2028, according to the latest Data Center [AI Server Compute ASICs Shipment Forecast and Tracker](https://counterpointresearch.com/en/reports/Global-AI-Server-Compute-ASIC-Shipment-Mar-2026) from Counterpoint Research’s HPC Service.\n\nBuilding upon our [previous analysis](https://counterpointresearch.com/en/insights/AI-Server-Compute-ASIC-Shipments-to-Triple-by-2027) of custom silicon acceleration, this explosive growth is primarily underpinned by the widespread adoption of high-density [memory](https://counterpointresearch.com/en/reports/memory-tracker-and-forecast-insights-report-Q4-2025) architectures across proprietary accelerators.\n\nA key highlight of this trend is the structural shift within the broader AI accelerator Total Addressable Market (TAM), where custom ASICs are about to capture a rapidly expanding share of global [HBM](https://counterpointresearch.com/en/reports/Memory-Solutions-for-Gen-AI-Part%2027) consumption. Crucially, this volume surge is driven by a massive increase in memory density at the individual chip level.\n\nThis trajectory signifies that [AI Server Compute ASICs](https://counterpointresearch.com/en/reports/Global-AI-Server-Compute-ASIC-Shipment-Jan-2026) will account for an increasingly substantial percentage of the overall HBM market, fundamentally diversifying memory demand away from a singular reliance on merchant GPUs.\n\nCommenting on the HBM3E share allocation, [**Research Associate David Wu**](https://counterpointresearch.com/en/opinion-leader/David%20Wu?id=198) highlighted,“HBM3E has proven to be the sweet spot for current AI architectures, delivering the immense bandwidth and density required to overcome memory wall bottlenecks for massive parameter models.\n\nHowever, starting with HBM4, where logic is integrated into the base die, and progressing into HBM4E, the market will increasingly evolve toward [custom HBM](https://counterpointresearch.com/en/reports/memory-solutions-for-generative-ai-part-8-custom-hbm).\"\n\nThis presents a significant opportunity for memory suppliers to create a high-value business by reflecting logic die design costs in their pricing, while securing stable volumes through a strong lock-in effect with customers.\"\n\nThis aggressive infrastructure scaling translates directly into a massive expansion of Google's HBM requirements, further cementing its position as the anchor customer for global advanced memory capacity.”",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:26.753155+00:00"
+      "found_at": "2026-08-07T10:06:54.485867+00:00"
     },
     {
       "title": "“HBF Will Surpass HBM in Memory Demand by 2038” : r/ ...",
@@ -137,7 +137,7 @@
       "description": "The biggest advantage for both DRAM-based HBM and NAND-based HBF is that they piggyback on established high-volume manufacturing processes,",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-06T23:02:26.753157+00:00"
+      "found_at": "2026-08-07T10:06:54.485869+00:00"
     },
     {
       "title": "New Data Center Developments: August 2026",
@@ -146,7 +146,7 @@
       "description": "# New Data Center Developments: August 2026\n## North American Data Center Deals\nNorth of the border, Meta’s [first Canadian data center](https://www.datacenterknowledge.com/data-center-construction/meta-s-first-canadian-ai-campus-was-planned-around-the-grid) will be built in Sturgeon County, Alberta – an investment of more than $9 billion in a 1 GW AI campus expected to employ roughly 3,000 construction workers at its peak and support more than 300 permanent jobs once operational.\n\n## Latin American Data Center Developments\nByteDance[reportedly](https://w.media/bytedance-begins-construction-of-us-38-44-billion-data-center-in-brazil/) began construction of a $38.4 billion data center at the Pecém port complex in Ceará, Brazil, with an initial capacity of 200 MW and potential expansion to nearly 1 GW, which would make it the company's largest facility outside China if realized.\n\n## Asia-Pacific Data Center Builds\n- Japanese real estate developer Mitsubishi Estate plans to invest about $9.3 billion to construct new data centers with a combined capacity of 2.5 GW, according to local reports.\n- Macquarie Data Centres is [planning](https://www.afr.com/companies/infrastructure/macquarie-technology-secures-land-for-3b-sydney-data-centre-20260714-p60f60) a 3,400-square-meter, 200 MW campus in Sydney.",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:30.748311+00:00"
+      "found_at": "2026-08-07T10:06:58.089170+00:00"
     },
     {
       "title": "Advancing Data Center Construction Texas | TX",
@@ -155,7 +155,7 @@
       "description": "# Where Partnerships Are Made to Get Data Centers Built Faster Across Texas\n## Deliver the Next Generation of Texas’s High-Performing, AI-Ready Mega-Campuses at Speed While Navigating Alternative Power, Evolving Legislation, a Stretched Workforce & Extreme Heat Conditions\n**Advancing Data Center Construction Texas 2026** was the state’s only event dedicated exclusively to Texas-focused data center design and construction.\n\n## Explore Related Events\n[![](https://advancing-data-center-construction-texas.com/wp-content/uploads/sites/343/2025/05/Advancing-Data-Center-Construction-WEST.png)\\\n\\\n**Advancing Data Center Construction West**\\\n\\\nMarch 2026\\\n\\\nDesigning Tomorrow’s Data Centers Amid Resource Constraints & Explosive Growth](https://advancing-data-center-construction-west.com/)\n\n[![](https://advancing-data-center-construction-texas.com/wp-content/uploads/sites/343/2026/03/Advancing-Data-Center-Construction-EAST.png)\\\n\\\n**Advancing Data Center Construction East**\\\n\\\nDecember 2026\\\n\\\nDesigning Tomorrow’s Data Centers Amid Urban Density & Legacy Infrastructure](https://advancing-data-center-construction.com/)",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:30.748325+00:00"
+      "found_at": "2026-08-07T10:06:58.089185+00:00"
     },
     {
       "title": "2026 Trends in Data Center Services & Infrastructure",
@@ -164,7 +164,7 @@
       "description": "In the US alone, we project average spending on data center construction of more than $70 billion per quarter from 2025 to 2028.",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:30.748327+00:00"
+      "found_at": "2026-08-07T10:06:58.089187+00:00"
     },
     {
       "title": "Hyperscaler Data Center Buildout: A Sustainability Bane, Boon, or Both?",
@@ -173,7 +173,7 @@
       "description": "The rapid expansion of hyperscale data centers is driven by increasing demand for cloud computing, artificial intelligence, big data analytics, and digital ...",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:34.138983+00:00"
+      "found_at": "2026-08-07T10:07:01.749173+00:00"
     },
     {
       "title": "The future of US hyperscale data centers",
@@ -182,7 +182,7 @@
       "description": "Gen-AI-led demand is estimated to be around 40 percent through 2030. Data center demand in the United States from cloud and other non-gen-AI- ...",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:34.138999+00:00"
+      "found_at": "2026-08-07T10:07:01.749191+00:00"
     },
     {
       "title": "Vantage Data Centers is building a $15 billion hyper-scale AI facility in ...",
@@ -191,7 +191,7 @@
       "description": "",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:34.139001+00:00"
+      "found_at": "2026-08-07T10:07:01.749193+00:00"
     },
     {
       "title": "US Data Center Power Consumption by State (2026)",
@@ -200,7 +200,7 @@
       "description": "# US Data Center Power Consumption\n- **4,500+ active facilities** across all 50 states, consuming **4.4%** of total U.S. electricity.\n- **700+ facilities under construction** representing 18 GW of new capacity across 38 states.\n- Total consumption is **projected to double by 2028**, driven primarily by AI workloads.\n\n![U.S. data center power consumption map by state — Virginia leads at 24 TWh, followed by Texas at 18 TWh](https://www.electricchoice.com/html/assets/images/maps/datacenter-power.png?v=1785466477)\n\nFewer\n\nMore\n\n| # ▲ | State | Facilities | TWh/yr | Homes Equivalent |\n|-|-|-|-|-|\n| 1 | [Virginia](https://www.electricchoice.com/electricity-prices-by-state/virginia/) | 665 | 24 | 2.3M homes |\n| 2 | [Texas](https://www.electricchoice.com/electricity-prices-by-state/texas/) | 413 | 17 | 1.6M homes |\n| 3 | [Illinois](https://www.electricchoice.com/electricity-prices-by-state/illinois/) | 244 | 12 | 1.1M homes |\n| 4 | [California](https://www.electricchoice.com/electricity-prices-by-state/california/) | 321 | 11 | 1M homes |\n| 5 | [Arizona](https://www.electricchoice.com/electricity-prices-by-state/arizona/) | 190 | 10.5 | 1M homes |\n| 6 | [Georgia](https://www.electricchoice.com/electricity-prices-by-state/georgia/) | 162 | 9 | 857K homes |\n| 7 | [Ohio](https://www.electricchoice.com/electricity-prices-by-state/ohio/) | 203 | 7.5 | 714K homes |\n| 8 | [Oregon](https://www.electricchoice.com/electricity-prices-by-state/oregon/) | 148 | 6.5 | 619K homes |\n| 9 | [New York](https://www.electricchoice.com/electricity-prices-by-state/new-york/) | 155 | 4.5 | 429K homes |\n| 10 | [North Carolina](https://www.electricchoice.com/electricity-prices-by-state/north-carolina/) | 115 | 4.5 | 429K homes |\n| 11 | [Florida](https://www.electricchoice.com/electricity-prices-by-state/florida/) | 135 | 4.2 | 400K homes |\n| 12 | [Washington](https://www.electricchoice.com/electricity-prices-by-state/washington/) | 142 | 4.2 | 400K homes |\n| 13 | [Iowa](https://www.electricchoice.com/electricity-prices-by-state/iowa/) | 115 | 3.8 | 362K homes |\n| 14 | [Nevada](https://www.electricchoice.com/electricity-prices-by-state/nevada/) | 72 | 2.8 | 267K homes |\n| 15 | [Utah](https://www.electricchoice.com/electricity-prices-by-state/utah/) | 48 | 2.6 | 248K homes |\n| 16 | [Pennsylvania](https://www.electricchoice.com/electricity-prices-by-state/pennsylvania/) | 98 | 2.5 | 238K homes |\n| 17 | [New Jersey](https://www.electricchoice.com/electricity-prices-by-state/new-jersey/) | 95 | 2.2 | 210K homes |\n| 18 | [Nebraska](https://www.electricchoice.com/electricity-prices-by-state/nebraska/) | 42 | 2.1 | 200K homes |\n| 19 | [Indiana](https://www.electricchoice.com/electricity-prices-by-state/indiana/) | 85 | 2 | 190K homes |\n| 20 | [Tennessee](https://www.electricchoice.com/electricity-prices-by-state/tennessee/) | 68 | 1.8 | 171K homes |\n| 21 | [Colorado](https://www.electricchoice.com/electricity-prices-by-state/colorado/) | 70 | 1.8 | 171K homes |\n| 22 | [New Mexico](https://www.electricchoice.com/electricity-prices-by-state/new-mexico/) | 28 | 1.6 | 152K homes |\n| 23 | [Minnesota](https://www.electricchoice.com/electricity-prices-by-state/minnesota/) | 78 | 1.5 | 143K homes |\n| 24 | [Missouri](https://www.electricchoice.com/electricity-prices-by-state/missouri/) | 55 | 1.2 | 114K homes |\n| 25 | [Massachusetts](https://www.electricchoice.com/electricity-prices-by-state/massachusetts/) | 58 | 1.1 | 105K homes |\n| 26 | [Michigan](https://www.electricchoice.com/electricity-prices-by-state/michigan/) | 62 | 1.1 | 105K homes |\n| 27 | [Connecticut](https://www.electricchoice.com/electricity-prices-by-state/connecticut/) | 60 | 1 | 95K homes |\n| 28 | [Maryland](https://www.electricchoice.com/electricity-prices-by-state/maryland/) | 48 | 0.9 | 86K homes |\n| 29 | [Wisconsin](https://www.electricchoice.com/electricity-prices-by-state/wisconsin/) | 52 | 0.9 | 86K homes |\n| 30 | [Kentucky](https://www.electricchoice.com/electricity-prices-by-state/kentucky/) | 40 | 0.6 | 57K homes |\n| 31 | [Oklahoma](https://www.electricchoice.com/electricity-prices-by-state/oklahoma/) | 38 | 0.6 | 57K homes |\n| 32 | [South Carolina](https://www.electricchoice.com/electricity-prices-by-state/south-carolina/) | 40 | 0.6 | 57K homes |\n| 33 | [Alabama](https://www.electricchoice.com/electricity-prices-by-state/alabama/) | 35 | 0.6 | 57K homes |\n| 34 | [Louisiana](https://www.electricchoice.com/electricity-prices-by-state/louisiana/) | 30 | 0.5 | 48K homes |\n| 35 | [Wyoming](https://www.electricchoice.com/electricity-prices-by-state/wyoming/) | 18 | 0.5 | 48K homes |\n| 36 | [Delaware](https://www.electricchoice.com/electricity-prices-by-state/delaware/) | 22 | 0.4 | 38K homes |\n| 37 | [Kansas](https://www.electricchoice.com/electricity-prices-by-state/kansas/) | 22 | 0.4 | 38K homes |\n| 38 | [Dist. of Columbia](https://www.electricchoice.com/electricity-prices-by-state/washington-dc/) | 12 | 0.3 | 29K homes |\n| 39 | [Mississippi](https://www.electricchoice.com/electricity-prices-by-state/mississippi/) | 20 | 0.3 | 29K homes |\n| 40 | [North Dakota](https://www.electricchoice.com/electricity-prices-by-state/north-dakota/) | 18 | 0.3 | 29K homes |\n| 41 | [Arkansas](https://www.electricchoice.com/electricity-prices-by-state/arkansas/) | 15 | 0.3 | 29K homes |\n| 42 | [Idaho](https://www.electricchoice.com/electricity-prices-by-state/idaho/) | 12 | 0.2 | 19K homes |\n| 43 | [Montana](https://www.electricchoice.com/electricity-prices-by-state/montana/) | 12 | 0.2 | 19K homes |\n| 44 | [New Hampshire](https://www.electricchoice.com/electricity-prices-by-state/new-hampshire/) | 14 | 0.2 | 19K homes |\n| 45 | [Rhode Island](https://www.electricchoice.com/electricity-prices-by-state/rhode-island/) | 8 | 0.2 | 19K homes |\n| 46 | [Hawaii](https://www.electricchoice.com/electricity-prices-by-state/hawaii/) | 8 | 0.1 | 10K homes |\n| 47 | [Maine](https://www.electricchoice.com/electricity-prices-by-state/maine/) | 8 | 0.1 | 10K homes |\n| 48 | [South Dakota](https://www.electricchoice.com/electricity-prices-by-state/south-dakota/) | 10 | 0.1 | 10K homes |\n| 49 | [Vermont](https://www.electricchoice.com/electricity-prices-by-state/vermont/) | 5 | 0.1 | 10K homes |\n| 50 | [West Virginia](https://www.electricchoice.com/electricity-prices-by-state/west-virginia/) | 8 | 0.1 | 10K homes |\n| 51 | [Alaska](https://www.electricchoice.com/electricity-prices-by-state/alaska/) | 5 | 0.1 | 10K homes |\n\nData center power consumption and facility counts by state\n\n## Want us to call you with your options?\nNo obligation No spam, ever Trusted since 2002",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:37.541770+00:00"
+      "found_at": "2026-08-07T10:07:05.178799+00:00"
     },
     {
       "title": "How much energy does a data center use?",
@@ -209,7 +209,7 @@
       "description": "I have seen reports that say a single server rack consumes between 10-15kW of power, meanwhile an GPU server rack uses between 40-60kW. And the average ...",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:37.541785+00:00"
+      "found_at": "2026-08-07T10:07:05.178814+00:00"
     },
     {
       "title": "Data Center Energy Needs Could Upend Power Grids ...",
@@ -218,7 +218,7 @@
       "description": "- There were [5,426](https://www.statista.com/statistics/1228433/data-centers-worldwide-by-country/) data centers nationally as of March 2025, and the number is skyrocketing. Collectively, these centers [consumed about 17 gigawatts (GW) of power](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/investing-in-the-rising-data-center-economy#/) in 2022 (for context, a large nuclear power plant generates about 1 GW).\n\nCollectively, these centers [consumed about 17 gigawatts (GW) of power](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/investing-in-the-rising-data-center-economy#/) in 2022 (for context, a large nuclear power plant generates about 1 GW). Going back to 2018, the country was home to only 1,000 data centers consuming about [11 GW total](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/investing-in-the-rising-data-center-economy#/), [which represented 1.9% of annual U.S. electricity consumption](https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf) and [31.5 million metric tons of greenhouse gas emissions](https://iopscience.iop.org/article/10.1088/1748-9326/abfba1).\n\n[About 56% of the electricity used to power data centers nationwide](https://arxiv.org/pdf/2411.09786) comes from fossil fuels.\n\n#### Data Centers Are Energy-Intensive Enterprises\nMaintaining a data center’s IT equipment requires energy and generates heat, and the higher the networking capacity of a data center, the larger its power draw. IT equipment (processors, chips, storage, etc.) typically consumes about [45% of a data center's energy](https://www.researchgate.net/figure/Analysis-of-power-consumption-proportionality-in-data-center-8-24_fig4_355862079).\n\n#### Data Centers as a Paradigm Shift in the Electricity Sector\nDepartment of Energy indicate that [data centers will consume as much as 580 TWh](https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf) annually in 2028, translating to about 123 GW and representing up to 12% of total U.S. electricity consumption.\n\n#### Data Centers and Carbon Emissions\nThis means that many data centers are located in carbon-intensive areas and use power generated from fossil fuel power plants to meet their energy needs. Because the state is part of the PJM power grid, [61%](https://arxiv.org/pdf/2411.09786) [of the electricity consumed by the data center is from fossil fuel power](https://arxiv.org/pdf/2411.09786) plants (e.g., natural gas, coal, and oil), while only 7.7% comes from renewable sources (geothermal, hydropower, solar, wind, and biomass) and the rest from nuclear plants.\n\nAs previously mentioned, [56% of all electricity consumed by data centers came from fossil-fuel power plants](https://arxiv.org/pdf/2411.09786) from September 2023 to August 2024. As more data centers are built, they will continue to require power from fossil fuel plants emitting harmful pollutants.",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:37.541787+00:00"
+      "found_at": "2026-08-07T10:07:05.178816+00:00"
     },
     {
       "title": "AI's Cooling Problem: How Data Centers Are Transforming Water Use",
@@ -227,7 +227,7 @@
       "description": "# AI’s Cooling Problem: How Data Centers Are Transforming Water Use\n### [Mara Pusic](https://www.eli.org/bios/mara-pusic)\n#### Research Associate\nThe rise of artificial intelligence (AI) and the rapid deployment of high-performance accelerated servers have dramatically transformed the energy use of data centers.\n\nAs an example, [recent research](https://arxiv.org/pdf/2304.03271) has shown that training the GPT-3 language model in Microsoft’s U.S. data centers can directly evaporate 700,000 liters of clean freshwater.\n\nHistorically, data centers have relied on air cooling processes which use fans or air conditioning to circulate chilled air. This tension between energy and water use has driven new research into innovative cooling mechanisms such as immersion liquid cooling, a process in which IT equipment is submerged in non-conductive liquid to dissipate heat.\n\nThis can reduce strain on the grid and water utilities during peak need, making data centers an asset as opposed to a drain.",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:40.940265+00:00"
+      "found_at": "2026-08-07T10:07:08.551737+00:00"
     },
     {
       "title": "Data Center Cooling/AI Water Usage : r/aiwars",
@@ -236,7 +236,7 @@
       "description": "Some datacenters are using open-system water cooling, where they take in water, use it to cool, and dump it afterwards. This is not actually an ...",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:40.940279+00:00"
+      "found_at": "2026-08-07T10:07:08.551784+00:00"
     },
     {
       "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI's Biggest ...",
@@ -245,7 +245,7 @@
       "description": "NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit.\n\nThis liquid cooling methodology is outlined in the [NVIDIA DSX](https://www.nvidia.com/en-us/data-center/products/dsx/) AI factory reference design, a guide that outlines best practices to design, build and operate the entire AI factory infrastructure stack.\n\nAlthough each generation offers significantly more computing power for each watt, full liquid-cooled AI compute infrastructure enables data centers to dramatically reduce cooling energy consumption — making a meaningful difference to overall data center energy use at hyperscale.\n\n“The NVIDIA DSX reference design for AI factories has zero water consumption — we have eliminated massive amounts of power usage and pretty much all water usage,” said Ali Heydari, director of data center cooling and infrastructure at NVIDIA.\n\nWith NVIDIA’s 45-degree liquid cooling, heat is captured directly at the chip and transported through liquid loops operating at much higher temperatures, allowing outdoor dry coolers to reject heat efficiently for much of the year while significantly reducing mechanical cooling requirements and facility water consumption.\n\nThe data center ambient temperature is flexible — warm summer air is fine — because nothing in the server depends on cool air.",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:40.940281+00:00"
+      "found_at": "2026-08-07T10:07:08.551787+00:00"
     },
     {
       "title": "The data center dividend",
@@ -254,7 +254,7 @@
       "description": "$6.7 trillion of capital expenditure will be cumulatively deployed for data center infrastructure through 2030.",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:45.065431+00:00"
+      "found_at": "2026-08-07T10:07:11.819834+00:00"
     },
     {
       "title": "Market Research on Data Center IT Capex",
@@ -263,7 +263,7 @@
       "description": "## Data Center IT Capex\n###### Vice President\nAs data center capex represents the largest share of Cloud service provider spending, even small fluctuations in spending by these companies can create significant ripple effects across the global supply chain.",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:45.065444+00:00"
+      "found_at": "2026-08-07T10:07:11.819850+00:00"
     },
     {
       "title": "Updating AI data center spending in (almost) real time",
@@ -272,7 +272,196 @@
       "description": "S&P Global published consensus estimates for 2026 hyperscaler capex, totaling US$474 billion, about 70% of expected AI data center spending ...",
       "sector": "datacenter_infrastructure",
       "sector_label": "Datacenter Infrastructure",
-      "found_at": "2026-08-06T23:02:45.065445+00:00"
+      "found_at": "2026-08-07T10:07:11.819852+00:00"
+    },
+    {
+      "title": "We did the math on AI's energy footprint. Here's the story ...",
+      "url": "https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/",
+      "query": "AI power consumption",
+      "description": "# We did the math on AI’s energy footprint. Here’s the story you haven’t heard.\nAt that point, AI alone could consume as much electricity annually as 22% of all US households.\n\n## Part One: Making the model\nThis is a time-consuming and expensive process—it’s estimated that training OpenAI’s GPT-4 took over $100 million and consumed 50 gigawatt-hours of energy, enough to power San Francisco for three days.\n\nIt’s now estimated that 80–90% of computing power for AI is used for inference.\n\n## Part Two: A Query\nBut even if researchers can measure the power drawn by the GPU, that leaves out the power used up by CPUs, fans, and other equipment.\n\n## Part Three: Fuel and emissions\n### AI around the corner\nOne billion of these every day for a year would mean over 109 gigawatt-hours of electricity, enough to power 10,400 US homes for a year. If we add images and imagine that generating each one requires as much energy as it does with our high-quality image models, it’d mean an additional 35 gigawatt-hours, enough to power another 3,300 homes for a year.\n\n## Part four: The future ahead\nOn the high end, this is enough to power more than 7.2 million US homes for a year.",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-07T10:07:48.757254+00:00"
+    },
+    {
+      "title": "Energy demand from AI",
+      "url": "https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai",
+      "query": "AI power consumption",
+      "description": "Today, electricity consumption from data centres is estimated to amount to around 415 terawatt hours (TWh), or about 1.5% of global electricity consumption in ...",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-07T10:07:48.757270+00:00"
+    },
+    {
+      "title": "Why AI uses so much energy — and what we can do about it",
+      "url": "https://iee.psu.edu/news/blog/why-ai-uses-so-much-energy-and-what-we-can-do-about-it",
+      "query": "AI power consumption",
+      "description": "# Why AI uses so much energy — and what we can do about it\n## **What are the key environmental consequences of AI development?**\nAI models consume enormous amounts of fossil-fuel-based electricity, significantly contributing to greenhouse gas emissions.",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-07T10:07:48.757272+00:00"
+    },
+    {
+      "title": "Power Purchase and Interconnection Agreements for Data Centers",
+      "url": "https://www.pillsburylaw.com/en/news-and-insights/power-purchase-interconnection-agreements-data-centers.html",
+      "query": "datacenter PPA deal",
+      "description": "# Power Purchase and Interconnection Agreements for Data Centers\n## Takeaways\nIn the data center space, the PPA can be either (i) between the power generator and the data center developer, who then provides the energy as a service to the tenant as part of the data center lease, or (ii) directly between the generator and the data center tenant.\n\n- **Term of the PPA.** PPAs can span 10 to 20 years to provide long-term price stability and support the financing for the construction of the power generating facility. This duration may also drive more competitive PPA pricing for the buyer. However, some data center operators or hyperscalers may prefer a shorter five-to-ten-year term to allow them to adapt to evolving technologies or market conditions. There is an inherent tension as hyperscalers may need to deploy rapidly in order to take advantage of technological innovations, while power generators face development, construction, ownership and operation processes that frequently span decades.\n- **Scheduled and Unscheduled Outages; Curtailment.** The PPA will need to address scheduled and unscheduled outages of the power generating facility, including curtailment directed by a grid operator or by the buyer. The data center may want the ability to procure (or cause the power generator to procure) replacement or backup power during any scheduled or unscheduled outages or grid-directed curtailment. Conversely, the power generator may want the ability to operate the power-generating facility and to sell that power either into a wholesale market or to other buyers if the data center is not capable of taking that power.\n- **Assignment and Change of Control.** The conditions for transferring the PPA to a third party or upstream change of control of either the power generator or the customer will be specified, as well as any obligations to replace credit support and any qualifications of the applicable transferee.\n\n- **Assignment and Change of Control.** Similar to a PPA, the conditions for transferring the interconnection agreement to a third party or upstream change of control will be specified, as well as any obligations to replace credit support and any qualifications of the applicable transferee.",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-07T10:07:52.319330+00:00"
+    },
+    {
+      "title": "Do PPAs have a future in the data center sector? - DCD",
+      "url": "https://www.datacenterdynamics.com/en/analysis/do-ppas-have-a-future-in-the-data-center-sector/",
+      "query": "datacenter PPA deal",
+      "description": "# Do PPAs have a future in the data center sector?\nThese deals see large users of fossil fuel-based electricity buy an equivalent amount of renewable power to put back into the grid and offset their emissions.\n\n### PPAs versus onsite generation\nNotable deals inked during the last couple of years include Amazon signing several PPAs with Spanish developer [Iberdrola](https://www.datacenterdynamics.com/en/news/amazon-signs-159mw-offshore-wind-ppa-with-iberdrola-in-the-uk/) to source energy from two offshore wind farms in Germany — 476MW Baltic Eagle and 300 MW Windanker — which will provide Amazon with 1.1TWh of energy annually, indicative of the volume sought by operators.",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-07T10:07:52.319347+00:00"
+    },
+    {
+      "title": "PPA in Data Centers : r/datacenter",
+      "url": "https://www.reddit.com/r/datacenter/comments/1nyj3pe/ppa_in_data_centers/",
+      "query": "datacenter PPA deal",
+      "description": "A PPA at 15 to 20 cents per kWh is very high compared to global benchmarks, where renewables often fall in the 2 to 5 cent range and maybe 6 to ...",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-07T10:07:52.319349+00:00"
+    },
+    {
+      "title": "AI and the Power Grid: Where the Rubber Meets the Road",
+      "url": "https://about.bnef.com/insights/clean-energy/ai-and-the-power-grid-where-the-rubber-meets-the-road/",
+      "query": "power grid AI load",
+      "description": "# AI and the Power Grid: Where the Rubber Meets the Road\nThese pressures point to an inflection moment for US grids: the desire to accommodate AI-driven load without undermining reliability or driving up power costs.",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-07T10:07:55.836810+00:00"
+    },
+    {
+      "title": "AI, Data Centers, and the U.S. Electric Grid: A Watershed Moment",
+      "url": "https://www.belfercenter.org/research-analysis/ai-data-centers-us-electric-grid",
+      "query": "power grid AI load",
+      "description": "AI-driven energy demand is outpacing available capacity, driving companies to delay projects, contract power directly from private producers, ...",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-07T10:07:55.836825+00:00"
+    },
+    {
+      "title": "Energy demand from AI",
+      "url": "https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai",
+      "query": "power grid AI load",
+      "description": "The rise of AI is accelerating the deployment of high-performance accelerated servers, leading to greater power density in data centres.",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-07T10:07:55.836827+00:00"
+    },
+    {
+      "title": "Power Purchase and Interconnection Agreements for Data ...",
+      "url": "https://www.pillsburylaw.com/en/news-and-insights/power-purchase-interconnection-agreements-data-centers.html",
+      "query": "datacenter power purchase agreement",
+      "description": "# Power Purchase and Interconnection Agreements for Data Centers\n## Takeaways\n**Power Purchase Agreements** PPAs are long-term contracts establishing the terms and conditions under which electricity generated by a power plant will be sold.\n\n- **Assignment and Change of Control.** The conditions for transferring the PPA to a third party or upstream change of control of either the power generator or the customer will be specified, as well as any obligations to replace credit support and any qualifications of the applicable transferee.",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-07T10:07:59.273594+00:00"
+    },
+    {
+      "title": "Powering data centers | Norton Rose Fulbright",
+      "url": "https://www.projectfinance.law/publications/2020/october/powering-data-centers",
+      "query": "datacenter power purchase agreement",
+      "description": "# Powering data centers\n## PPAs\nMany data centers enter into corporate power purchase agreements directly with renewable energy suppliers.\n\nUnder the agreement, Adobe purchases 10 megawatts of capacity from the plant between 2019 and 2028, and then the purchase obligation is transferred to Facebook to supply an expansion of its data center in Nebraska.\n\n## Virginia and Texas\nDigital Realty, a data-center operator, procured 80 megawatts of solar power on behalf of Facebook in 2019 for its data centers in northern Virginia in a back-to-back utility-scale transaction where the data center enters into a virtual power purchase agreement to supply renewable energy to a particular tenant in its data center.",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-07T10:07:59.273611+00:00"
+    },
+    {
+      "title": "Understanding Power Purchase Agreements (PPAs) for ...",
+      "url": "https://www.linkedin.com/posts/gregoryadamscharfstein_this-week-weve-been-focusing-on-power-and-activity-7351658095531524096-BmTS",
+      "query": "datacenter power purchase agreement",
+      "description": "A PPA provides long-term stability that enables data center owners to plan, expand, and upgrade with confidence. You can even build in power ...",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-07T10:07:59.273613+00:00"
+    },
+    {
+      "title": "Data centers powered by next-gen nuclear? Don't fall for Big Tech's PR ...",
+      "url": "https://thebulletin.org/2026/07/data-centers-powered-by-next-gen-nuclear-dont-fall-for-big-techs-pr-hype/",
+      "query": "nuclear datacenter deal",
+      "description": "# Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype\nIn September 2024, when [Constellation Energy and Microsoft announced an agreement](https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html) to restart the Three Mile Island reactor—the twin unit to the reactor [that melted down in 1979](https://www.pbs.org/wgbh/americanexperience/films/three/)—they claimed that it was “ [entirely…a private agreement” and that it “involves no public funds.”](https://oilprice.com/Alternative-Energy/Nuclear-Power/Three-Mile-Island-Nuke-to-Reopen-with-Microsoft-Contract.html#:~:text=Constellation%20Energy%20and%20Microsoft%20announced,shift%20in%20U.S.%20nuclear%20development.) The following month, the _Washington Post_ revealed that Constellation had [applied to the Energy Department for a $1.6 billion federal loan guarantee.](https://www.washingtonpost.com/business/2024/10/03/nuclear-microsoft-ai-constellation/) In November 2025, the Energy Department [loaned $1 billion to Constellation](https://www.energy.gov/articles/energy-department-closes-loan-restart-nuclear-power-plant-pennsylvania), and in June 2026, it announced a [“$17.5 billion American Nuclear Supply Chain Loans… to accelerate the deployment of 10 large-scale commercial nuclear reactors](https://www.energy.gov/articles/department-energy-announces-american-nuclear-supply-chain-loans).”\n\nIn July 2026, [New York state banned the construction of data centers](https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/) for a year.",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-07T10:08:02.899705+00:00"
+    },
+    {
+      "title": "Advantages and Challenges of Nuclear-Powered Data Centers",
+      "url": "https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-powered-data-centers",
+      "query": "nuclear datacenter deal",
+      "description": "# Advantages and Challenges of Nuclear-Powered Data Centers\n## Advantages of Nuclear Energy for Data Centers\n#### 6. Existing nuclear plants have hidden potential.\nIn September 2024, Microsoft and Constellation Energy reached a 20-year power purchase agreement to restart Three Mile Island Unit 1 to support Microsoft’s data center operations.\n\n## Challenges of Nuclear Energy for Data Centers\n#### 3. Metering issues could be a hurdle.\nIn March 2024, Amazon and Talen Energy announced a $650 million deal to purchase a co-located data center and up to 960 megawatts of electricity from the Susquehanna Steam Electric Station.",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-07T10:08:02.899724+00:00"
+    },
+    {
+      "title": "Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW to ...",
+      "url": "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/amp/",
+      "query": "nuclear datacenter deal",
+      "description": "Our landmark agreements with Vistra, TerraPower, and Oklo will expand the operation of three nuclear power plants,",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-07T10:08:02.899727+00:00"
+    },
+    {
+      "title": "Small Modular Reactor (SMR) Global Project Tracker",
+      "url": "https://world-nuclear.org/information-library/nuclear-power-reactors/small-modular-reactors/small-modular-reactor-smr-global-tracker",
+      "query": "SMR development progress",
+      "description": "# Small Modular Reactor (SMR) Global Project Tracker\nIt includes more than 70 projects at various stages of progress, from initial site preparation through to operation, as well as over 50 key pre-project agreements and related developments.",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-07T10:08:06.341446+00:00"
+    },
+    {
+      "title": "Advanced Small Modular Reactors (SMRs)",
+      "url": "https://www.energy.gov/ne/advanced-small-modular-reactors-smrs",
+      "query": "SMR development progress",
+      "description": "# Advanced Small Modular Reactors (SMRs)\nThe advanced SMRs currently under development in the United States represent a variety of sizes, technology options, capabilities, and deployment scenarios.\n\nAccordingly, the Department has provided substantial support to the development of light water-cooled SMRs, which are under licensing review by the Nuclear Regulatory Commission (NRC) and will likely be deployed in the late 2020s to early 2030s.",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-07T10:08:06.341460+00:00"
+    },
+    {
+      "title": "New NEA Small Modular Reactor Dashboard edition ...",
+      "url": "https://www.oecd-nea.org/jcms/pl_108268/new-nea-small-modular-reactor-dashboard-edition-reveals-global-expansion-of-smr-deployment",
+      "query": "SMR development progress",
+      "description": "# New NEA Small Modular Reactor Dashboard edition reveals global expansion of SMR deployment\nProgress has also been made in supply chain readiness and financing. Since the last edition of the _NEA SMR Dashboard_ was released in 2024, there has been an 81% increase in the number of SMR designs that have secured at least one source of funding or made announcements of funding commitments.\n\nSeven designs are already either operating or under construction, with a strong pipeline of projects progressing toward first-of-a-kind deployment.",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-07T10:08:06.341463+00:00"
+    },
+    {
+      "title": "Nuclear Energy and AI are Converging to Shape the Future",
+      "url": "http://www.iaea.org/newscenter/statements/the-atom-and-the-algorithm-nuclear-energy-and-ai-are-converging-to-shape-the-future",
+      "query": "nuclear AI power",
+      "description": "# The Atom and the Algorithm: Nuclear Energy and AI are Converging to Shape the Future\nAnd not just any power: power that never stops.\n\nArtificial intelligence is not only powered by nuclear energy, it’s also improving it.\n\nIn nuclear power operations, AI supports predictive maintenance, anomaly detection, and optimization of thermal performance.\n\nAs an AI cluster expands, so can its nuclear power source.",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-07T10:08:09.907121+00:00"
+    },
+    {
+      "title": "Advanced Nuclear and AI: Powering the Future",
+      "url": "https://x-energy.com/blog/advanced-nuclear-powering-ai-power-consumption/",
+      "query": "nuclear AI power",
+      "description": "# Advanced Nuclear and AI: Powering the Future\nX-energy’s [Xe-100 advanced nuclear reactors](https://x-energy.com/reactors/xe-100) offer a solution uniquely suited to power AI infrastructure: clean, reliable power that operates 24/7 with minimal land use and maximum output stability. [Our partnership with Amazon aims to add 5 GW of new nuclear by 2039](https://www.aboutamazon.com/news/sustainability/amazon-nuclear-small-modular-reactor-net-carbon-zero), offering a roadmap for how next-generation nuclear technology can enable next-generation computing at scale.\n\n## Advanced Nuclear: An Ideal Match for AI Power Usage\nBeyond reliability, nuclear energy’s remarkable energy density provides significant advantages for powering AI infrastructure.",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-07T10:08:09.907140+00:00"
+    },
+    {
+      "title": "Power Companies Are Using AI To Build Nuclear ...",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1ox5j75/power_companies_are_using_ai_to_build_nuclear/",
+      "query": "nuclear AI power",
+      "description": "Westinghouse Nuclear want to use AI to speed up the construction of new nuclear power plants in the United States.",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-07T10:08:09.907144+00:00"
     },
     {
       "title": "AI's Power Crunch Is Putting Uranium Energy Back on Investors' Watchlists",
@@ -281,7 +470,7 @@
       "description": "AI-driven data center energy demand is projected to grow roughly 30% per year, making nuclear power an increasingly critical part of the ...",
       "sector": "nuclear",
       "sector_label": "Nuclear Energy",
-      "found_at": "2026-08-06T23:03:12.834576+00:00"
+      "found_at": "2026-08-07T10:08:13.369971+00:00"
     },
     {
       "title": "Uranium deficit accelerated w/ AI demand ramp",
@@ -290,7 +479,7 @@
       "description": "",
       "sector": "nuclear",
       "sector_label": "Nuclear Energy",
-      "found_at": "2026-08-06T23:03:12.834596+00:00"
+      "found_at": "2026-08-07T10:08:13.369988+00:00"
     },
     {
       "title": "AI hyperscalers move to secure long-term uranium supply from mining companies",
@@ -299,7 +488,7 @@
       "description": "",
       "sector": "nuclear",
       "sector_label": "Nuclear Energy",
-      "found_at": "2026-08-06T23:03:12.834598+00:00"
+      "found_at": "2026-08-07T10:08:13.369990+00:00"
     },
     {
       "title": "One Year After Executive Orders, U.S. Nuclear Energy Renaissance Is in ...",
@@ -308,7 +497,7 @@
       "description": "# One Year After Executive Orders, U.S. Nuclear Energy Renaissance Is in Full Swing\n## GOAL: Lay the Groundwork for Faster Reactor Testing\n#### Launch Pad Ready for Liftoff\nIn March 2026, DOE and NRIC announced the establishment of the [Nuclear Energy Launch Pad(link is external)](https://inl.gov/news-release/nric-launch-pad-to-take-national-innovation-to-next-level/). Four companies were [announced(link is external)](https://inl.gov/news-release/national-reactor-innovation-center-announces-first-selections-for-nuclear-energy-launch-pad/) as initial selections in April 2026, and the program is [requesting(link is external)](https://inl.gov/news-release/national-reactor-innovation-center-accepting-launch-pad-applications/) additional applicants through July 2026.\n\n## GOAL: Add 300 Gigawatts of New U.S. Nuclear Capacity by 2050\n![Graphic with \"December 2025\" over a composite image of TVA and Holtec's proposed SMR reactors.](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2026-05/EO%20Anniversary_GenIII%2B.png?itok=q_dJGErq)\n\n#### American-Made Gen III+ SMRs\nEight additional companies were [awarded](https://www.energy.gov/articles/energy-department-awards-94-million-american-companies-help-expedite-deployments-small) a combined $94 million in May 2026 to address key gaps hindering the domestic nuclear industry.\n\nAdditionally, in March 2026 the U.S.\n\n![Image of TerraPower's Natrium reactor with the text \"March 2026: NRC awards construction permit for TerraPower Natrium advanced reactor\"](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2026-05/EO%20Anniversary_TerraPower.png?itok=emB-jBWs)\n\n#### Gen IV Advanced Reactor Demonstration Milestones\nTerraPower [received its construction permit](https://www.energy.gov/ne/articles/nrc-issues-construction-permit-terrapowers-natrium-advanced-reactor) in March 2026 — the first ever issued by the NRC for a commercial non-light-water power reactor — and broke ground on the Natrium plant construction the following month.",
       "sector": "nuclear",
       "sector_label": "Nuclear Energy",
-      "found_at": "2026-08-06T23:03:16.149481+00:00"
+      "found_at": "2026-08-07T10:08:16.828275+00:00"
     },
     {
       "title": "Nuclear energy's renaissance: The dramatic shift reshaping global ...",
@@ -317,7 +506,7 @@
       "description": "Extending the operating lives of existing reactors, providing crucial bridging capacity until new construction comes online (2022–2026). ...",
       "sector": "nuclear",
       "sector_label": "Nuclear Energy",
-      "found_at": "2026-08-06T23:03:16.149497+00:00"
+      "found_at": "2026-08-07T10:08:16.828291+00:00"
     },
     {
       "title": "Clear-Eyed about Nuclear Renaissance | World Economic ...",
@@ -326,7 +515,7 @@
       "description": "Nuclear power is regaining momentum as advances in reactor design and fission science meet surging demand for reliable, scalable energy.",
       "sector": "nuclear",
       "sector_label": "Nuclear Energy",
-      "found_at": "2026-08-06T23:03:16.149499+00:00"
+      "found_at": "2026-08-07T10:08:16.828293+00:00"
     },
     {
       "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
@@ -335,16 +524,16 @@
       "description": "## AI Model Releases\nAug 1, 2026· 1 release\n\nJul 30, 2026· 1 release\n\nJul 23, 2026· 1 release\n\nJul 20, 2026· 3 releases\n\n[![Google](https://llm-stats.com/logos/google.svg)\\\n\\\n**Gemini 3.5 Flash Cyber** LightweightProprietary\\\n\\\nGoogle•2w ago](https://llm-stats.com/models/gemini-3.5-flash-cyber) [![Google](https://llm-stats.com/logos/google.svg)\\\n\\\n**Gemini 3.5 Flash-Lite** LightweightProprietary\\\n\\\nGoogle•2w ago](https://llm-stats.com/models/gemini-3.5-flash-lite) [![Google](https://llm-stats.com/logos/google.svg)\\\n\\\n**Gemini 3.6 Flash** LightweightProprietary\\\n\\\nGoogle•2w ago](https://llm-stats.com/models/gemini-3.6-flash)\n\nJul 15, 2026· 2 releases\n\n[![xAI](https://llm-stats.com/_next/image?url=%2Flogos%2Fxai-dark.png&w=64&q=75)\\\n\\\n**Grok 4.5** ReleaseProprietary\\\n\\\nxAI•3w ago](https://llm-stats.com/models/grok-4.5) [![Moonshot AI](https://llm-stats.com/_next/image?url=%2Flogos%2Fmoonshotai-dark.webp&w=64&q=75)\\\n\\\n**Kimi K3** Release\\\n\\\nMoonshot AI•3w ago](https://llm-stats.com/models/kimi-k3)\n\nLast 30 days\n\n## The Pace of AI Development\nWe track 337+ model releases across major organizations.",
       "sector": "foundation_models",
       "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:19.529232+00:00"
+      "found_at": "2026-08-07T10:08:20.497953+00:00"
     },
     {
       "title": "AI Release Tracker — Every LLM Release Since ChatGPT",
       "url": "https://aireleasetracker.com/",
       "query": "AI model release 2026",
-      "description": "# AI Model Release Tracker - Timeline of Major AI Models from 2022-2026\nAug 17, 2026In 11 days\n\nExpected next releaseAug 17, 2026 · In 11 days\n\nSep 6, 2026In 31 days\n\nExpected next releaseSep 6, 2026 · In 31 days\n\nNov 5, 2026In 91 days\n\nExpected next releaseNov 5, 2026 · In 91 days\n\nExpected next releaseAug 7, 2026 · In 1 day\n\nOct 2, 2026In 57 days\n\nExpected next releaseOct 2, 2026 · In 57 days\n\nSep 6, 2026In 31 days\n\nExpected next releaseSep 6, 2026 · In 31 days\n\nAug 19, 2026In 13 days\n\nExpected next releaseAug 19, 2026 · In 13 days\n\nSep 6, 2026In 31 days\n\nExpected next releaseSep 6, 2026 · In 31 days\n\n[GPT-3.5](https://aireleasetracker.com/model/openai/gpt-3.5) [GPT-4](https://aireleasetracker.com/model/openai/gpt-4) [GPT-4 Turbo](https://aireleasetracker.com/model/openai/gpt-4-turbo) [GPT-4o](https://aireleasetracker.com/model/openai/gpt-4o) [GPT-4o mini](https://aireleasetracker.com/model/openai/gpt-4o-mini) [o1-preview](https://aireleasetracker.com/model/openai/o1-preview) [o1-mini](https://aireleasetracker.com/model/openai/o1-mini) [o1](https://aireleasetracker.com/model/openai/o1) [o3-mini](https://aireleasetracker.com/model/openai/o3-mini) [o3-mini-high](https://aireleasetracker.com/model/openai/o3-mini-high) [GPT-4.5](https://aireleasetracker.com/model/openai/gpt-4.5) [o1-pro](https://aireleasetracker.com/model/openai/o1-pro) [GPT-4.1](https://aireleasetracker.com/model/openai/gpt-4.1) [GPT-4.1 mini](https://aireleasetracker.com/model/openai/gpt-4.1-mini) [GPT-4.1 nano](https://aireleasetracker.com/model/openai/gpt-4.1-nano) [o3](https://aireleasetracker.com/model/openai/o3) [o4-mini](https://aireleasetracker.com/model/openai/o4-mini) [o4-mini-high](https://aireleasetracker.com/model/openai/o4-mini-high) [o3-pro](https://aireleasetracker.com/model/openai/o3-pro) [gpt-oss-120b\\\n\\\nOW](https://aireleasetracker.com/model/openai/gpt-oss-120b) [gpt-oss-20b\\\n\\\nOW](https://aireleasetracker.com/model/openai/gpt-oss-20b) [GPT-5](https://aireleasetracker.com/model/openai/gpt-5) [GPT-5 mini](https://aireleasetracker.com/model/openai/gpt-5-mini) [GPT-5 nano](https://aireleasetracker.com/model/openai/gpt-5-nano) [GPT-5 Pro](https://aireleasetracker.com/model/openai/gpt-5-pro) [GPT-5-Codex](https://aireleasetracker.com/model/openai/gpt-5-codex) [GPT-5-Codex-Mini](https://aireleasetracker.com/model/openai/gpt-5-codex-mini) [GPT-5.1](https://aireleasetracker.com/model/openai/gpt-5.1) [GPT-5.1-Codex-Max](https://aireleasetracker.com/model/openai/gpt-5.1-codex-max) [GPT-5.2](https://aireleasetracker.com/model/openai/gpt-5.2) [GPT-5.3-Codex](https://aireleasetracker.com/model/openai/gpt-5.3-codex) [GPT-5.3-Codex-Spark](https://aireleasetracker.com/model/openai/gpt-5.3-codex-spark) [GPT-5.4](https://aireleasetracker.com/model/openai/gpt-5.4) [GPT-5.4-Pro](https://aireleasetracker.com/model/openai/gpt-5.4-pro) [GPT-5.4 mini](https://aireleasetracker.com/model/openai/gpt-5.4-mini) [GPT-5.4 nano](https://aireleasetracker.com/model/openai/gpt-5.4-nano) [GPT-5.5](https://aireleasetracker.com/model/openai/gpt-5.5) [GPT-5.5-Pro](https://aireleasetracker.com/model/openai/gpt-5.5-pro) [GPT-5.6 Sol](https://aireleasetracker.com/model/openai/gpt-5.6-sol) [GPT-5.6 Terra](https://aireleasetracker.com/model/openai/gpt-5.6-terra) [GPT-5.6 Luna](https://aireleasetracker.com/model/openai/gpt-5.6-luna)\n\n[Claude 1](https://aireleasetracker.com/model/anthropic/claude-1) [Claude 2](https://aireleasetracker.com/model/anthropic/claude-2) [Claude Instant 1.2](https://aireleasetracker.com/model/anthropic/claude-instant-1.2) [Claude 2.1](https://aireleasetracker.com/model/anthropic/claude-2.1) [Claude 3 Haiku](https://aireleasetracker.com/model/anthropic/claude-3-haiku) [Claude 3 Sonnet](https://aireleasetracker.com/model/anthropic/claude-3-sonnet) [Claude 3 Opus](https://aireleasetracker.com/model/anthropic/claude-3-opus) [Claude 3.5 Sonnet](https://aireleasetracker.com/model/anthropic/claude-3.5-sonnet) [Claude 3.5 Haiku](https://aireleasetracker.com/model/anthropic/claude-3.5-haiku) [Claude 3.5 Sonnet (upgraded)](https://aireleasetracker.com/model/anthropic/claude-3.5-sonnet-(upgraded)) [Claude 3.7 Sonnet](https://aireleasetracker.com/model/anthropic/claude-3.7-sonnet) [Claude Sonnet 4](https://aireleasetracker.com/model/anthropic/claude-sonnet-4) [Claude Opus 4](https://aireleasetracker.com/model/anthropic/claude-opus-4) [Claude Opus 4.1](https://aireleasetracker.com/model/anthropic/claude-opus-4.1) [Claude Sonnet 4.5](https://aireleasetracker.com/model/anthropic/claude-sonnet-4.5) [Claude Haiku 4.5](https://aireleasetracker.com/model/anthropic/claude-haiku-4.5) [Claude Opus 4.5](https://aireleasetracker.com/model/anthropic/claude-opus-4.5) [Claude Opus 4.6](https://aireleasetracker.com/model/anthropic/claude-opus-4.6) [Claude Sonnet 4.6](https://aireleasetracker.com/model/anthropic/claude-sonnet-4.6) [Claude Opus 4.7](https://aireleasetracker.com/model/anthropic/claude-opus-4.7) [Claude Opus 4.8](https://aireleasetracker.com/model/anthropic/claude-opus-4.8) [Claude Fable 5](https://aireleasetracker.com/model/anthropic/claude-fable-5) [Claude Sonnet 5](https://aireleasetracker.com/model/anthropic/claude-sonnet-5) [Claude Opus 5](https://aireleasetracker.com/model/anthropic/claude-opus-5)\n\n[LLaMA 1\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-1) [LLaMA 2\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-2) [Code Llama\\\n\\\nOW](https://aireleasetracker.com/model/meta/code-llama) [Code Llama 70B\\\n\\\nOW](https://aireleasetracker.com/model/meta/code-llama-70b) [LLaMA 3 (8B/70B)\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-3-(8b/70b)) [LLaMA 3.1\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-3.1) [LLaMA 3.2\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-3.2) [LLaMA 3.3\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-3.3) [LLaMA 4 Scout\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-4-scout) [LLaMA 4 Maverick\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-4-maverick) [Muse Spark](https://aireleasetracker.com/model/meta/muse-spark) [Muse Spark 1.1](https://aireleasetracker.com/model/meta/muse-spark-1.1) [Muse Spark 1.2](https://aireleasetracker.com/model/meta/muse-spark-1.2)\n\n[Grok‑1\\\n\\\nOW](https://aireleasetracker.com/model/xai/grok%E2%80%911) [Grok‑1.5](https://aireleasetracker.com/model/xai/grok%E2%80%911.5) [Grok‑2](https://aireleasetracker.com/model/xai/grok%E2%80%912) [Grok 3](https://aireleasetracker.com/model/xai/grok-3) [Grok 3 mini](https://aireleasetracker.com/model/xai/grok-3-mini) [Grok 4](https://aireleasetracker.com/model/xai/grok-4) [Grok 4 Heavy](https://aireleasetracker.com/model/xai/grok-4-heavy) [Grok 2.5](https://aireleasetracker.com/model/xai/grok-2.5) [Grok Code Fast 1](https://aireleasetracker.com/model/xai/grok-code-fast-1) [Grok 4 Fast](https://aireleasetracker.com/model/xai/grok-4-fast) [Grok 4.1](https://aireleasetracker.com/model/xai/grok-4.1) [Grok 4.1 Fast](https://aireleasetracker.com/model/xai/grok-4.1-fast) [Grok 4.20 Beta](https://aireleasetracker.com/model/xai/grok-4.20-beta) [Grok 4.3 Beta](https://aireleasetracker.com/model/xai/grok-4.3-beta) [Grok 4.5](https://aireleasetracker.com/model/xai/grok-4.5)\n\n[ChatGLM-6B\\\n\\\nOW](https://aireleasetracker.com/model/zai/chatglm-6b) [GLM-4](https://aireleasetracker.com/model/zai/glm-4) [GLM-4-9B\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-4-9b) [GLM-4-Plus](https://aireleasetracker.com/model/zai/glm-4-plus) [GLM-4.5\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-4.5) [GLM-4.5-Air\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-4.5-air) [GLM-4.6\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-4.6) [GLM-4.7\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-4.7) [GLM-5\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-5) [GLM-5.1\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-5.1) [GLM-5.2\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-5.2)",
+      "description": "# AI Model Release Tracker - Timeline of Major AI Models from 2022-2026\nAug 17, 2026In 10 days\n\nExpected next releaseAug 17, 2026 · In 10 days\n\nSep 6, 2026In 30 days\n\nExpected next releaseSep 6, 2026 · In 30 days\n\nNov 5, 2026In 90 days\n\nExpected next releaseNov 5, 2026 · In 90 days\n\nExpected next releaseAug 7, 2026 · Today\n\nOct 2, 2026In 56 days\n\nExpected next releaseOct 2, 2026 · In 56 days\n\nSep 6, 2026In 30 days\n\nExpected next releaseSep 6, 2026 · In 30 days\n\nAug 19, 2026In 12 days\n\nExpected next releaseAug 19, 2026 · In 12 days\n\nSep 6, 2026In 30 days\n\nExpected next releaseSep 6, 2026 · In 30 days\n\n[GPT-3.5](https://aireleasetracker.com/model/openai/gpt-3.5) [GPT-4](https://aireleasetracker.com/model/openai/gpt-4) [GPT-4 Turbo](https://aireleasetracker.com/model/openai/gpt-4-turbo) [GPT-4o](https://aireleasetracker.com/model/openai/gpt-4o) [GPT-4o mini](https://aireleasetracker.com/model/openai/gpt-4o-mini) [o1-preview](https://aireleasetracker.com/model/openai/o1-preview) [o1-mini](https://aireleasetracker.com/model/openai/o1-mini) [o1](https://aireleasetracker.com/model/openai/o1) [o3-mini](https://aireleasetracker.com/model/openai/o3-mini) [o3-mini-high](https://aireleasetracker.com/model/openai/o3-mini-high) [GPT-4.5](https://aireleasetracker.com/model/openai/gpt-4.5) [o1-pro](https://aireleasetracker.com/model/openai/o1-pro) [GPT-4.1](https://aireleasetracker.com/model/openai/gpt-4.1) [GPT-4.1 mini](https://aireleasetracker.com/model/openai/gpt-4.1-mini) [GPT-4.1 nano](https://aireleasetracker.com/model/openai/gpt-4.1-nano) [o3](https://aireleasetracker.com/model/openai/o3) [o4-mini](https://aireleasetracker.com/model/openai/o4-mini) [o4-mini-high](https://aireleasetracker.com/model/openai/o4-mini-high) [o3-pro](https://aireleasetracker.com/model/openai/o3-pro) [gpt-oss-120b\\\n\\\nOW](https://aireleasetracker.com/model/openai/gpt-oss-120b) [gpt-oss-20b\\\n\\\nOW](https://aireleasetracker.com/model/openai/gpt-oss-20b) [GPT-5](https://aireleasetracker.com/model/openai/gpt-5) [GPT-5 mini](https://aireleasetracker.com/model/openai/gpt-5-mini) [GPT-5 nano](https://aireleasetracker.com/model/openai/gpt-5-nano) [GPT-5 Pro](https://aireleasetracker.com/model/openai/gpt-5-pro) [GPT-5-Codex](https://aireleasetracker.com/model/openai/gpt-5-codex) [GPT-5-Codex-Mini](https://aireleasetracker.com/model/openai/gpt-5-codex-mini) [GPT-5.1](https://aireleasetracker.com/model/openai/gpt-5.1) [GPT-5.1-Codex-Max](https://aireleasetracker.com/model/openai/gpt-5.1-codex-max) [GPT-5.2](https://aireleasetracker.com/model/openai/gpt-5.2) [GPT-5.3-Codex](https://aireleasetracker.com/model/openai/gpt-5.3-codex) [GPT-5.3-Codex-Spark](https://aireleasetracker.com/model/openai/gpt-5.3-codex-spark) [GPT-5.4](https://aireleasetracker.com/model/openai/gpt-5.4) [GPT-5.4-Pro](https://aireleasetracker.com/model/openai/gpt-5.4-pro) [GPT-5.4 mini](https://aireleasetracker.com/model/openai/gpt-5.4-mini) [GPT-5.4 nano](https://aireleasetracker.com/model/openai/gpt-5.4-nano) [GPT-5.5](https://aireleasetracker.com/model/openai/gpt-5.5) [GPT-5.5-Pro](https://aireleasetracker.com/model/openai/gpt-5.5-pro) [GPT-5.6 Sol](https://aireleasetracker.com/model/openai/gpt-5.6-sol) [GPT-5.6 Terra](https://aireleasetracker.com/model/openai/gpt-5.6-terra) [GPT-5.6 Luna](https://aireleasetracker.com/model/openai/gpt-5.6-luna)\n\n[Claude 1](https://aireleasetracker.com/model/anthropic/claude-1) [Claude 2](https://aireleasetracker.com/model/anthropic/claude-2) [Claude Instant 1.2](https://aireleasetracker.com/model/anthropic/claude-instant-1.2) [Claude 2.1](https://aireleasetracker.com/model/anthropic/claude-2.1) [Claude 3 Haiku](https://aireleasetracker.com/model/anthropic/claude-3-haiku) [Claude 3 Sonnet](https://aireleasetracker.com/model/anthropic/claude-3-sonnet) [Claude 3 Opus](https://aireleasetracker.com/model/anthropic/claude-3-opus) [Claude 3.5 Sonnet](https://aireleasetracker.com/model/anthropic/claude-3.5-sonnet) [Claude 3.5 Haiku](https://aireleasetracker.com/model/anthropic/claude-3.5-haiku) [Claude 3.5 Sonnet (upgraded)](https://aireleasetracker.com/model/anthropic/claude-3.5-sonnet-(upgraded)) [Claude 3.7 Sonnet](https://aireleasetracker.com/model/anthropic/claude-3.7-sonnet) [Claude Sonnet 4](https://aireleasetracker.com/model/anthropic/claude-sonnet-4) [Claude Opus 4](https://aireleasetracker.com/model/anthropic/claude-opus-4) [Claude Opus 4.1](https://aireleasetracker.com/model/anthropic/claude-opus-4.1) [Claude Sonnet 4.5](https://aireleasetracker.com/model/anthropic/claude-sonnet-4.5) [Claude Haiku 4.5](https://aireleasetracker.com/model/anthropic/claude-haiku-4.5) [Claude Opus 4.5](https://aireleasetracker.com/model/anthropic/claude-opus-4.5) [Claude Opus 4.6](https://aireleasetracker.com/model/anthropic/claude-opus-4.6) [Claude Sonnet 4.6](https://aireleasetracker.com/model/anthropic/claude-sonnet-4.6) [Claude Opus 4.7](https://aireleasetracker.com/model/anthropic/claude-opus-4.7) [Claude Opus 4.8](https://aireleasetracker.com/model/anthropic/claude-opus-4.8) [Claude Fable 5](https://aireleasetracker.com/model/anthropic/claude-fable-5) [Claude Sonnet 5](https://aireleasetracker.com/model/anthropic/claude-sonnet-5) [Claude Opus 5](https://aireleasetracker.com/model/anthropic/claude-opus-5)\n\n[LLaMA 1\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-1) [LLaMA 2\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-2) [Code Llama\\\n\\\nOW](https://aireleasetracker.com/model/meta/code-llama) [Code Llama 70B\\\n\\\nOW](https://aireleasetracker.com/model/meta/code-llama-70b) [LLaMA 3 (8B/70B)\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-3-(8b/70b)) [LLaMA 3.1\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-3.1) [LLaMA 3.2\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-3.2) [LLaMA 3.3\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-3.3) [LLaMA 4 Scout\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-4-scout) [LLaMA 4 Maverick\\\n\\\nOW](https://aireleasetracker.com/model/meta/llama-4-maverick) [Muse Spark](https://aireleasetracker.com/model/meta/muse-spark) [Muse Spark 1.1](https://aireleasetracker.com/model/meta/muse-spark-1.1) [Muse Spark 1.2](https://aireleasetracker.com/model/meta/muse-spark-1.2)\n\n[Grok‑1\\\n\\\nOW](https://aireleasetracker.com/model/xai/grok%E2%80%911) [Grok‑1.5](https://aireleasetracker.com/model/xai/grok%E2%80%911.5) [Grok‑2](https://aireleasetracker.com/model/xai/grok%E2%80%912) [Grok 3](https://aireleasetracker.com/model/xai/grok-3) [Grok 3 mini](https://aireleasetracker.com/model/xai/grok-3-mini) [Grok 4](https://aireleasetracker.com/model/xai/grok-4) [Grok 4 Heavy](https://aireleasetracker.com/model/xai/grok-4-heavy) [Grok 2.5](https://aireleasetracker.com/model/xai/grok-2.5) [Grok Code Fast 1](https://aireleasetracker.com/model/xai/grok-code-fast-1) [Grok 4 Fast](https://aireleasetracker.com/model/xai/grok-4-fast) [Grok 4.1](https://aireleasetracker.com/model/xai/grok-4.1) [Grok 4.1 Fast](https://aireleasetracker.com/model/xai/grok-4.1-fast) [Grok 4.20 Beta](https://aireleasetracker.com/model/xai/grok-4.20-beta) [Grok 4.3 Beta](https://aireleasetracker.com/model/xai/grok-4.3-beta) [Grok 4.5](https://aireleasetracker.com/model/xai/grok-4.5)\n\n[ChatGLM-6B\\\n\\\nOW](https://aireleasetracker.com/model/zai/chatglm-6b) [GLM-4](https://aireleasetracker.com/model/zai/glm-4) [GLM-4-9B\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-4-9b) [GLM-4-Plus](https://aireleasetracker.com/model/zai/glm-4-plus) [GLM-4.5\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-4.5) [GLM-4.5-Air\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-4.5-air) [GLM-4.6\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-4.6) [GLM-4.7\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-4.7) [GLM-5\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-5) [GLM-5.1\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-5.1) [GLM-5.2\\\n\\\nOW](https://aireleasetracker.com/model/zai/glm-5.2)",
       "sector": "foundation_models",
       "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:19.529246+00:00"
+      "found_at": "2026-08-07T10:08:20.497968+00:00"
     },
     {
       "title": "What are some models you guys are most excited about releasing in 2026?",
@@ -353,34 +542,7 @@
       "description": "What are some LLM models/agents that you are most excited about releasing this year and what steps forward to you anticipate with their release?",
       "sector": "foundation_models",
       "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:19.529248+00:00"
-    },
-    {
-      "title": "Arena Leaderboard | Compare & Benchmark the Best Frontier AI Models",
-      "url": "https://arena.ai/leaderboard",
-      "query": "frontier model benchmark",
-      "description": "Leaderboard Overview. See how leading AI models stack up across text, image, vision, and more. This page provides a high-level snapshot of each Arena.",
-      "sector": "foundation_models",
-      "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:23.345111+00:00"
-    },
-    {
-      "title": "AI Benchmark Leaderboards for Frontier LLMs",
-      "url": "https://snorkel.ai/leaderboard/",
-      "query": "frontier model benchmark",
-      "description": "# Benchmarks for what frontier AI hasn't solved\n[**Senior SWE-bench**\\\n\\\nA benchmark for evaluating coding agents on senior-level engineering work: building features from realistic instructions, investigating bugs that require runtime investigation, and shipping code that aligns to existing codebase conventions.\\\n\\\nBuilt with\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2022/05/Snorkel_Lockup_Mono_WhiteOutline.png)\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2022/01/princeton-university-logo-light.svg)\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2022/01/Wisconsin-logo.svg)\\\n\\\nTasteful Solve Rate \\\n\\\nThe top-performing frontier models fail to complete tasks with senior-level correctness and taste over 70% of the time.\\\n\\\n1\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/claude-icon.svg)\\\n\\\nClaude Fable 5\\\n\\\n34.7%\\\n\\\n2\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/claude-icon.svg)\\\n\\\nClaude Opus 5\\\n\\\n34.7%\\\n\\\n3\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/chat-gpt-icon.svg)\\\n\\\nGPT-5.5\\\n\\\n34.7%\\\n\\\n4\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/claude-icon.svg)\\\n\\\nClaude Opus 4.8\\\n\\\n30.5%](https://snorkel.ai/leaderboard/senior-swe-bench/) [New\\\n\\\nOpen Benchmarks Grants\\\n\\\n**Terminal-Bench 3.0**\\\n\\\nThe next frontier benchmark for agent work. A harder, more domain-diverse successor to Terminal-Bench 2.1 — built in the open, task by task, under continuous adversarial review.\\\n\\\nBy Resolution Rate\\\n\\\n1\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/claude-icon.svg)\\\n\\\nOpus 5 (max) • mini-SWE-agent\\\n\\\n43.5%\\\n\\\n2\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/chat-gpt-icon.svg)\\\n\\\nGPT-5.6 Sol (max) • Codex\\\n\\\n34.4%\\\n\\\n3\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/claude-icon.svg)\\\n\\\nFable 5 (max) • Claude Code\\\n\\\n33.8%](https://snorkel.ai/leaderboard/terminal-bench-3-0/) [Open Benchmarks Grants\\\n\\\n**OSWorld 2.0**\\\n\\\nA benchmark for evaluating computer-use agents on long-horizon, real-world workflows: 108 authentic tasks across 31 self-hosted web environments and professional desktop applications.\\\n\\\nBy Binary Accuracy (300 steps)\\\n\\\n1\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/chat-gpt-icon.svg)\\\n\\\nGPT-5.5 · xhigh\\\n\\\n13%\\\n\\\n2\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/claude-icon.svg)\\\n\\\nClaude Opus 4.7 · max\\\n\\\n13%\\\n\\\n3\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/claude-icon.svg)\\\n\\\nClaude Sonnet 4.6 · medium\\\n\\\n8.3%](https://snorkel.ai/leaderboard/os-world-2-0/) [Open Benchmarks Grants\\\n\\\n**Agents’ Last Exam**\\\n\\\nLong-horizon professional workflows with verifiable outcomes across 55 sub-industries. 147 public tasks of a 1,500+ task corpus, sourced and validated by 300+ industry experts.\\\n\\\nTop Submissions (Pass Rate)\\\n\\\n1\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/chat-gpt-icon.svg)\\\n\\\nCodex · GPT 5.6-Sol · XHigh\\\n\\\n30.6%\\\n\\\n2\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/chat-gpt-icon.svg)\\\n\\\nCodex · GPT 5.6-Sol · High\\\n\\\n30.6%\\\n\\\n3\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/chat-gpt-icon.svg)\\\n\\\nCodex · GPT 5.6-Sol · Max\\\n\\\n29.6%](https://snorkel.ai/leaderboard/agents-last-exam/) [Open Benchmarks Grants\\\n\\\n**Continual Learning Bench**\\\n\\\nEvaluates whether AI systems improve from prior experience across sequential, stateful tasks, measuring real in-context learning, not just raw capability.\\\n\\\nTop Systems (Agg. Reward)\\\n\\\n1\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/claude-icon.svg)\\\n\\\nICL · Claude Sonnet 4.6\\\n\\\n+0.196\\\n\\\n2\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/chat-gpt-icon.svg)\\\n\\\nICL · GPT-5.4\\\n\\\n+0.189\\\n\\\n3\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/claude-icon.svg)\\\n\\\nClaude Code · Sonnet 4.6\\\n\\\n+0.185](https://snorkel.ai/leaderboard/continual-learning-bench/) [Open Benchmarks Grants\\\n\\\n**SlopCode Bench**\\\n\\\nMeasures code quality degradation in AI-assisted codebases. Tracks checkpoint solve rates, erosion (code bloat), and verbosity under realistic repo conditions.\\\n\\\nTop Models by Iso Solve\\\n\\\n1\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/chat-gpt-icon.svg)\\\n\\\nGPT-5.5\\\n\\\n28.06%\\\n\\\n2\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/chat-gpt-icon.svg)\\\n\\\nGPT-5.3-Codex\\\n\\\n26.02%\\\n\\\n3\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/chat-gpt-icon.svg)\\\n\\\nGPT-5.4\\\n\\\n23.47%](https://snorkel.ai/leaderboard/slopcode-bench/) [Open Benchmarks Grants\\\n\\\n**Terminal-Bench 2.1**\\\n\\\nTerminal agent evaluation led by Stanford University and Laude Institute. v2.1 fixes 28 tasks from 2.0 and introduces continuous validation.\\\n\\\nTop Submissions\\\n\\\n1\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/claude-icon.svg)\\\n\\\nClaude Code · Claude 5 Fable\\\n\\\n83.8%\\\n\\\n2\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/chat-gpt-icon.svg)\\\n\\\nCodex CLI · GPT-5.5\\\n\\\n83.1%\\\n\\\n3\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/claude-icon.svg)\\\n\\\nTerminus 2 · Claude 5 Fable\\\n\\\n80.4%](https://snorkel.ai/leaderboard/terminal-bench-2-1/) [**Agentic Coding**\\\n\\\nA benchmark for evaluating AI models on complex, real-world coding tasks that require multi-step reasoning, tool use, and autonomous problem-solving.\\\n\\\nTop Models\\\n\\\n1\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/claude-icon.svg)\\\n\\\nClaude Opus 4.6\\\n\\\n65.2%\\\n\\\n2\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/claude-icon.svg)\\\n\\\nClaude Opus 4.5\\\n\\\n58.0%\\\n\\\n3\\\n\\\n![Image](https://s46486.pcdn.co/wp-content/uploads/2026/06/claude-icon.svg)\\\n\\\nClaude Sonnet 4.5\\\n\\\n57.6%](https://snorkel.ai/leaderboard/agentic-coding/)\n\n### SnorkelUnderwrite\nAn expert-verified frontier benchmark with multi-turn conversations, focused on agentic reasoning and tool use in commercial underwriting settings.",
-      "sector": "foundation_models",
-      "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:23.345123+00:00"
-    },
-    {
-      "title": "Introducing FrontierCode",
-      "url": "https://cognition.com/blog/frontier-code",
-      "query": "frontier model benchmark",
-      "description": "## [Raising the bar from correctness to quality#](https://cognition.com/blog/frontier-code#raising-the-bar)\n**Our benchmark provides the strongest available signal of a model’s ability to write high-quality, maintainable code.**",
-      "sector": "foundation_models",
-      "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:23.345125+00:00"
+      "found_at": "2026-08-07T10:08:20.497970+00:00"
     },
     {
       "title": "AI 2027 authors updated their AGI timelines by 1.5 years ...",
@@ -389,7 +551,7 @@
       "description": "AI 2027 authors updated their AGI timelines by 1.5 years earlier, due to faster progress in the last 3 months.",
       "sector": "foundation_models",
       "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:28.550874+00:00"
+      "found_at": "2026-08-07T10:08:58.145855+00:00"
     },
     {
       "title": "AI 2027",
@@ -398,7 +560,7 @@
       "description": "We predict that the impact of superhuman AI over the next decade will be enormous, exceeding that of the Industrial Revolution.\n\n## KEY METRICS 2026\nFor our background research, see the [timelines forecast](https://ai-2027.com/supplements/timelines-forecast) and the [takeoff forecast](https://ai-2027.com/supplements/takeoff-forecast).\n\n## March 2027: Algorithmic Breakthroughs\nIn our [timelines forecast](https://ai-2027.com/research/timelines-forecast), we predict when OpenBrain will internally develop a _superhuman coder (SC)_: an AI system that can do any coding tasks that the best AGI company engineer does, while being much faster and cheaper.\n\nIn our [timelines forecast](https://ai-2027.com/research/timelines-forecast) we combine this time horizon trend with estimations of the gaps between METR’s tasks and the real world to get a distribution for when superhuman coders will arrive.\n\n## September 2027: Agent-4, the Superhuman AI Researcher\nIn our [timelines supplement](https://ai-2027.com/supplements/timelines-forecast), we forecast the time between present day and a _superhuman coder (SC)_: an AI system that can do any coding tasks that the best AGI company engineer does, while being much faster and cheaper.",
       "sector": "foundation_models",
       "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:28.550891+00:00"
+      "found_at": "2026-08-07T10:08:58.145873+00:00"
     },
     {
       "title": "Timelines to AGI",
@@ -407,7 +569,7 @@
       "description": "# Timelines to AGI\nHow long do people expect it will take for AGI or superintelligent AI to be developed?\n\n- [**Metaculus Weak AGI estimate**](https://www.metaculus.com/questions/3479/date-weakly-general-ai-is-publicly-known/): It predicts a 50% chance of a weak AGI being publicly known by **2027**.\n- **Yoshua Bengio** (Turing award winner): [2028 to 2043, 90% confidence interval](https://yoshuabengio.org/2023/08/12/personal-and-psychological-dimensions-of-ai-researchers-confronting-ai-catastrophic-risks/). Also asks himself: “And what if it was, indeed, just a few years? ”\n- **Geoffrey Hinton** (Turing award winner): [2028 to 2053](https://twitter.com/geoffreyhinton/status/1653687894534504451?lang=en) (he first thought it would take “at least” till 2070)\n\n## Our take\nPrediction is very difficult, especially if it’s about the future. Past expert AI predictions turned out to have been overly optimistic.\n\nInnovation is hard to predict, and important innovations could happen at any time.\n\n**Since we’re risking human extinction, we should err on the side of caution and [act as if AGI could be developed in the next few months](https://pauseai.info/urgency).**",
       "sector": "foundation_models",
       "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:28.550893+00:00"
+      "found_at": "2026-08-07T10:08:58.145875+00:00"
     },
     {
       "title": "Neural scaling law",
@@ -416,7 +578,7 @@
       "description": "In [machine learning](https://en.wikipedia.org/wiki/Machine_learning), a **neural scaling law** is an empirical [scaling law](https://en.wikipedia.org/wiki/Scaling_law) that describes how [neural network](https://en.wikipedia.org/wiki/Neural_network_(machine_learning)) performance changes as key factors are scaled up or down. Some models also exhibit performance gains by scaling [inference](https://en.wikipedia.org/wiki/Inference) through increased test-time compute (TTC), extending neural scaling laws beyond training to the deployment phase.\n\n## Examples\n### Inference scaling\n[[27]](https://en.wikipedia.org/wiki/Neural_scaling_law#cite_note-27):Fig 4 For [AlphaGo Zero](https://en.wikipedia.org/wiki/AlphaGo_Zero), increasing Elo by 120 requires either 2x model size and training, or 2x test-time search.",
       "sector": "foundation_models",
       "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:32.655603+00:00"
+      "found_at": "2026-08-07T10:09:01.666020+00:00"
     },
     {
       "title": "How Scaling Laws Drive Smarter, More Powerful AI",
@@ -425,7 +587,7 @@
       "description": "Just as there are widely understood empirical laws of nature — for example, _what goes up must come down_, or _every action has an equal and opposite reaction_ — the field of AI was long defined by a single idea: that more compute, more training data and more parameters makes a better AI model.\n\nTogether, these AI scaling laws — pretraining scaling, post-training scaling and test-time scaling, also called long thinking — reflect how the field has evolved with techniques to use additional compute in a wide variety of increasingly complex AI use cases.\n\nThe recent rise of [test-time scaling](https://developer.nvidia.com/blog/automating-gpu-kernel-generation-with-deepseek-r1-and-inference-time-scaling/) — applying more compute at [inference](https://www.nvidia.com/en-us/glossary/ai-inference/) time to improve accuracy — has enabled AI reasoning models, a new class of large language models ( [LLMs](https://www.nvidia.com/en-us/glossary/large-language-models/)) that perform multiple inference passes to work through complex problems, while describing the steps required to solve a task. [Test-time scaling](https://blogs.nvidia.com/blog/ai-scaling-laws/#test-time-scaling) requires intensive amounts of computational resources to support AI reasoning, which will drive further demand for accelerated computing.\n\n## **What Is Post-Training Scaling?**\nThe post-training scaling law posits that a pretrained model’s performance can further improve — in computational efficiency, accuracy or domain specificity — using techniques including fine-tuning, pruning, quantization, distillation, reinforcement learning and synthetic data augmentation.",
       "sector": "foundation_models",
       "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:32.655617+00:00"
+      "found_at": "2026-08-07T10:09:01.666035+00:00"
     },
     {
       "title": "[2001.08361] Scaling Laws for Neural Language Models",
@@ -434,7 +596,7 @@
       "description": "# Title:Scaling Laws for Neural Language Models\nView a PDF of the paper titled Scaling Laws for Neural Language Models, by Jared Kaplan and 9 other authors\n\n[View PDF](https://arxiv.org/pdf/2001.08361)\n\nAbstract:We study empirical scaling laws for language model performance on the cross-entropy loss. The loss scales as a power-law with model size, dataset size, and the amount of compute used for training, with some trends spanning more than seven orders of magnitude. Other architectural details such as network width or depth have minimal effects within a wide range. Simple equations govern the dependence of overfitting on model/dataset size and the dependence of training speed on model size. These relationships allow us to determine the optimal allocation of a fixed compute budget. Larger models are significantly more sample-efficient, such that optimally compute-efficient training involves training very large models on a relatively modest amount of data and stopping significantly before convergence.\n\n## Access Paper:\nView a PDF of the paper titled Scaling Laws for Neural Language Models, by Jared Kaplan and 9 other authors\n\n[view license](http://arxiv.org/licenses/nonexclusive-distrib/1.0/)\n\n### Bookmark\n[![BibSonomy](https://arxiv.org/static/browse/0.3.4/images/icons/social/bibsonomy.png)](http://www.bibsonomy.org/BibtexHandler?requTask=upload&url=https://arxiv.org/abs/2001.08361&description=Scaling%20Laws%20for%20Neural%20Language%20Models) [![Reddit](https://arxiv.org/static/browse/0.3.4/images/icons/social/reddit.png)](https://reddit.com/submit?url=https://arxiv.org/abs/2001.08361&title=Scaling%20Laws%20for%20Neural%20Language%20Models)",
       "sector": "foundation_models",
       "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:32.655634+00:00"
+      "found_at": "2026-08-07T10:09:01.666037+00:00"
     },
     {
       "title": "What Is the Intelligence Staircase? How AI Capability Jumps Work",
@@ -443,7 +605,7 @@
       "description": "## Frequently Asked Questions\n### What causes capability jumps in AI models?\nSeveral things trigger capability jumps: increases in model scale (parameters, training data, compute), architectural changes (like the shift from RNNs to transformers), new training techniques (like RLHF or chain-of-thought training), and the availability of test-time compute in reasoning models. Sometimes a single change crosses a threshold; sometimes it’s a combination.",
       "sector": "foundation_models",
       "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:37.575423+00:00"
+      "found_at": "2026-08-07T10:09:05.260662+00:00"
     },
     {
       "title": "From Iterative Improvements to a Capability Jump",
@@ -452,7 +614,7 @@
       "description": "If we can now expect a jump in capabilities: In which areas will it be? And which areas will progress more slowly?",
       "sector": "foundation_models",
       "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:37.575438+00:00"
+      "found_at": "2026-08-07T10:09:05.260682+00:00"
     },
     {
       "title": "Protecting against sudden capability jumps during training",
@@ -461,7 +623,7 @@
       "description": "Ideally, the lab would have some way to notice that the model had a sharp capabilities jump without giving it many opportunities to take over.",
       "sector": "foundation_models",
       "sector_label": "Foundation Models",
-      "found_at": "2026-08-06T23:03:37.575441+00:00"
+      "found_at": "2026-08-07T10:09:05.260685+00:00"
     },
     {
       "title": "The State of AI in the Enterprise - 2026 AI report",
@@ -470,7 +632,7 @@
       "description": "Worker access to AI rose by 50% in 2025, and expectations for scale are high: the number of companies with ≥40% projects in production is set to double in six ...",
       "sector": "enterprise_ai",
       "sector_label": "Enterprise AI",
-      "found_at": "2026-08-06T23:03:41.818040+00:00"
+      "found_at": "2026-08-07T10:09:09.170449+00:00"
     },
     {
       "title": "AI Adoption by the Numbers: Where Enterprise AI is Actually Working",
@@ -479,7 +641,7 @@
       "description": "Based on our analysis, 29% of the Fortune 500 and ~19% of the Global 2000 are live, paying customers of a leading AI startup.",
       "sector": "enterprise_ai",
       "sector_label": "Enterprise AI",
-      "found_at": "2026-08-06T23:03:41.818055+00:00"
+      "found_at": "2026-08-07T10:09:09.170464+00:00"
     },
     {
       "title": "AI Adoption Statistics in 2026",
@@ -488,7 +650,7 @@
       "description": "AI statistics reveal that 78% of organizations now use AI in at least one business function, up from 55% just a year earlier.",
       "sector": "enterprise_ai",
       "sector_label": "Enterprise AI",
-      "found_at": "2026-08-06T23:03:41.818058+00:00"
+      "found_at": "2026-08-07T10:09:09.170466+00:00"
     },
     {
       "title": "Introducing Gemini Enterprise Agent Platform",
@@ -497,7 +659,7 @@
       "description": "# Introducing Gemini Enterprise Agent Platform, powering the next wave of agents\n##### Try Gemini Enterprise Business Edition today\nThe front door to AI in the workplace\n\nThese agents can be seamlessly delivered to your employees through the [Gemini Enterprise app](https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise), all while remaining tightly integrated with your IT operations to help ensure control, governance, and security as you scale.\n\nMoving forward, all Vertex AI services and roadmap evolutions will be delivered exclusively through the Agent Platform, rather than as a standalone service, to power the next generation of agent development.\n\n### Build AI agents\n**Connect your agents to the enterprise**\n\n### Scale AI agents\nTo move from a proof-of-concept to a live environment, you need a platform that can handle the performance, state, and security requirements of real-world work.\n\n**Move beyond temporary session data to high-accuracy context**\n\n### Optimize AI agents\n- [AI & Machine Learning](https://cloud.google.com/blog/products/ai-machine-learning)\n- [Google Cloud Next](https://cloud.google.com/blog/topics/google-cloud-next)",
       "sector": "enterprise_ai",
       "sector_label": "Enterprise AI",
-      "found_at": "2026-08-06T23:03:46.230450+00:00"
+      "found_at": "2026-08-07T10:09:12.640311+00:00"
     },
     {
       "title": "Introducing OpenAI Presence",
@@ -506,7 +668,7 @@
       "description": "# Introducing OpenAI Presence\nWe’re introducing OpenAI Presence, a battle-tested product that helps enterprises deploy trusted AI agents that can answer questions, resolve issues, use company systems, take approved actions, and escalate to people when needed.",
       "sector": "enterprise_ai",
       "sector_label": "Enterprise AI",
-      "found_at": "2026-08-06T23:03:46.230466+00:00"
+      "found_at": "2026-08-07T10:09:12.640327+00:00"
     },
     {
       "title": "OCI Generative AI Agents Platform",
@@ -515,7 +677,7 @@
       "description": "# Announcing the General Availability of OCI Generative AI Agents Platform\nToday, we’re announcing the launch of the Oracle Generative AI Agents platform, a streamlined solution that empowers businesses to build, deploy, and manage AI agents for the enterprise.\n\nThe OCI Generative AI Agents platform will be generally available on March 26, 2025.",
       "sector": "enterprise_ai",
       "sector_label": "Enterprise AI",
-      "found_at": "2026-08-06T23:03:46.230468+00:00"
+      "found_at": "2026-08-07T10:09:12.640329+00:00"
     },
     {
       "title": "Deployment overview for the Microsoft 365 Copilot app",
@@ -524,7 +686,7 @@
       "description": "In this article · Download and install the app for a single user/device · Deploy the app across your organization using software management tools.",
       "sector": "enterprise_ai",
       "sector_label": "Enterprise AI",
-      "found_at": "2026-08-06T23:03:50.193794+00:00"
+      "found_at": "2026-08-07T10:09:16.047276+00:00"
     },
     {
       "title": "Deploying Microsoft 365 Copilot",
@@ -533,7 +695,7 @@
       "description": "Learn how we deployed Microsoft 365 Copilot and how we're driving adoption internally at Microsoft.",
       "sector": "enterprise_ai",
       "sector_label": "Enterprise AI",
-      "found_at": "2026-08-06T23:03:50.193812+00:00"
+      "found_at": "2026-08-07T10:09:16.047293+00:00"
     },
     {
       "title": "Looking for a Microsoft 365 Co-Pilot Deployment Guide",
@@ -542,7 +704,142 @@
       "description": "With Microsoft lifting the 300-license requirement, we are looking to deploy M365 Co-pilot to the organization. Copilot is going to be a brand- ...",
       "sector": "enterprise_ai",
       "sector_label": "Enterprise AI",
-      "found_at": "2026-08-06T23:03:50.193815+00:00"
+      "found_at": "2026-08-07T10:09:16.047295+00:00"
+    },
+    {
+      "title": "AI ROI: The paradox of rising investment and elusive returns",
+      "url": "https://www.deloitte.com/global/en/issues/ai/ai-roi-the-paradox-of-rising-investment-and-elusive-returns.html",
+      "query": "enterprise AI ROI study",
+      "description": "Deloitte 2025 survey of 1854 execs finds rising AI spend but elusive ROI; leaders make AI strategic, using generative for quick wins and ...",
+      "sector": "enterprise_ai",
+      "sector_label": "Enterprise AI",
+      "found_at": "2026-08-07T10:09:40.478761+00:00"
+    },
+    {
+      "title": "How to Build An Enterprise Ai Strategy That Actually Delivers ROI",
+      "url": "https://www.alation.com/blog/enterprise-ai-strategy-roi/",
+      "query": "enterprise AI ROI study",
+      "description": "# How To Build An Enterprise AI Strategy That Actually Delivers ROI\nMIT [research](https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/) has found that only 5% of enterprise AI pilots from 2025 delivered P&L impact in production. At the same time, [Gartner](https://www.gartner.com/en/newsroom/press-releases/2025-08-26-gartner-predicts-40-percent-of-enterprise-apps-will-feature-task-specific-ai-agents-by-2026-up-from-less-than-5-percent-in-2025) predicts that by end of 2026, AI agents will be embedded in approximately 40% of enterprise applications, a near-tenfold increase in a single year.\n\nThey are building on foundations that cannot support production AI: ungoverned data, unclear business definitions, fragmented access controls, and knowledge that lives inside vendor infrastructure rather than inside the organization itself.\n\n## How to find AI opportunities that will actually deliver ROI\nThe goal is to locate where operational friction intersects with business value: which recurring processes are the most painful, repetitive, and consequential?\n\nThe answer is rarely where technology is most novel; it is where delays, errors, and manual effort are most costly.\n\nWhat can actually be built, governed, and trusted?\n\n## Frequently asked questions\nIt covers use-case selection, data readiness, governance, change management, and ROI measurement — not just model selection or technology procurement.\n\n**Why do most enterprise AI pilots fail to deliver ROI?** MIT research found that only 5% of enterprise AI pilots from 2025 delivered ROI in production.\n\nIt includes metadata management, data lineage, access controls, and business glossaries — the components that allow AI agents to interpret data correctly and act on it consistently.\n\nIt encodes business definitions, data lineage, governance controls, and institutional context that models cannot derive from training data alone.\n\nUnlike single-turn AI interactions, agentic systems orchestrate multi-step workflows, connect to multiple data sources, and adapt based on intermediate results. [Understanding what this shift means for data catalogs and governance](https://www.alation.com/blog/reinventing-data-catalogs-governance-ai-agents/) is increasingly important for enterprise leaders planning AI investments.\n\n**How do you measure ROI from an enterprise AI program?** Starting with tightly scoped quick wins — where success criteria are defined before the pilot begins — makes ROI measurement tractable from day one.\n\n## The bottom line: Governance isn't a constraint; it's the catalyst\n###### Contents\n- Why most enterprise AI strategies stall in pilot\n- What an AI-ready data foundation actually looks like\n- Frequently asked questions",
+      "sector": "enterprise_ai",
+      "sector_label": "Enterprise AI",
+      "found_at": "2026-08-07T10:09:40.478778+00:00"
+    },
+    {
+      "title": "High-Impact AI for the Boardroom — Steering the Enterprise Toward ...",
+      "url": "https://medium.com/@adnanmasood/high-impact-ai-for-the-boardroom-steering-the-enterprise-toward-sustained-roi-7ead26cefdf6",
+      "query": "enterprise AI ROI study",
+      "description": "# High-Impact AI for the Boardroom — Steering the Enterprise Toward Sustained ROI\nFocus on use cases that address key pain points in operations, revenue generation, or customer engagement.",
+      "sector": "enterprise_ai",
+      "sector_label": "Enterprise AI",
+      "found_at": "2026-08-07T10:09:40.478780+00:00"
+    },
+    {
+      "title": "Big Tech's cloud backlog just hit $2.3 trillion — and it's feeding AI capex plans",
+      "url": "https://finance.yahoo.com/technology/article/big-techs-cloud-backlog-just-hit-23-trillion--and-its-feeding-ai-capex-plans-181459457.html",
+      "query": "cloud capex spending 2026",
+      "description": "\"Overall, we now see 2026 hyperscaler capex at over $860 billion (+80% year over year) and see a path toward about $1.2 trillion (+38% year ...",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-07T10:09:44.635283+00:00"
+    },
+    {
+      "title": "Tracking Trillions: The Assumptions Shaping the Scale of the AI Build-Out",
+      "url": "https://www.goldmansachs.com/insights/articles/tracking-trillions-the-assumptions-shaping-scale-of-the-ai-build-out",
+      "query": "cloud capex spending 2026",
+      "description": "The baseline model implies $765 billion in annual AI CapEx in 2026, growing to $1.6 trillion in annual CapEx in 2031. These figures include ...",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-07T10:09:44.635301+00:00"
+    },
+    {
+      "title": "Hyperscalers Plan $630 Billion in 2026 CapEx - Data Center Richness",
+      "url": "https://datacenterrichness.substack.com/p/hyperscalers-plan-630-billion-in",
+      "query": "cloud capex spending 2026",
+      "description": "Big Four plan to invest up to $630 BILLION in capital expenditures for 2026, about a 62 percent increase from the record $388 billion in 2025 ...",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-07T10:09:44.635319+00:00"
+    },
+    {
+      "title": "Investors rotate within AI trade as slowing hyperscaler spending ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/investors-rotate-within-ai-trade-102131863.html",
+      "query": "hyperscaler AI investment",
+      "description": "# Investors rotate within AI trade as slowing hyperscaler spending becomes a growing concern\n## Long-term confidence remains intact\nMadeleine Ronner, Senior Portfolio Manager at DWS, expects upcoming earnings commentary from hyperscalers to continue supporting additional AI investment.",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-07T10:09:49.555060+00:00"
+    },
+    {
+      "title": "Tech companies rack up debt, risks to fund AI ambitions",
+      "url": "https://thehill.com/policy/technology/6008962-hyperscalers-raising-ai-infrastructure-costs/",
+      "query": "hyperscaler AI investment",
+      "description": "# Tech companies rack up debt, risks to fund AI ambitions\n#### The Hill's Headlines (PM) - August 04, 2026\nSpaceX, which acquired xAI earlier this year, is increasingly positioning itself as a hyperscaler, striking multibillion-dollar deals with AI labs to provide computing power.",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-07T10:09:49.555074+00:00"
+    },
+    {
+      "title": "Hyperscaler investment Artificial Intelligence",
+      "url": "https://am.jpmorgan.com/us/en/asset-management/adv/tools/portfolio-tools/pi-2026/gtm-aihyperscalerinvestment/",
+      "query": "hyperscaler AI investment",
+      "description": "This slide looks at the capital investment driving AI infrastructure, and how it's being financed. On the left-hand side, we show capital spending by the ...",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-07T10:09:49.555076+00:00"
+    },
+    {
+      "title": "Cloud AI Market Size, Share & Growth Analysis Report [2034]",
+      "url": "https://www.fortunebusinessinsights.com/cloud-ai-market-108878",
+      "query": "cloud AI revenue growth",
+      "description": "The global cloud AI market size is projected to grow from $133.42 billion in 2026 to $780.64 billion by 2034, at a CAGR of 23.80% during the forecast ...",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-07T10:09:53.601839+00:00"
+    },
+    {
+      "title": "Cloud AI Market Size, Share & Trends Report, 2026-2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/cloud-ai-market-report",
+      "query": "cloud AI revenue growth",
+      "description": "The cloud AI market size was valued at $121.7 billion in 2025, projected to grow from $169.9 billion in 2026 to $1728.4 billion by 2033, at a CAGR of 39.3%",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-07T10:09:53.601855+00:00"
+    },
+    {
+      "title": "Microsoft Cloud and AI strength fuels fourth quarter results",
+      "url": "https://news.microsoft.com/source/2025/07/30/microsoft-cloud-and-ai-strength-fuels-fourth-quarter-results/",
+      "query": "cloud AI revenue growth",
+      "description": "“We’re innovating across the tech stack to help customers adapt and grow in this new era, and this year, Azure surpassed $75 billion in revenue, up 34 percent, driven by growth across all workloads.”\n\n“We closed out the fiscal year with a strong quarter, highlighted by Microsoft Cloud revenue reaching $46.7 billion, up 27% (up 25% in constant currency) year-over-year,” said Amy Hood, executive vice president and chief financial officer of Microsoft.\n\nRevenue in Intelligent Cloud was $29.9 billion and increased 26% (up 25% in constant currency), with the following business highlights:",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-07T10:09:53.601857+00:00"
+    },
+    {
+      "title": "AI Is the Largest Infrastructure Buildout Ever—Are Investments Keeping Up?",
+      "url": "https://futurumgroup.com/insights/ai-is-the-largest-infrastructure-buildout-ever-are-investments-keeping-up/",
+      "query": "cloud infrastructure buildout",
+      "description": "AI infrastructure buildout is reshaping energy, compute, cloud, and applications, with returns tied to investment across all five layers.",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-07T10:10:02.669667+00:00"
+    },
+    {
+      "title": "Oracle's AI Infrastructure Buildout Is Gaining Traction and Why That ...",
+      "url": "https://www.svcp.com/oracles-ai-infrastructure-buildout-is-gaining-traction-and-why-that-matters-for-revenue-in-h2-2026/",
+      "query": "cloud infrastructure buildout",
+      "description": "Total revenue grew 22% year over year, cloud revenue climbed 44% to $8.9 billion, and cloud infrastructure revenue surged 84% to $4.9 billion.",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-07T10:10:02.669681+00:00"
+    },
+    {
+      "title": "What is Cloud Infrastructure?",
+      "url": "https://aws.amazon.com/what-is/cloud-infrastructure/",
+      "query": "cloud infrastructure buildout",
+      "description": "Cloud infrastructure is the collection of hardware and software resources that make up the cloud. Cloud providers maintain global data centers with thousands ...",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-07T10:10:02.669684+00:00"
     }
   ]
 }

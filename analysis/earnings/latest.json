@@ -1,65 +1,21 @@
 {
-  "run_time": "2026-08-06T16:00:34.464966+00:00",
-  "tickers_analyzed": 8,
+  "run_time": "2026-08-07T09:36:52.222290+00:00",
+  "tickers_analyzed": 5,
   "analyses": [
     {
-      "symbol": "KTOS",
-      "company": "Kratos Defense",
+      "symbol": "WPM",
+      "company": "Wheaton Precious Metals",
       "last_quarter": "Q2 2026",
-      "beat_rate": 100.0,
+      "beat_rate": 75.0,
       "flags": [
         "consistent_beater",
-        "hard_to_estimate"
+        "high_eps_growth",
+        "high_rev_growth"
       ],
       "eps_trend": "accelerating",
       "rev_trend": "accelerating",
-      "avg_yoy_eps_growth": 22.2,
-      "avg_yoy_rev_growth": 16.4
-    },
-    {
-      "symbol": "MRK",
-      "company": "Merck & Co",
-      "last_quarter": "Q2 2026",
-      "beat_rate": 87.5,
-      "flags": [
-        "consistent_beater",
-        "high_eps_growth",
-        "hard_to_estimate"
-      ],
-      "eps_trend": "decelerating",
-      "rev_trend": "decelerating",
-      "avg_yoy_eps_growth": 678.36,
-      "avg_yoy_rev_growth": 3.29
-    },
-    {
-      "symbol": "CIFR",
-      "company": "Cipher Digital",
-      "last_quarter": "Q2 2026",
-      "beat_rate": 50.0,
-      "flags": [
-        "high_eps_growth",
-        "hard_to_estimate"
-      ],
-      "eps_trend": "decelerating",
-      "rev_trend": "decelerating",
-      "avg_yoy_eps_growth": 59.45,
-      "avg_yoy_rev_growth": 12.5
-    },
-    {
-      "symbol": "PFE",
-      "company": "Pfizer Inc",
-      "last_quarter": "Q2 2026",
-      "beat_rate": 100.0,
-      "flags": [
-        "consistent_beater",
-        "large_surprises",
-        "high_eps_growth",
-        "hard_to_estimate"
-      ],
-      "eps_trend": "decelerating",
-      "rev_trend": "decelerating",
-      "avg_yoy_eps_growth": 157.85,
-      "avg_yoy_rev_growth": 7.41
+      "avg_yoy_eps_growth": 84.13,
+      "avg_yoy_rev_growth": 68.04
     },
     {
       "symbol": "LEU",
@@ -94,18 +50,20 @@
       "avg_yoy_rev_growth": 831.75
     },
     {
-      "symbol": "Q",
-      "company": "Qnity Electronics",
+      "symbol": "MP",
+      "company": "MP Materials",
       "last_quarter": "Q2 2026",
       "beat_rate": 75.0,
       "flags": [
         "consistent_beater",
-        "large_surprises"
+        "high_rev_growth",
+        "eps_declining",
+        "hard_to_estimate"
       ],
       "eps_trend": "accelerating",
       "rev_trend": "accelerating",
-      "avg_yoy_eps_growth": 21.62,
-      "avg_yoy_rev_growth": 14.75
+      "avg_yoy_eps_growth": -83.44,
+      "avg_yoy_rev_growth": 35.74
     },
     {
       "symbol": "FLNC",
