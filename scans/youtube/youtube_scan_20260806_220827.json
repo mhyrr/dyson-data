@@ -1,0 +1,112 @@
+{
+  "run_time": "2026-08-06T22:08:27.134608+00:00",
+  "lookback_days": 7,
+  "modes_run": {
+    "people_search": true,
+    "channel_uploads": false
+  },
+  "people_checked": 1,
+  "channels_checked": 0,
+  "new_videos_count": 8,
+  "transcripts_fetched": 0,
+  "api_errors": 0,
+  "new_videos": [
+    {
+      "video_id": "d4wULbnNvRI",
+      "title": "NVIDIA Hitting $3 Trillion?! Jensen Huang Reacts 🤔 #mindset",
+      "channel": "Mindsetalpha",
+      "published": "2026-08-06T16:00:27Z",
+      "description": "Is it actually possible for a tech company to hit $3 Trillion in revenue? Jensen Huang shares a shocking reality about their infinite ...",
+      "url": "https://youtube.com/watch?v=d4wULbnNvRI",
+      "thumbnail": "https://i.ytimg.com/vi/d4wULbnNvRI/hqdefault.jpg",
+      "person": "Jensen Huang",
+      "person_role": "CEO, NVIDIA",
+      "source": "people_search"
+    },
+    {
+      "video_id": "jiwuQUyylKY",
+      "title": "Jensen Huang says AI reset the entire world #jensenhuang #nvidia #ai",
+      "channel": "Founderwisdom_hq",
+      "published": "2026-07-31T09:18:25Z",
+      "description": "Jensen Huang believes AI is creating the biggest opportunity for entrepreneurs since the birth of the internet. His argument is ...",
+      "url": "https://youtube.com/watch?v=jiwuQUyylKY",
+      "thumbnail": "https://i.ytimg.com/vi/jiwuQUyylKY/hqdefault.jpg",
+      "person": "Jensen Huang",
+      "person_role": "CEO, NVIDIA",
+      "source": "people_search"
+    },
+    {
+      "video_id": "Jgz0zTz8Aog",
+      "title": "&quot;AI 공포는 거짓이다&quot; ｜젠슨 황이 밝힌 AI의 미래 (Axios 인터뷰)",
+      "channel": "WordTalkTalk English",
+      "published": "2026-08-06T08:22:18Z",
+      "description": "NVIDIA CEO 젠슨 황(Jensen Huang)이 Axios와 진행한 약 1시간 인터뷰를 한국어로 핵심만 정리했습니다. 이번 인터뷰에서는 AI ...",
+      "url": "https://youtube.com/watch?v=Jgz0zTz8Aog",
+      "thumbnail": "https://i.ytimg.com/vi/Jgz0zTz8Aog/hqdefault.jpg",
+      "person": "Jensen Huang",
+      "person_role": "CEO, NVIDIA",
+      "source": "people_search"
+    },
+    {
+      "video_id": "1ukpGQ-25Go",
+      "title": "Jensen Huang Makes the Case for Open-Weights AI Models | Fortune AI Weekly",
+      "channel": "Fortune Magazine",
+      "published": "2026-08-04T15:00:07Z",
+      "description": "An OpenAI agent that hacked Hugging Face reportedly tried to infiltrate other companies. NVIDIA is lobbying Washington to ...",
+      "url": "https://youtube.com/watch?v=1ukpGQ-25Go",
+      "thumbnail": "https://i.ytimg.com/vi/1ukpGQ-25Go/hqdefault.jpg",
+      "person": "Jensen Huang",
+      "person_role": "CEO, NVIDIA",
+      "source": "people_search"
+    },
+    {
+      "video_id": "_fDj6BAKR-g",
+      "title": "NVIDIA CEO Reveals the Truth About AI &amp; Jobs | #AI #ArtificialIntelligence #NVIDIA #JensenHuang #USA",
+      "channel": "Next Tech Pulse ",
+      "published": "2026-07-31T13:29:51Z",
+      "description": "Is AI replacing jobs or creating new opportunities? In this powerful interview, NVIDIA CEO Jensen Huang explains how AI is ...",
+      "url": "https://youtube.com/watch?v=_fDj6BAKR-g",
+      "thumbnail": "https://i.ytimg.com/vi/_fDj6BAKR-g/hqdefault.jpg",
+      "person": "Jensen Huang",
+      "person_role": "CEO, NVIDIA",
+      "source": "people_search"
+    },
+    {
+      "video_id": "NRWURSgH1FM",
+      "title": "The idea that AI destroys jobs is, in Jensen Huang&#39;s words, &quot;exactly backwards.&quot; #shorts",
+      "channel": "Human AI",
+      "published": "2026-07-31T05:30:55Z",
+      "description": "The NVIDIA CEO breaks down the real relationship between AI, automation, and employment — with hard numbers that flip the ...",
+      "url": "https://youtube.com/watch?v=NRWURSgH1FM",
+      "thumbnail": "https://i.ytimg.com/vi/NRWURSgH1FM/hqdefault.jpg",
+      "person": "Jensen Huang",
+      "person_role": "CEO, NVIDIA",
+      "source": "people_search"
+    },
+    {
+      "video_id": "F1WKqX7KRJo",
+      "title": "AI Needs Plumbers? Jensen Huang Says Yes 🛠️ #Shorts",
+      "channel": "Daily World Spark",
+      "published": "2026-08-02T13:22:52Z",
+      "description": "Why is “AI needs plumbers” surging again? NVIDIA CEO Jensen Huang said at Davos in January 2026 that growing U.S. demand ...",
+      "url": "https://youtube.com/watch?v=F1WKqX7KRJo",
+      "thumbnail": "https://i.ytimg.com/vi/F1WKqX7KRJo/hqdefault.jpg",
+      "person": "Jensen Huang",
+      "person_role": "CEO, NVIDIA",
+      "source": "people_search"
+    },
+    {
+      "video_id": "Stkquor33bw",
+      "title": "【Yaay English】AI 真的會搶走你的工作嗎？黃仁勳揭開未來職場真相｜NVIDIA CEO Jensen Huang AI and Job Creation (中英雙語字幕)",
+      "channel": "Yaay World",
+      "published": "2026-08-06T07:37:23Z",
+      "description": "AI 正在改變每一個產業，但它真的會讓人失業嗎？ 在這段訪談中，NVIDIA 輝達 CEO 黃仁勳，分享他對 AI 與工作的最新看法。",
+      "url": "https://youtube.com/watch?v=Stkquor33bw",
+      "thumbnail": "https://i.ytimg.com/vi/Stkquor33bw/hqdefault.jpg",
+      "person": "Jensen Huang",
+      "person_role": "CEO, NVIDIA",
+      "source": "people_search"
+    }
+  ],
+  "transcript_files": []
+}

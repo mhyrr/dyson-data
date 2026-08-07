@@ -1,12 +1,16 @@
 {
-  "run_time": "2026-08-06T14:00:33.986198+00:00",
+  "run_time": "2026-08-06T22:59:38.134216+00:00",
   "days_scanned": 7,
+  "data_source": "Federal Register API (api/v1/articles.json)",
+  "agencies_checked": [
+    "energy-department",
+    "nuclear-regulatory-commission",
+    "federal-energy-regulatory-commission",
+    "defense-department"
+  ],
+  "total_articles_scanned": 108,
   "total_mentions": 0,
+  "matched_articles_count": 0,
   "mentions": [],
-  "sources_checked": [
-    "DOE",
-    "NRC",
-    "FERC",
-    "DOD"
-  ]
+  "matched_articles": []
 }
