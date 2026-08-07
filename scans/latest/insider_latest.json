@@ -1,12 +1,25 @@
 {
-  "run_time": "2026-08-06T13:15:33.714006+00:00",
+  "run_time": "2026-08-07T13:15:40.170525+00:00",
   "days_scanned": 7,
   "total_tickers": 41,
-  "total_transactions": 38,
+  "total_transactions": 45,
   "buy_count": 2,
-  "sell_count": 36,
+  "sell_count": 43,
   "cluster_buys": [],
   "transactions": [
+    {
+      "ticker": "MPWR",
+      "insider": "Robert W Dean II",
+      "position": "Interim CFO",
+      "filing_date": "2026-08-06",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 105.0,
+      "price": 1344.27,
+      "value": 141148.35,
+      "acquired_disposed": "D",
+      "accession": "0001214659-26-009739"
+    },
     {
       "ticker": "MPWR",
       "insider": "Maurice Sciammas",
@@ -86,6 +99,84 @@
       "accession": "0001628280-26-051905"
     },
     {
+      "ticker": "NVT",
+      "insider": "Beth Wozniak",
+      "position": "Chair & CEO",
+      "filing_date": "2026-08-06",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 4856.0,
+      "price": 162.7136,
+      "value": 790137.24,
+      "acquired_disposed": "D",
+      "accession": "0000897069-26-001592"
+    },
+    {
+      "ticker": "NVT",
+      "insider": "Beth Wozniak",
+      "position": "Chair & CEO",
+      "filing_date": "2026-08-06",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 5885.0,
+      "price": 163.609,
+      "value": 962838.97,
+      "acquired_disposed": "D",
+      "accession": "0000897069-26-001592"
+    },
+    {
+      "ticker": "NVT",
+      "insider": "Beth Wozniak",
+      "position": "Chair & CEO",
+      "filing_date": "2026-08-06",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 32280.0,
+      "price": 164.7311,
+      "value": 5317519.91,
+      "acquired_disposed": "D",
+      "accession": "0000897069-26-001592"
+    },
+    {
+      "ticker": "NVT",
+      "insider": "Beth Wozniak",
+      "position": "Chair & CEO",
+      "filing_date": "2026-08-06",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 3240.0,
+      "price": 165.3376,
+      "value": 535693.82,
+      "acquired_disposed": "D",
+      "accession": "0000897069-26-001592"
+    },
+    {
+      "ticker": "NVT",
+      "insider": "Randolph A. Wacker",
+      "position": "SVP & Chief Accounting Officer",
+      "filing_date": "2026-08-06",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 22524.713,
+      "price": 164.62,
+      "value": 3708018.25,
+      "acquired_disposed": "D",
+      "accession": "0000897069-26-001590"
+    },
+    {
+      "ticker": "MSFT",
+      "insider": "Judson Althoff",
+      "position": "CEO Microsoft Commercial",
+      "filing_date": "2026-08-06",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 10000.0,
+      "price": 487.893,
+      "value": 4878930.0,
+      "acquired_disposed": "D",
+      "accession": "0000789019-26-000143"
+    },
+    {
       "ticker": "MSFT",
       "insider": "Takeshi Numoto",
       "position": "EVP, Chief Marketing Officer",
@@ -136,6 +227,19 @@
       "value": 346453513.69,
       "acquired_disposed": "D",
       "accession": "0001018724-26-000028"
+    },
+    {
+      "ticker": "PFE",
+      "insider": "Jennifer B. Damico",
+      "position": "SVP & Controller",
+      "filing_date": "2026-08-06",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 3278.0,
+      "price": 25.4,
+      "value": 83261.2,
+      "acquired_disposed": "D",
+      "accession": "0001225208-26-007004"
     },
     {
       "ticker": "PFE",
@@ -487,19 +591,6 @@
       "value": 138600.0,
       "acquired_disposed": "D",
       "accession": "0002021433-26-000017"
-    },
-    {
-      "ticker": "GOOG",
-      "insider": "Frances Arnold",
-      "position": "Director",
-      "filing_date": "2026-07-30",
-      "transaction_code": "S",
-      "transaction_type": "SELL",
-      "shares": 82.0,
-      "price": 333.39,
-      "value": 27337.98,
-      "acquired_disposed": "D",
-      "accession": "0001193125-26-326284"
     }
   ]
 }
