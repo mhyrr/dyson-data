@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-08-10T18:27:20.112143+00:00",
+  "run_time": "2026-08-10T18:27:03.271315+00:00",
   "days_ahead": 45,
   "days_back": 14,
   "total_tickers": 41,
@@ -60,12 +60,12 @@
           "date": "Mon, 10 Aug 2026 16:25:41 +0000"
         },
         {
-          "title": "GDS Gears Up to Report Q2 Earnings: Here's What Investors Should Know",
-          "date": "Mon, 10 Aug 2026 14:23:00 +0000"
+          "title": "Applied Optoelectronics Zooms 13% Higher on Pivotal Quarterly Print; Coherent Advances 13%, Lumentum Adds 8%",
+          "date": "Fri, 07 Aug 2026 14:10:00 +0000"
         },
         {
-          "title": "Earnings Season, Persian Gulf Lull, Lift Wall Street Pre-Bell; Asia, Europe Up",
-          "date": "Mon, 10 Aug 2026 11:15:43 +0000"
+          "title": "GDS Gears Up to Report Q2 Earnings: Here's What Investors Should Know",
+          "date": "Mon, 10 Aug 2026 14:23:00 +0000"
         }
       ],
       "last_earnings_eps_surprise_pct": 0.04,
@@ -293,16 +293,16 @@
       "notes": "Add to existing 52 shares on dips; Blackwell ramp catalyst",
       "recent_headlines": [
         {
-          "title": "BofA: Nvidia's next earnings report could kick off a \"multi-quarter upgrade cycle\"",
-          "date": "Mon, 10 Aug 2026 17:51:00 +0000"
-        },
-        {
-          "title": "NVDA Teams Up With Wall Street Giants On Massive $500B AI Infrastructure Funding Push: Report",
-          "date": "Mon, 10 Aug 2026 17:23:17 +0000"
+          "title": "Pfizer's Earnings Have Declined 58% This Year. Is a Dividend Cut Around the Corner?",
+          "date": "Mon, 10 Aug 2026 18:00:59 +0000"
         },
         {
           "title": "Nebius Group's Next Earnings Report on Aug. 12 Could Send the Stock Soaring. Here's Why.",
           "date": "Mon, 10 Aug 2026 17:54:38 +0000"
+        },
+        {
+          "title": "BofA: Nvidia's next earnings report could kick off a \"multi-quarter upgrade cycle\"",
+          "date": "Mon, 10 Aug 2026 17:51:00 +0000"
         }
       ],
       "last_earnings_eps_surprise_pct": 0.06,
@@ -980,16 +980,16 @@
       "notes": "CPO fiber backbone; 5x rack density increase; Rubin transition",
       "recent_headlines": [
         {
+          "title": "NETGEAR Q2 Earnings Beat Estimates, Revenues Decline Y/Y",
+          "date": "Fri, 07 Aug 2026 15:43:00 +0000"
+        },
+        {
           "title": "Owens-Corning Inc (OC) (Q2 2026) Earnings Call Highlights: Strong Revenue and Synergy Gains ...",
           "date": "Wed, 05 Aug 2026 21:02:13 +0000"
         },
         {
-          "title": "FSLR, ENPH, ARRY, SEDG Stocks Rally \u2013 Trump Administration Reportedly Considers Tariffs, Price Floor For Solar Panel Raw Material",
-          "date": "Tue, 04 Aug 2026 17:38:06 +0000"
-        },
-        {
-          "title": "NETGEAR Q2 Earnings Beat Estimates, Revenues Decline Y/Y",
-          "date": "Fri, 07 Aug 2026 15:43:00 +0000"
+          "title": "Marvell Surges as China Ban Report Reignites Optical-Networking Stocks",
+          "date": "Tue, 04 Aug 2026 18:06:00 +0000"
         }
       ],
       "last_earnings_eps_surprise_pct": 0.04,
@@ -1063,12 +1063,12 @@
           "date": "Sat, 01 Aug 2026 01:00:53 +0000"
         },
         {
-          "title": "Hubbell (HUBB) Could Be 12% Undervalued On Raised 2026 Guidance",
-          "date": "Wed, 29 Jul 2026 18:12:14 +0000"
+          "title": "Hubbell Q2 Earnings Call Highlights",
+          "date": "Tue, 28 Jul 2026 18:04:36 +0000"
         },
         {
-          "title": "Hubbell Incorporated Q2 2026 Earnings Call Summary",
-          "date": "Tue, 28 Jul 2026 19:02:00 +0000"
+          "title": "Hubbell (HUBB) Could Be 12% Undervalued On Raised 2026 Guidance",
+          "date": "Wed, 29 Jul 2026 18:12:14 +0000"
         }
       ],
       "last_earnings_eps_surprise_pct": 0.02,
@@ -1217,12 +1217,12 @@
       "notes": "Quality at 200-day SMA; cloud+AI+enterprise moat; already own 3 shares",
       "recent_headlines": [
         {
-          "title": "Nvidia Poised for Second-Quarter Sales Beat, Upbeat Guidance, BofA Says",
-          "date": "Mon, 10 Aug 2026 16:55:13 +0000"
-        },
-        {
           "title": "MSFT Stock Hits Highest Level This Year: Microsoft To Reportedly Hike Production Of AI Chips",
           "date": "Mon, 10 Aug 2026 16:54:25 +0000"
+        },
+        {
+          "title": "Oh great, Microsoft reportedly hikes Windows 11 licence prices to potentially bring more pain to laptop buyers",
+          "date": "Mon, 10 Aug 2026 15:59:04 +0000"
         },
         {
           "title": "Microsoft, Amazon, Micron and Alphabet are part of Zacks Earnings Preview",
@@ -1377,16 +1377,16 @@
       "notes": "DOWNGRADED Jul 13: board-level is the losing layer (custom silicon hollows the VRM socket); -21% in a month + accounting-error disclosure overhang. Hold 3sh, add only 1150-1250 if at all",
       "recent_headlines": [
         {
-          "title": "Buy MPWR and MCHP With Solid Short-Term Price and Long-Term EPS Upside",
-          "date": "Fri, 07 Aug 2026 13:44:00 +0000"
-        },
-        {
           "title": "Monolithic Power Systems (MPWR) Q2 2026 Earnings Call Transcript",
           "date": "Tue, 04 Aug 2026 00:14:32 +0000"
         },
         {
           "title": "Monolithic Power Systems Q2 Earnings Call Highlights",
           "date": "Sat, 01 Aug 2026 00:03:04 +0000"
+        },
+        {
+          "title": "Monolithic Power Systems Inc (MPWR) (Q2 2026) Earnings Call Highlights: Record Revenue and ...",
+          "date": "Fri, 31 Jul 2026 05:01:52 +0000"
         }
       ],
       "last_earnings_eps_surprise_pct": 0.15,
@@ -1857,12 +1857,12 @@
           "date": "Fri, 07 Aug 2026 14:19:52 +0000"
         },
         {
-          "title": "BWX Technologies Inc (BWXT) (Q2 2026) Earnings Call Highlights: Record Backlog and Strategic ...",
-          "date": "Tue, 04 Aug 2026 05:06:34 +0000"
+          "title": "Should BWX Technologies\u2019 Guidance Hike and Medical Exit Reshape BWXT\u2019s Nuclear\u2011Focused Investment Case?",
+          "date": "Wed, 05 Aug 2026 05:11:08 +0000"
         },
         {
-          "title": "BWX Technologies Q2 Earnings Call Highlights",
-          "date": "Mon, 03 Aug 2026 23:03:50 +0000"
+          "title": "BWXT Q2 Earnings Call Centers on Higher Outlook and Nuclear Focus",
+          "date": "Tue, 04 Aug 2026 15:32:00 +0000"
         }
       ],
       "last_earnings_eps_surprise_pct": 0.03,
@@ -1932,16 +1932,16 @@
       "notes": "$5.5B AWS lease + Google deal; HPC revenue starts Aug 2026; analysts see 80-100% upside; binding contracts not LOIs; IREN companion play",
       "recent_headlines": [
         {
-          "title": "MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin\u2019s $65K Push",
-          "date": "Fri, 07 Aug 2026 19:13:13 +0000"
-        },
-        {
           "title": "Cipher Digital IFR Q2 Earnings Call Highlights Early HPC Delivery",
           "date": "Fri, 07 Aug 2026 18:50:00 +0000"
         },
         {
           "title": "Cipher Digital\u2019s Black Pearl site is earning revenue ahead of schedule: Q2 earnings",
           "date": "Tue, 04 Aug 2026 22:11:44 +0000"
+        },
+        {
+          "title": "Cipher Mining Q2 Earnings Call Highlights",
+          "date": "Tue, 04 Aug 2026 15:04:41 +0000"
         }
       ],
       "last_earnings_eps_surprise_pct": -4.91,
@@ -2015,12 +2015,12 @@
           "date": "Sun, 09 Aug 2026 16:03:49 +0000"
         },
         {
-          "title": "Williams Companies Inc (WMB) (Q2 2026) Earnings Call Highlights: Raises Guidance and Boosts ...",
-          "date": "Tue, 04 Aug 2026 21:08:07 +0000"
+          "title": "Top Stock Reports for SpaceX, Arista Networks & Boeing",
+          "date": "Fri, 07 Aug 2026 21:17:00 +0000"
         },
         {
-          "title": "Williams Companies, Inc. (The) (WMB) Q2 Earnings and Revenues Lag Estimates",
-          "date": "Mon, 03 Aug 2026 21:45:06 +0000"
+          "title": "Williams Companies Q2 Earnings & Revenues Miss Estimates, Increase Y/Y",
+          "date": "Fri, 07 Aug 2026 16:51:00 +0000"
         }
       ],
       "last_earnings_eps_surprise_pct": -0.02,
@@ -2647,12 +2647,12 @@
           "date": "Sat, 08 Aug 2026 19:03:47 +0000"
         },
         {
-          "title": "MP Q2 Earnings Call Focuses on Magnet Ramp and Rare Earth Expansion",
-          "date": "Fri, 07 Aug 2026 14:00:00 +0000"
+          "title": "MP Earnings Show Chinese Rare-Earth Monopoly Is Fading. The Stock Is Up.",
+          "date": "Fri, 07 Aug 2026 20:43:00 +0000"
         },
         {
-          "title": "MP Materials Corp. (MP) Reports Q2 Loss, Beats Revenue Estimates",
-          "date": "Thu, 06 Aug 2026 23:10:20 +0000"
+          "title": "MP Q2 Earnings Call Focuses on Magnet Ramp and Rare Earth Expansion",
+          "date": "Fri, 07 Aug 2026 14:00:00 +0000"
         }
       ],
       "last_earnings_eps_surprise_pct": -1.5,
@@ -2928,16 +2928,16 @@
       "notes": "Jul 13: $232 \u2014 nearly in the flush zone. Aug 4 FQ3 print (cons EPS ~$1.47) is the trigger: b-t-b wobble to $210-225 initiates $5-7K; below $190 (~30x fwd) real position. Founder selling + 33% O&G back",
       "recent_headlines": [
         {
+          "title": "POWL Q3 Earnings Call Highlights Record Orders and Capacity Push",
+          "date": "Wed, 05 Aug 2026 14:00:00 +0000"
+        },
+        {
+          "title": "Powell Industries Inc (POWL) (Q3 2026) Earnings Call Highlights: Record Orders and Backlog ...",
+          "date": "Tue, 04 Aug 2026 23:01:53 +0000"
+        },
+        {
           "title": "Powell Industries Q3 Earnings Call Highlights",
           "date": "Tue, 04 Aug 2026 17:04:33 +0000"
-        },
-        {
-          "title": "Powell Industries Q3 Earnings & Revenues Miss Estimates",
-          "date": "Tue, 04 Aug 2026 15:57:00 +0000"
-        },
-        {
-          "title": "Powell (NASDAQ:POWL) Misses Q2 CY2026 Revenue Estimates, Stock Drops 14.2%",
-          "date": "Mon, 03 Aug 2026 21:06:45 +0000"
         }
       ],
       "last_earnings_eps_surprise_pct": -0.03,
@@ -3007,16 +3007,16 @@
       "notes": "NEW Jul 13: 11.5x fwd P/E \u2014 the only cheap name in a layer that re-rated to 35-60x (POWL 48x, HPS.A 60x). Conduit/cable-tray content scales with every DC MW. The hair: PVC pricing pressure \u2014 that's wh",
       "recent_headlines": [
         {
+          "title": "Atkore Inc (ATKR) (Q3 2026) Earnings Call Highlights: Strong Sales Growth Amid Acquisition ...",
+          "date": "Fri, 07 Aug 2026 19:01:08 +0000"
+        },
+        {
           "title": "Atkore (ATKR) Rockets 28% Despite Q2 Slump on $3.8B Buyout",
           "date": "Mon, 03 Aug 2026 19:12:14 +0000"
         },
         {
-          "title": "Atkore Inc. (ATKR) Q3 Earnings and Revenues Top Estimates",
-          "date": "Mon, 03 Aug 2026 11:10:02 +0000"
-        },
-        {
-          "title": "Atkore Jumps After Earnings Beat and Prysmian Agrees $95-a-Share Acquisition",
-          "date": "Mon, 03 Aug 2026 10:29:11 +0000"
+          "title": "Stocks Rise Pre-Bell as Trump Calls Off Planned Iran Strikes; Labor Market Data, Corporate Earnings on Deck",
+          "date": "Mon, 03 Aug 2026 11:51:20 +0000"
         }
       ],
       "last_earnings_eps_surprise_pct": 0.29,
@@ -3086,16 +3086,16 @@
       "notes": "NEW Jul 23 (thesis/2026_jul_23_solid_state_storage_battery_thesis.html). Orphan holding now tracked: 120sh, ~flat vs $15.40 cost. NOT solid-state \u2014 Li-ion grid-storage integrator. Bull: $5.6B record b",
       "recent_headlines": [
         {
-          "title": "FLNC Q3 Earnings Call Highlights Supply Delays, Data Center Demand",
-          "date": "Mon, 10 Aug 2026 14:00:00 +0000"
-        },
-        {
           "title": "Fluence Energy Inc (FLNC) (Q3 2026) Earnings Call Highlights: Record Orders and Backlog Amid ...",
           "date": "Thu, 06 Aug 2026 23:14:02 +0000"
         },
         {
           "title": "Fluence Energy Q3 Earnings Call Highlights",
           "date": "Thu, 06 Aug 2026 18:04:06 +0000"
+        },
+        {
+          "title": "Compared to Estimates, Fluence Energy (FLNC) Q3 Earnings: A Look at Key Metrics",
+          "date": "Thu, 06 Aug 2026 00:30:03 +0000"
         }
       ],
       "last_earnings_eps_surprise_pct": -5,

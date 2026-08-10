@@ -1,0 +1,36 @@
+{
+  "run_time": "2026-08-10T18:32:54.380164+00:00",
+  "days_scanned": 7,
+  "total_tickers": 1,
+  "total_filings": 2,
+  "material_filings": 2,
+  "filings": [
+    {
+      "ticker": "KMI",
+      "filing_date": "2026-08-10",
+      "date_of_report": "2026-08-07",
+      "items": [
+        "Item 7.01"
+      ],
+      "material": true,
+      "description": "On August 7, 2026, Kinder Morgan, Inc. (KMI) announced that representatives of KMI intend to participate at the Citi 2026 Natural Resources Conference on August 11-12, 2026, to discuss the business and affairs of KMI. Materials to be used during the event will be available before 8:00 a.m. Central Time on August 10, 2026, on KMI\u2019s website at: https://ir.kindermorgan.com/events-and-presentations/default.aspx.",
+      "accession": "0001506307-26-000111",
+      "has_earnings": false,
+      "has_press_release": false
+    },
+    {
+      "ticker": "KMI",
+      "filing_date": "2026-08-03",
+      "date_of_report": "2026-07-28",
+      "items": [
+        "Item 8.01",
+        "Item 9.01"
+      ],
+      "material": true,
+      "description": "below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following",
+      "accession": "0001104659-26-089797",
+      "has_earnings": false,
+      "has_press_release": false
+    }
+  ]
+}
