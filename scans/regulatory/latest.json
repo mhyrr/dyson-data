@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-08-07T14:00:40.456596+00:00",
+  "run_time": "2026-08-10T14:00:05.861106+00:00",
   "days_scanned": 7,
   "data_source": "Federal Register API (api/v1/articles.json)",
   "agencies_checked": [
@@ -8,9 +8,9 @@
     "federal-energy-regulatory-commission",
     "defense-department"
   ],
-  "total_articles_scanned": 71,
+  "total_articles_scanned": 119,
   "total_mentions": 1,
-  "matched_articles_count": 1,
+  "matched_articles_count": 2,
   "mentions": [
     {
       "ticker": "WMB",
@@ -19,6 +19,25 @@
     }
   ],
   "matched_articles": [
+    {
+      "source": "FederalRegister",
+      "agency": "energy-department",
+      "title": "Southwest Power Pool, Inc.; AEP Oklahoma Transmission Company, Inc.; AEP Southwestern Transmission Company, Inc.; Deseret Generation & Transmission Co-Operative, Inc.; Empire District Electric Company; Evergy Kansas Central, Inc.; Evergy Kansas South, Inc.; Evergy Metro, Inc.; Evergy Missouri West, Inc.; GridLiance High Plains LLC; ITC Great Plains, LLC; Mountrail-Williams Electric Cooperative; NextEra Energy Transmission Southwest, LLC; NorthWestern Energy Public Service Corporation; Oklahoma Gas and Electric Company; Prairie Wind Transmission, LLC; Public Service Company of Oklahoma; Southwestern Electric Power Company; Southwestern Public Service Company; Transource Missouri, LLC; Transource Oklahoma, LLC; Tri-State Generation and Transmission Association, Inc.; Upper Missouri G. & T. Electric Cooperative, Inc.; Notice Establishing Answer Period",
+      "publication_date": "2026-08-07",
+      "document_number": "2026-16174",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/07/2026-16174/southwest-power-pool-inc-aep-oklahoma-transmission-company-inc-aep-southwestern-transmission-company",
+      "type": "Notice",
+      "raw_text_url": null,
+      "mentions": [
+        {
+          "ticker": "WMB",
+          "matched_name": "Williams",
+          "matched_in": "title"
+        }
+      ],
+      "raw_text_length": 2530,
+      "raw_text": "[Federal Register Volume 91, Number 151 (Friday, August 7, 2026)]\n[Notices]\n[Page 51165]\nFrom the Federal Register Online via the Government Publishing Office [www.gpo.gov]\n[FR Doc No: 2026-16174]\n\n\n-----------------------------------------------------------------------\n\nDEPARTMENT OF ENERGY\n\nFederal Energy Regulatory Commission\n\n[Docket No. EL26-68-000]\n\n\nSouthwest Power Pool, Inc.; AEP Oklahoma Transmission Company, \nInc.; AEP Southwestern Transmission Company, Inc.; Deseret Generation & \nTransmission Co-Operative, Inc.; Empire District Electric Company; \nEvergy Kansas Central, Inc.; Evergy Kansas South, Inc.; Evergy Metro, \nInc.; Evergy Missouri West, Inc.; GridLiance High Plains LLC; ITC Great \nPlains, LLC; Mountrail-Williams Electric Cooperative; NextEra Energy \nTransmission Southwest, LLC; NorthWestern Energy Public Service \nCorporation; Oklahoma Gas and Electric Company; Prairie Wind \nTransmission, LLC; Public Service Company of Oklahoma; Southwestern \nElectric Power Company; Southwestern Public Service Company; Transource \nMissouri, LLC; Transource Oklahoma, LLC; Tri-State Generation and \nTransmission Association, Inc.; Upper Missouri G. & T. Electric \nCooperative, Inc.; Notice Establishing Answer Period\n\n    On August 3, 2026, pursuant to Rule 212 of the Commission's Rules \nof Practice and Procedure,\\1\\ Southwest Power Pool, Inc. (SPP), \nAmerican Electric Power Service Corporation, Evergy, Inc., GridLiance \nHigh Plains LLC, ITC Great Plains, LLC, Mountrail-Williams Electric \nCooperative, NextEra Energy Transmission Southwest, LLC, Northwestern \nEnergy, Upper Missouri G. & T. Electric Cooperative, Inc., Oklahoma Gas \nand Electric Company, Tri-State Generation and Transmission \nAssociation, Inc., and Xcel Energy Services Inc. (collectively, Joint \nMovants) filed a motion to hold the show cause proceeding in Docket No. \nEL26-68-000 in abeyance for 95 days. Joint Movants request that the \nCommission shorten the answer period for the motion to five days, such \nthat answers to the motion would be due on or by August 10, 2026.\n---------------------------------------------------------------------------\n\n    \\1\\ 18 CFR 385.212 (2025).\n---------------------------------------------------------------------------\n\n    Upon consideration, notice is hereby given that answers in response \nto the motion for abeyance are due by 5:00 p.m. Eastern Time on August \n7, 2026.\n\n    Dated: August 4, 2026.\nDebbie-Anne A. Reese,\nSecretary.\n[FR Doc. 2026-16174 Filed 8-6-26; 8:45 am]\nBILLING CODE 6717-01-P"
+    },
     {
       "source": "FederalRegister",
       "agency": "federal-energy-regulatory-commission",
