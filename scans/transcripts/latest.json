@@ -1,6 +1,6 @@
 {
-  "run_time": "2026-08-07T16:01:11.803851+00:00",
-  "total_filings": 13,
+  "run_time": "2026-08-10T16:00:38.453993+00:00",
+  "total_filings": 10,
   "filings": [
     {
       "ticker": "KTOS",
@@ -32,7 +32,7 @@
           "path": "KTOS/2026-08-04/readinessdeliveredlogo.jpg"
         }
       ],
-      "fetched_at": "2026-08-07T16:00:42.949285+00:00"
+      "fetched_at": "2026-08-10T16:00:08.594438+00:00"
     },
     {
       "ticker": "MRK",
@@ -69,39 +69,7 @@
           "path": "MRK/2026-08-04/tm2621496d1_ex99-2.htm"
         }
       ],
-      "fetched_at": "2026-08-07T16:00:44.819948+00:00"
-    },
-    {
-      "ticker": "BWXT",
-      "company": "BWX Technologies",
-      "earnings_date": "2026-08-03",
-      "filing_date": "2026-08-03",
-      "accession": "0001486957-26-000041",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0001486957-26-000041.txt",
-          "size_bytes": 570863,
-          "path": "BWXT/2026-08-03/0001486957-26-000041.txt"
-        },
-        {
-          "filename": "bwxt_63026x8k.htm",
-          "size_bytes": 24426,
-          "path": "BWXT/2026-08-03/bwxt_63026x8k.htm"
-        },
-        {
-          "filename": "bwxt_63026xerexhibit991.htm",
-          "size_bytes": 519887,
-          "path": "BWXT/2026-08-03/bwxt_63026xerexhibit991.htm"
-        },
-        {
-          "filename": "newsreleasegraphic.jpg",
-          "size_bytes": 18805,
-          "path": "BWXT/2026-08-03/newsreleasegraphic.jpg"
-        }
-      ],
-      "fetched_at": "2026-08-07T16:00:46.419614+00:00"
+      "fetched_at": "2026-08-10T16:00:10.542444+00:00"
     },
     {
       "ticker": "CIFR",
@@ -238,39 +206,7 @@
           "path": "CIFR/2026-08-04/q226_earningsxprxdraftxvf.htm"
         }
       ],
-      "fetched_at": "2026-08-07T16:00:54.025727+00:00"
-    },
-    {
-      "ticker": "WMB",
-      "company": "Williams Companies",
-      "earnings_date": "2026-08-03",
-      "filing_date": "2026-08-03",
-      "accession": "0000107263-26-000024",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0000107263-26-000024.txt",
-          "size_bytes": 1448948,
-          "path": "WMB/2026-08-03/0000107263-26-000024.txt"
-        },
-        {
-          "filename": "wmb-20260803.htm",
-          "size_bytes": 29944,
-          "path": "WMB/2026-08-03/wmb-20260803.htm"
-        },
-        {
-          "filename": "wmb_20260630xer.htm",
-          "size_bytes": 1219000,
-          "path": "WMB/2026-08-03/wmb_20260630xer.htm"
-        },
-        {
-          "filename": "wmb_image1a19.jpg",
-          "size_bytes": 13508,
-          "path": "WMB/2026-08-03/wmb_image1a19.jpg"
-        }
-      ],
-      "fetched_at": "2026-08-07T16:00:55.701965+00:00"
+      "fetched_at": "2026-08-10T16:00:18.300271+00:00"
     },
     {
       "ticker": "PFE",
@@ -302,7 +238,7 @@
           "path": "PFE/2026-08-04/pfizerlogo.jpg"
         }
       ],
-      "fetched_at": "2026-08-07T16:00:57.321198+00:00"
+      "fetched_at": "2026-08-10T16:00:20.036698+00:00"
     },
     {
       "ticker": "LEU",
@@ -329,7 +265,7 @@
           "path": "LEU/2026-08-05/leu-20260805.htm"
         }
       ],
-      "fetched_at": "2026-08-07T16:00:58.667622+00:00"
+      "fetched_at": "2026-08-10T16:00:21.425844+00:00"
     },
     {
       "ticker": "EOSE",
@@ -401,7 +337,7 @@
           "path": "EOSE/2026-08-05/eoseq2fy26earningsreleas009.jpg"
         }
       ],
-      "fetched_at": "2026-08-07T16:01:02.659394+00:00"
+      "fetched_at": "2026-08-10T16:00:25.645638+00:00"
     },
     {
       "ticker": "MP",
@@ -433,7 +369,7 @@
           "path": "MP/2026-08-06/mpmcq22026er.htm"
         }
       ],
-      "fetched_at": "2026-08-07T16:01:04.311785+00:00"
+      "fetched_at": "2026-08-10T16:00:27.316106+00:00"
     },
     {
       "ticker": "Q",
@@ -460,86 +396,134 @@
           "path": "Q/2026-08-04/q-20260804.htm"
         }
       ],
-      "fetched_at": "2026-08-07T16:01:05.659419+00:00"
+      "fetched_at": "2026-08-10T16:00:28.733819+00:00"
     },
     {
-      "ticker": "POWL",
-      "company": "Powell Industries",
-      "earnings_date": "2026-08-03",
-      "filing_date": "2026-08-03",
-      "accession": "0000080420-26-000103",
-      "form": "8-K",
-      "items": "2.02,8.01,9.01",
-      "documents": [
-        {
-          "filename": "0000080420-26-000103.txt",
-          "size_bytes": 381472,
-          "path": "POWL/2026-08-03/0000080420-26-000103.txt"
-        },
-        {
-          "filename": "ex991-powlq3xfy2026earning.htm",
-          "size_bytes": 110803,
-          "path": "POWL/2026-08-03/ex991-powlq3xfy2026earning.htm"
-        },
-        {
-          "filename": "ex992-powlq3xfy2026dividen.htm",
-          "size_bytes": 7116,
-          "path": "POWL/2026-08-03/ex992-powlq3xfy2026dividen.htm"
-        },
-        {
-          "filename": "image_01a.jpg",
-          "size_bytes": 38009,
-          "path": "POWL/2026-08-03/image_01a.jpg"
-        },
-        {
-          "filename": "image_0a.jpg",
-          "size_bytes": 38009,
-          "path": "POWL/2026-08-03/image_0a.jpg"
-        },
-        {
-          "filename": "powl-20260803.htm",
-          "size_bytes": 29959,
-          "path": "POWL/2026-08-03/powl-20260803.htm"
-        }
-      ],
-      "fetched_at": "2026-08-07T16:01:07.817981+00:00"
-    },
-    {
-      "ticker": "ATKR",
-      "company": "Atkore Inc",
-      "earnings_date": "2026-08-03",
-      "filing_date": "2026-08-03",
-      "accession": "0001628280-26-051510",
+      "ticker": "OKLO",
+      "company": "Oklo Inc",
+      "earnings_date": "2026-08-07",
+      "filing_date": "2025-03-24",
+      "accession": "0001104659-25-027276",
       "form": "8-K",
       "items": "2.02,9.01",
       "documents": [
         {
-          "filename": "0001628280-26-051510.txt",
-          "size_bytes": 638654,
-          "path": "ATKR/2026-08-03/0001628280-26-051510.txt"
+          "filename": "0001104659-25-027276.txt",
+          "size_bytes": 5009391,
+          "path": "OKLO/2025-03-24/0001104659-25-027276.txt"
         },
         {
-          "filename": "atkorelogo.jpg",
-          "size_bytes": 4920,
-          "path": "ATKR/2026-08-03/atkorelogo.jpg"
+          "filename": "Financial_Report.xlsx",
+          "size_bytes": 5749,
+          "path": "OKLO/2025-03-24/Financial_Report.xlsx"
         },
         {
-          "filename": "atkr-20260803.htm",
-          "size_bytes": 21911,
-          "path": "ATKR/2026-08-03/atkr-20260803.htm"
+          "filename": "tm2510004d1_8k.htm",
+          "size_bytes": 24789,
+          "path": "OKLO/2025-03-24/tm2510004d1_8k.htm"
         },
         {
-          "filename": "atkr-20260803_g1.gif",
-          "size_bytes": 12965,
-          "path": "ATKR/2026-08-03/atkr-20260803_g1.gif"
+          "filename": "tm2510004d1_ex99-1.htm",
+          "size_bytes": 44354,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1.htm"
         },
         {
-          "filename": "atkr3q26exhibit991.htm",
-          "size_bytes": 426768,
-          "path": "ATKR/2026-08-03/atkr3q26exhibit991.htm"
+          "filename": "tm2510004d1_ex99-1img001.jpg",
+          "size_bytes": 140655,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img001.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img002.jpg",
+          "size_bytes": 241728,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img002.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img003.jpg",
+          "size_bytes": 209048,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img003.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img004.jpg",
+          "size_bytes": 154362,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img004.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img005.jpg",
+          "size_bytes": 179738,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img005.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img006.jpg",
+          "size_bytes": 160711,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img006.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img007.jpg",
+          "size_bytes": 165578,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img007.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img008.jpg",
+          "size_bytes": 207967,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img008.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img009.jpg",
+          "size_bytes": 168292,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img009.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img010.jpg",
+          "size_bytes": 254350,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img010.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img011.jpg",
+          "size_bytes": 201753,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img011.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img012.jpg",
+          "size_bytes": 191932,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img012.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img013.jpg",
+          "size_bytes": 171469,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img013.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img014.jpg",
+          "size_bytes": 110378,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img014.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img015.jpg",
+          "size_bytes": 79354,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img015.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img016.jpg",
+          "size_bytes": 150876,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img016.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img017.jpg",
+          "size_bytes": 271703,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img017.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img018.jpg",
+          "size_bytes": 164767,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img018.jpg"
+        },
+        {
+          "filename": "tm2510004d1_ex99-1img019.jpg",
+          "size_bytes": 227149,
+          "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img019.jpg"
         }
       ],
-      "fetched_at": "2026-08-07T16:01:09.691674+00:00"
+      "fetched_at": "2026-08-10T16:00:36.336382+00:00"
     },
     {
       "ticker": "FLNC",
@@ -571,7 +555,7 @@
           "path": "FLNC/2026-08-05/image_0.jpg"
         }
       ],
-      "fetched_at": "2026-08-07T16:01:11.303442+00:00"
+      "fetched_at": "2026-08-10T16:00:37.953622+00:00"
     }
   ]
 }
