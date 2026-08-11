@@ -1,9 +1,9 @@
 {
-  "run_time": "2026-08-10T13:20:05.588894+00:00",
+  "run_time": "2026-08-11T13:20:12.501766+00:00",
   "days_scanned": 3,
   "total_tickers": 41,
-  "total_filings": 1,
-  "material_filings": 1,
+  "total_filings": 2,
+  "material_filings": 2,
   "filings": [
     {
       "ticker": "KMI",
@@ -13,8 +13,22 @@
         "Item 7.01"
       ],
       "material": true,
-      "description": "",
+      "description": "On August 7, 2026, Kinder Morgan, Inc. (KMI) announced that representatives of KMI intend to participate at the Citi 2026 Natural Resources Conference on August 11-12, 2026, to discuss the business and affairs of KMI. Materials to be used during the event will be available before 8:00 a.m. Central Time on August 10, 2026, on KMI\u2019s website at: https://ir.kindermorgan.com/events-and-presentations/default.aspx.",
       "accession": "0001506307-26-000111",
+      "has_earnings": false,
+      "has_press_release": false
+    },
+    {
+      "ticker": "GOOG",
+      "filing_date": "2026-08-10",
+      "date_of_report": "2026-08-10",
+      "items": [
+        "Item 8.01",
+        "Item 9.01"
+      ],
+      "material": true,
+      "description": "1600 Amphitheatre Parkway Mountain View, CA 94043 (Address of principal executive offices, including zip code) (650) 253-0000 (Registrant\u2019s telephone number, including area code) Not Applicable (Former name or former address, if changed since last report) Check the appropriate box below if the Form 8-Kfiling is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):",
+      "accession": "0001193125-26-342390",
       "has_earnings": false,
       "has_press_release": false
     }
