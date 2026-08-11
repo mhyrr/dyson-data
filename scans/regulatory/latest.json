@@ -1,6 +1,6 @@
 {
-  "run_time": "2026-08-10T18:30:50.108082+00:00",
-  "days_scanned": 14,
+  "run_time": "2026-08-11T14:00:12.783701+00:00",
+  "days_scanned": 7,
   "data_source": "Federal Register API (api/v1/articles.json)",
   "agencies_checked": [
     "energy-department",
@@ -8,7 +8,7 @@
     "federal-energy-regulatory-commission",
     "defense-department"
   ],
-  "total_articles_scanned": 226,
+  "total_articles_scanned": 71,
   "total_mentions": 0,
   "matched_articles_count": 0,
   "mentions": [],
