@@ -1,143 +1,1736 @@
 {
-  "run_time": "2026-08-10T18:29:47.539821+00:00",
+  "run_time": "2026-08-11T10:12:45.173258+00:00",
   "search_backend": "Firecrawl API (api.firecrawl.dev/v1/search)",
-  "queries_run": 5,
-  "results_count": 15,
+  "queries_run": 65,
+  "results_count": 192,
   "results": [
     {
-      "title": "TSMC looks to accelerate advanced process expansion",
-      "url": "https://www.newelectronics.co.uk/content/blogs/tsmc-accelerates-advanced-process-expansion-as-3nm-and-2nm-capacity-ramps",
+      "title": "World's biggest chipmaker TSMC's sales surge 45% in July ...",
+      "url": "https://www.facebook.com/Stockstoearnpage/posts/breaking-worlds-biggest-chipmaker-tsmcs-sales-surge-45-in-july-amid-the-ai-boom-/122194813874938282/",
       "query": "TSMC capacity expansion announcement",
-      "description": "# TSMC accelerates advanced process expansion as 3nm and 2nm capacity ramps\nTSMC looks to expand 3nm and 2nm capacity Credit: adobe.stock.com\n\nThe reported increase would place TSMC ahead of previous market expectations and further strengthen its position in the race to supply advanced chips for artificial intelligence, high-performance computing and data centre applications.\n\nAlongside its 3nm ramp-up, TSMC’s 2nm programme is also said to be progressing on schedule, with monthly wafer starts expected to approach 100,000 units by the end of 2026.\n\nCombined output from the company’s 2nm and 3nm process technologies could exceed 260,000 wafers per month by early fourth quarter, providing additional momentum for revenue growth.\n\nThe company has announced additional 3nm production facilities in Taiwan, Arizona and Japan, while also repurposing existing 5nm manufacturing equipment in Taiwan to increase 3nm output.\n\nThe foundry is also preparing for a major expansion of its 2nm capacity. The company has stated that first-year output from its 2nm process is expected to be 45% higher than the initial production volume achieved by its 3nm technology in 2023.\n\nAs demand for AI processors and next-generation computing platforms continues to grow, TSMC’s aggressive expansion highlights the growing importance of manufacturing capacity in the global semiconductor industry.",
+      "description": "TSMC forecast full-year 2026 revenue growth of more than 30% year over year in U.S. dollar terms. Meanwhile, it projected second-quarter revenue of $39 billion ...",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:22.239172+00:00"
+      "found_at": "2026-08-11T10:06:12.813451+00:00"
     },
     {
-      "title": "Taiwan Semiconductor reported a +45% YoY increase in sales in ...",
-      "url": "https://www.facebook.com/KobeissiLetter/posts/breaking-taiwan-semiconductor-reported-a-45-yoy-increase-in-sales-in-july-to-145/1380254167583329/",
+      "title": "The AI boom continues to power Taiwan Semiconductor ...",
+      "url": "https://www.facebook.com/schwabnetwork/posts/the-ai-boom-continues-to-power-taiwan-semiconductor-tsm-with-the-chip-giant-post/1644768764317146/",
       "query": "TSMC capacity expansion announcement",
-      "description": "executives said the company was adding an advanced chip fabrication plant in Tainan, Taiwan, as part of its global capacity expansion efforts.",
+      "description": "Foreign institutional investors anticipating continued robust AI-related demand and capacity expansion, particularly for TSMC's CoWoS advanced packaging.",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:22.239188+00:00"
+      "found_at": "2026-08-11T10:06:12.813472+00:00"
     },
     {
-      "title": "Taiwan Semiconductor Manufacturing Co. (TSMC) on ... - Instagram",
-      "url": "https://www.instagram.com/p/Db23MovHWhl/",
+      "title": "TSMC Pumps $64B Into Expansion; Intel Raises $15B to ...",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/08/61082475/tsmc-pumping-64-billion-intel-raises-15-billion-for-expansion",
       "query": "TSMC capacity expansion announcement",
-      "description": "(TSMC) has announced plans to expand its advanced packaging facilities in the Chiayi Science Park. This expansion, the second phase of development, will add ...",
+      "description": "# Benzinga\n## TSMC Is Pumping $64B Into Expansion — Intel Needs a $15B Stock Sale to Do It\n### Stock Score Locked: Want to See it?\n###### Price Trend\nTSMC [raised](https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html) its 2026 capital budget to $60 billion-$64 billion in July, saying strong demand from AI, high-performance computing and emerging AI agents is driving the need for more capacity.",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:22.239191+00:00"
-    },
-    {
-      "title": "AI demand and supply bottlenecks are pushing memory ...",
-      "url": "https://www.facebook.com/tech4gamers/posts/ai-demand-and-supply-bottlenecks-are-pushing-memory-and-gpu-prices-higher-raisin/1639587928167881/",
-      "query": "GPU allocation shortage hyperscaler",
-      "description": "AI demand and supply bottlenecks are pushing memory and GPU prices higher, raising costs and threatening to make high-end gaming PCs unaffordable Read More: ...",
-      "sector": "semiconductors",
-      "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:30.041222+00:00"
+      "found_at": "2026-08-11T10:06:12.813474+00:00"
     },
     {
       "title": "Silicon Scarcity: Why AI Is Gobbling Up the World's RAM",
       "url": "https://dev.to/njenga_nganga_00063bc67/silicon-scarcity-why-ai-is-gobbling-up-the-worlds-ram-2a53",
       "query": "GPU allocation shortage hyperscaler",
-      "description": "A hyperscaler can approve billions in GPU purchases faster than a memory maker can add fully qualified HBM output. This timing mismatch is the central problem.",
+      "description": "It is about Nvidia GPU racks, high-bandwidth memory stacks, enterprise DDR5 servers, and hyperscalers signing supply agreements years ahead of time.\n\nA GPU can perform huge numbers of matrix multiplications per second, but those operations stall if data cannot be fed quickly enough.\n\nScale that to a 10,000-GPU cluster and the numbers become enormous.",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:30.041239+00:00"
+      "found_at": "2026-08-11T10:06:17.062055+00:00"
     },
     {
-      "title": "The market consensus was dead wrong on GPU prices, and ...",
-      "url": "https://www.instagram.com/reel/Dbqbc8Mj4pe/",
+      "title": "The artificial intelligence boom has created a shortage ...",
+      "url": "https://www.facebook.com/GVWire/posts/the-artificial-intelligence-boom-has-created-a-shortage-of-a-critical-commodity-/1944969213295981/",
       "query": "GPU allocation shortage hyperscaler",
-      "description": "The question everyone in AI is asking: How long before a GPU depreciates? GPU depreciation could be the next big crisis coming for AI hyperscalers My name ...",
+      "description": "AI infrastructure needs (from hyperscalers like Google, Nvidia, Meta) take priority, while algorithmic entities (bots) outcompete flesh-and-blood consumers.",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:30.041242+00:00"
+      "found_at": "2026-08-11T10:06:17.062068+00:00"
     },
     {
-      "title": "US Export Control Meant to Cripple China's AI. But They Created Its ...",
-      "url": "https://finance.yahoo.com/technology/ai/articles/us-export-control-meant-cripple-034300067.html",
+      "title": "OVHcloud warns: price hikes of up to 87% due to memory ...",
+      "url": "https://www.techzine.eu/news/infrastructure/143524/ovhcloud-warns-price-hikes-of-up-to-87-due-to-memory-shortage/",
+      "query": "GPU allocation shortage hyperscaler",
+      "description": "hikes of up to 87% due to memory shortage. Memory manufacturers are allocating more production capacity to the lucrative HBM, which is required for AI ...",
+      "sector": "semiconductors",
+      "sector_label": "Semiconductors",
+      "found_at": "2026-08-11T10:06:17.062070+00:00"
+    },
+    {
+      "title": "America, not China must set the rules of the road on AI. ...",
+      "url": "https://www.facebook.com/rephuizenga/posts/america-not-china-must-set-the-rules-of-the-road-on-ai-senator-fetterman-is-righ/1608880620601235/",
       "query": "AI chip export controls announcement",
-      "description": "# US Export Control Meant to Cripple China’s AI. But They Created Its Most Valuable Company\n### From Containment to Catalyst\nWhen Washington announced its crackdown on AI chip exports to China, the restrictions targeted Nvidia, AMD and their successors.",
+      "description": "Right now, companies are backing legislation that would require enhanced security features on U.S. AI chips to prevent them from being exported to hostile ...",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:34.558949+00:00"
+      "found_at": "2026-08-11T10:06:23.015902+00:00"
     },
     {
-      "title": "anthropic recommends adjustments to u.s. ai chip export controls",
-      "url": "https://www.facebook.com/100000840020443/photos/anthropic-advocates-for-adjustments-to-us-ai-chip-export-controlsanthropic-has-r/24019719070972758/",
+      "title": "Moolenaar: AI Chipmaker End-User Restrictions Undermined ...",
+      "url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-ai-chipmaker-end-user-restrictions-undermined-by-loopholes",
       "query": "AI chip export controls announcement",
-      "description": "The Trump administration plans to expand AI chip export restrictions to Thailand and Malaysia to prevent China from circumventing U.S. semiconductor controls.",
+      "description": "# Moolenaar: AI Chipmaker End-User Restrictions Undermined by Loopholes\nHowever, the announcement created ambiguity as to whether front-end fabricators like TSMC can export unpackaged advanced dies to non-approved designers located outside of China, without performing the due diligence specified in the Foundry Due Diligence Interim Final Rule (IFR).",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:34.558964+00:00"
+      "found_at": "2026-08-11T10:06:23.015919+00:00"
     },
     {
-      "title": "US plans new curbs on Chinese AI components Officials cite ...",
-      "url": "https://www.facebook.com/WIONews/posts/worlddna-us-plans-new-curbs-on-chinese-ai-components-officials-cite-cybersecurit/1411905254381978/",
+      "title": "Lawmaker: BIS Should Remove 'Regulatory Ambiguity' in ...",
+      "url": "https://exportcompliancedaily.com/article/2026/08/11/lawmaker-bis-should-remove-regulatory-ambiguity-in-chip-export-controls-2608100018?BC=bc_6a7a523140317",
       "query": "AI chip export controls announcement",
-      "description": "Recent restrictions include: - *Export Controls*: Requiring permits for AI chip exports to most countries - *Investment Restrictions*: Limiting US ...",
+      "description": "Biden administration's AI diffusion export control rule (see 2505130018) was an “important action” to preserve the ability of U.S. AI firms to sell their ...",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:34.558967+00:00"
+      "found_at": "2026-08-11T10:06:23.015922+00:00"
     },
     {
-      "title": "Only the second time the @intel account has posted the word 'ASIC ...",
-      "url": "https://x.com/BrendanBurkeX/status/2085840616056078520",
+      "title": "Broadcom Stock Forecast: Why Did AVGO Drop 17% and ...",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261945743-avgo-stock-forecast-why-broadcom-dropped-17-percent-and-whats-next-tradingkey",
       "query": "custom ASIC design win hyperscaler",
-      "description": "Dean will have likely worked with hyperscalers like Amazon and Microsoft on their ASICs, not to mention the other early design wins. A catalyst for $INTC to ...",
+      "description": "# Broadcom Stock Forecast: Why Did AVGO Drop 17% and Is Wall Street Missing the AI Story?\n## Why the Pullback Is Macro-Driven, Not Fundamental Deterioration\nBroadcom's custom ASIC business, i.e., the specific AI chips designed and built at the request of hyperscalers like Google and Meta for their own workloads, has management giving us design win visibility out to 2027.\n\n## Broadcom’s Position in the AI Stack — Custom ASICs vs Nvidia and Why Both Win\nCustom ASIC chips from Broadcom are designed in accordance to the needs of one hyperscaler, for example Google TPU's for its custom chips for the cloud services company. Broadcom's custom ASIC business is not limited to one hyperscaler, but it builds chips for various hyperscalers to meet their needs with chips that are designed for different workloads including inference, recommendation systems etc., where a dedicated chip would give higher performance per watt and/or lower TCO than a more generalized GPU.\n\nIn this framework, Broadcom wins as AI scales as all those hyperscalers that can afford it go out and build out their own custom chips for themselves to reduce their reliance on Nvidia, and Broadcom is the custom ASIC design partner to do all of it with its talent, tools and fab partnerships.\n\n## AVGO Technical Setup — RSI 34 at 0 Fib $405 Support, Bounce Targets $441 and $452\n### **Why Did Broadcom Fall 17% From Its Peak?**\nBroadcom’s custom ASIC design win backlog, its Ethernet networking leadership, and its VMware software business are all still intact.",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:39.233596+00:00"
+      "found_at": "2026-08-11T10:06:27.293981+00:00"
     },
     {
-      "title": "Arteris Q2 Earnings Call Highlights - TradingView",
-      "url": "https://es.tradingview.com/news/marketbeat:6fc2edd7f094b:0-arteris-q2-earnings-call-highlights/",
+      "title": "Designing Custom PCBs for Hyperscaler ASICs: 4 Lessons ...",
+      "url": "https://esp32s.com/blog/designing-custom-pcbs-for-hyperscaler-asics-4-key-lessons-from-the-40-yoy-growth-in-ai-accelerators/?srsltid=AfmBOoozIefjXaZqYlqJ4N3J_SD6olRX6H1LWUATpeSOM5g6YZB_bbbU",
       "query": "custom ASIC design win hyperscaler",
-      "description": "# Arteris Q2 Earnings Call Highlights\nThe company also cited a large win with a U.S. semiconductor design house that is developing custom ASICs for hyperscalers.",
+      "description": "We expose the 4 critical manufacturing realities of designing custom PCBs for hyperscaler ASICs, and provide the actionable DFM (Design for Manufacturing) ...",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:39.233612+00:00"
+      "found_at": "2026-08-11T10:06:27.294001+00:00"
     },
     {
-      "title": "Marvell Structera™ X, A and S: A Comprehensive CXL Portfolio ...",
-      "url": "https://www.marvell.com/blogs/marvell-structera-cxl-portfolio.html",
+      "title": "Broadcom's Brilliant Positioning is Why I Am Loading Up ...",
+      "url": "https://www.aol.com/articles/broadcom-brilliant-positioning-why-am-144924000.html",
       "query": "custom ASIC design win hyperscaler",
-      "description": "Structera X has been optimized specifically for hyperscale deployments through deep customer collaboration, workload-aware architecture decisions and broad ...",
+      "description": "Broadcom holds a near-monopoly on high-speed AI Ethernet switching, collecting revenue regardless of which hyperscaler wins the custom silicon race.",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:39.233614+00:00"
+      "found_at": "2026-08-11T10:06:27.294004+00:00"
     },
     {
-      "title": "Semiconductor Equipment Faces Supply Shortages as ...",
-      "url": "https://www.mk.co.kr/en/business/12119466",
+      "title": "Precision Micro sees semiconductor revenue surge as AI ...",
+      "url": "https://siliconsemiconductor.net/article/125040/Precision_Micro_sees_semiconductor_revenue_surge_as_AI_drives_manufacturing_demand",
       "query": "semiconductor equipment orders surge",
-      "description": "# detail\n## Semiconductor Equipment Faces Supply Shortages as Well ... ASML Says Next Year's Orders Are Already Secured\n(ASML), which makes extreme ultraviolet (EUV) lithography equipment for advanced semiconductor manufacturing, raised its full-year revenue outlook by more than 5 billion euros, or about 8 trillion won, from 36 billion to 40 billion euros announced in its first-quarter earnings release to 43 billion to 45 billion euros in last month's second-quarter results. The revision appears to reflect a sharp increase in orders from major customers including Samsung Electronics, SK hynix, TSMC and Intel.\n\nOther top global semiconductor equipment makers, including Applied Materials, Inc., Lam Research and Tokyo Electron, are also expected to see a sharp rise in orders. According to the Bank of Korea, imports of semiconductor manufacturing equipment in the first half of this year totaled $18.76 billion, up 38.8% from a year earlier. Imports from foreign semiconductor equipment companies are surging.",
+      "description": "Precision Micro has seen semiconductor-related revenue rise by 43 per cent over the past year, with semiconductor applications now accounting for around half ...",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:44.539683+00:00"
+      "found_at": "2026-08-11T10:06:31.831046+00:00"
     },
     {
-      "title": "XP Power H1 2026 slides: orders surge 55% on ...",
-      "url": "https://uk.investing.com/news/company-news/xp-power-h1-2026-slides-orders-surge-55-on-semiconductor-recovery-93CH-4807207",
+      "title": "World's biggest chipmaker TSMC's sales surge 45% in July ...",
+      "url": "https://www.facebook.com/Stockstoearnpage/posts/breaking-worlds-biggest-chipmaker-tsmcs-sales-surge-45-in-july-amid-the-ai-boom-/122194813874938282/",
       "query": "semiconductor equipment orders surge",
-      "description": "Semi Fab orders surged 116% year-over-year as the industry enters a new investment cycle, with customers placing longer lead-time orders to secure supply. The ...",
+      "description": "World's biggest chipmaker TSMC's sales surge 45% in July amid the AI boom. TSMC reported revenue for July of 467.58 billion New Taiwan dollars ($14.5 billion), ...",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:44.539696+00:00"
+      "found_at": "2026-08-11T10:06:31.831062+00:00"
     },
     {
-      "title": "US Permits Finally Unlocked! An Explosive Surge in Orders ...",
-      "url": "https://www.youtube.com/watch?v=KEyvtNvXv9M&vl=en-US",
+      "title": "Applied Materials (AMAT) Gets A Demand Lift From 44.7% ...",
+      "url": "https://nz.finance.yahoo.com/news/applied-materials-amat-gets-demand-210941837.html",
       "query": "semiconductor equipment orders surge",
-      "description": "An Explosive Surge in Orders Set to Upend the Power Equipment Market... The \"Semiconductors Are Finished\" Complex Semiconductor Materials, Parts, and Equipment",
+      "description": "TSMC reported a 44.7% year over year revenue jump in July on strong AI chip demand. The surge in TSMC revenue points to potential increases in capital spending ...",
       "sector": "semiconductors",
       "sector_label": "Semiconductors",
-      "found_at": "2026-08-10T18:29:44.539698+00:00"
+      "found_at": "2026-08-11T10:06:31.831064+00:00"
+    },
+    {
+      "title": "RAM price tracking 2026 — lowest price on DDR5 and ...",
+      "url": "https://www.tomshardware.com/pc-components/ram/ram-price-index-2026-lowest-price-on-ddr5-and-ddr4-memory-of-all-capacities",
+      "query": "DDR5 contract price increase",
+      "description": "DDR5 memory prices have exploded over the last trimester, with triple and, in some cases, quadruple increases. DDR5 memory kit sold for around $100 to $200 in ...",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:06:36.628112+00:00"
+    },
+    {
+      "title": "The worldwide computer memory shortage is driving up ...",
+      "url": "https://www.facebook.com/whyypublicmedia/posts/the-worldwide-computer-memory-shortage-is-driving-up-the-cost-of-laptops/1557045646434164/",
+      "query": "DDR5 contract price increase",
+      "description": "Framework has announced its own DDR5 RAM price increase of 50%. rise 58 to 63 per cent quarter … contract prices are expected to rise 70 to 75 per cent.",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:06:36.628127+00:00"
+    },
+    {
+      "title": "AI boom pushes RAM prices back to 20 years ago; DDR4 ...",
+      "url": "https://www.digitaltoday.co.kr/en/view/91443/ai-boom-pushes-ram-prices-back-to-20-years-ago-ddr4-up-nearly-tenfold-in-two-years",
+      "query": "DDR5 contract price increase",
+      "description": "The price per 1 GB of DDR5 surged to $11.4 in July 2026 from about $2.2 in July 2025.",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:06:36.628129+00:00"
+    },
+    {
+      "title": "Apple Cutting Back 2026 Hardware Shipments Due to ...",
+      "url": "https://www.facebook.com/MacRumors/posts/apple-cutting-back-2026-hardware-shipments-due-to-memory-shortage-story-in-comme/1485256416970670/",
+      "query": "NAND flash price hike announcement",
+      "description": "... NAND flash increases look slightly lower. 2. iPhone memory pricing is now negotiated quarterly instead of every six months, so expect another hike in 2Q26.",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:06:40.971177+00:00"
+    },
+    {
+      "title": "iPhone 18 Pro 1TB Costs More and Runs Slower as ...",
+      "url": "https://www.techtimes.com/articles/323762/20260810/iphone-18-pro-1tb-costs-more-runs-slower-memory-hits-record-34-build-cost.htm",
+      "query": "NAND flash price hike announcement",
+      "description": "# iPhone 18 Pro 1TB Costs More and Runs Slower as Memory Hits Record 34% of Build Cost\n### What Your Storage Choice Actually Buys in This Cycle\nNAND flash costs for the 256GB configuration are projected to rise from approximately $13 per unit to about $51 — nearly a fourfold increase — [according to TechInsights via MacRumors](https://www.macrumors.com/2026/06/19/iphone-18-pro-could-start-at-1399/).",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:06:40.971191+00:00"
+    },
+    {
+      "title": "Steam Deck OLED Jumps 46% to $949, Tops PS5 Pro [2026]",
+      "url": "https://shattered.io/steam-deck-oled-price-hike-2026/",
+      "query": "NAND flash price hike announcement",
+      "description": "Steam Deck OLED jumped 42-46% to $789/$949 in May 2026. NAND flash capacity. Consumer DRAM contract prices climbed 89%",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:06:40.971193+00:00"
+    },
+    {
+      "title": "Nvidia Qualifies Micron as HBM4 Supplier for Vera Rubin ...",
+      "url": "https://www.kucoin.com/news/flash/nvidia-qualifies-micron-as-hbm4-supplier-for-vera-rubin-ai-platform",
+      "query": "HBM4 supply agreement",
+      "description": "Nvidia has added Micron Technology to its HBM4 supplier list for the Vera Rubin AI platform, Micron's HBM4 offers 2.3x more bandwidth and 20% better power ...",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:06:45.579424+00:00"
+    },
+    {
+      "title": "How $94 Billion in Long-Term Contracts Built a Supply Defense",
+      "url": "https://finance.biggo.com/news/31aad99d-6432-4794-9199-d074cbf78b1a",
+      "query": "HBM4 supply agreement",
+      "description": "Samsung Electronics' HBM4 yield is rapidly improving from below 60% in the early stages of mass production to approach 80%.",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:06:45.579439+00:00"
+    },
+    {
+      "title": "Samsung, SK Hynix Contracts: Safety Net or Shackle?",
+      "url": "https://www.chosun.com/english/market-money-en/2026/08/11/J2RFIUL7YJGLPGN5HKFWUUOTVQ/",
+      "query": "HBM4 supply agreement",
+      "description": "Long-term agreements secure price floors, stable orders but may cap revenue during market upswings. SK Hynix closes down 4.88% at 1,422,000 won. to HBM4, SK ...",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:06:45.579442+00:00"
+    },
+    {
+      "title": "Market Activity, Monthly Worldwide DRAM output, DXI, ...",
+      "url": "https://www.dramexchange.com/Market/market_activity",
+      "query": "DRAM spot price weekly",
+      "description": "DRAM, NAND Flash, SSD, Module and Memory card, and provides market research on spot and contract prices, daily news, market views and reports, and monthly ...",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:07:00.878985+00:00"
+    },
+    {
+      "title": "RAM price tracking 2026 — lowest price on DDR5 and ...",
+      "url": "https://www.tomshardware.com/pc-components/ram/ram-price-index-2026-lowest-price-on-ddr5-and-ddr4-memory-of-all-capacities",
+      "query": "DRAM spot price weekly",
+      "description": "a conventional 32GB (2x16GB) DDR5 memory kit sold for around $100 to $200 in October 2025, but the same kit now starts at $350, if it's even in stock.",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:07:00.879013+00:00"
+    },
+    {
+      "title": "Samsung continues to lead the global DRAM market in Q2 ...",
+      "url": "https://www.facebook.com/gadgetbytenepal/posts/samsung-continues-to-lead-the-global-dram-market-in-q2-2026-securing-a-39-market/1467716605386706/",
+      "query": "DRAM spot price weekly",
+      "description": "Industry data shows spot prices for 64GB RDIMM server memory modules have climbed to around $2,550, up more than 20% over the past two weeks.",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:07:00.879016+00:00"
+    },
+    {
+      "title": "The memory chip shortage spotlights broader strategic ...",
+      "url": "https://www.facebook.com/CSIS.org/posts/the-memory-chip-shortage-spotlights-broader-strategic-challenges-the-us-is-the-g/1492516012920504/",
+      "query": "memory chip shortage guidance",
+      "description": "The explosion in AI-related cloud computing and data centers has led to so much demand for certain types of memory chips that now there's a shortage.",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:07:10.082675+00:00"
+    },
+    {
+      "title": "Memory chip supply crunch will last 2 more years, ...",
+      "url": "https://www.aol.com/articles/memory-chip-supply-crunch-last-130733000.html",
+      "query": "memory chip shortage guidance",
+      "description": "The AI-driven memory chip crisis has a ways to go before its status is downgraded to business as usual. S-D shortage continues for the next two years,\" ...",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:07:10.082691+00:00"
+    },
+    {
+      "title": "SK hynix plans to invest $38.3 billion through 2031 to build ...",
+      "url": "https://www.instagram.com/p/Db3RrsSEa1_/",
+      "query": "memory chip shortage guidance",
+      "description": "SK Hynix expects the global memory chip industry to face its most severe supply shortage in 2027, with demand continuing to outstrip production capacity",
+      "sector": "memory_pricing",
+      "sector_label": "Memory Pricing",
+      "found_at": "2026-08-11T10:07:10.082693+00:00"
+    },
+    {
+      "title": "Nvidia is teaming up with six major financial institutions ...",
+      "url": "https://www.facebook.com/weareticker/posts/nvidia-is-teaming-up-with-six-major-financial-institutions-to-help-raise-more-th/1773864027430620/",
+      "query": "hyperscaler datacenter deal announcement",
+      "description": "Nvidia is teaming up with six major financial institutions to help raise more than $500 billion in third party capital for AI infrastructure.",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:14.864233+00:00"
+    },
+    {
+      "title": "News - DCD",
+      "url": "https://www.datacenterdynamics.com/en/news/",
+      "query": "hyperscaler datacenter deal announcement",
+      "description": "The largest data center news publication, tracking colocation, hyperscale & cloud, Largest deal to date for the energy storage",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:14.864252+00:00"
+    },
+    {
+      "title": "Data Center Power: Firm and Expensive - Stout",
+      "url": "https://www.stout.com/en/insights/commentary/data-center-power-firm-expensive",
+      "query": "hyperscaler datacenter deal announcement",
+      "description": "Rapid data center growth will require substantial investment in new generation, transmission, grid interconnections, and reliability infrastructure.",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:14.864253+00:00"
+    },
+    {
+      "title": "Fermi signs $6.5 billion lease for 'world's largest data ...",
+      "url": "https://abc7amarillo.com/news/local/fermi-america-signs-six-point-five-billion-dollar-lease-for-worlds-largest-data-center-after-months-of-turmoil-tensorwave-amarillo-texas-carson-county-water-city-council-greg-abbott-audir",
+      "query": "datacenter lease signed gigawatt",
+      "description": "Fermi Inc. said Monday it has signed a $6.5 billion lease with AI cloud provider TensorWave for part of its massive data center and power campus",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:20.157594+00:00"
+    },
+    {
+      "title": "Fermi Announces Binding Lease Agreement with ...",
+      "url": "https://feeds.issuerdirect.com/news-release.html?newsid=8138528176449437&symbol=FRMI",
+      "query": "datacenter lease signed gigawatt",
+      "description": "The lease is expected to generate approximately $6.5 billion in total contracted revenue over the initial 15-year term, for the first phase, excluding any ...",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:20.157610+00:00"
+    },
+    {
+      "title": "Fermi secures first data center lease worth $6.5 billion",
+      "url": "https://www.investing.com/news/company-news/fermi-secures-first-data-center-lease-worth-65-billion-93CH-4850404",
+      "query": "datacenter lease signed gigawatt",
+      "description": "Fermi stated that construction at Project Matador is underway, with approximately 6 gigawatts of the planned 17 gigawatts already permitted and more than $1.5 ...",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:20.157612+00:00"
+    },
+    {
+      "title": "Data Center Cooling Market Report 2025-2032 [346 Pages ...",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/data-center-cooling-solutions-market-1038.html",
+      "query": "liquid cooling contract award",
+      "description": "Data Center Cooling Market is projected to reach USD 24.19 billion by 2032. Report provides crucial industry insights that will help your business grow.",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:29.230020+00:00"
+    },
+    {
+      "title": "The New Cool for Infrastructure - FMJ Magazine",
+      "url": "https://fmj.ifma.org/the-new-cool-for-infrastructure-2026",
+      "query": "liquid cooling contract award",
+      "description": "First, liquid cooling requires a higher standard of design completeness before construction begins — not as a bureaucratic step, but because the coordination ...",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:29.230041+00:00"
+    },
+    {
+      "title": "Data Centre Cooling Market worth $37.62 billion by 2033",
+      "url": "https://www.prnewswire.com/news-releases/data-centre-cooling-market-worth-37-62-billion-by-2033---exclusive-report-by-marketsandmarkets-302846920.html",
+      "query": "liquid cooling contract award",
+      "description": "Data Centre Cooling Market is projected to grow from USD 13.23 billion in 2026 to USD 37.62 billion by 2033, at a CAGR of 16.1% over the same period.",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:29.230043+00:00"
+    },
+    {
+      "title": "Contact Energy considers data centre build after record ...",
+      "url": "https://www.facebook.com/NewstalkZBEarlyEdition/posts/contact-energys-putting-serious-thought-into-data-centres-after-reporting-record/1630537151763955/",
+      "query": "datacenter vacancy rate report",
+      "description": "The JLL North American Data Center Report reveals the vacancy rate in the Valley is at a mere 2.3%.",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:36.303983+00:00"
+    },
+    {
+      "title": "Nathan Kaja | Associate, Brokerage | United States",
+      "url": "https://www.jll.com/en-us/people/bio-broker/nathan.kaja",
+      "query": "datacenter vacancy rate report",
+      "description": "Data Center Report shows record growth in 2026 With 4% vacancy rate, sector continues accelerated growth, study indicates.",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:36.304005+00:00"
+    },
+    {
+      "title": "State employee union decries pay, staffing in new report",
+      "url": "https://www.newsfromthestates.com/article/state-employee-union-decries-pay-staffing-new-report",
+      "query": "datacenter vacancy rate report",
+      "description": "a vacancy rate of 13.4%. A year later, 5,045 of the state's 49,900 positions were vacant, a rate of about 10%. there were about 4,800 vacancies in more than 52 ...",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:36.304007+00:00"
+    },
+    {
+      "title": "🚨 AMERICA'S AI DATA CENTER BOOM IS HITTING ...",
+      "url": "https://www.facebook.com/techworm.in/posts/-americas-ai-data-center-boom-is-hitting-a-major-roadblockthe-race-to-build-mass/1360680662883187/",
+      "query": "AI datacenter construction start",
+      "description": "Industry analysis shows that more than 60% of data center capacity planned for completion in 2027 has not even started construction, while additional projects ...",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:46.716459+00:00"
+    },
+    {
+      "title": "Financing AI infrastructure and U.S. data centers",
+      "url": "https://www.jpmorgan.com/insights/banking/capital-markets/financing-ai-infrastructure-data-centers",
+      "query": "AI datacenter construction start",
+      "description": "August 10, 2026. AI investment is driving U.S. data center construction at a scale that demands new approaches to financing.",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:46.716476+00:00"
+    },
+    {
+      "title": "AI data center bans surge past 500 nationwide as local US ...",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-bans-surge-past-500-nationwide-as-local-us-politicians-begin-blocking-new-developments-growing-public-outrage-and-bipartisan-pushback-threaten-big-tech-expansion-plans",
+      "query": "AI datacenter construction start",
+      "description": "The number of local bans on new data center developments jumped to over 500 in July, according to recent data.",
+      "sector": "datacenter_infrastructure",
+      "sector_label": "Datacenter Infrastructure",
+      "found_at": "2026-08-11T10:07:46.716480+00:00"
+    },
+    {
+      "title": "Okay Optics, But Which One? - by James Foord",
+      "url": "https://jamesfoord.substack.com/p/okay-optics-but-which-one",
+      "query": "1.6T optical transceiver orders",
+      "description": "FCC is drafting a ban on imports of new Chinese optical transceivers, AAOI, COHR and LITE are the three main players. A “transceiver” is the small pluggable ...",
+      "sector": "networking",
+      "sector_label": "Networking & Optics",
+      "found_at": "2026-08-11T10:07:51.297396+00:00"
+    },
+    {
+      "title": "TSMC affiliate VisEra scales AI optics with 1.6T silicon ...",
+      "url": "https://www.digitimes.com/news/a20260810PD234/visera-photonics-silicon-optics-production.html",
+      "query": "1.6T optical transceiver orders",
+      "description": "VisEra, the TSMC-affiliated optical components supplier, is expanding into AI optical interconnects and silicon photonics, with its MicroLens products for ...",
+      "sector": "networking",
+      "sector_label": "Networking & Optics",
+      "found_at": "2026-08-11T10:07:51.297410+00:00"
+    },
+    {
+      "title": "AI Cold War Catches Light: Federal Friction in the Server ...",
+      "url": "https://m.investing.com/analysis/ai-cold-war-catches-light-federal-friction-in-the-server-rack-200685538?ampMode=1",
+      "query": "1.6T optical transceiver orders",
+      "description": "The Federal Communications Commission is weighing a measure to ban the import of new Chinese optical transceivers into domestic data centers.",
+      "sector": "networking",
+      "sector_label": "Networking & Optics",
+      "found_at": "2026-08-11T10:07:51.297413+00:00"
+    },
+    {
+      "title": "$GFS GLOBALFOUNDRIES SILICON PHOTONICS, CO- ...",
+      "url": "https://x.com/TheValueist/status/2086823657825771704",
+      "query": "co-packaged optics announcement",
+      "description": "The Aug 2026 Semi Doped episode is a 40-minute technical and strategic discussion focused on GlobalFoundries' position in silicon photonics, 300 mm ...",
+      "sector": "networking",
+      "sector_label": "Networking & Optics",
+      "found_at": "2026-08-11T10:07:56.026016+00:00"
+    },
+    {
+      "title": "Lumilens Exits Stealth With $700M and AI Optics Already ...",
+      "url": "https://www.storagereview.com/news/lumilens-exits-stealth-with-700m-and-ai-optics-already-shipping-to-a-hyperscaler",
+      "query": "co-packaged optics announcement",
+      "description": "The Lumilens product portfolio includes near-packaged optics (NPO) and co-packaged optics (CPO) for scale-up systems, plus 800G and 1.6T pluggable optical ...",
+      "sector": "networking",
+      "sector_label": "Networking & Optics",
+      "found_at": "2026-08-11T10:07:56.026030+00:00"
+    },
+    {
+      "title": "AI infrastructure is constantly expanding, and efficiently ...",
+      "url": "https://www.facebook.com/e14community/posts/ai-infrastructure-is-constantly-expanding-and-efficiently-moving-data-is-as-impo/1052752650797931/",
+      "query": "co-packaged optics announcement",
+      "description": "Co-packaged optics is redefining system design. Optical engines are placed directly next to chips, reducing signal travel from centimetres to millimetres.",
+      "sector": "networking",
+      "sector_label": "Networking & Optics",
+      "found_at": "2026-08-11T10:07:56.026033+00:00"
+    },
+    {
+      "title": "$GFS GLOBALFOUNDRIES SILICON PHOTONICS, CO- ...",
+      "url": "https://x.com/TheValueist/status/2086823657825771704",
+      "query": "silicon photonics design win",
+      "description": "- The real competitor for silicon photonics isn't another foundry, it's copper itself — and that market is big enough that GlobalFoundries and TSMC can both win ...",
+      "sector": "networking",
+      "sector_label": "Networking & Optics",
+      "found_at": "2026-08-11T10:07:59.983269+00:00"
+    },
+    {
+      "title": "Photon Design advances VCSEL simulation - PIC Magazine",
+      "url": "https://picmagazine.net/article/125047/Photon_Design_advances_VCSEL_simulation",
+      "query": "silicon photonics design win",
+      "description": "New simulation capability enables designers to optimise high-power, multi-junction VCSELs for applications including datacom, LiDAR and 3D sensing.",
+      "sector": "networking",
+      "sector_label": "Networking & Optics",
+      "found_at": "2026-08-11T10:07:59.983288+00:00"
+    },
+    {
+      "title": "AI and geopolitics have caused supply-chain disruptions ...",
+      "url": "https://www.facebook.com/opticaworldwide/posts/ai-and-geopolitics-have-caused-supply-chain-disruptions-affecting-optics-and-pho/1549317670574242/",
+      "query": "silicon photonics design win",
+      "description": "silicon photonics is regarded as the next major battlefield in the semiconductor industry, with integration being the decisive factor.",
+      "sector": "networking",
+      "sector_label": "Networking & Optics",
+      "found_at": "2026-08-11T10:07:59.983291+00:00"
+    },
+    {
+      "title": "Neocloud Networking: One Open Fabric for AI Training and ...",
+      "url": "https://www.ipinfusion.com/solutions/neocloud-networking/",
+      "query": "AI cluster networking contract",
+      "description": "# Networking for the neocloud: one fabric for AI training and inference\nIP Infusion delivers the open network for both: **OcNOS on validated open hardware**, lossless RoCEv2 for GPU clusters, distributed inference at the edge, and open transport between sites, from one control plane and one support contract.",
+      "sector": "networking",
+      "sector_label": "Networking & Optics",
+      "found_at": "2026-08-11T10:08:04.658448+00:00"
+    },
+    {
+      "title": "The Next Generation of AI: Networks, Not Monoliths",
+      "url": "https://www.linkedin.com/pulse/next-generation-ai-networks-monoliths-anthony-leaper-ad6hc",
+      "query": "AI cluster networking contract",
+      "description": "Instead of a single engine trying to know everything, a Collaborative Network Architecture links specialized models via standard API contracts, visibility and ...",
+      "sector": "networking",
+      "sector_label": "Networking & Optics",
+      "found_at": "2026-08-11T10:08:04.658463+00:00"
+    },
+    {
+      "title": "Enterprise AI isn't one-size-fits-all. Dan McNamara, AMD SVP ...",
+      "url": "https://www.facebook.com/AMD/posts/enterprise-ai-isnt-one-size-fits-alldan-mcnamara-amd-svp-and-gm-of-compute-and-e/1604027234421347/?locale=el_GR",
+      "query": "AI cluster networking contract",
+      "description": "AI clusters must communicate at ultra-high speed. Why it matters: - Faster networking reduces latency - Data movement is becoming expensive - Scale depends on ...",
+      "sector": "networking",
+      "sector_label": "Networking & Optics",
+      "found_at": "2026-08-11T10:08:04.658465+00:00"
+    },
+    {
+      "title": "Google Signs 15-Year PPA for RWE's Oklahoma Solar ...",
+      "url": "https://esgnews.com/google-signs-15-year-ppa-for-rwes-oklahoma-solar-project/",
+      "query": "datacenter PPA deal signed",
+      "description": "Google has signed a 15-year power purchase agreement with RWE for the entire output of a new 155 MW solar project in Oklahoma.",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-11T10:08:08.971604+00:00"
+    },
+    {
+      "title": "Sustainability & Energy: What is a Power Purchase ...",
+      "url": "https://procurementmag.com/news/sustainability-energy-what-is-a-power-purchase-agreement",
+      "query": "datacenter PPA deal signed",
+      "description": "Power Purchase Agreement (PPA), a long-term contract that enables businesses to buy clean power directly from renewable energy developers.",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-11T10:08:08.971623+00:00"
+    },
+    {
+      "title": "HD Hyundai Wins Record $675M Power Deal",
+      "url": "https://www.facebook.com/ConstructionReviewOnline/posts/corban-energy-us-data-center-project-hd-hyundai-wins-record-675m-power-deal/1700598088545295/",
+      "query": "datacenter PPA deal signed",
+      "description": "HD Hyundai Wins Record $675M Power Deal. 15 GW of generation capacity with deals signed in the Asia- Pacific, Europe, and North American regions. Data centers ...",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-11T10:08:08.971625+00:00"
+    },
+    {
+      "title": "𝗘𝗻𝗲𝗿𝗴𝘆 𝗩𝗮𝘂𝗹𝘁 𝗟𝗮𝗻𝗱𝘀 𝟭.𝟮𝟱 𝗚𝗪 𝗔𝗜 𝗣𝗼𝘄𝗲𝗿 ...",
+      "url": "https://www.facebook.com/TaiyangNews/posts/%F0%9D%97%98%F0%9D%97%BB%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B4%F0%9D%98%86-%F0%9D%97%A9%F0%9D%97%AE%F0%9D%98%82%F0%9D%97%B9%F0%9D%98%81-%F0%9D%97%9F%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9D%98%80-%F0%9D%9F%AD%F0%9D%9F%AE%F0%9D%9F%B1-%F0%9D%97%9A%F0%9D%97%AA-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%A3%F0%9D%97%BC%F0%9D%98%84%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%9C%F0%9D%97%BB%F0%9D%97%B3%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%80%F0%9D%98%81%F0%9D%97%BF%F0%9D%98%82%F0%9D%97%B0%F0%9D%98%81%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%97%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%AE%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81-%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B4%F0%9D%97%B2%F0%9D%98%81%F0%9D%98%80-%F0%9D%97%B3%F0%9D%97%AE%F0%9D%98%80/1568524178618546/",
+      "query": "power purchase agreement gigawatt AI",
+      "description": "The agreement targets faster AI data center deployment by using integrated power infrastructure. NextEra plans to build between 15 to 30 gigawatts of new power ...",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-11T10:08:18.036041+00:00"
+    },
+    {
+      "title": "PG&E Chases 12.7 GW of AI Data Center Demand as Texas ...",
+      "url": "https://news.theregistrysf.com/pge-chases-12-7-gw-of-ai-data-center-demand-as-texas-fights-to-pull-it-away/",
+      "query": "power purchase agreement gigawatt AI",
+      "description": "PG&E's data center pipeline hit 12.7 GW as it battles Texas for AI investment, but delivering power fast and cheap is the real challenge.",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-11T10:08:18.036060+00:00"
+    },
+    {
+      "title": "America's power shortage is creating a major investment ...",
+      "url": "https://www.instagram.com/reel/Db3S3DMqp-F/",
+      "query": "power purchase agreement gigawatt AI",
+      "description": "On top of that, each 100MW project is expected to produce about $20 million in annual energy arbitrage, with roughly 50% flowing to the bottom line. To learn ...",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-11T10:08:18.036063+00:00"
+    },
+    {
+      "title": "Texas Pauses Data Center Interconnections Pending ...",
+      "url": "https://www.jdsupra.com/legalnews/texas-pauses-data-center-5706559/",
+      "query": "utility datacenter interconnection queue",
+      "description": "The projects that ultimately advance through ERCOT's interconnection queue will influence transmission planning, power purchase negotiations, reliability ...",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-11T10:08:23.461387+00:00"
+    },
+    {
+      "title": "Vistra supports Texas data center pause, execs say",
+      "url": "https://www.utilitydive.com/news/vistra-texas-data-center-pause-comanche-amazon-earnings/827434/",
+      "query": "utility datacenter interconnection queue",
+      "description": "The current size of ERCOT's interconnection queue, mostly made up of large loads, including data centers. 44 GW Vistra's total generation capacity. 4% to 6%",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-11T10:08:23.461400+00:00"
+    },
+    {
+      "title": "PJM Interconnection, the biggest grid operator in the U.S., ...",
+      "url": "https://www.facebook.com/muddyrivernews/posts/pjm-interconnection-the-biggest-grid-operator-in-the-us-has-finally-settled-on-a/1373004791602395/",
+      "query": "utility datacenter interconnection queue",
+      "description": "PJM Interconnection, the biggest grid operator in the U. S., has finally settled on a plan to prevent data centers from causing other customers' utility bills",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-11T10:08:23.461402+00:00"
+    },
+    {
+      "title": "Data Center Power: Firm and Expensive - Stout",
+      "url": "https://www.stout.com/en/insights/commentary/data-center-power-firm-expensive",
+      "query": "electricity price increase datacenter demand",
+      "description": "# Data Center Power: Firm and Expensive\n## Incremental Generation Costs for Large-Scale Computing Facilities\n### The Outlook: New Megawatts Required to Serve Data Center Load\nLBNL further estimates that data centers consumed approximately 4.4% of U.S. electricity in 2023 (roughly 176 TWh), and that this share could rise to between 6.7% and 12% by 2028, corresponding to approximately 325 to 580 TWh.5 The U.S.\n\n### Conclusion and Key Takeaways\n#### Summary and Conclusion Exhibit: Revenue Requirement for New Firm Data-Center Power\n- Capital costs reflect inflation from previous years, increases electric rates",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-11T10:08:28.643108+00:00"
+    },
+    {
+      "title": "The cost of data center infrastructure should not be passed ...",
+      "url": "https://www.instagram.com/p/Db4GLNEN3QZ/",
+      "query": "electricity price increase datacenter demand",
+      "description": "$23B COMING CUSTOMER POWER-PRICE INCREASES . THROUGH 2028 Tied largely to data center electricity demand across the PJM grid (14 states). SOURCE: FORTUNE ...",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-11T10:08:28.643125+00:00"
+    },
+    {
+      "title": "Why Americans Pay for AI Data Center Power Infrastructure",
+      "url": "https://sherafy.com/why-americans-paying-ai-data-center-power-infrastructure/",
+      "query": "electricity price increase datacenter demand",
+      "description": "The short answer: because the American electric grid was not designed to bill every new customer for every additional system cost that customer causes.",
+      "sector": "power_generation",
+      "sector_label": "Power Generation",
+      "found_at": "2026-08-11T10:08:28.643127+00:00"
+    },
+    {
+      "title": "US Power Transformer Market to Reach USD 6.22 Billion ...",
+      "url": "https://www.openpr.com/news/4600160/u-s-power-transformer-market-to-reach-usd-6-22-billion-by-2033-as",
+      "query": "transformer lead times shortage",
+      "description": "Lead times for large power transformers have lengthened from roughly 12-18 months before 2020 to 24-36 months today, driven by shortages of grain-oriented ...",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:33.056407+00:00"
+    },
+    {
+      "title": "Transformer Bottleneck Behind AI Expansion⚡ Subscribe",
+      "url": "https://www.facebook.com/PowerSystemOperation/posts/transformer-bottleneck-behind-ai-expansion-subscribe-ai-data-centers-can-be-buil/1929625075122220/",
+      "query": "transformer lead times shortage",
+      "description": "Lead times for high-power transformers have increased from **24–30 months** before 2020 to **as long as five years** today.",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:33.056426+00:00"
+    },
+    {
+      "title": "What transformer manufacturers can learn from switchgear ...",
+      "url": "https://berlin.cwiemeevents.com/articles/what-transformer-manufacturers-can-learn-from",
+      "query": "transformer lead times shortage",
+      "description": "# As electrification drives unprecedented demand for grid infrastructure, transformer and switchgear manufacturers are solving many of the same challenges, creating opportunities to share knowledge across the value chain.\nCustomers expect shorter lead times without compromising quality.",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:33.056429+00:00"
+    },
+    {
+      "title": "Every data center needs dozens of dry type transformers to step ...",
+      "url": "https://www.threads.com/@milkroadai/post/Db3Pvt8Gy__/every-data-center-needs-dozens-of-dry-type-transformers-to-step-grid-power-down/",
+      "query": "switchgear backlog order datacenter",
+      "description": "Powell Industries makes custom switchgear and substation packages for utilities and it's sitting on a $1.8 billion backlog with a single recent data center ...",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:37.961480+00:00"
+    },
+    {
+      "title": "Siemens' gas turbine backlog nears 70 GW as company ...",
+      "url": "https://www.utilitydive.com/news/siemens-gas-turbine-backlog-nears-70-gw-as-company-expands-manufacturing/827390/",
+      "query": "switchgear backlog order datacenter",
+      "description": "Siemens' Grid Technologies division, which makes had a €51 billion ($59 billion) order backlog as of June 30, Ferraro said.",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:37.961496+00:00"
+    },
+    {
+      "title": "MYR Group is an electrical infrastructure contractor that builds ...",
+      "url": "https://www.threads.com/@milkroadai/post/Db3P0Fam_mG/myr-group-is-an-electrical-infrastructure-contractor-that-builds-the/",
+      "query": "switchgear backlog order datacenter",
+      "description": "EMCOR Group provides mechanical and electrical construction services for data centers, and its backlog has climbed sharply as hyperscalers race to get ...",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:37.961498+00:00"
+    },
+    {
+      "title": "SemiAnalysis Details 800VDC Power Architecture Shift ...",
+      "url": "https://www.datacenterdigest.net/semianalysis-details-800vdc-power-architecture-shift-sweeping-data-centers/",
+      "query": "800VDC datacenter power architecture",
+      "description": "The report outlines how 800VDC systems reduce copper costs, lower resistive losses, and allow rack densities that 480VAC infrastructure cannot support at scale.",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:42.111433+00:00"
+    },
+    {
+      "title": "Powering the Next Era of AI",
+      "url": "https://x.com/OpenComputePrj/status/2087030018639860121",
+      "query": "800VDC datacenter power architecture",
+      "description": "The industry is converging on 800 VDC because higher-voltage DC distribution can move more power with less conductor/copper than lower-voltage alternatives.",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:42.111453+00:00"
+    },
+    {
+      "title": "Blackwell is the new reference architecture for AI ...",
+      "url": "https://www.instagram.com/p/Db3ZfbECne4/",
+      "query": "800VDC datacenter power architecture",
+      "description": "Blackwell is the new reference architecture for AI infrastructure. Data center architecture must evolve to match. Transform data into economic power.",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:42.111455+00:00"
+    },
+    {
+      "title": "Grid Resilience and Innovation Partnerships (GRIP) ...",
+      "url": "https://www.energy.gov/oe/grid-resilience-and-innovation-partnerships-grip-program-projects",
+      "query": "grid equipment order announcement",
+      "description": "On October 13, 2024, the U.S. Department of Energy (DOE) announced more than $600 million to bolster grid resilience and reliability in the face of extreme ...",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:46.650865+00:00"
+    },
+    {
+      "title": "The Governor's Responsible Infrastructure Development ...",
+      "url": "https://dced.pa.gov/business-assistance/data-center-resources/grid-standards/",
+      "query": "grid equipment order announcement",
+      "description": "As announced during Governor Shapiro's 2026-27 Budget Address, the Governor's Responsible Infrastructure Development (GRID) Standards establish best practices ...",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:46.650881+00:00"
+    },
+    {
+      "title": "Federal regulators, responding to Energy Secretary Chris ...",
+      "url": "https://www.facebook.com/thetimestribune/posts/federal-regulators-responding-to-energy-secretary-chris-wrights-request-just-ord/1682105817253991/",
+      "query": "grid equipment order announcement",
+      "description": "Secretary Chris Wright's request, just ordered grid operators to connect big power users faster, so the country can feed the data centers that AI runs on",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:46.650883+00:00"
+    },
+    {
+      "title": "Have you noticed your electric bills creeping up? You're ...",
+      "url": "https://www.facebook.com/EnvDefenseFund/posts/have-you-noticed-your-electric-bills-creeping-up-youre-not-aloneacross-the-us-el/1521487750016172/",
+      "query": "electrical equipment price increase",
+      "description": "Electricity prices across the country have increased 4.5% in the past year, according to Labor Department data released Wednesday, topping the 2.2% jump in the ...",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:51.453207+00:00"
+    },
+    {
+      "title": "Electrical Equipment & Parts Stock Performance",
+      "url": "https://finance.yahoo.com/sectors/industrials/electrical-equipment-parts/",
+      "query": "electrical equipment price increase",
+      "description": "Yahoo Finance's Electrical Equipment & Parts performance dashboard help you filter, search & examine stock performance across the Electrical Equipment ...",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:51.453225+00:00"
+    },
+    {
+      "title": "Copper: The Hidden Backbone of the Energy Transition and ...",
+      "url": "https://ces-ltd.com/resources/byline-articles/copper-the-hidden-backbone-of-the-energy-transition-and-the-implications-of-u-s-refined-copper-tariffs/",
+      "query": "electrical equipment price increase",
+      "description": "These tariff-driven premiums can raise costs for industries like electrical equipment, construction, EVs, batteries, and renewable energy. The resulting price ...",
+      "sector": "grid_infrastructure",
+      "sector_label": "Grid & Electrical Equipment",
+      "found_at": "2026-08-11T10:08:51.453228+00:00"
+    },
+    {
+      "title": "Amazon acquires 8000-acre site in Pecos, Texas ...",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-acquires-8000-acre-site-in-pecos-texas-for-natural-gas-powered-behind-the-meter-data-center-report/",
+      "query": "behind-the-meter gas datacenter deal",
+      "description": "Amazon acquires 8,000-acre site in Pecos, Texas, for natural gas powered behind-the-meter data center ・ be the largest natural gas plant in US ・ up to 7.65GW ...",
+      "sector": "natural_gas",
+      "sector_label": "Natural Gas & Midstream",
+      "found_at": "2026-08-11T10:08:56.651056+00:00"
+    },
+    {
+      "title": "Data Center Power: Firm and Expensive - Stout",
+      "url": "https://www.stout.com/en/insights/commentary/data-center-power-firm-expensive",
+      "query": "behind-the-meter gas datacenter deal",
+      "description": "Behind-the-Meter Microgrids Cummins is supplying natural-gas generating sets to Circe Energy for a West Texas AI and high-performance computing campus",
+      "sector": "natural_gas",
+      "sector_label": "Natural Gas & Midstream",
+      "found_at": "2026-08-11T10:08:56.651072+00:00"
+    },
+    {
+      "title": "US tech companies are increasingly building their own gas ...",
+      "url": "https://www.facebook.com/TheStarOnline/posts/us-tech-companies-are-increasingly-building-their-own-gas-fired-power-plants-to-/1532704428892077/",
+      "query": "behind-the-meter gas datacenter deal",
+      "description": "Chevron, recognizing a partnership with Engine No. 1 and GE Vernova specifically to develop behind-the-meter gas generation for data centers.",
+      "sector": "natural_gas",
+      "sector_label": "Natural Gas & Midstream",
+      "found_at": "2026-08-11T10:08:56.651074+00:00"
+    },
+    {
+      "title": "Siemens' gas turbine backlog nears 70 GW as company ...",
+      "url": "https://www.utilitydive.com/news/siemens-gas-turbine-backlog-nears-70-gw-as-company-expands-manufacturing/827390/",
+      "query": "gas turbine order backlog",
+      "description": "# Siemens’ gas turbine backlog nears 70 GW as company expands manufacturing\nThe company booked orders for 15 GW from its gas services division this quarter,with sales up 62% from this time last year to €10 billion ($11.6 billion), according to Maria Ferraro, the company’s chief financial officer.\n\nSiemens’ Grid Technologies division, which makes transformers and other products, had a €51 billion ($59 billion) order backlog as of June 30, Ferraro said.\n\n69 GW\n\nGas turbines backlog, with 15 GW new orders booked this quarter.\n\nYear-over-year increase in grid technology orders.\n\nTotal orders were down year over year because of two large offshore wind orders that skewed last year’s figures, she said.",
+      "sector": "natural_gas",
+      "sector_label": "Natural Gas & Midstream",
+      "found_at": "2026-08-11T10:09:01.257360+00:00"
+    },
+    {
+      "title": "Siemens' gas turbine backlog nears 70 GW as company ...",
+      "url": "https://energynewsbeat.co/electrical-generation/siemens-gas-turbine-backlog-nears-70-gw-as-company-expands-manufacturing/",
+      "query": "gas turbine order backlog",
+      "description": "Siemens Energy’s gas services division closed the third quarter of fiscal 2026 (ended June 30) with a firm gas turbine backlog of 69 GW after booking 15 GW in new orders and shipping 6 GW during the period.\n\nThe division’s order backlog stood at €73 billion.",
+      "sector": "natural_gas",
+      "sector_label": "Natural Gas & Midstream",
+      "found_at": "2026-08-11T10:09:01.257379+00:00"
+    },
+    {
+      "title": "Gas Turbine Backlog Extends To 2031 As Demand Surges",
+      "url": "https://www.enverus.com/blog/the-queue-before-the-queue-gevs-backlog-extends-to-2031/",
+      "query": "gas turbine order backlog",
+      "description": "# The Queue Before the Queue | GEV’s Backlog Extends to 2031\nGEV’s gas turbine backlog climbed to 116 GW in Q2, up from 100 GW in the prior quarter as utilities, [independent power producers (IPPs)](https://www.enverus.com/blog/power-market-evolution-alpha-to-omega/) and data center developers continue securing generation equipment years in advance.\n\n## Top Three Takeaways:\n### Subscribe to the Enverus Blog\n#### [The Queue Before the Queue | GEV’s Backlog Extends to 2031](https://www.enverus.com/blog/the-queue-before-the-queue-gevs-backlog-extends-to-2031/)\nGEV's gas turbine backlog hits 116 GW, delaying deliveries to 2031 and reshaping build-vs-buy in power markets.",
+      "sector": "natural_gas",
+      "sector_label": "Natural Gas & Midstream",
+      "found_at": "2026-08-11T10:09:01.257382+00:00"
+    },
+    {
+      "title": "Data Center Expansion Increases Demand for Diesel Fuel",
+      "url": "https://www.opis.com/resources/energy-market-news-from-opis/data-center-expansion-increases-demand-for-diesel-fuel/",
+      "query": "pipeline expansion datacenter demand",
+      "description": "Goldman Sachs Commodities Research said in May that U.S. data center power demand alone is forecast to more than double to 66 GW in 2027 from 31 GW in 2025 ...",
+      "sector": "natural_gas",
+      "sector_label": "Natural Gas & Midstream",
+      "found_at": "2026-08-11T10:09:20.385655+00:00"
+    },
+    {
+      "title": "What Do Data Centers Have to Do With Pipelines ...",
+      "url": "https://www.instagram.com/p/Db3oJbUEdnL/",
+      "query": "pipeline expansion datacenter demand",
+      "description": "pipeline companies are increasingly pointing to data center growth as a reason they need to transport more gas to the region by expand existing pipelines or ...",
+      "sector": "natural_gas",
+      "sector_label": "Natural Gas & Midstream",
+      "found_at": "2026-08-11T10:09:20.385669+00:00"
+    },
+    {
+      "title": "A map showing how dramatically the United States' data ...",
+      "url": "https://www.facebook.com/geoallday/posts/a-map-showing-how-dramatically-the-united-states-data-center-footprint-could-exp/1403676008574981/",
+      "query": "pipeline expansion datacenter demand",
+      "description": "McKinsey estimates that demand for “AI-ready” data -center capacity is growing at roughly 33% per year from 2023 to 2030 in a mid-range scenario,",
+      "sector": "natural_gas",
+      "sector_label": "Natural Gas & Midstream",
+      "found_at": "2026-08-11T10:09:20.385671+00:00"
+    },
+    {
+      "title": "The project is planned to produce approximately 4 million ...",
+      "url": "https://www.facebook.com/100072411676758/posts/the-project-is-planned-to-produce-approximately-4-million-tonnes-of-lng-per-year/1052564400500606/",
+      "query": "LNG export approval announcement",
+      "description": "Alberta and BC premiers Danielle Smith and David Eby have agreed to work on ways to increase Canadian LNG exports under Article 6 of the Paris Accord. The ...",
+      "sector": "natural_gas",
+      "sector_label": "Natural Gas & Midstream",
+      "found_at": "2026-08-11T10:09:24.682571+00:00"
+    },
+    {
+      "title": "ADNOC Gas is exploring the potential development ...",
+      "url": "https://www.instagram.com/p/Db5EFWUNBCy/",
+      "query": "LNG export approval announcement",
+      "description": "ADNOC has approved a $6.2 billion (Dh22.6 billion) investment in the Umm Shaif Gas Cap Project, which will add 600 million standard cubic feet of natural gas ...",
+      "sector": "natural_gas",
+      "sector_label": "Natural Gas & Midstream",
+      "found_at": "2026-08-11T10:09:24.682588+00:00"
+    },
+    {
+      "title": "Potential LNG facility to provide extra export flexibility as ...",
+      "url": "https://www.facebook.com/GulfNews.UAE/posts/potential-lng-facility-to-provide-extra-export-flexibility-as-key-gas-complex-re/1510400314451676/",
+      "query": "LNG export approval announcement",
+      "description": "Five additional export terminals are approved and are either in the commissioning phase or are under construction in fiscal years 2025-26 or 2027 and beyond, ...",
+      "sector": "natural_gas",
+      "sector_label": "Natural Gas & Midstream",
+      "found_at": "2026-08-11T10:09:24.682590+00:00"
+    },
+    {
+      "title": "Fermi signs $6.5 billion lease for 'world's largest data ...",
+      "url": "https://abc7amarillo.com/news/local/fermi-america-signs-six-point-five-billion-dollar-lease-for-worlds-largest-data-center-after-months-of-turmoil-tensorwave-amarillo-texas-carson-county-water-city-council-greg-abbott-audir",
+      "query": "nuclear datacenter deal signed",
+      "description": "Fermi Inc. said Monday it has signed a $6.5 billion lease with AI cloud provider TensorWave for part of its massive data center and power campus",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-11T10:09:29.478810+00:00"
+    },
+    {
+      "title": "Chevron (CVX) Signed A 20 Year AI Data Center Power Deal",
+      "url": "https://simplywall.st/stocks/us/energy/nyse-cvx/chevron/news/chevron-cvx-signed-a-20-year-ai-data-center-power-deal",
+      "query": "nuclear datacenter deal signed",
+      "description": "Chevron (NYSE:CVX) has entered a 20 year Project Kilby energy supply agreement with Microsoft to support power needs for AI data centers.",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-11T10:09:29.478825+00:00"
+    },
+    {
+      "title": "Unlocking $50 Billion Across the Nuclear Value Chain",
+      "url": "https://etfdb.com/nuclear-energy-content-hub/unlocking-billions-nuclear-value/",
+      "query": "nuclear datacenter deal signed",
+      "description": "The five states have signed memorandums. The proposed campuses could support , and co-located data centers. for powering data centers",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-11T10:09:29.478827+00:00"
+    },
+    {
+      "title": "Hadron Energy Appoints Previous TerraPower COO Eric ...",
+      "url": "https://lasvegassun.com/news/2026/aug/10/hadron-energy-appoints-previous-terrapower-coo-eri/",
+      "query": "SMR NRC approval milestone",
+      "description": "# Hadron Energy Appoints Previous TerraPower COO Eric Williams as Executive Vice President of Engineering\nEric brings three decades of advanced reactor engineering leadership, operational excellence, and first-of-a-kind reactor commercialization experience, most recently as Executive Vice President (EVP) and Chief Operations Officer (COO) of TerraPower, where he oversaw the successful Nuclear Regulatory Commission (NRC) approval of the Natrium Construction Permit, a historic milestone for advanced Small Modular Reactor (SMR) deployment in the United States.\n\nWith zero debt on its balance sheet, recent NRC licensing milestones (Quality Assurance Program Description acceptance, Principal Design Criteria whitepaper submittal), and a growing portfolio of strategic partnerships (GSE Systems for simulator supply, ConverDyn for uranium fuel supply and conversion), Hadron is now positioned to accelerate the engineering execution, organizational scaling, and regulatory discipline required to bring a first-of-a-kind commercial microreactor to market at an accelerated timeline schedule.\n\nUnder his operational leadership, TerraPower achieved a historic milestone: NRC approval of the Natrium Construction Permit, the first Construction Permit issued for a commercial advanced SMR design in the United States.",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-11T10:09:33.738798+00:00"
+    },
+    {
+      "title": "NRC approves Holtec's Oyster Creek license termination ...",
+      "url": "https://energiesmedia.com/holtec-oyster-creek-license-termination/",
+      "query": "SMR NRC approval milestone",
+      "description": "# NRC approves Holtec’s Oyster Creek license termination plan as company eyes Gulf South reactor deployments with Entergy and Hyundai\nThe Nuclear Regulatory Commission approved the company’s **license termination plan for Oyster Creek nuclear power plant**—a milestone in the site’s decommissioning—while Holtec separately announced a partnership with Entergy and Hyundai Engineering and Construction to explore new reactor deployments across the Gulf South region.",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-11T10:09:33.738813+00:00"
+    },
+    {
+      "title": "Westinghouse and Amentum Partner to Expand Delivery ...",
+      "url": "https://www.niauk.org/westinghouse-and-amentum-partner-to-expand-delivery-capacity-for-apx-fleet-deployment/",
+      "query": "SMR NRC approval milestone",
+      "description": "Westinghouse and Amentum will collaborate to obtain regulatory approval for the AP300 SMR by the U.S. Nuclear Regulatory Commission, a major milestone",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-11T10:09:33.738815+00:00"
+    },
+    {
+      "title": "Nuclear Newswire -- ANS",
+      "url": "https://www.ans.org/news/step-1786104208/",
+      "query": "nuclear restart announcement",
+      "description": "Efforts by NextEra Energy to restart the Duane Arnold nuclear power plant as early as 2029 continue to move forward with the Nuclear Regulatory Commission's ...",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-11T10:09:38.486898+00:00"
+    },
+    {
+      "title": "Danube water level rising: Another Paks nuclear plant ...",
+      "url": "https://sg.news.yahoo.com/danube-water-level-rising-another-132653179.html",
+      "query": "nuclear restart announcement",
+      "description": "The phased reactivation of the previously shut-down capacity has begun at the Paks Nuclear Power Plant, after the level of the River Danube started to rise.",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-11T10:09:38.486914+00:00"
+    },
+    {
+      "title": "Danube water level rising: Another Paks nuclear plant ...",
+      "url": "https://www.aol.co.uk/articles/danube-water-level-rising-another-132653000.html",
+      "query": "nuclear restart announcement",
+      "description": "The phased reactivation of the previously shut-down capacity has begun at the Paks Nuclear Power Plant, after the level of the River Danube started to rise.",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-11T10:09:38.486916+00:00"
+    },
+    {
+      "title": "AI Data Centers Need Power Now. Can NuScale Deliver in ...",
+      "url": "https://finance.yahoo.com/energy/articles/ai-data-centers-power-now-172500764.html",
+      "query": "hyperscaler nuclear power agreement",
+      "description": "The company has entered into a collaborative agreement with the Tennessee Valley Authority (TVA) to initiate planning for up to 6 GW in NuScale SMR capacity",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-11T10:09:42.459479+00:00"
+    },
+    {
+      "title": "GE Vernova is the market leader in heavy-duty ...",
+      "url": "https://www.facebook.com/Stockstoearnpage/posts/on-august-4-elon-musk-told-analysts-spacex-is-aiming-for-as-much-as-20-gigawatts/122194819172938282/",
+      "query": "hyperscaler nuclear power agreement",
+      "description": "Hyperscalers are actively signing direct long-term Power Purchase Agreements (PPAs) with nuclear operators to power high-density compute facilities without ...",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-11T10:09:42.459496+00:00"
+    },
+    {
+      "title": "Courtesy of Chevron, Reeves County will possess enough ...",
+      "url": "https://www.instagram.com/fortune500/p/Db37ev5CXwL/",
+      "query": "hyperscaler nuclear power agreement",
+      "description": "Chevron and Microsoft have signed a 20-year deal to power a massive AI data center using natural gas. including nuclear power and now natural gas.",
+      "sector": "nuclear",
+      "sector_label": "Nuclear Energy",
+      "found_at": "2026-08-11T10:09:42.459498+00:00"
+    },
+    {
+      "title": "Uranium Prices and Uranium Futures Prices",
+      "url": "https://www.barchart.com/futures/quotes/UX*0/futures-prices",
+      "query": "uranium price spot movement",
+      "description": "87.05s +0.20 (+0.23%) Find the latest Uranium prices and Uranium futures quotes for all active contracts below. Moving Averages",
+      "sector": "uranium",
+      "sector_label": "Uranium & Fuel Cycle",
+      "found_at": "2026-08-11T10:09:47.147597+00:00"
+    },
+    {
+      "title": "Prediction: $1000 in Uranium Energy Corp Will Be Worth ...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-uranium-energy-232500610.html",
+      "query": "uranium price spot movement",
+      "description": "# Prediction: $1,000 in Uranium Energy Corp Will Be Worth This Much in 5 Years\n## How fast is Uranium Energy growing?\nUranium's spot price reached $86.38 per pound at the end of July, and **Citi** analysts expect it to rise to $100-$125 per pound this year.",
+      "sector": "uranium",
+      "sector_label": "Uranium & Fuel Cycle",
+      "found_at": "2026-08-11T10:09:47.147612+00:00"
+    },
+    {
+      "title": "Uranium Week: A Suitor For NexGen Energy?",
+      "url": "https://x.com/quakes99/status/2087006898587664674",
+      "query": "uranium price spot movement",
+      "description": "... Spot market might be moving out of the narrow price band it has traded in over the last few months. The spot U308 price rose US$0.50/lb to US$86.75/lb.",
+      "sector": "uranium",
+      "sector_label": "Uranium & Fuel Cycle",
+      "found_at": "2026-08-11T10:09:47.147630+00:00"
+    },
+    {
+      "title": "Centrus Energy Signs LEU and HALEU Supply Agreement ...",
+      "url": "https://www.centrusenergy.com/news/centrus-energy-signs-leu-and-haleu-supply-agreement-with-x-energy/",
+      "query": "HALEU enrichment contract award",
+      "description": "recent signing of its $900 million HALEU enrichment award with the Department of Energy.",
+      "sector": "uranium",
+      "sector_label": "Uranium & Fuel Cycle",
+      "found_at": "2026-08-11T10:09:52.032666+00:00"
+    },
+    {
+      "title": "Centrus Energy has signed another major nuclear fuel ...",
+      "url": "https://www.facebook.com/SciotoValleyGuardian/posts/centrus-energy-has-signed-another-major-nuclear-fuel-contract-this-time-with-x-e/1544008054405568/",
+      "query": "HALEU enrichment contract award",
+      "description": "Centrus is one of four awardees who will each receive a minimum of $2.5 million for HALEU enrichment activities. A maximum total of $2.7 billion may be awarded ...",
+      "sector": "uranium",
+      "sector_label": "Uranium & Fuel Cycle",
+      "found_at": "2026-08-11T10:09:52.032681+00:00"
+    },
+    {
+      "title": "NUCLEAR 101: HALEU stands for high-assay low",
+      "url": "https://www.facebook.com/NuclearEnergyGov/posts/nuclear-101-haleu-stands-for-high-assay-low-enriched-uraniumits-a-crucial-materi/1351797653737196/",
+      "query": "HALEU enrichment contract award",
+      "description": "DOE plans to award one or more contracts to deconvert high-assay low-enriched uranium (HALEU) DOE awards $2.7 billion to boost domestic uranium",
+      "sector": "uranium",
+      "sector_label": "Uranium & Fuel Cycle",
+      "found_at": "2026-08-11T10:09:52.032683+00:00"
+    },
+    {
+      "title": "Centrus Energy Signs LEU and HALEU Supply Agreement ...",
+      "url": "https://www.centrusenergy.com/news/centrus-energy-signs-leu-and-haleu-supply-agreement-with-x-energy/",
+      "query": "uranium supply agreement utility",
+      "description": "Centrus to provide X-energy with enrichment services for Low-Enriched Uranium (“LEU”) and High-Assay, Low-Enriched Uranium (“HALEU”) Low-Enriched Uranium",
+      "sector": "uranium",
+      "sector_label": "Uranium & Fuel Cycle",
+      "found_at": "2026-08-11T10:09:56.481771+00:00"
+    },
+    {
+      "title": "utility coverage, demand & the companies positioned to benefit",
+      "url": "https://thehoot731.substack.com/p/the-uranium-squeeze-utility-coverage",
+      "query": "uranium supply agreement utility",
+      "description": "A coverage ratio measures how much of the uranium a utility will need to load into its reactors in a given year it has already contracted to buy.",
+      "sector": "uranium",
+      "sector_label": "Uranium & Fuel Cycle",
+      "found_at": "2026-08-11T10:09:56.481787+00:00"
+    },
+    {
+      "title": "Utilities are pricing uranium contracts at $120 a pound ...",
+      "url": "https://www.reddit.com/r/UraniumSqueeze/comments/1vl0iq3/utilities_are_pricing_uranium_contracts_at_120_a/",
+      "query": "uranium supply agreement utility",
+      "description": "Utilities are pricing uranium contracts at $120 a pound already. Cameco just signed a nine-year, roughly $2.6B deal to supply India's Department of Atomic ...",
+      "sector": "uranium",
+      "sector_label": "Uranium & Fuel Cycle",
+      "found_at": "2026-08-11T10:09:56.481789+00:00"
+    },
+    {
+      "title": "Grasberg supply shock to plunge refined copper market ...",
+      "url": "https://source.benchmarkminerals.com/article/grasberg-supply-shock-to-plunge-refined-copper-market-into-deficit-in-2026-benchmark-analysis-shows",
+      "query": "copper deficit forecast price",
+      "description": "copper price hitting a high of $10,364/t on 24 September, up over 4% on the previous day. ~591kt of lost copper output … 278kt is expected to be lost in 2025 ...",
+      "sector": "copper_materials",
+      "sector_label": "Copper & Critical Materials",
+      "found_at": "2026-08-11T10:10:00.635598+00:00"
+    },
+    {
+      "title": "Copper: The Hidden Backbone of the Energy Transition and ...",
+      "url": "https://ces-ltd.com/resources/byline-articles/copper-the-hidden-backbone-of-the-energy-transition-and-the-implications-of-u-s-refined-copper-tariffs/",
+      "query": "copper deficit forecast price",
+      "description": "LME copper prices are expected to rise from about US$9,500-10,000 per ton in late 2025 to over US$13,000-14,000 per ton in 2026, showing a clear upward trend.",
+      "sector": "copper_materials",
+      "sector_label": "Copper & Critical Materials",
+      "found_at": "2026-08-11T10:10:00.635614+00:00"
+    },
+    {
+      "title": "#MarketToday | Copper stock with 787% returns and stellar ...",
+      "url": "https://www.facebook.com/BusinessToday/posts/markettoday-copper-stock-with-787-returns-and-stellar-q1-earnings-is-down-31-fro/1532933298881043/",
+      "query": "copper deficit forecast price",
+      "description": "Morgan Stanley expects the most severe copper deficit in 22 years in 2026 (-590k tons). forecast for next year to $11,400 a ton.",
+      "sector": "copper_materials",
+      "sector_label": "Copper & Critical Materials",
+      "found_at": "2026-08-11T10:10:00.635616+00:00"
+    },
+    {
+      "title": "Rare earth company ALOY partners with U.S. Army for ...",
+      "url": "https://www.facebook.com/groups/322661495555943/posts/1800767984411946/",
+      "query": "rare earth price agreement DoD",
+      "description": "USA Rare Earth's implied valuation stands at roughly $16 billion, This annual cost is about 1000 times the current multi-year DOD investment!",
+      "sector": "copper_materials",
+      "sector_label": "Copper & Critical Materials",
+      "found_at": "2026-08-11T10:10:24.168226+00:00"
+    },
+    {
+      "title": "Office of Strategic Capital Signs $150 Million Conditional ...",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4566567/office-of-strategic-capital-signs-150-million-conditional-loan-commitment-with/",
+      "query": "rare earth price agreement DoD",
+      "description": "$150 million conditional loan commitment to Niron Magnetics, Inc. (Niron) to build out the company's rare earth-free magnet production capabilities. up to 1, ...",
+      "sector": "copper_materials",
+      "sector_label": "Copper & Critical Materials",
+      "found_at": "2026-08-11T10:10:24.168240+00:00"
+    },
+    {
+      "title": "Pentagon signs over $2B in deals securing batteries ...",
+      "url": "https://www.manufacturingdive.com/news/dod-osc-sila-technologies-sunrise-energy-metal-niron-magnetics-workforce/827387/",
+      "query": "rare earth price agreement DoD",
+      "description": "The Department of Defense has signed multiple agreements valued at $2.03 billion ・ rare earth magnet maker Niron Magnetics ・ worth $1.95 billion combined.",
+      "sector": "copper_materials",
+      "sector_label": "Copper & Critical Materials",
+      "found_at": "2026-08-11T10:10:24.168242+00:00"
+    },
+    {
+      "title": "Commerce Publishes Temporary Final Rule Restricting ...",
+      "url": "https://www.lawbc.com/commerce-publishes-temporary-final-rule-restricting-export-of-black-mass-from-shredded-battery-scrap/",
+      "query": "critical minerals export restriction",
+      "description": "Recoverable Critical Minerals and Materials” to restrict the exportation of black mass and tungsten waste and scrap.",
+      "sector": "copper_materials",
+      "sector_label": "Copper & Critical Materials",
+      "found_at": "2026-08-11T10:10:28.288479+00:00"
+    },
+    {
+      "title": "New U.S. Restrictions on Export of Black Mass from ...",
+      "url": "https://www.bdlaw.com/publications/new-u-s-restrictions-on-export-of-black-mass-from-recycling-lithium-ion-batteries-pose-major-challenges-for-battery-recycling/",
+      "query": "critical minerals export restriction",
+      "description": "“Temporary Final Rule” prohibiting exports of two materials—black mass from the initial stage of recycling lithium-ion batteries (LIBs) and tungsten waste and ...",
+      "sector": "copper_materials",
+      "sector_label": "Copper & Critical Materials",
+      "found_at": "2026-08-11T10:10:28.288494+00:00"
+    },
+    {
+      "title": "Chinese analysts warn that South Korea's critical-minerals ...",
+      "url": "https://www.facebook.com/ChinaAfricaProject/posts/chinese-analysts-warn-that-south-koreas-critical-minerals-push-in-south-america-/1475562494599680/",
+      "query": "critical minerals export restriction",
+      "description": "China's export restrictions on critical minerals like gallium, germanium, and rare earth elements, vital for tech, EVs, and defense!",
+      "sector": "copper_materials",
+      "sector_label": "Copper & Critical Materials",
+      "found_at": "2026-08-11T10:10:28.288512+00:00"
+    },
+    {
+      "title": "The Marine Corps inked an $11 million contract for a ...",
+      "url": "https://www.facebook.com/DefenseNews/posts/the-marine-corps-inked-an-11-million-contract-for-a-vehicle-mounted-weapon-that-/1471956598299728/",
+      "query": "drone defense contract award",
+      "description": "The Marine Corps inked an $11 million contract for a vehicle-mounted weapon that can take down dozens of drones in a single zap.",
+      "sector": "defense_tech",
+      "sector_label": "Defense Tech",
+      "found_at": "2026-08-11T10:10:32.431866+00:00"
+    },
+    {
+      "title": "Epirus secures $11 million Marine Corps contract for ...",
+      "url": "https://breakingdefense.com/2026/08/epirus-secures-11-million-marine-corps-contract-for-havoc-system/",
+      "query": "drone defense contract award",
+      "description": "The new contract was awarded through the Navy’s Office of Naval Research, and comes after Epirus delivered the [Expeditionary Directed Energy Counter-Swarm (ExDECS) system](https://breakingdefense.com/2024/04/epirus-pitching-anti-drone-tech-to-navy-as-potential-solution-for-red-sea/) to the Marine Corps in 2025.",
+      "sector": "defense_tech",
+      "sector_label": "Defense Tech",
+      "found_at": "2026-08-11T10:10:32.431880+00:00"
+    },
+    {
+      "title": "Neros named first Drone Dominance competitor to receive ...",
+      "url": "https://insidedefense.com/insider/neros-named-first-drone-dominance-competitor-receive-bonus-delivery-order",
+      "query": "drone defense contract award",
+      "description": "Drone vendor Neros has been named the first competitor from the Defense Department's $1.1 billion Drone Dominance Program to receive a \"bonus\" award",
+      "sector": "defense_tech",
+      "sector_label": "Defense Tech",
+      "found_at": "2026-08-11T10:10:32.431882+00:00"
+    },
+    {
+      "title": "Pentagon launches online marketplace for counter-UAS ...",
+      "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/10/pentagon-launches-online-marketplace-for-counter-uas-technology/",
+      "query": "counter-UAS program contract",
+      "description": "# Pentagon launches online marketplace for counter-UAS technology\nJIATF 401 awarded Kaizen a $15 million contract to build the marketplace in May 2026 through an Other Transaction Agreement, a contracting mechanism often used to accelerate the development and acquisition of new technology.",
+      "sector": "defense_tech",
+      "sector_label": "Defense Tech",
+      "found_at": "2026-08-11T10:10:36.748881+00:00"
+    },
+    {
+      "title": "The Drone Market This Week: A $400 Million Laser ...",
+      "url": "https://www.rexshares.com/the-drone-market-this-week-a-400-million-laser-program-dhs-hands-out-1-5-billion-and-the-fcc-goes-retroactive/",
+      "query": "counter-UAS program contract",
+      "description": "## The Bottom Line\n- DHS awarding a five-year, $1.5 billion counter-UAS contract to twelve companies after admitting its own defenses were behind.",
+      "sector": "defense_tech",
+      "sector_label": "Defense Tech",
+      "found_at": "2026-08-11T10:10:36.748896+00:00"
+    },
+    {
+      "title": "Uncrewed Air Systems commonly known as drones ...",
+      "url": "https://www.instagram.com/p/Db3sE1kjcDe/",
+      "query": "counter-UAS program contract",
+      "description": "CACI has secured a three-year contract vehicle worth up to $500 million, with its SkyValor counter-UAS platform selected for the first task order and moving ...",
+      "sector": "defense_tech",
+      "sector_label": "Defense Tech",
+      "found_at": "2026-08-11T10:10:36.748898+00:00"
+    },
+    {
+      "title": "The annual Space & Missile Defense Symposium in ...",
+      "url": "https://www.facebook.com/NEWSMAX/posts/the-annual-space-missile-defense-symposium-in-huntsville-alabama-will-put-presid/1620768113429118/",
+      "query": "Golden Dome contract announcement",
+      "description": "President Donald Trump announced plans for a $175 billion missile defense system dubbed the \"Golden Dome,\" aimed at intercepting threats from space and becoming ...",
+      "sector": "defense_tech",
+      "sector_label": "Defense Tech",
+      "found_at": "2026-08-11T10:10:52.379202+00:00"
+    },
+    {
+      "title": "Space Force Plans 2027 Flight Demonstrations for Golden ...",
+      "url": "https://www.executivegov.com/articles/space-force-golden-dome-orbital-interceptor",
+      "query": "Golden Dome contract announcement",
+      "description": "The U.S. Space Force plans to demonstrate its proposed space-based missile defense architecture by the end of 2026, Bloomberg reported Friday.",
+      "sector": "defense_tech",
+      "sector_label": "Defense Tech",
+      "found_at": "2026-08-11T10:10:52.379218+00:00"
+    },
+    {
+      "title": "Revised estimates predict the proposed 35000-ton nuclear ...",
+      "url": "https://www.facebook.com/armytimes/posts/revised-estimates-predict-the-proposed-35000-ton-nuclear-battle-ships-will-cost-/1463774189117488/",
+      "query": "Golden Dome contract announcement",
+      "description": "❗️President Trump will announce $25 billion for his “Golden Dome” defense project Tuesday afternoon, a fraction of the amount it would eventually cost ...",
+      "sector": "defense_tech",
+      "sector_label": "Defense Tech",
+      "found_at": "2026-08-11T10:10:52.379220+00:00"
+    },
+    {
+      "title": "The US Army has reportedly conducted the first live-fire ...",
+      "url": "https://www.facebook.com/NextGenerationWeapons/posts/the-us-army-has-reportedly-conducted-the-first-live-fire-hypersonic-test-using-t/1512645334223086/",
+      "query": "hypersonics test milestone contract",
+      "description": "on just signed a $63.3 million contract. On the strength of that, the company signed a 190 million dollar contract to launch 20 more hypersonic test missions ...",
+      "sector": "defense_tech",
+      "sector_label": "Defense Tech",
+      "found_at": "2026-08-11T10:10:59.427883+00:00"
+    },
+    {
+      "title": "$1.9 Billion Contract Strengthens Air Force Test Enterprise",
+      "url": "https://www.arnold.af.mil/News/Article-Display/Article/4567027/19-billion-contract-strengthens-air-force-test-enterprise/",
+      "query": "hypersonics test milestone contract",
+      "description": "As part of a new $1.9 billion Air Force Test Center enterprise contract, the Arnold Engineering Development Complex will receive $523.9 million in technical ...",
+      "sector": "defense_tech",
+      "sector_label": "Defense Tech",
+      "found_at": "2026-08-11T10:10:59.427898+00:00"
+    },
+    {
+      "title": "L3Harris Conducts Successful Hot-Fire Test in Major ...",
+      "url": "https://ca.finance.yahoo.com/news/l3harris-conducts-successful-hot-fire-213000066.html",
+      "query": "hypersonics test milestone contract",
+      "description": "The company manufactures ACS and LMT Leidos receives $2.7 billion hypersonic weapons contract Leidos receives",
+      "sector": "defense_tech",
+      "sector_label": "Defense Tech",
+      "found_at": "2026-08-11T10:10:59.427900+00:00"
+    },
+    {
+      "title": "Microsoft is planning to unveil its next-gen AI chip this fall ...",
+      "url": "https://www.facebook.com/quartznews/posts/microsoft-is-planning-to-unveil-its-next-gen-ai-chip-this-fall-as-it-races-to-re/1410175640978250/",
+      "query": "edge AI chip design win",
+      "description": "Microsoft is planning to unveil its next-gen AI chip this fall as it races to reduce Nvidia reliance: The company has been in talks with TSMC to secure...",
+      "sector": "edge_ai",
+      "sector_label": "Edge AI",
+      "found_at": "2026-08-11T10:11:06.962044+00:00"
+    },
+    {
+      "title": "Ambiq Micro earnings up next as edge AI momentum builds",
+      "url": "https://m.investing.com/news/earnings/ambiq-micro-earnings-up-next-as-edge-ai-momentum-builds-93CH-4849568?ampMode=1",
+      "query": "edge AI chip design win",
+      "description": "The central question is whether Ambiq can translate design wins into sustained revenue growth. Analysts are focused on several key areas heading into the report ...",
+      "sector": "edge_ai",
+      "sector_label": "Edge AI",
+      "found_at": "2026-08-11T10:11:06.962060+00:00"
+    },
+    {
+      "title": "South Korea AI Chip Market",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/south-korea-ai-chip-market-87237882.html",
+      "query": "edge AI chip design win",
+      "description": "Developing cutting-edge AI processors requires expertise in areas such as chip architecture, software integration, and advanced fabrication technologies.",
+      "sector": "edge_ai",
+      "sector_label": "Edge AI",
+      "found_at": "2026-08-11T10:11:06.962063+00:00"
+    },
+    {
+      "title": "AI Cloud Provider Lambda Taps Loans for Nvidia-Tied ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-cloud-provider-lambda-taps-144447179.html",
+      "query": "automotive AI chip contract",
+      "description": "The Lambda debt will help finance the purchase and installation of GPUs and other infrastructure, as part of a contract with Nvidia, according to a person with ...",
+      "sector": "edge_ai",
+      "sector_label": "Edge AI",
+      "found_at": "2026-08-11T10:11:11.554671+00:00"
+    },
+    {
+      "title": "Nvidia, Wall Street Firms Strike AI Financing Deal ...",
+      "url": "https://www.wsj.com/business/deals/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db?eafs_enabled=false",
+      "query": "automotive AI chip contract",
+      "description": "Nvidia reached a deal with several major Wall Street firms to help raise $500 billion in financing for the chipmaker's customers.",
+      "sector": "edge_ai",
+      "sector_label": "Edge AI",
+      "found_at": "2026-08-11T10:11:11.554684+00:00"
+    },
+    {
+      "title": "The AI boom continues to power Taiwan Semiconductor ...",
+      "url": "https://www.facebook.com/schwabnetwork/posts/the-ai-boom-continues-to-power-taiwan-semiconductor-tsm-with-the-chip-giant-post/1644768764317146/",
+      "query": "automotive AI chip contract",
+      "description": "From cloud giants stocking up on AI wafers to automotive firms racing to embed AI at the edge, the ripple effects are already being felt across industries.",
+      "sector": "edge_ai",
+      "sector_label": "Edge AI",
+      "found_at": "2026-08-11T10:11:11.554686+00:00"
+    },
+    {
+      "title": "WABE News on Instagram: \"The California-based automaker ...",
+      "url": "https://www.instagram.com/reel/Db3eYaHFMzQ/",
+      "query": "lidar production win automaker",
+      "description": "The California-based automaker is expanding its footprint in the Southeast with a new 500-person office space in Atlanta. After years of financial turmoil, ...",
+      "sector": "edge_ai",
+      "sector_label": "Edge AI",
+      "found_at": "2026-08-11T10:11:15.734023+00:00"
+    },
+    {
+      "title": "A Chinese EV maker can take a new platform from blank ...",
+      "url": "https://www.facebook.com/McKinseyGlobalInstitute/posts/a-chinese-ev-maker-can-take-a-new-platform-from-blank-sheet-to-production-line-i/1499878605488936/",
+      "query": "lidar production win automaker",
+      "description": "A Chinese EV maker can take a new platform from blank sheet to production line in under two years. Some Chinese models cost under $20,000, while the average ...",
+      "sector": "edge_ai",
+      "sector_label": "Edge AI",
+      "found_at": "2026-08-11T10:11:15.734041+00:00"
+    },
+    {
+      "title": "Sensor Fusion Market Share & Forecast to 2033",
+      "url": "https://www.persistencemarketresearch.com/market-research/sensor-fusion-market.asp",
+      "query": "lidar production win automaker",
+      "description": "March, 2025: NVIDIA Corporation launched a new fusion processor built for autonomous machines, pairing camera, radar, and LiDAR data streams on a single chip.",
+      "sector": "edge_ai",
+      "sector_label": "Edge AI",
+      "found_at": "2026-08-11T10:11:15.734042+00:00"
+    },
+    {
+      "title": "❝ Utility-scale battery storage capacity in the United States ...",
+      "url": "https://www.facebook.com/marius.comper/posts/-utility-scale-battery-storage-capacity-in-the-united-states-increased-significa/10164766084819621/",
+      "query": "grid battery storage order gigawatt",
+      "description": "By the end of 2025, the U.S. power system had operational battery storage capacity of 43.6 gigawatts (GW). add 26 GW in 2027 and 14 GW in 2028.",
+      "sector": "grid_storage",
+      "sector_label": "Grid Storage & Batteries",
+      "found_at": "2026-08-11T10:11:20.674417+00:00"
+    },
+    {
+      "title": "US grid battery capacity approaches 52GW - IN Power",
+      "url": "https://electricalnews.co.uk/us-grid-battery-capacity-approaches-52gw/",
+      "query": "grid battery storage order gigawatt",
+      "description": "US utility-scale battery storage reached nearly 52GW after 8.3GW was added during the first half of 2026. Installed power capacity has grown at an average ...",
+      "sector": "grid_storage",
+      "sector_label": "Grid Storage & Batteries",
+      "found_at": "2026-08-11T10:11:20.674432+00:00"
+    },
+    {
+      "title": "Abu Dhabi is building the world's largest battery storage ...",
+      "url": "https://www.reddit.com/r/UpliftingNews/comments/1vkilz8/abu_dhabi_is_building_the_worlds_largest_battery/",
+      "query": "grid battery storage order gigawatt",
+      "description": "Abu Dhabi is building the world's largest battery storage project, pairing 5.2 GW of solar with 19 GWh of storage around the clock from 2027.",
+      "sector": "grid_storage",
+      "sector_label": "Grid Storage & Batteries",
+      "found_at": "2026-08-11T10:11:20.674434+00:00"
+    },
+    {
+      "title": "Long duration energy storage finds its buyer #308 - CTVC",
+      "url": "https://www.ctvc.co/long-duration-energy-storage-finds-its-buyer-308/",
+      "query": "long duration storage contract award",
+      "description": "Happy Monday! Currence's 2H26 LDES Leaderboard is out, and the rankings shifted because the buyer changed. Read on to find out who's winning and who's next.",
+      "sector": "grid_storage",
+      "sector_label": "Grid Storage & Batteries",
+      "found_at": "2026-08-11T10:11:25.695601+00:00"
+    },
+    {
+      "title": "Korea's battery trio braces for W1tr ESS price war",
+      "url": "https://www.koreaherald.com/article/10837603",
+      "query": "long duration storage contract award",
+      "description": "South Korea's three largest battery makers are preparing to compete for about 1 trillion won ($706.8 million) in the government's third energy storage ...",
+      "sector": "grid_storage",
+      "sector_label": "Grid Storage & Batteries",
+      "found_at": "2026-08-11T10:11:25.695614+00:00"
+    },
+    {
+      "title": "Cox moves forward in Guatemala with a new $126 million ...",
+      "url": "https://www.bnamericas.com/en/news/cox-moves-forward-in-guatemala-with-a-new-126-million-power-generation-and-energy-storage-project",
+      "query": "long duration storage contract award",
+      "description": "The contract will have a 15-year term and an awarded monomic price of $88.66 per MW. The award represents approximately $126.5 million in contracted revenues",
+      "sector": "grid_storage",
+      "sector_label": "Grid Storage & Batteries",
+      "found_at": "2026-08-11T10:11:25.695616+00:00"
+    },
+    {
+      "title": "Press Release",
+      "url": "https://www.highperformancebattery.ch/de/pressestimmen/pm-26-08-10.php",
+      "query": "solid-state battery milestone validation",
+      "description": "Joint testing conducted since 2024 has demonstrated HPB Solid-State Battery cells incorporating the ZNL-NPx separator sustaining already more than 4,500 charge ...",
+      "sector": "grid_storage",
+      "sector_label": "Grid Storage & Batteries",
+      "found_at": "2026-08-11T10:11:30.192954+00:00"
+    },
+    {
+      "title": "Funded development and scale-up agreement with Mitsui ...",
+      "url": "https://www.investormeetcompany.com/updates/funded-development-and-scale-up-agreement-with-mitsui-kinzoku/show",
+      "query": "solid-state battery milestone validation",
+      "description": "Joint development and funding agreement with Mitsui Kinzoku to validate Gelion's NES™ CAM in liquid and solid-state sulfur battery cells and establish a pathway ...",
+      "sector": "grid_storage",
+      "sector_label": "Grid Storage & Batteries",
+      "found_at": "2026-08-11T10:11:30.192967+00:00"
+    },
+    {
+      "title": "Global Times's post",
+      "url": "https://www.facebook.com/globaltimesnews/posts/endurance-and-explosive-strength-are-usually-incompatible-yet-chinese-researcher/1601657092006492/",
+      "query": "solid-state battery milestone validation",
+      "description": "Scaling to multi-hundred-kilowatt-hour EV battery packs requires extensive validation and safety certification. beyond 1,000 kilometers.",
+      "sector": "grid_storage",
+      "sector_label": "Grid Storage & Batteries",
+      "found_at": "2026-08-11T10:11:30.192970+00:00"
+    },
+    {
+      "title": "Panel highlights what battery suppliers need to know about ...",
+      "url": "https://www.sandia.gov/ess/2026/08/10/panel-highlights-what-battery-suppliers-need-to-know-about-data-centers",
+      "query": "datacenter battery storage deal",
+      "description": "Data centers are a booming market for battery energy storage, expected to hit $21 billion in value over the next decade.",
+      "sector": "grid_storage",
+      "sector_label": "Grid Storage & Batteries",
+      "found_at": "2026-08-11T10:11:37.726709+00:00"
+    },
+    {
+      "title": "Energy Vault signs 1.25GW power supply deal with Texas ...",
+      "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
+      "query": "datacenter battery storage deal",
+      "description": "# Energy Vault signs 1.25GW power supply deal with Texas data center developer\nEnergy storage firm Energy Vault has signed a deal to supply battery energy storage systems (BESS), grid-forming power conversion systems, and AI infrastructure control software for a 1.25GW integrated power deployment at a hyperscale data center development in Texas.\n\n# [Watt’s Next? How can batteries be best utilized in the data center sector?](https://www.datacenterdynamics.com/en/analysis/watts-next-how-can-batteries-be-best-utilized-in-data-center/)\nThe deal, signed with an unnamed developer, will see the companies jointly deploy fully integrated, off-grid power systems to expedite the data center's connection by avoiding reliance on traditional utility interconnection schedules.\n\nEnergy Vault has signed several deals with data center operators to supply them with energy storage systems.",
+      "sector": "grid_storage",
+      "sector_label": "Grid Storage & Batteries",
+      "found_at": "2026-08-11T10:11:37.726722+00:00"
+    },
+    {
+      "title": "Energy Storage for Data Centers",
+      "url": "https://aiworld.com/data-center-energy-storage",
+      "query": "datacenter battery storage deal",
+      "description": "The Battery Energy Storage for Data Centers track brings together data center operators, battery manufacturers, technology providers, system integrators ...",
+      "sector": "grid_storage",
+      "sector_label": "Grid Storage & Batteries",
+      "found_at": "2026-08-11T10:11:37.726724+00:00"
+    },
+    {
+      "title": "The next chapter of our AI momentum",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "query": "frontier model release announcement",
+      "description": "We are committed to being at the frontier, and are super focused on the areas where we need to improve. I'm really excited for our upcoming model releases and ...",
+      "sector": "foundation_models",
+      "sector_label": "Foundation Models",
+      "found_at": "2026-08-11T10:11:47.386197+00:00"
+    },
+    {
+      "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+      "url": "https://llm-stats.com/llm-updates",
+      "query": "frontier model release announcement",
+      "description": "## Models that got worse\n### The model releases, benchmark shifts, and analysis worth your week — in one email.\nFree · One email a week · Unsubscribe anytime",
+      "sector": "foundation_models",
+      "sector_label": "Foundation Models",
+      "found_at": "2026-08-11T10:11:47.386217+00:00"
+    },
+    {
+      "title": "If you told someone 3 months ago that a model released by ...",
+      "url": "https://x.com/levie/status/2087009941806797206",
+      "query": "frontier model release announcement",
+      "description": "# Post by @levie\n## Post\nIf you told someone 3 months ago that a model released by a US company with frontier-class capability would be available as open weights they wouldn’t believe it.\n\nYou can also now post-train a frontier class model on specific vertical use-cases that need extra levels of performance for their tasks, like in legal, healthcare, and other spaces.\n\n## Thread\n### 1. Thread Post\nIf you told someone 3 months ago that a model released by a US company with frontier-class capability would be available as open weights they wouldn’t believe it.",
+      "sector": "foundation_models",
+      "sector_label": "Foundation Models",
+      "found_at": "2026-08-11T10:11:47.386219+00:00"
+    },
+    {
+      "title": "Anthropic is meeting with potential investors to shore up ...",
+      "url": "https://www.facebook.com/WSJ/posts/anthropic-is-meeting-with-potential-investors-to-shore-up-confidence-in-what-cou/1426565679330025/",
+      "query": "AI lab funding round valuation",
+      "description": "The company is reportedly negotiating a new funding round that puts its valuation above 300 billion. That is a scale only a few AI players have reached. No ...",
+      "sector": "foundation_models",
+      "sector_label": "Foundation Models",
+      "found_at": "2026-08-11T10:11:51.933338+00:00"
+    },
+    {
+      "title": "Deepwater's @munster_gene : Tech investors not ...",
+      "url": "https://www.facebook.com/FastMoney/posts/deepwaters-munster_gene-tech-investors-not-appreciating-how-early-we-are-into-ai/1400379538625782/",
+      "query": "AI lab funding round valuation",
+      "description": "a total of $2.2 billion in just one year across three rounds. AI accounts for 60-70% of that capital while representing only 35% of deals. The remaining 65% of ...",
+      "sector": "foundation_models",
+      "sector_label": "Foundation Models",
+      "found_at": "2026-08-11T10:11:51.933354+00:00"
+    },
+    {
+      "title": "Volta Infrastructure Holdings, a London, Palo Alto, CA and ...",
+      "url": "https://www.instagram.com/p/Db4JllSEadb/",
+      "query": "AI lab funding round valuation",
+      "description": "Volta, a brand-new AI cloud startup, raised $300M at a $2.4B valuation. a16z and Altimeter co-led the round. Nvidia and Michael Dell joined. Volta launched with ...",
+      "sector": "foundation_models",
+      "sector_label": "Foundation Models",
+      "found_at": "2026-08-11T10:11:51.933356+00:00"
+    },
+    {
+      "title": "Nvidia, Wall Street Firms Strike AI Financing Deal ...",
+      "url": "https://www.wsj.com/business/deals/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db",
+      "query": "AI compute deal announcement",
+      "description": "Nvidia reached a deal with several major Wall Street firms to help raise $500 billion in financing for the chipmaker's customers.",
+      "sector": "foundation_models",
+      "sector_label": "Foundation Models",
+      "found_at": "2026-08-11T10:11:56.380659+00:00"
+    },
+    {
+      "title": "Nvidia partners with Wall Street giants to raise $500 billion ...",
+      "url": "https://www.reuters.com/technology/wall-street-giants-partner-with-nvidia-500-billion-ai-financing-deal-ft-reports-2026-08-10/",
+      "query": "AI compute deal announcement",
+      "description": "Aug 10 (Reuters) - Nvidia [(NVDA.O), opens new tab](https://www.reuters.com/markets/companies/NVDA.O) said on Monday it has partnered with six ​major financial institutions to launch compute financing platforms aimed at ‌raising over $500 billion in third-party capital for AI infrastructure.\n\n\"These financing platforms will help customers access scarce compute at scale and build the AI factories that will power ​every industry and country ​in the ⁠age of AI,\" Huang said.",
+      "sector": "foundation_models",
+      "sector_label": "Foundation Models",
+      "found_at": "2026-08-11T10:11:56.380674+00:00"
+    },
+    {
+      "title": "Artificial Intelligence | AI on Instagram: \"Nvidia is set to ...",
+      "url": "https://www.instagram.com/reel/Db4yIuENfZx/",
+      "query": "AI compute deal announcement",
+      "description": "Nvidia is set to announce a $500 billion AI financing effort in partnership with Apollo, Blackstone, BlackRock, Goldman Sachs, KKR, and Brookfield, per CNBC.",
+      "sector": "foundation_models",
+      "sector_label": "Foundation Models",
+      "found_at": "2026-08-11T10:11:56.380676+00:00"
+    },
+    {
+      "title": "Claude Code Pricing: Plans, API Rates, and Total Cost in ...",
+      "url": "https://www.jetadmin.io/blog/untitled-9/",
+      "query": "model pricing change API",
+      "description": "Heavy, daily claude code usage is usually cheaper on Max subscriptions, while low or irregular usage often costs less via API-especially with prompt caching and ...",
+      "sector": "foundation_models",
+      "sector_label": "Foundation Models",
+      "found_at": "2026-08-11T10:12:00.605609+00:00"
+    },
+    {
+      "title": "Qwen3.5 9B API Pricing 2026",
+      "url": "https://pricepertoken.com/pricing-page/model/qwen-qwen3.5-9b",
+      "query": "model pricing change API",
+      "description": "Pricing starts at $0.100 per million input tokens and $0.150 per million output tokens. The model supports a context window of up to 262K tokens. API access is ...",
+      "sector": "foundation_models",
+      "sector_label": "Foundation Models",
+      "found_at": "2026-08-11T10:12:00.605625+00:00"
+    },
+    {
+      "title": "GLM Pricing: Z.ai API $1.40/$4.40 + GLM Coding Plan",
+      "url": "https://www.aipricing.guru/z-ai-pricing/",
+      "query": "model pricing change API",
+      "description": "# Z.ai GLM-5.2 API Pricing\n## Z.ai API token prices\n| Model↕ | Providers↕ | Tier↕ | Context↕ | Cheapest input↕ | Cached↕ | Output↕ |\n|-|-|-|-|-|-|-|\n| ⌄![](https://www.aipricing.guru/logos/ai/zai.svg)GLM-5.2 | Z.ai | Mid | 1M | $1.40 | $0.26 | $4.40 |",
+      "sector": "foundation_models",
+      "sector_label": "Foundation Models",
+      "found_at": "2026-08-11T10:12:00.605627+00:00"
+    },
+    {
+      "title": "Enterprise Pricing Strategy: Building One for AI Products",
+      "url": "https://www.stigg.io/blog-posts/enterprise-pricing-strategy",
+      "query": "enterprise AI contract deal signed",
+      "description": "Learn how to build an enterprise pricing strategy for AI products with configurable contracts, usage limits, entitlements, and organization-level pricing.",
+      "sector": "enterprise_ai",
+      "sector_label": "Enterprise AI",
+      "found_at": "2026-08-11T10:12:06.747823+00:00"
+    },
+    {
+      "title": "AI contracts used to be an afterthought. Now they're a moat. ...",
+      "url": "https://www.instagram.com/reel/Db3pmNDRFDC/",
+      "query": "enterprise AI contract deal signed",
+      "description": "Senior Corporate Counsel Phil Omorogbe discusses what actually matters in the contract if you're building or buying enterprise AI.",
+      "sector": "enterprise_ai",
+      "sector_label": "Enterprise AI",
+      "found_at": "2026-08-11T10:12:06.747841+00:00"
+    },
+    {
+      "title": "AI Commercial Contracts: What to Look for as a Builder ...",
+      "url": "https://www.linkedin.com/pulse/ai-commercial-contracts-what-look-builder-buyer-lindsey-mignano-2rayc",
+      "query": "enterprise AI contract deal signed",
+      "description": "Founders: AI contracts used to be an afterthought. Now they're a moat. If you're building or buying enterprise AI, here's what actually matters in the contract.",
+      "sector": "enterprise_ai",
+      "sector_label": "Enterprise AI",
+      "found_at": "2026-08-11T10:12:06.747843+00:00"
+    },
+    {
+      "title": "and not because it's another new AI model. ...",
+      "url": "https://www.instagram.com/reel/Db3EshbgUAg/",
+      "query": "AI agent deployment announcement enterprise",
+      "description": "Presence is designed to deploy governed AI agents into enterprise workflows. These agents can connect to approved business systems, retrieve and update ...",
+      "sector": "enterprise_ai",
+      "sector_label": "Enterprise AI",
+      "found_at": "2026-08-11T10:12:15.767989+00:00"
+    },
+    {
+      "title": "AI Agents News — Week of August 11, 2026 (Daily Updates)",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "query": "AI agent deployment announcement enterprise",
+      "description": "Drata launches AI Agent Governance for enterprise compliance. What changed: Drata announced Limited Availability of AI Agent Governance, a new module in its ...",
+      "sector": "enterprise_ai",
+      "sector_label": "Enterprise AI",
+      "found_at": "2026-08-11T10:12:15.768017+00:00"
+    },
+    {
+      "title": "Enterprise AI Platform for Customer Service",
+      "url": "https://pypestream.ai/product",
+      "query": "AI agent deployment announcement enterprise",
+      "description": "# Build Once. Deploy Everywhere. Resolve Everything.\n## One Platform. Every Channel.\nVoice and chat AI agents built for enterprise deployment.",
+      "sector": "enterprise_ai",
+      "sector_label": "Enterprise AI",
+      "found_at": "2026-08-11T10:12:15.768019+00:00"
+    },
+    {
+      "title": "Monday's AI business surges, but investors send shares down",
+      "url": "https://www.calcalistech.com/ctechnews/article/8icecs1gx",
+      "query": "AI software revenue guidance raise",
+      "description": "Software company monday.com ended the second quarter of 2026 with revenue of $364.6 million, up 22% from the same quarter a year earlier and above analysts' ...",
+      "sector": "enterprise_ai",
+      "sector_label": "Enterprise AI",
+      "found_at": "2026-08-11T10:12:23.470056+00:00"
+    },
+    {
+      "title": "Hyperscalers have promised more than $6 trillion of ...",
+      "url": "https://www.facebook.com/Reuters/posts/hyperscalers-have-promised-more-than-6-trillion-of-spending-on-building-out-ai-t/1636164245040968/",
+      "query": "AI software revenue guidance raise",
+      "description": "Its CEO Sam Altman has said the company is making $20 billion in revenue a year, and it plans to spend $1.4 trillion on data centers over the next eight years.",
+      "sector": "enterprise_ai",
+      "sector_label": "Enterprise AI",
+      "found_at": "2026-08-11T10:12:23.470077+00:00"
+    },
+    {
+      "title": "Freshworks' Raised 2026 Revenue Guidance Could Be A ...",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-frsh/freshworks/news/freshworks-raised-2026-revenue-guidance-could-be-a-game-chan",
+      "query": "AI software revenue guidance raise",
+      "description": "The company's decision to raise full-year 2026 revenue guidance to a range of US$963.5 million to US$966.5 million highlights management's confidence. AI, ...",
+      "sector": "enterprise_ai",
+      "sector_label": "Enterprise AI",
+      "found_at": "2026-08-11T10:12:23.470079+00:00"
+    },
+    {
+      "title": "The Last Bubble Starved Energy. This One Starves Housing. Is ...",
+      "url": "https://www.youtube.com/watch?v=g1yueS-M9v4",
+      "query": "hyperscaler capex guidance increase",
+      "description": "Why a pullback in hyperscaler CapEx could weaken the spending and income loop; Why AI return on investment is so difficult to measure and how the profit pool ...",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-11T10:12:27.903431+00:00"
+    },
+    {
+      "title": "SanDisk Crashed—Here's Why We're Not Selling",
+      "url": "https://www.youtube.com/watch?v=_j5wIu7TeA4",
+      "query": "hyperscaler capex guidance increase",
+      "description": "SanDisk (SNDK) fell from $2000 to $1200 — Q1 fiscal 2027 guidance (still 300–400% memory stocks are selling off: Hyperscaler CapEx: •",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-11T10:12:27.903450+00:00"
+    },
+    {
+      "title": "OPEN LIVING - a Data Center You Can Live in",
+      "url": "https://www.instagram.com/reel/Db3BF4WBLxc/",
+      "query": "hyperscaler capex guidance increase",
+      "description": "it's about a 65% reduction in CAPEX. It's like a billion and a half dollars in savings per gigawatt of data center. 65% REDUCTION IN CAPEX BILLION … ...",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-11T10:12:27.903453+00:00"
+    },
+    {
+      "title": "Backlog trends: $MSFT CFO: “Commercial remaining ...",
+      "url": "https://x.com/TheTranscript_/status/2086950745740628186",
+      "query": "cloud backlog RPO growth quarter",
+      "description": "Cloud's backlog increased by more than $50B sequentially, reaching $514B in the second quarter. reaching $514B in the second quarter.",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-11T10:12:32.097731+00:00"
+    },
+    {
+      "title": "48% of Google Cloud Revenue Next Year Could Come ...",
+      "url": "https://www.aol.com/articles/48-google-cloud-revenue-next-115120000.html",
+      "query": "cloud backlog RPO growth quarter",
+      "description": "Google Cloud ended the quarter with $514 billion in backlog, with over half expected to be recognized as revenue over the next two years.",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-11T10:12:32.097778+00:00"
+    },
+    {
+      "title": "Microsoft Q4 2026: AI bets continue to deliver strong growth",
+      "url": "https://fifthperson.com/microsoft-q4-2026/",
+      "query": "cloud backlog RPO growth quarter",
+      "description": "|  |  |  |  |\n|-|-|-|-|\n| _Intelligent Cloud_ | _29,878_ | _39,306_ | _+31.6%_ |\n\n## Intelligent Cloud\nExcluding OpenAI, RPO grew 25%. The backlog has a weighted average duration of 2.3 years, with 30% converting to revenue in the next 12 months, which is up 37% year-over-year.",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-11T10:12:32.097780+00:00"
+    },
+    {
+      "title": "Blockbuster AI debt issuance coming to a bond market ...",
+      "url": "https://www.morningstar.com.au/markets/blockbuster-ai-debt-issuance-coming-bond-market-near-you",
+      "query": "AI capex debt financing bond issuance",
+      "description": "# Blockbuster AI debt issuance coming to a bond market near you\nAcross our funds, we will be ensuring any investment in AI bonds offers sufficient spread premia to compensate for lower future credit quality.\n\n_It has been prepared without taking into account your personal objectives, financial situation or particular needs._",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-11T10:12:37.679104+00:00"
+    },
+    {
+      "title": "Financing AI infrastructure and U.S. data centers",
+      "url": "https://www.jpmorgan.com/insights/banking/capital-markets/financing-ai-infrastructure-data-centers",
+      "query": "AI capex debt financing bond issuance",
+      "description": "J.P. Morgan estimates hyperscaler capex will reach $697 billion in 2026, making AI infrastructure financing one of the defining capital deployment themes today.",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-11T10:12:37.679134+00:00"
+    },
+    {
+      "title": "The Credit Market Lens: The AI Split Between U.S. Dollar ...",
+      "url": "https://www.pimco.com/us/en/insights/the-credit-market-lens-the-ai-split-between-us-dollar-and-euro-investment-grade",
+      "query": "AI capex debt financing bond issuance",
+      "description": "As AI-related issuance reshapes bond markets, differences in U.S. dollar and euro performance offer new insights into the roles of supply and technical ...",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-11T10:12:37.679136+00:00"
+    },
+    {
+      "title": "A new neocloud backed by NVIDI and recognised as ...",
+      "url": "https://www.instagram.com/p/Db32XTSlcIo/",
+      "query": "neocloud GPU contract announcement",
+      "description": "A new neocloud backed by NVIDI and recognised as a cloud partner of the GPU giant has emerged with a US$10 billion computing contract. The 15-year agreement ...",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-11T10:12:42.173106+00:00"
+    },
+    {
+      "title": "Nvidia just made GPUs mortgageable. That's the most ...",
+      "url": "https://x.com/tejeshwi_sharma/status/2087032174088425809",
+      "query": "neocloud GPU contract announcement",
+      "description": "Nvidia just made GPUs mortgageable. he just secured $500B of revenue for Nvidia. The entire press release is centered around financing supply for NVIDIA ...",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-11T10:12:42.173129+00:00"
+    },
+    {
+      "title": "Nvidia partnering with six Wall Street firms to fund AI ...",
+      "url": "https://www.facebook.com/FastMoney/posts/nvidia-partnering-with-six-wall-street-firms-to-fund-ai-infrastructure-courtneyd/1400377671959302/",
+      "query": "neocloud GPU contract announcement",
+      "description": "A $2.1 billion option agreement for up to 30 million shares, supporting the deployment of NVIDIA GPUs and the development of up to 5 GW of AI infrastructure.",
+      "sector": "cloud_infrastructure",
+      "sector_label": "Cloud Infrastructure",
+      "found_at": "2026-08-11T10:12:42.173132+00:00"
     }
   ]
 }
