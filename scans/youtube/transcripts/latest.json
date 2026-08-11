@@ -1,150 +1,192 @@
 {
-  "run_time": "2026-08-10T09:30:32.040290+00:00",
-  "total_videos": 24,
+  "run_time": "2026-08-11T09:30:47.153088+00:00",
+  "total_videos": 31,
   "fetched": 0,
-  "failed": 24,
+  "failed": 31,
   "results": [
     {
-      "video_id": "hGci_oofCgc",
-      "title": "Sam Altman Warning \ud83d\ude4c #wealthmindset",
+      "video_id": "z4ynatHjhOo",
+      "title": "Why Jensen Huang Refuses to Let NVIDIA Fail #shorts #podcast",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "DDKNHQ53Ou8",
-      "title": "Dario Amodei: We Use Claude to Build Claude (Full Interview Breakdown)",
+      "video_id": "1NmSxucIeRU",
+      "title": "Dario Amodei\u2019s Two Red Lines on Pentagon AI Access",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "I97D9sc9uco",
-      "title": "Demis Hassabis: \u201cKum Tanelerine D\u00fc\u015f\u00fcnmeyi \u00d6\u011frettik!\u201d - AGI ve ASI Gelece\u011fimizi Nas\u0131l De\u011fi\u015ftirecek?",
+      "video_id": "0lY9poq4q8I",
+      "title": "AI Models Are Grown, Not Built \u2014 Dario Amodei",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "jI_D9z5W9S4",
-      "title": "Scarlet Heartbeats Alone",
+      "video_id": "dfYhWlzMGKE",
+      "title": "Android XR Glasses Are The Next Platform",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "o_EMEjvrM0A",
-      "title": "Silicon Valley Knows Something We Don&#39;t...",
+      "video_id": "_WpUlC5KcdU",
+      "title": "The AI Business Model Nobody Was Watching Is Scaling Fast #shorts",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "NBHDyGY-aLE",
-      "title": "ai waves of adoption early ",
+      "video_id": "3CejjzGVyBc",
+      "title": "K&#39;s Polis Activity \u2014 Andrej Karpathy Responds (AI reconstruction, qwen3.8-max)",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "L9LcQKa5a94",
-      "title": "The Rise and Fall of Vibe Coding",
+      "video_id": "xulN7JPUEtU",
+      "title": "Andrej Karpathy Resolveu o MAIOR PROBLEMA do Claude Code",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "YOqmOQOK7O4",
-      "title": "Bernie Sanders&#39; Plan: Seizing Production for Public Benefit?",
+      "video_id": "4K_z6eHG_NQ",
+      "title": "Patrick Collison: Why Lean Startup Doesn&#39;t Work Anymore",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "q9gi5gbSasc",
-      "title": "How Did David Sacks Make His Money Actually",
+      "video_id": "cN_LfKxlR40",
+      "title": "Arc Changes the Institution Around Scientists",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "nBuTGcRcN7s",
-      "title": "\u201cThey found a use for ID.\u201d \ud83d\udd25 David Sacks warns Mamdani\u2019s grocery plan is a political sugar high: fr",
+      "video_id": "MkoXwj0szng",
+      "title": "\u5bf9\u8bdd Stripe \u521b\u59cb\u4eba Patrick Collison\uff1aAI \u65f6\u4ee3\u7684\u521b\u4e1a\u3001\u8f8d\u5b66\u4e0e\u5341\u4e03\u5e74\u957f\u8dd1",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "HxG_SISL5uQ",
-      "title": "The preview show of all previews! Over 1000+ items in Sunday\u2019s show at 222pm est!!! Waterford, Sw...",
+      "video_id": "W3ha2lLyLhc",
+      "title": "Peter Steinberger - No Doors for Agents",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "5wHVJg3T3sg",
-      "title": "Government can&#39;t regulate frontier AI, the labs will | Dean Ball",
+      "video_id": "68QdLW9oro8",
+      "title": "The hardest part of scaling AI",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "2kEji4MT8Hs",
-      "title": "Elon Musk talks w/ Bill Maher about water scarity crisis 2026 !",
+      "video_id": "PnMbWUQI6PI",
+      "title": "This AI agent had no audio support, so it wired up transcription itself",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "lXsHfH4eU8w",
-      "title": "Of course Elon Musk grew up reading sci-fi... \ud83d\udd2d - BBC",
+      "video_id": "0QCCq5sVAc4",
+      "title": "This AI taught itself something nobody programmed it to do \ud83e\udd2f #shorts #ai #openclaw #lexfridman",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "zDrLjViOgj4",
-      "title": "Elon Musk\u2019s Restaurant Pricing Makes No Sense \ud83d\ude02",
+      "video_id": "w8L2LU_goe4",
+      "title": "Sales Myth v/s Reality \u200b#SalesGrowth\u200b#SalesMindset\u200b#SalesExcellence\u200b#MasterSales\u200b#PeakPerformance\u200b",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "fKqE_fDo7mA",
-      "title": "Reporter called Elon Far Right to his face \u2014 Watch what happens",
+      "video_id": "QBRwNlQp5s0",
+      "title": "Retired and Reborn",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "kn0__EH_DnE",
-      "title": "Elon Musk Needed 20 Seconds to Answer This Question",
+      "video_id": "cuoiUSeh5GE",
+      "title": "Sales Myth v/s Reality \u200b#ValueSelling\u200b#ValueBasedSelling\u200b#ValueProposition\u200b#CustomerValue\u200b#Outcome",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "V0mD7cYD1Nc",
-      "title": "\u7fa4\u661f\u6f14\u51fa\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+      "video_id": "jNqUnc_xR6Q",
+      "title": "How Top AI CEOs Actually Use AI: Jensen Huang, Satya Nadella, &amp; Sam Altman&#39;s High-Leverage Workflows",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "2jGdOuFIYCA",
-      "title": "Google DeepMind Shake-Up: Demis Hassabis Steps Down, Jeff Dean Leaves",
+      "video_id": "Ttm1I2ngciY",
+      "title": "How Satya Nadella Built a Bet He Can&#39;t Lose",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "MFbjojYm_pw",
-      "title": "Larry Ellison: The Real AI War is Fight for Compute &amp; Data Centers",
+      "video_id": "L04N6wTNOcY",
+      "title": "Satya Nadella&#39;s warning AI companies cannot ignore",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "cHhB6bw3GGw",
-      "title": "Larry Ellison&#39;s AI Empire: $1 Trillion Revenue Debt Strategy #shorts",
+      "video_id": "IZqif17RaYk",
+      "title": "Microsoft Overtakes The Entire Tech Market With Latest Announcement!",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "zyRiH69xbIY",
-      "title": "How Larry Page &amp; Sergey Brin Made Their FIRST MILLION | Fortari Story",
+      "video_id": "WDIc0rwE25A",
+      "title": "Empathy as Firmware Satya Nadella\u2019s Customer-First Turnaround",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "08hla1YBLng",
-      "title": "Google DeepMind Faces Leadership Shake-Up as Sergey Brin Takes Greater Oversight in Gemini",
+      "video_id": "zKKHdPkY1Ps",
+      "title": "Microsoft Took the Lead: How Apple Lost Its Crown",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
-      "video_id": "HFEex-dRjNs",
-      "title": "The AI Crash Is Over. Here's What Comes Next",
+      "video_id": "zVYMRPlXACs",
+      "title": "Microsoft Names Satya Nadella Chairman",
+      "status": "failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "video_id": "77OYQHuLz58",
+      "title": "Satya Nadella : \u0e1e\u0e25\u0e34\u0e01\u0e42\u0e09\u0e21 Microsoft",
+      "status": "failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "video_id": "pWHKZdtR8yQ",
+      "title": "\u780d\u6389 80% \u7cfb\u7d71\u63d0\u793a\u8a5e\uff1aClaude Code \u5718\u968a\u7684\u9577\u4efb\u52d9\u5fc3\u6cd5",
+      "status": "failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "video_id": "Dj57kVvFFa0",
+      "title": "JEPA Explained: Yann LeCun&#39;s Bet - Predict Meaning, Not Pixels #Shorts",
+      "status": "failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "video_id": "cTBvopYp0JI",
+      "title": "KI Kontrovers #2 \u2014 Yann LeCun: \u201eDie Angst vor der Superintelligenz? Kompletter Bl\u00f6dsinn.&quot;",
+      "status": "failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "video_id": "9fWXuBh4dqo",
+      "title": "TheBell(AI)Report: Sergey Brin \u0e21\u0e39\u0e25\u0e04\u0e48\u0e32 $240B \u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e04\u0e38\u0e21 Gemini \u0e40\u0e2d\u0e07 \u2014 \u0e04\u0e19\u0e23\u0e27\u0e22\u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a 3 \u0e42\u0e25\u0e01\u0e44\u0e21\u0e48\u0e22\u0e2d\u0e21\u0e1e\u0e31\u0e01",
+      "status": "failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "video_id": "0KY-kln39o4",
+      "title": "GameStop CEO: \u201cWhy Does Everyone Want Us to Fail?\u201d",
+      "status": "failed",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "video_id": "4FcohSMfNeM",
+      "title": "Jensen Huang says Open Source can be MORE expensive",
       "status": "failed",
       "error": "HTTP Error 429: Too Many Requests"
     }
