@@ -1,10 +1,10 @@
 {
-  "run_time": "2026-08-10T13:15:05.560706+00:00",
+  "run_time": "2026-08-11T13:15:12.474705+00:00",
   "days_scanned": 7,
   "total_tickers": 41,
-  "total_transactions": 56,
+  "total_transactions": 58,
   "buy_count": 2,
-  "sell_count": 54,
+  "sell_count": 56,
   "cluster_buys": [],
   "transactions": [
     {
@@ -60,19 +60,6 @@
       "accession": "0001214659-26-009674"
     },
     {
-      "ticker": "FCX",
-      "insider": "Stephen T. Higgins",
-      "position": "EVP & CAO",
-      "filing_date": "2026-08-03",
-      "transaction_code": "S",
-      "transaction_type": "SELL",
-      "shares": 7550.0,
-      "price": 63.0,
-      "value": 475650.0,
-      "acquired_disposed": "D",
-      "accession": "0001214659-26-009498"
-    },
-    {
       "ticker": "ETN",
       "insider": "Adam A Wadecki",
       "position": "Senior Vice President and Controller of Eaton Corporation, a subsidiary of the Issuer.",
@@ -84,19 +71,6 @@
       "value": 231285.08,
       "acquired_disposed": "D",
       "accession": "0001104659-26-091116"
-    },
-    {
-      "ticker": "MRVL",
-      "insider": "Chris Koopmans",
-      "position": "President and COO",
-      "filing_date": "2026-08-03",
-      "transaction_code": "S",
-      "transaction_type": "SELL",
-      "shares": 10000.0,
-      "price": 180.5,
-      "value": 1805000.0,
-      "acquired_disposed": "D",
-      "accession": "0001628280-26-051905"
     },
     {
       "ticker": "NVT",
@@ -253,6 +227,45 @@
       "value": 960368.64,
       "acquired_disposed": "A",
       "accession": "0001225208-26-006943"
+    },
+    {
+      "ticker": "MRK",
+      "insider": "Richard R. Deluca",
+      "position": "EVP&Pres, Merck Animal Heallth",
+      "filing_date": "2026-08-10",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 805.0,
+      "price": 131.0216,
+      "value": 105472.39,
+      "acquired_disposed": "D",
+      "accession": "0000310158-26-000217"
+    },
+    {
+      "ticker": "MRK",
+      "insider": "Richard R. Deluca",
+      "position": "EVP&Pres, Merck Animal Heallth",
+      "filing_date": "2026-08-10",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 4945.0,
+      "price": 130.2312,
+      "value": 643993.28,
+      "acquired_disposed": "D",
+      "accession": "0000310158-26-000217"
+    },
+    {
+      "ticker": "MRK",
+      "insider": "Richard R. Deluca",
+      "position": "EVP&Pres, Merck Animal Heallth",
+      "filing_date": "2026-08-10",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 300.0,
+      "price": 131.0233,
+      "value": 39306.99,
+      "acquired_disposed": "D",
+      "accession": "0000310158-26-000217"
     },
     {
       "ticker": "MRK",
@@ -552,6 +565,19 @@
       "value": 156624.32,
       "acquired_disposed": "D",
       "accession": "0001094718-26-000009"
+    },
+    {
+      "ticker": "ATKR",
+      "insider": "Mark F. Lamps",
+      "position": "Pres. Safety & Infrastructure",
+      "filing_date": "2026-08-10",
+      "transaction_code": "S",
+      "transaction_type": "SELL",
+      "shares": 300.0,
+      "price": 93.75,
+      "value": 28125.0,
+      "acquired_disposed": "D",
+      "accession": "0001769052-26-000008"
     },
     {
       "ticker": "WMB",
