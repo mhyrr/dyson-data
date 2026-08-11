@@ -1,8 +1,8 @@
 {
-  "run_time": "2026-08-10T09:06:11.277647+00:00",
+  "run_time": "2026-08-11T09:06:18.506221+00:00",
   "funds_checked": 10,
   "filings_extracted": 8,
-  "new_filings": 8,
+  "new_filings": 0,
   "watchlist_matches": [
     {
       "fund": "Bridgewater Associates",
@@ -137,11 +137,31 @@
     {
       "fund": "Bridgewater Associates",
       "filing_date": "2026-05-15",
+      "ticker": "CLS",
+      "issuer": "CELESTICA INC",
+      "shares": 525621,
+      "value": 148056923,
+      "rank_in_fund": 22,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
       "ticker": "ASML",
       "issuer": "ASML HLDG NV",
       "shares": 92196,
       "value": 121775243,
       "rank_in_fund": 29,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "VRT",
+      "issuer": "VERTIV HOLDINGS CO",
+      "shares": 429766,
+      "value": 107690764,
+      "rank_in_fund": 36,
       "is_new_filing": false
     },
     {
@@ -187,11 +207,181 @@
     {
       "fund": "Bridgewater Associates",
       "filing_date": "2026-05-15",
+      "ticker": "COHR",
+      "issuer": "COHERENT CORP",
+      "shares": 163368,
+      "value": 38915891,
+      "rank_in_fund": 88,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "SLB",
+      "issuer": "SLB LIMITED",
+      "shares": 744764,
+      "value": 38273422,
+      "rank_in_fund": 90,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "NVT",
+      "issuer": "NVENT ELEC PLC",
+      "shares": 261192,
+      "value": 30893790,
+      "rank_in_fund": 108,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "CRWV",
+      "issuer": "COREWEAVE INC",
+      "shares": 364025,
+      "value": 28201017,
+      "rank_in_fund": 116,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "IREN",
+      "issuer": "IREN LIMITED",
+      "shares": 720925,
+      "value": 24713309,
+      "rank_in_fund": 128,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
       "ticker": "PLTR",
       "issuer": "PALANTIR TECHNOLOGIES INC",
       "shares": 128186,
       "value": 18751048,
       "rank_in_fund": 169,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "BMY",
+      "issuer": "BRISTOL-MYERS SQUIBB CO",
+      "shares": 241689,
+      "value": 14658438,
+      "rank_in_fund": 204,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "ETN",
+      "issuer": "EATON CORP PLC",
+      "shares": 19541,
+      "value": 6989229,
+      "rank_in_fund": 341,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "SNDK",
+      "issuer": "SANDISK CORP",
+      "shares": 9457,
+      "value": 6008410,
+      "rank_in_fund": 375,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "ALB",
+      "issuer": "ALBEMARLE CORP",
+      "shares": 32926,
+      "value": 5911205,
+      "rank_in_fund": 382,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "MOD",
+      "issuer": "MODINE MFG CO",
+      "shares": 25646,
+      "value": 5557745,
+      "rank_in_fund": 397,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "KTOS",
+      "issuer": "KRATOS DEFENSE & SEC SOLUTIO",
+      "shares": 74867,
+      "value": 5278872,
+      "rank_in_fund": 409,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "MP",
+      "issuer": "MP MATERIALS CORP",
+      "shares": 108054,
+      "value": 5214686,
+      "rank_in_fund": 411,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "WMB",
+      "issuer": "WILLIAMS COS INC",
+      "shares": 63323,
+      "value": 4608648,
+      "rank_in_fund": 441,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "BWXT",
+      "issuer": "BWX TECHNOLOGIES INC",
+      "shares": 22438,
+      "value": 4588347,
+      "rank_in_fund": 442,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "LITE",
+      "issuer": "LUMENTUM HLDGS INC",
+      "shares": 5818,
+      "value": 4088658,
+      "rank_in_fund": 472,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "HUBB",
+      "issuer": "HUBBELL INC",
+      "shares": 8232,
+      "value": 4039772,
+      "rank_in_fund": 476,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "KMI",
+      "issuer": "KINDER MORGAN INC DEL",
+      "shares": 116243,
+      "value": 3897628,
+      "rank_in_fund": 480,
       "is_new_filing": false
     },
     {
@@ -227,11 +417,81 @@
     {
       "fund": "Bridgewater Associates",
       "filing_date": "2026-05-15",
+      "ticker": "Q",
+      "issuer": "QNITY ELECTRONICS INC",
+      "shares": 11100,
+      "value": 1280718,
+      "rank_in_fund": 746,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
       "ticker": "SNOW",
       "issuer": "SNOWFLAKE INC",
       "shares": 7020,
       "value": 1058756,
       "rank_in_fund": 780,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "WPM",
+      "issuer": "WHEATON PRECIOUS METALS CORP",
+      "shares": 6673,
+      "value": 874230,
+      "rank_in_fund": 811,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "TSLA",
+      "issuer": "TESLA INC",
+      "shares": 2017,
+      "value": 749820,
+      "rank_in_fund": 831,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "MSTR",
+      "issuer": "STRATEGY INC",
+      "shares": 5568,
+      "value": 694886,
+      "rank_in_fund": 844,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "CVX",
+      "issuer": "CHEVRON CORPORATION",
+      "shares": 2827,
+      "value": 584906,
+      "rank_in_fund": 861,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "XYL",
+      "issuer": "XYLEM INC",
+      "shares": 4323,
+      "value": 516599,
+      "rank_in_fund": 877,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Bridgewater Associates",
+      "filing_date": "2026-05-15",
+      "ticker": "CLSK",
+      "issuer": "CLEANSPARK INC",
+      "shares": 19451,
+      "value": 165528,
+      "rank_in_fund": 986,
       "is_new_filing": false
     },
     {
@@ -257,11 +517,31 @@
     {
       "fund": "Renaissance Technologies",
       "filing_date": "2026-05-14",
+      "ticker": "SNDK",
+      "issuer": "SANDISK CORP",
+      "shares": 799568,
+      "value": 507997533,
+      "rank_in_fund": 9,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
       "ticker": "NVDA",
       "issuer": "NVIDIA CORPORATION",
       "shares": 2526948,
       "value": 440696066,
       "rank_in_fund": 10,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "CVX",
+      "issuer": "CHEVRON CORPORATION",
+      "shares": 2015396,
+      "value": 416984243,
+      "rank_in_fund": 11,
       "is_new_filing": false
     },
     {
@@ -277,11 +557,41 @@
     {
       "fund": "Renaissance Technologies",
       "filing_date": "2026-05-14",
+      "ticker": "VRT",
+      "issuer": "VERTIV HOLDINGS CO",
+      "shares": 967990,
+      "value": 242558934,
+      "rank_in_fund": 29,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "MSTR",
+      "issuer": "STRATEGY INC",
+      "shares": 2130881,
+      "value": 230765823,
+      "rank_in_fund": 34,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
       "ticker": "TSM",
       "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
       "shares": 567960,
       "value": 191942082,
       "rank_in_fund": 52,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "FCX",
+      "issuer": "FREEPORT MCMORAN INC",
+      "shares": 3053889,
+      "value": 179519887,
+      "rank_in_fund": 60,
       "is_new_filing": false
     },
     {
@@ -317,11 +627,61 @@
     {
       "fund": "Renaissance Technologies",
       "filing_date": "2026-05-14",
+      "ticker": "LITE",
+      "issuer": "LUMENTUM HLDGS INC",
+      "shares": 202838,
+      "value": 142546433,
+      "rank_in_fund": 86,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "ALB",
+      "issuer": "ALBEMARLE CORP",
+      "shares": 730745,
+      "value": 131190650,
+      "rank_in_fund": 93,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "DE",
+      "issuer": "DEERE & CO",
+      "shares": 181942,
+      "value": 102488315,
+      "rank_in_fund": 146,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "XYL",
+      "issuer": "XYLEM INC",
+      "shares": 791771,
+      "value": 94616635,
+      "rank_in_fund": 157,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
       "ticker": "LNG",
       "issuer": "CHENIERE ENERGY INC",
       "shares": 314248,
       "value": 89171012,
       "rank_in_fund": 164,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "TSLA",
+      "issuer": "TESLA INC",
+      "shares": 211290,
+      "value": 78547058,
+      "rank_in_fund": 193,
       "is_new_filing": false
     },
     {
@@ -337,11 +697,41 @@
     {
       "fund": "Renaissance Technologies",
       "filing_date": "2026-05-14",
+      "ticker": "CLS",
+      "issuer": "CELESTICA INC",
+      "shares": 244788,
+      "value": 68951884,
+      "rank_in_fund": 227,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "BMY",
+      "issuer": "BRISTOL-MYERS SQUIBB CO",
+      "shares": 977051,
+      "value": 59258143,
+      "rank_in_fund": 270,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
       "ticker": "SMR",
       "issuer": "NUSCALE PWR CORP",
       "shares": 5455800,
       "value": 59140872,
       "rank_in_fund": 271,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "QS",
+      "issuer": "QUANTUMSCAPE CORP",
+      "shares": 8051800,
+      "value": 51370484,
+      "rank_in_fund": 317,
       "is_new_filing": false
     },
     {
@@ -377,6 +767,86 @@
     {
       "fund": "Renaissance Technologies",
       "filing_date": "2026-05-14",
+      "ticker": "CIFR",
+      "issuer": "CIPHER DIGITAL INC",
+      "shares": 1902567,
+      "value": 24486037,
+      "rank_in_fund": 570,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "Q",
+      "issuer": "QNITY ELECTRONICS INC",
+      "shares": 189600,
+      "value": 21876048,
+      "rank_in_fund": 612,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "FLNC",
+      "issuer": "FLUENCE ENERGY INC",
+      "shares": 1422900,
+      "value": 19579104,
+      "rank_in_fund": 655,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "POWL",
+      "issuer": "POWELL INDS INC",
+      "shares": 34694,
+      "value": 18772230,
+      "rank_in_fund": 673,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "GD",
+      "issuer": "GENERAL DYNAMICS CORP",
+      "shares": 30180,
+      "value": 10358380,
+      "rank_in_fund": 951,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "AMBA",
+      "issuer": "AMBARELLA INC",
+      "shares": 199400,
+      "value": 10264115,
+      "rank_in_fund": 959,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "EOSE",
+      "issuer": "EOS ENERGY ENTERPRISES INC",
+      "shares": 1845231,
+      "value": 9152346,
+      "rank_in_fund": 1010,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "AVAV",
+      "issuer": "AEROVIRONMENT INC",
+      "shares": 47976,
+      "value": 8782007,
+      "rank_in_fund": 1039,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
       "ticker": "ANET",
       "issuer": "ARISTA NETWORKS INC",
       "shares": 66740,
@@ -402,6 +872,16 @@
       "shares": 16900,
       "value": 2556632,
       "rank_in_fund": 1749,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Renaissance Technologies",
+      "filing_date": "2026-05-14",
+      "ticker": "BWXT",
+      "issuer": "BWX TECHNOLOGIES INC",
+      "shares": 11600,
+      "value": 2372084,
+      "rank_in_fund": 1811,
       "is_new_filing": false
     },
     {
@@ -505,6 +985,16 @@
       "is_new_filing": false
     },
     {
+      "fund": "Citadel Advisors",
+      "filing_date": "2026-05-15",
+      "ticker": "LITE",
+      "issuer": "LUMENTUM HLDGS INC",
+      "shares": 136800,
+      "value": 96137568,
+      "rank_in_fund": 30,
+      "is_new_filing": false
+    },
+    {
       "fund": "Coatue Management",
       "filing_date": "2026-05-15",
       "ticker": "TSM",
@@ -532,6 +1022,16 @@
       "shares": 5503852,
       "value": 1703497233,
       "rank_in_fund": 5,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Coatue Management",
+      "filing_date": "2026-05-15",
+      "ticker": "ETN",
+      "issuer": "EATON CORP PLC",
+      "shares": 4748498,
+      "value": 1698395280,
+      "rank_in_fund": 6,
       "is_new_filing": false
     },
     {
@@ -607,11 +1107,41 @@
     {
       "fund": "Coatue Management",
       "filing_date": "2026-05-15",
+      "ticker": "VRT",
+      "issuer": "VERTIV HOLDINGS CO",
+      "shares": 981633,
+      "value": 245977597,
+      "rank_in_fund": 25,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Coatue Management",
+      "filing_date": "2026-05-15",
       "ticker": "MU",
       "issuer": "MICRON TECHNOLOGY INC",
       "shares": 165931,
       "value": 56058129,
       "rank_in_fund": 39,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Coatue Management",
+      "filing_date": "2026-05-15",
+      "ticker": "QS",
+      "issuer": "QUANTUMSCAPE CORP",
+      "shares": 4294995,
+      "value": 27402068,
+      "rank_in_fund": 45,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Coatue Management",
+      "filing_date": "2026-05-15",
+      "ticker": "TSLA",
+      "issuer": "TESLA INC",
+      "shares": 58838,
+      "value": 21873026,
+      "rank_in_fund": 48,
       "is_new_filing": false
     },
     {
@@ -647,11 +1177,41 @@
     {
       "fund": "Duquesne Family Office",
       "filing_date": "2026-05-15",
+      "ticker": "SNDK",
+      "issuer": "Sandisk Corp",
+      "shares": 38155,
+      "value": 24241000,
+      "rank_in_fund": 28,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Duquesne Family Office",
+      "filing_date": "2026-05-15",
       "ticker": "ARM",
       "issuer": "Arm Holdings Plc",
       "shares": 106700,
       "value": 16142000,
       "rank_in_fund": 46,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Duquesne Family Office",
+      "filing_date": "2026-05-15",
+      "ticker": "Q",
+      "issuer": "Qnity Electronics Inc",
+      "shares": 125655,
+      "value": 14498000,
+      "rank_in_fund": 48,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Duquesne Family Office",
+      "filing_date": "2026-05-15",
+      "ticker": "COHR",
+      "issuer": "Coherent Corp",
+      "shares": 40400,
+      "value": 9624000,
+      "rank_in_fund": 57,
       "is_new_filing": false
     },
     {
@@ -667,11 +1227,61 @@
     {
       "fund": "Duquesne Family Office",
       "filing_date": "2026-05-15",
+      "ticker": "CLS",
+      "issuer": "Celestica Inc",
+      "shares": 33275,
+      "value": 9373000,
+      "rank_in_fund": 59,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Duquesne Family Office",
+      "filing_date": "2026-05-15",
       "ticker": "MU",
       "issuer": "Micron Technology Inc",
       "shares": 23400,
       "value": 7905000,
       "rank_in_fund": 62,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Duquesne Family Office",
+      "filing_date": "2026-05-15",
+      "ticker": "LITE",
+      "issuer": "Lumentum Hldgs Inc",
+      "shares": 6963,
+      "value": 4893000,
+      "rank_in_fund": 66,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Appaloosa Management",
+      "filing_date": "2016-02-12",
+      "ticker": "KMI",
+      "issuer": "KINDER MORGAN INC DEL",
+      "shares": 9445321,
+      "value": 140924000,
+      "rank_in_fund": 11,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Appaloosa Management",
+      "filing_date": "2016-02-12",
+      "ticker": "PFE",
+      "issuer": "PFIZER INC",
+      "shares": 2412250,
+      "value": 77867000,
+      "rank_in_fund": 18,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Appaloosa Management",
+      "filing_date": "2016-02-12",
+      "ticker": "FCX",
+      "issuer": "FREEPORT-MCMORAN INC",
+      "shares": 3557460,
+      "value": 24084000,
+      "rank_in_fund": 38,
       "is_new_filing": false
     },
     {
@@ -687,11 +1297,51 @@
     {
       "fund": "Whale Rock Capital",
       "filing_date": "2026-05-15",
+      "ticker": "SNDK",
+      "issuer": "SANDISK CORP",
+      "shares": 799587,
+      "value": 508009605,
+      "rank_in_fund": 2,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Whale Rock Capital",
+      "filing_date": "2026-05-15",
+      "ticker": "CLS",
+      "issuer": "CELESTICA INC",
+      "shares": 1518201,
+      "value": 427646858,
+      "rank_in_fund": 3,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Whale Rock Capital",
+      "filing_date": "2026-05-15",
       "ticker": "AMZN",
       "issuer": "AMAZON COM INC",
       "shares": 1819439,
       "value": 378934561,
       "rank_in_fund": 4,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Whale Rock Capital",
+      "filing_date": "2026-05-15",
+      "ticker": "FN",
+      "issuer": "FABRINET",
+      "shares": 611266,
+      "value": 318787444,
+      "rank_in_fund": 7,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Whale Rock Capital",
+      "filing_date": "2026-05-15",
+      "ticker": "GLW",
+      "issuer": "CORNING INC",
+      "shares": 2297424,
+      "value": 312380741,
+      "rank_in_fund": 8,
       "is_new_filing": false
     },
     {
@@ -712,6 +1362,16 @@
       "shares": 819445,
       "value": 276931438,
       "rank_in_fund": 12,
+      "is_new_filing": false
+    },
+    {
+      "fund": "Whale Rock Capital",
+      "filing_date": "2026-05-15",
+      "ticker": "COHR",
+      "issuer": "COHERENT CORP",
+      "shares": 975048,
+      "value": 232266184,
+      "rank_in_fund": 16,
       "is_new_filing": false
     },
     {
