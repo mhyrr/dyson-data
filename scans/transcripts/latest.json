@@ -1,245 +1,7 @@
 {
-  "run_time": "2026-08-10T16:00:38.453993+00:00",
-  "total_filings": 10,
+  "run_time": "2026-08-11T16:00:30.564888+00:00",
+  "total_filings": 5,
   "filings": [
-    {
-      "ticker": "KTOS",
-      "company": "Kratos Defense",
-      "earnings_date": "2026-08-04",
-      "filing_date": "2026-08-04",
-      "accession": "0001069258-26-000075",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0001069258-26-000075.txt",
-          "size_bytes": 680469,
-          "path": "KTOS/2026-08-04/0001069258-26-000075.txt"
-        },
-        {
-          "filename": "ktos-20260804.htm",
-          "size_bytes": 25878,
-          "path": "KTOS/2026-08-04/ktos-20260804.htm"
-        },
-        {
-          "filename": "ktos202606288kexhibit991.htm",
-          "size_bytes": 422841,
-          "path": "KTOS/2026-08-04/ktos202606288kexhibit991.htm"
-        },
-        {
-          "filename": "readinessdeliveredlogo.jpg",
-          "size_bytes": 57207,
-          "path": "KTOS/2026-08-04/readinessdeliveredlogo.jpg"
-        }
-      ],
-      "fetched_at": "2026-08-10T16:00:08.594438+00:00"
-    },
-    {
-      "ticker": "MRK",
-      "company": "Merck & Co",
-      "earnings_date": "2026-08-04",
-      "filing_date": "2026-08-04",
-      "accession": "0001104659-26-090045",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0001104659-26-090045.txt",
-          "size_bytes": 1353418,
-          "path": "MRK/2026-08-04/0001104659-26-090045.txt"
-        },
-        {
-          "filename": "tm2621496d1_8k.htm",
-          "size_bytes": 41817,
-          "path": "MRK/2026-08-04/tm2621496d1_8k.htm"
-        },
-        {
-          "filename": "tm2621496d1_ex99-1.htm",
-          "size_bytes": 400651,
-          "path": "MRK/2026-08-04/tm2621496d1_ex99-1.htm"
-        },
-        {
-          "filename": "tm2621496d1_ex99-1img001.jpg",
-          "size_bytes": 4969,
-          "path": "MRK/2026-08-04/tm2621496d1_ex99-1img001.jpg"
-        },
-        {
-          "filename": "tm2621496d1_ex99-2.htm",
-          "size_bytes": 601040,
-          "path": "MRK/2026-08-04/tm2621496d1_ex99-2.htm"
-        }
-      ],
-      "fetched_at": "2026-08-10T16:00:10.542444+00:00"
-    },
-    {
-      "ticker": "CIFR",
-      "company": "Cipher Digital",
-      "earnings_date": "2026-08-04",
-      "filing_date": "2026-08-04",
-      "accession": "0001819989-26-000038",
-      "form": "8-K",
-      "items": "2.02,7.01,9.01",
-      "documents": [
-        {
-          "filename": "0001819989-26-000038.txt",
-          "size_bytes": 3281676,
-          "path": "CIFR/2026-08-04/0001819989-26-000038.txt"
-        },
-        {
-          "filename": "cifr-20260804.htm",
-          "size_bytes": 32298,
-          "path": "CIFR/2026-08-04/cifr-20260804.htm"
-        },
-        {
-          "filename": "cipherdigital_businessup.htm",
-          "size_bytes": 30131,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup.htm"
-        },
-        {
-          "filename": "cipherdigital_businessup001.jpg",
-          "size_bytes": 54320,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup001.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup002.jpg",
-          "size_bytes": 165609,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup002.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup003.jpg",
-          "size_bytes": 123371,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup003.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup004.jpg",
-          "size_bytes": 78370,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup004.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup005.jpg",
-          "size_bytes": 88283,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup005.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup006.jpg",
-          "size_bytes": 152204,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup006.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup007.jpg",
-          "size_bytes": 40722,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup007.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup008.jpg",
-          "size_bytes": 127528,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup008.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup009.jpg",
-          "size_bytes": 122323,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup009.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup010.jpg",
-          "size_bytes": 104642,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup010.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup011.jpg",
-          "size_bytes": 118085,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup011.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup012.jpg",
-          "size_bytes": 48604,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup012.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup013.jpg",
-          "size_bytes": 134550,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup013.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup014.jpg",
-          "size_bytes": 85402,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup014.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup015.jpg",
-          "size_bytes": 70882,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup015.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup016.jpg",
-          "size_bytes": 136765,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup016.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup017.jpg",
-          "size_bytes": 118606,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup017.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup018.jpg",
-          "size_bytes": 108750,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup018.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup019.jpg",
-          "size_bytes": 42940,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup019.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup020.jpg",
-          "size_bytes": 89754,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup020.jpg"
-        },
-        {
-          "filename": "cipherdigital_businessup021.jpg",
-          "size_bytes": 47331,
-          "path": "CIFR/2026-08-04/cipherdigital_businessup021.jpg"
-        },
-        {
-          "filename": "q226_earningsxprxdraftxvf.htm",
-          "size_bytes": 190695,
-          "path": "CIFR/2026-08-04/q226_earningsxprxdraftxvf.htm"
-        }
-      ],
-      "fetched_at": "2026-08-10T16:00:18.300271+00:00"
-    },
-    {
-      "ticker": "PFE",
-      "company": "Pfizer Inc",
-      "earnings_date": "2026-08-04",
-      "filing_date": "2026-08-04",
-      "accession": "0000078003-26-000094",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0000078003-26-000094.txt",
-          "size_bytes": 1281502,
-          "path": "PFE/2026-08-04/0000078003-26-000094.txt"
-        },
-        {
-          "filename": "pfe-20260804.htm",
-          "size_bytes": 37831,
-          "path": "PFE/2026-08-04/pfe-20260804.htm"
-        },
-        {
-          "filename": "pfe-6282026xex99.htm",
-          "size_bytes": 945691,
-          "path": "PFE/2026-08-04/pfe-6282026xex99.htm"
-        },
-        {
-          "filename": "pfizerlogo.jpg",
-          "size_bytes": 38679,
-          "path": "PFE/2026-08-04/pfizerlogo.jpg"
-        }
-      ],
-      "fetched_at": "2026-08-10T16:00:20.036698+00:00"
-    },
     {
       "ticker": "LEU",
       "company": "Centrus Energy",
@@ -265,7 +27,7 @@
           "path": "LEU/2026-08-05/leu-20260805.htm"
         }
       ],
-      "fetched_at": "2026-08-10T16:00:21.425844+00:00"
+      "fetched_at": "2026-08-11T16:00:14.677869+00:00"
     },
     {
       "ticker": "EOSE",
@@ -337,7 +99,7 @@
           "path": "EOSE/2026-08-05/eoseq2fy26earningsreleas009.jpg"
         }
       ],
-      "fetched_at": "2026-08-10T16:00:25.645638+00:00"
+      "fetched_at": "2026-08-11T16:00:18.856733+00:00"
     },
     {
       "ticker": "MP",
@@ -369,34 +131,7 @@
           "path": "MP/2026-08-06/mpmcq22026er.htm"
         }
       ],
-      "fetched_at": "2026-08-10T16:00:27.316106+00:00"
-    },
-    {
-      "ticker": "Q",
-      "company": "Qnity Electronics",
-      "earnings_date": "2026-08-04",
-      "filing_date": "2026-08-04",
-      "accession": "0002058873-26-000028",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0002058873-26-000028.txt",
-          "size_bytes": 655187,
-          "path": "Q/2026-08-04/0002058873-26-000028.txt"
-        },
-        {
-          "filename": "exhibit991supplementalsche.htm",
-          "size_bytes": 478871,
-          "path": "Q/2026-08-04/exhibit991supplementalsche.htm"
-        },
-        {
-          "filename": "q-20260804.htm",
-          "size_bytes": 25155,
-          "path": "Q/2026-08-04/q-20260804.htm"
-        }
-      ],
-      "fetched_at": "2026-08-10T16:00:28.733819+00:00"
+      "fetched_at": "2026-08-11T16:00:21.043078+00:00"
     },
     {
       "ticker": "OKLO",
@@ -523,7 +258,7 @@
           "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img019.jpg"
         }
       ],
-      "fetched_at": "2026-08-10T16:00:36.336382+00:00"
+      "fetched_at": "2026-08-11T16:00:28.347993+00:00"
     },
     {
       "ticker": "FLNC",
@@ -555,7 +290,7 @@
           "path": "FLNC/2026-08-05/image_0.jpg"
         }
       ],
-      "fetched_at": "2026-08-10T16:00:37.953622+00:00"
+      "fetched_at": "2026-08-11T16:00:30.064472+00:00"
     }
   ]
 }
