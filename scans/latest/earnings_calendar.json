@@ -1,27 +1,17 @@
 {
-  "run_time": "2026-08-11T09:00:11.234863+00:00",
+  "run_time": "2026-08-12T09:00:18.267604+00:00",
   "days_ahead": 45,
   "days_back": 14,
   "total_tickers": 41,
   "summary": {
-    "imminent": 1,
-    "this_week": 1,
-    "next_2_weeks": 2,
-    "this_month": 3,
+    "imminent": 0,
+    "this_week": 2,
+    "next_2_weeks": 3,
+    "this_month": 1,
     "no_date": 1,
     "reported": 0
   },
-  "imminent_tickers": [
-    {
-      "symbol": "COHR",
-      "company": "Coherent Corp",
-      "next_earnings": "2026-08-12",
-      "time": "after_close",
-      "period": "QQ4 2026",
-      "days_until": 0,
-      "eps_est": 1.58
-    }
-  ],
+  "imminent_tickers": [],
   "this_week_tickers": [
     {
       "symbol": "FN",
@@ -29,6 +19,13 @@
       "next_earnings": "2026-08-17",
       "time": "after_close",
       "period": "QQ4 2026"
+    },
+    {
+      "symbol": "DE",
+      "company": "Deere & Company",
+      "next_earnings": "2026-08-20",
+      "time": "before_open",
+      "period": "QQ3 2026"
     }
   ],
   "calendar": [
@@ -95,8 +92,8 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 0,
-      "status": "imminent"
+      "days_until_earnings": -1,
+      "status": "overdue"
     },
     {
       "symbol": "FN",
@@ -161,7 +158,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": 5,
+      "days_until_earnings": 4,
       "status": "this_week"
     },
     {
@@ -227,8 +224,8 @@
           "revenue_surprise_pct": 0.17
         }
       ],
-      "days_until_earnings": 8,
-      "status": "next_2_weeks"
+      "days_until_earnings": 7,
+      "status": "this_week"
     },
     {
       "symbol": "NVDA",
@@ -293,7 +290,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 14,
+      "days_until_earnings": 13,
       "status": "next_2_weeks"
     },
     {
@@ -317,7 +314,7 @@
       "last_earnings_revenue_actual": 2418000000,
       "last_earnings_revenue_surprise": 17377840,
       "source": "stockanalysis.com",
-      "notes": "RE-RATED Jul 13: $236 after -22.6% flow-driven selloff (estimates RAISED, FY27/28 outlooks up); NVDA invested $2B late June w/ NVLink integration; ASIC units pass GPUs 2027-28. Held 20sh from $81 \u2014 ad",
+      "notes": "IN THE ADD ZONE AND UNDER-SIZED (Aug 11). $209 sits inside the 200-230 add band; position is 20sh/$4,189 (+159% from $81) against a $6-10K size target on a HIGH-conviction bet. Two dated catalysts: FQ",
       "recent_headlines": [],
       "last_earnings_eps_surprise_pct": 0.07,
       "last_earnings_revenue_surprise_pct": 0.01,
@@ -359,8 +356,8 @@
           "revenue_surprise_pct": 0
         }
       ],
-      "days_until_earnings": 15,
-      "status": "this_month"
+      "days_until_earnings": 14,
+      "status": "next_2_weeks"
     },
     {
       "symbol": "IREN",
@@ -425,8 +422,8 @@
           "revenue_surprise_pct": -0.01
         }
       ],
-      "days_until_earnings": 15,
-      "status": "this_month"
+      "days_until_earnings": 14,
+      "status": "next_2_weeks"
     },
     {
       "symbol": "ADBE",
@@ -491,7 +488,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 29,
+      "days_until_earnings": 28,
       "status": "this_month"
     },
     {
@@ -557,7 +554,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": 70,
+      "days_until_earnings": 69,
       "status": "future"
     },
     {
@@ -625,7 +622,7 @@
       ],
       "schedule_date": "2026-07-22",
       "schedule_status": "reported",
-      "days_until_earnings": 70,
+      "days_until_earnings": 69,
       "status": "future"
     },
     {
@@ -691,7 +688,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 70,
+      "days_until_earnings": 69,
       "status": "future"
     },
     {
@@ -757,7 +754,7 @@
           "revenue_surprise_pct": 0.04
         }
       ],
-      "days_until_earnings": 71,
+      "days_until_earnings": 70,
       "status": "future"
     },
     {
@@ -823,7 +820,7 @@
           "revenue_surprise_pct": 0.06
         }
       ],
-      "days_until_earnings": 76,
+      "days_until_earnings": 75,
       "status": "future"
     },
     {
@@ -889,7 +886,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 76,
+      "days_until_earnings": 75,
       "status": "future"
     },
     {
@@ -955,7 +952,7 @@
           "revenue_surprise_pct": -0.02
         }
       ],
-      "days_until_earnings": 76,
+      "days_until_earnings": 75,
       "status": "future"
     },
     {
@@ -1021,7 +1018,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 76,
+      "days_until_earnings": 75,
       "status": "future"
     },
     {
@@ -1089,7 +1086,7 @@
       ],
       "schedule_date": "2026-07-29",
       "schedule_status": "reported",
-      "days_until_earnings": 77,
+      "days_until_earnings": 76,
       "status": "future"
     },
     {
@@ -1155,7 +1152,7 @@
           "revenue_surprise_pct": 0.09
         }
       ],
-      "days_until_earnings": 77,
+      "days_until_earnings": 76,
       "status": "future"
     },
     {
@@ -1221,7 +1218,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 78,
+      "days_until_earnings": 77,
       "status": "future"
     },
     {
@@ -1289,7 +1286,7 @@
       ],
       "schedule_date": "2026-07-30",
       "schedule_status": "reported",
-      "days_until_earnings": 78,
+      "days_until_earnings": 77,
       "status": "future"
     },
     {
@@ -1355,7 +1352,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 78,
+      "days_until_earnings": 77,
       "status": "future"
     },
     {
@@ -1421,7 +1418,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": 78,
+      "days_until_earnings": 77,
       "status": "future"
     },
     {
@@ -1487,7 +1484,7 @@
           "revenue_surprise_pct": 0.05
         }
       ],
-      "days_until_earnings": 79,
+      "days_until_earnings": 78,
       "status": "future"
     },
     {
@@ -1501,7 +1498,7 @@
       "next_earnings_time": "before_open",
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
-      "next_earnings_eps_est": 4.53,
+      "next_earnings_eps_est": 4.51,
       "next_earnings_revenue_est": 57061874504,
       "last_earnings": "2026-07-31",
       "last_earnings_period": "QQ2 2026",
@@ -1553,7 +1550,7 @@
           "revenue_surprise_pct": 0
         }
       ],
-      "days_until_earnings": 79,
+      "days_until_earnings": 78,
       "status": "future"
     },
     {
@@ -1619,7 +1616,7 @@
           "revenue_surprise_pct": 0.09
         }
       ],
-      "days_until_earnings": 82,
+      "days_until_earnings": 81,
       "status": "future"
     },
     {
@@ -1685,7 +1682,7 @@
           "revenue_surprise_pct": -0.06
         }
       ],
-      "days_until_earnings": 82,
+      "days_until_earnings": 81,
       "status": "future"
     },
     {
@@ -1751,7 +1748,7 @@
           "revenue_surprise_pct": -0.02
         }
       ],
-      "days_until_earnings": 82,
+      "days_until_earnings": 81,
       "status": "future"
     },
     {
@@ -1759,7 +1756,7 @@
       "company": "Eaton Corp",
       "thesis": "ai_infra+pmi+blackwell+800v",
       "conviction": "HIGH",
-      "action": "ADD-STAGED",
+      "action": "ADD-ON-PULLBACK",
       "timeframe": "2026",
       "next_earnings": "2026-11-03",
       "next_earnings_time": "before_open",
@@ -1775,7 +1772,7 @@
       "last_earnings_revenue_actual": 8531000000,
       "last_earnings_revenue_surprise": 406669088,
       "source": "stockanalysis.com",
-      "notes": "MEMO #5 (Jul 13): $407 back IN the add zone. Add ~$3.5K now (17->~25sh) funded by VRT 50->30 trim; complete to $12-14K on Aug 4 margin print (~150bp seq lift is the tell). Transformers/switchgear unre",
+      "notes": "GATE FIRED GREEN, POSITION NOT TAKEN (Aug 11). Q2 printed Jul 31 (not Aug 4): Electrical Americas margin 27.5%, +190bp SEQUENTIAL vs the ~150bp tell the Jul 13 memo named. Segment margin 23.1%, record",
       "recent_headlines": [],
       "last_earnings_eps_surprise_pct": 0.02,
       "last_earnings_revenue_surprise_pct": 0.05,
@@ -1817,7 +1814,7 @@
           "revenue_surprise_pct": -0.01
         }
       ],
-      "days_until_earnings": 83,
+      "days_until_earnings": 82,
       "status": "future"
     },
     {
@@ -1883,7 +1880,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 83,
+      "days_until_earnings": 82,
       "status": "future"
     },
     {
@@ -1897,7 +1894,7 @@
       "next_earnings_time": "after_close",
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
-      "next_earnings_eps_est": 0.19,
+      "next_earnings_eps_est": 0.2,
       "next_earnings_revenue_est": 468674072,
       "last_earnings": "2026-08-04",
       "last_earnings_period": "QQ2 2026",
@@ -1949,7 +1946,7 @@
           "revenue_surprise_pct": 0.07
         }
       ],
-      "days_until_earnings": 83,
+      "days_until_earnings": 82,
       "status": "future"
     },
     {
@@ -1963,7 +1960,7 @@
       "next_earnings_time": "before_open",
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
-      "next_earnings_eps_est": 0.25,
+      "next_earnings_eps_est": 0.26,
       "next_earnings_revenue_est": 494940000,
       "last_earnings": "2026-07-31",
       "last_earnings_period": "QQ2 2026",
@@ -2015,7 +2012,7 @@
           "revenue_surprise_pct": -0.18
         }
       ],
-      "days_until_earnings": 84,
+      "days_until_earnings": 83,
       "status": "future"
     },
     {
@@ -2029,8 +2026,8 @@
       "next_earnings_time": "after_close",
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
-      "next_earnings_eps_est": 0.06,
-      "next_earnings_revenue_est": 68686368,
+      "next_earnings_eps_est": 0.05,
+      "next_earnings_revenue_est": 67390368,
       "last_earnings": "2026-08-05",
       "last_earnings_period": "QQ2 2026",
       "last_earnings_eps_actual": 1.77,
@@ -2081,7 +2078,7 @@
           "revenue_surprise_pct": -0.05
         }
       ],
-      "days_until_earnings": 84,
+      "days_until_earnings": 83,
       "status": "future"
     },
     {
@@ -2089,7 +2086,7 @@
       "company": "Eos Energy Enterprises",
       "thesis": "zinc_ldes+doe_loan+45x+feoc",
       "conviction": "MEDIUM",
-      "action": "HOLD",
+      "action": "HOLD-NO-ADD",
       "timeframe": "2026-2027",
       "next_earnings": "2026-11-04",
       "next_earnings_time": "after_close",
@@ -2105,7 +2102,7 @@
       "last_earnings_revenue_actual": 68775000,
       "last_earnings_revenue_surprise": -3872088,
       "source": "stockanalysis.com",
-      "notes": "NEW Jul 23 (thesis/2026_jul_23_solid_state_storage_battery_thesis.html). Orphan holding now tracked: 220sh, -56% vs $8.35 cost. NOT solid-state \u2014 zinc long-duration grid storage. Bull: DOE $303.5M loa",
+      "notes": "GATE FAILED (Aug 11). Aug 5 Q2 was the double-down gate: 'gross margin -> 0, burn moderating, 4 GWh line live.' Actual: revenue $68.8M +351% but MISSED; adjusted gross margin improved only 132bp YoY o",
       "recent_headlines": [],
       "last_earnings_eps_surprise_pct": -3.62,
       "last_earnings_revenue_surprise_pct": -0.05,
@@ -2147,7 +2144,7 @@
           "revenue_surprise_pct": -0.23
         }
       ],
-      "days_until_earnings": 84,
+      "days_until_earnings": 83,
       "status": "future"
     },
     {
@@ -2161,8 +2158,8 @@
       "next_earnings_time": "after_close",
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
-      "next_earnings_eps_est": 1.22,
-      "next_earnings_revenue_est": 919355104,
+      "next_earnings_eps_est": 1.21,
+      "next_earnings_revenue_est": 912388768,
       "last_earnings": "2026-08-06",
       "last_earnings_period": "QQ2 2026",
       "last_earnings_eps_actual": 1.19,
@@ -2213,7 +2210,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 85,
+      "days_until_earnings": 84,
       "status": "future"
     },
     {
@@ -2228,7 +2225,7 @@
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
       "next_earnings_eps_est": -0.01,
-      "next_earnings_revenue_est": 118569600,
+      "next_earnings_revenue_est": 118251600,
       "last_earnings": "2026-08-06",
       "last_earnings_period": "QQ2 2026",
       "last_earnings_eps_actual": -0.01,
@@ -2279,7 +2276,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 85,
+      "days_until_earnings": 84,
       "status": "future"
     },
     {
@@ -2294,7 +2291,7 @@
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
       "next_earnings_eps_est": 1.2,
-      "next_earnings_revenue_est": 1484788800,
+      "next_earnings_revenue_est": 1490788800,
       "last_earnings": "2026-08-04",
       "last_earnings_period": "QQ2 2026",
       "last_earnings_eps_actual": 1.19,
@@ -2345,7 +2342,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 90,
+      "days_until_earnings": 89,
       "status": "future"
     },
     {
@@ -2411,7 +2408,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 90,
+      "days_until_earnings": 89,
       "status": "future"
     },
     {
@@ -2435,7 +2432,7 @@
       "last_earnings_revenue_actual": 52826000000,
       "last_earnings_revenue_surprise": null,
       "source": "stockanalysis.com",
-      "notes": "NEW Jul 13: Nasdaq ADR listed 7/10 ($149 offer, $26.5B raised, 10 ADR = 1 Seoul share). 4.8-5.4x fwd vs MU 6.6x with 60-70% Rubin HBM4 share; 2027 HBM talks stalled w/ suppliers demanding doubles. REN",
+      "notes": "Aug 11 check: NO hard exit tripped. DDR5 is not flat/down \u2014 it is the profit engine (SK hynix DDR5 margins reported ~90%, and the company is DELAYING HBM3E->HBM4 line conversion to keep serving higher",
       "recent_headlines": [],
       "last_earnings_eps_surprise_pct": null,
       "last_earnings_revenue_surprise_pct": null,
@@ -2450,7 +2447,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 93,
+      "days_until_earnings": 92,
       "status": "future"
     },
     {
@@ -2458,7 +2455,7 @@
       "company": "Powell Industries",
       "thesis": "ai_infra+pmi",
       "conviction": "HIGH",
-      "action": "WATCH",
+      "action": "BUY",
       "timeframe": "2026",
       "next_earnings": "2026-11-17",
       "next_earnings_time": "after_close",
@@ -2474,7 +2471,7 @@
       "last_earnings_revenue_actual": 312000000,
       "last_earnings_revenue_surprise": -5155760,
       "source": "stockanalysis.com",
-      "notes": "Jul 13: $232 \u2014 nearly in the flush zone. Aug 4 FQ3 print (cons EPS ~$1.47) is the trigger: b-t-b wobble to $210-225 initiates $5-7K; below $190 (~30x fwd) real position. Founder selling + 33% O&G back",
+      "notes": "FLUSH ARRIVED ON THE WRONG METRIC \u2014 ACTIONABLE (Aug 11). Aug 3 FQ3: EPS $1.42 vs ~$1.47 cons = MISS, revenue $312M +9%. But the leading indicators went vertical: record $934M orders, book-to-bill 3.0x",
       "recent_headlines": [],
       "last_earnings_eps_surprise_pct": -0.03,
       "last_earnings_revenue_surprise_pct": -0.02,
@@ -2516,7 +2513,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 97,
+      "days_until_earnings": 96,
       "status": "future"
     },
     {
@@ -2582,7 +2579,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 99,
+      "days_until_earnings": 98,
       "status": "future"
     },
     {
@@ -2590,7 +2587,7 @@
       "company": "Fluence Energy",
       "thesis": "grid_storage_integrator+ai_datacenter+itc2033",
       "conviction": "MEDIUM",
-      "action": "HOLD",
+      "action": "REVIEW-EXIT",
       "timeframe": "2026-2027",
       "next_earnings": "2026-11-23",
       "next_earnings_time": "after_close",
@@ -2606,7 +2603,7 @@
       "last_earnings_revenue_actual": 600180000,
       "last_earnings_revenue_surprise": -266594432,
       "source": "stockanalysis.com",
-      "notes": "NEW Jul 23 (thesis/2026_jul_23_solid_state_storage_battery_thesis.html). Orphan holding now tracked: 120sh, ~flat vs $15.40 cost. NOT solid-state \u2014 Li-ion grid-storage integrator. Bull: $5.6B record b",
+      "notes": "GATE FAILED DECISIVELY (Aug 11). The Jul 23 add gate was 'GM >=11% + guide intact.' Aug FQ3 delivered neither: GAAP gross margin COLLAPSED to 5.1% from 14.8%; FY26 revenue guide CUT ~$400M to $2.9-3.1",
       "recent_headlines": [],
       "last_earnings_eps_surprise_pct": -5,
       "last_earnings_revenue_surprise_pct": -0.31,
@@ -2648,7 +2645,7 @@
           "revenue_surprise_pct": -0.25
         }
       ],
-      "days_until_earnings": 103,
+      "days_until_earnings": 102,
       "status": "future"
     },
     {
