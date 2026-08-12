@@ -1,106 +1,7 @@
 {
-  "run_time": "2026-08-11T16:00:30.564888+00:00",
-  "total_filings": 5,
+  "run_time": "2026-08-12T16:00:30.275665+00:00",
+  "total_filings": 2,
   "filings": [
-    {
-      "ticker": "LEU",
-      "company": "Centrus Energy",
-      "earnings_date": "2026-08-05",
-      "filing_date": "2026-08-05",
-      "accession": "0001628280-26-053433",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0001628280-26-053433.txt",
-          "size_bytes": 549739,
-          "path": "LEU/2026-08-05/0001628280-26-053433.txt"
-        },
-        {
-          "filename": "ex991-10q2026_08x05.htm",
-          "size_bytes": 353964,
-          "path": "LEU/2026-08-05/ex991-10q2026_08x05.htm"
-        },
-        {
-          "filename": "leu-20260805.htm",
-          "size_bytes": 25715,
-          "path": "LEU/2026-08-05/leu-20260805.htm"
-        }
-      ],
-      "fetched_at": "2026-08-11T16:00:14.677869+00:00"
-    },
-    {
-      "ticker": "EOSE",
-      "company": "Eos Energy Enterprises",
-      "earnings_date": "2026-08-05",
-      "filing_date": "2026-08-05",
-      "accession": "0001628280-26-052903",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0001628280-26-052903.txt",
-          "size_bytes": 2842068,
-          "path": "EOSE/2026-08-05/0001628280-26-052903.txt"
-        },
-        {
-          "filename": "eose-20260805.htm",
-          "size_bytes": 32134,
-          "path": "EOSE/2026-08-05/eose-20260805.htm"
-        },
-        {
-          "filename": "eoseq2fy26earningsreleas.htm",
-          "size_bytes": 29031,
-          "path": "EOSE/2026-08-05/eoseq2fy26earningsreleas.htm"
-        },
-        {
-          "filename": "eoseq2fy26earningsreleas001.jpg",
-          "size_bytes": 287020,
-          "path": "EOSE/2026-08-05/eoseq2fy26earningsreleas001.jpg"
-        },
-        {
-          "filename": "eoseq2fy26earningsreleas002.jpg",
-          "size_bytes": 324497,
-          "path": "EOSE/2026-08-05/eoseq2fy26earningsreleas002.jpg"
-        },
-        {
-          "filename": "eoseq2fy26earningsreleas003.jpg",
-          "size_bytes": 299336,
-          "path": "EOSE/2026-08-05/eoseq2fy26earningsreleas003.jpg"
-        },
-        {
-          "filename": "eoseq2fy26earningsreleas004.jpg",
-          "size_bytes": 218543,
-          "path": "EOSE/2026-08-05/eoseq2fy26earningsreleas004.jpg"
-        },
-        {
-          "filename": "eoseq2fy26earningsreleas005.jpg",
-          "size_bytes": 236427,
-          "path": "EOSE/2026-08-05/eoseq2fy26earningsreleas005.jpg"
-        },
-        {
-          "filename": "eoseq2fy26earningsreleas006.jpg",
-          "size_bytes": 167684,
-          "path": "EOSE/2026-08-05/eoseq2fy26earningsreleas006.jpg"
-        },
-        {
-          "filename": "eoseq2fy26earningsreleas007.jpg",
-          "size_bytes": 78693,
-          "path": "EOSE/2026-08-05/eoseq2fy26earningsreleas007.jpg"
-        },
-        {
-          "filename": "eoseq2fy26earningsreleas008.jpg",
-          "size_bytes": 117967,
-          "path": "EOSE/2026-08-05/eoseq2fy26earningsreleas008.jpg"
-        },
-        {
-          "filename": "eoseq2fy26earningsreleas009.jpg",
-          "size_bytes": 162264,
-          "path": "EOSE/2026-08-05/eoseq2fy26earningsreleas009.jpg"
-        }
-      ],
-      "fetched_at": "2026-08-11T16:00:18.856733+00:00"
-    },
     {
       "ticker": "MP",
       "company": "MP Materials",
@@ -131,7 +32,7 @@
           "path": "MP/2026-08-06/mpmcq22026er.htm"
         }
       ],
-      "fetched_at": "2026-08-11T16:00:21.043078+00:00"
+      "fetched_at": "2026-08-12T16:00:22.571772+00:00"
     },
     {
       "ticker": "OKLO",
@@ -258,39 +159,7 @@
           "path": "OKLO/2025-03-24/tm2510004d1_ex99-1img019.jpg"
         }
       ],
-      "fetched_at": "2026-08-11T16:00:28.347993+00:00"
-    },
-    {
-      "ticker": "FLNC",
-      "company": "Fluence Energy",
-      "earnings_date": "2026-08-05",
-      "filing_date": "2026-08-05",
-      "accession": "0001868941-26-000028",
-      "form": "8-K",
-      "items": "2.02,9.01",
-      "documents": [
-        {
-          "filename": "0001868941-26-000028.txt",
-          "size_bytes": 536671,
-          "path": "FLNC/2026-08-05/0001868941-26-000028.txt"
-        },
-        {
-          "filename": "flnc-20260805.htm",
-          "size_bytes": 30034,
-          "path": "FLNC/2026-08-05/flnc-20260805.htm"
-        },
-        {
-          "filename": "flncq3fy26earningspressrel.htm",
-          "size_bytes": 329491,
-          "path": "FLNC/2026-08-05/flncq3fy26earningspressrel.htm"
-        },
-        {
-          "filename": "image_0.jpg",
-          "size_bytes": 20118,
-          "path": "FLNC/2026-08-05/image_0.jpg"
-        }
-      ],
-      "fetched_at": "2026-08-11T16:00:30.064472+00:00"
+      "fetched_at": "2026-08-12T16:00:29.775260+00:00"
     }
   ]
 }
