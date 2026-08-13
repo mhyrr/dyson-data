@@ -1,85 +1,135 @@
 {
-  "run_time": "2026-08-12T14:36:55.619761+00:00",
+  "run_time": "2026-08-13T09:36:59.642415+00:00",
   "lookback_days": 7,
   "tickers_checked": 76,
-  "new_items_count": 19,
+  "new_items_count": 35,
   "new_items": [
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA",
-      "title": "Supermicro Soars On Report. Why Nvidia Is Also Rallying.",
-      "link": "https://finance.yahoo.com/m/a86a0faa-7892-344b-afee-f1abbb8a47b4/supermicro-soars-on-report..html?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 14:14:05 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA",
-      "title": "CoreWeave &amp; Super Micro earnings are quieting AI concerns. What does this mean for Nvidia?",
-      "link": "https://finance.yahoo.com/video/coreweave-super-micro-earnings-quieting-141401252.html?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 14:14:01 +0000",
-      "source": "yahoo_finance",
-      "thesis": "ai_infrastructure",
-      "ticker_notes": "Ground zero. GPU monopoly, CUDA moat, full-stack (CPU, networking, software)."
-    },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
-      "title": "AMD Trades at 63x Forward Earnings, While Nvidia Trades at 24x. History Says This Is the Better Buy.",
-      "link": "https://www.fool.com/investing/2026/08/12/amd-trades-forward-earnings-nvidia-buy/?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 10:40:00 +0000",
+      "title": "AMD, Intel, and NVIDIA All Rally Wednesday After Series of Blockbuster AI Earnings Reports",
+      "link": "https://247wallst.com/investing/2026/08/12/amd-intel-and-nvidia-all-rally-wednesday-after-series-of-blockbuster-ai-earnings-reports/?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 22:21:27 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_infrastructure",
       "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
     },
     {
-      "ticker": "LNG",
-      "name": "Cheniere Energy",
-      "title": "Cheniere Highlights 10 Years of LNG Exports in 2025 Corporate Responsibility Report",
-      "link": "https://finance.yahoo.com/energy/articles/cheniere-highlights-10-years-lng-123000362.html?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 12:30:00 +0000",
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "title": "The 5 Most Interesting Analyst Questions From AMD\u2019s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-002900646.html?.tsrc=rss",
+      "date": "Thu, 13 Aug 2026 00:29:00 +0000",
       "source": "yahoo_finance",
-      "thesis": "energy_power",
-      "ticker_notes": "LNG export, natural gas for power gen demand."
+      "thesis": "ai_infrastructure",
+      "ticker_notes": "MI300X challenger, Turin CPU. Lisa Su execution story."
     },
     {
-      "ticker": "OKLO",
-      "name": "Oklo",
-      "title": "Should You Buy, Sell or Hold OKLO Stock Post First Revenues?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-oklo-stock-121100413.html?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 12:11:00 +0000",
+      "ticker": "MRVL",
+      "name": "Marvell",
+      "title": "Marvell Technology (MRVL) Stock Might Offer a Quick Bounce Before Earnings",
+      "link": "https://www.barchart.com/story/news/3803891/marvell-technology-mrvl-stock-might-offer-a-quick-bounce-before-earnings?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 13:15:02 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_infrastructure",
+      "ticker_notes": "Custom silicon, datacenter networking, AI ASIC design wins."
+    },
+    {
+      "ticker": "ANET",
+      "name": "Arista Networks",
+      "title": "Arista (ANET) Q2 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/08/11/arista-anet-q2-2026-earnings-call-transcript/?.tsrc=rss",
+      "date": "Tue, 11 Aug 2026 23:28:59 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_infrastructure",
+      "ticker_notes": "Datacenter networking \u2014 Ethernet vs InfiniBand."
+    },
+    {
+      "ticker": "SMR",
+      "name": "NuScale Power",
+      "title": "NuScale Power (SMR) Q2 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/08/12/nuscale-power-smr-q2-2026-earnings-call-transcript/?.tsrc=rss",
+      "date": "Thu, 13 Aug 2026 01:14:20 +0000",
       "source": "yahoo_finance",
       "thesis": "energy_power",
-      "ticker_notes": "SMR play, Sam Altman-backed, nuclear for datacenters."
+      "ticker_notes": "SMR developer, first NRC-approved design."
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "title": "Magnificent Seven Earnings Remain Robust: MSFT, AAPL",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-earnings-remain-robust-214600791.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 21:46:00 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_software_models",
+      "ticker_notes": "Azure/OpenAI partnership, Copilot, enterprise AI distribution."
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet",
+      "title": "Google's Sergey Brin Has Reportedly Urged AI Talent To Go All In On Gemini Models To Tackle Rivals",
+      "link": "https://stocktwits.com/news-articles/markets/equity/google-s-sergey-brin-has-reportedly-urged-ai-talent-to-go-all-in-on-gemini-models-to-tackle-rivals/cZo8g0vRJWY?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 19:20:49 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_software_models",
+      "ticker_notes": "Gemini, TPU, DeepMind, YouTube. Full-stack AI."
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "title": "Oracle (ORCL) Stock Looks Below Fair Value on Earnings Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-stock-looks-below-221051456.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 22:10:51 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_software_models",
+      "ticker_notes": "OCI cloud, database AI, Ellison AI infra bet."
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "title": "Oracle Stock Climbs After Quantum Partnership, Layoffs Report",
+      "link": "https://finance.yahoo.com/m/898a7205-509c-3507-875f-5812fc0e1454/oracle-stock-climbs-after.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 20:47:11 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_software_models",
+      "ticker_notes": "OCI cloud, database AI, Ellison AI infra bet."
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce",
+      "title": "Salesforce Poised to Temper Revenue Growth Acceleration Outlook for Second Half, UBS Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-poised-temper-revenue-growth-194749621.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 19:47:49 +0000",
+      "source": "yahoo_finance",
+      "thesis": "ai_software_models",
+      "ticker_notes": "Agentforce, enterprise AI agents."
     },
     {
       "ticker": "PLTR",
       "name": "Palantir",
-      "title": "Palantir Just Crushed Earnings Again. These 2 Legacy Defense Stocks Are the Cheaper Way to Play the Same Budget.",
-      "link": "https://www.fool.com/investing/2026/08/12/palantir-crush-earnings-legacy-defense-stocks/?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 12:22:00 +0000",
+      "title": "Palantir Technologies (PLTR) Is Up 8.0% After Raising 2026 Revenue Guidance On Stronger Q2 Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-pltr-8-0-043114044.html?.tsrc=rss",
+      "date": "Thu, 13 Aug 2026 04:31:14 +0000",
       "source": "yahoo_finance",
       "thesis": "ai_software_models",
       "ticker_notes": "AIP platform, government + commercial AI."
     },
     {
-      "ticker": "VRT",
-      "name": "Vertiv",
-      "title": "Stronger Results, AI Deals, and Buybacks Could Be A Game Changer For Vertiv Holdings Co (VRT)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stronger-results-ai-deals-buybacks-111248821.html?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 11:12:48 +0000",
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "title": "Palantir Technologies Inc. (PLTR) vs. BigBear.ai Holdings, Inc. (BBAI): Palantir\u2019s \u201cOtherworldly\u201d Quarter Sends Shares Soaring 30%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-vs-172109809.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 17:21:09 +0000",
       "source": "yahoo_finance",
-      "thesis": "power_delivery_800v",
-      "ticker_notes": "Power + cooling for datacenters. Held position."
+      "thesis": "ai_software_models",
+      "ticker_notes": "AIP platform, government + commercial AI."
     },
     {
       "ticker": "COHR",
       "name": "Coherent",
-      "title": "Coherent shares rise after Lumentum earnings boost optical networking outlook",
-      "link": "https://investorshub.advfn.com/market-news/article/34091/coherent-shares-rise-after-lumentum-earnings-boost-optical-networking-outlook?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 10:00:03 +0000",
+      "title": "COHR Stock Dips Overnight Despite Strong Q4: Retail Bulls Keep The Faith",
+      "link": "https://stocktwits.com/news-articles/markets/equity/cohr-stock-dips-overnight-despite-strong-q4-retail-bulls-keep-the-faith/cZopvP3RJhR?.tsrc=rss",
+      "date": "Thu, 13 Aug 2026 02:09:45 +0000",
       "source": "yahoo_finance",
       "thesis": "optics_interconnect",
       "ticker_notes": "SiPho + 1.6T transceivers, vertically integrated."
@@ -87,9 +137,89 @@
     {
       "ticker": "COHR",
       "name": "Coherent",
-      "title": "Lumentum's Upbeat Report Sparks Photonics Rally: Coherent's Earnings Up Next",
-      "link": "https://stocktwits.com/news-articles/markets/equity/lumentum-s-upbeat-report-sparks-photonics-rally-coherent-s-earnings-up-next/cZoFzwURJgO?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 09:37:21 +0000",
+      "title": "Coherent (COHR) Q4 Earnings and Revenues Top Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coherent-cohr-q4-earnings-revenues-214003430.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 21:40:03 +0000",
+      "source": "yahoo_finance",
+      "thesis": "optics_interconnect",
+      "ticker_notes": "SiPho + 1.6T transceivers, vertically integrated."
+    },
+    {
+      "ticker": "COHR",
+      "name": "Coherent",
+      "title": "Coherent Stock Drops Despite Earnings Beat and Strong Outlook",
+      "link": "https://finance.yahoo.com/m/7575a59d-dbc8-32db-bf34-11e285b3a706/coherent-stock-drops-despite.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 20:49:00 +0000",
+      "source": "yahoo_finance",
+      "thesis": "optics_interconnect",
+      "ticker_notes": "SiPho + 1.6T transceivers, vertically integrated."
+    },
+    {
+      "ticker": "COHR",
+      "name": "Coherent",
+      "title": "Coherent posts a blowout Q4 and aggressive guidance, yet shares dip 5%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coherent-posts-blowout-q4-aggressive-204756843.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 20:47:56 +0000",
+      "source": "yahoo_finance",
+      "thesis": "optics_interconnect",
+      "ticker_notes": "SiPho + 1.6T transceivers, vertically integrated."
+    },
+    {
+      "ticker": "COHR",
+      "name": "Coherent",
+      "title": "Coherent\u2019s (NYSE:COHR) Q2 CY2026 Sales Beat Estimates, Provides Optimistic Revenue Guidance for Next Quarter",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coherent-nyse-cohr-q2-cy2026-204600230.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 20:46:00 +0000",
+      "source": "yahoo_finance",
+      "thesis": "optics_interconnect",
+      "ticker_notes": "SiPho + 1.6T transceivers, vertically integrated."
+    },
+    {
+      "ticker": "COHR",
+      "name": "Coherent",
+      "title": "Coherent (COHR) Reports Q2: Everything You Need To Know Ahead Of Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coherent-cohr-reports-q2-everything-182122757.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 18:21:22 +0000",
+      "source": "yahoo_finance",
+      "thesis": "optics_interconnect",
+      "ticker_notes": "SiPho + 1.6T transceivers, vertically integrated."
+    },
+    {
+      "ticker": "COHR",
+      "name": "Coherent",
+      "title": "Ahead of Coherent Earnings, Here's What Barchart Data Says Comes Next for COHR Stock",
+      "link": "https://www.barchart.com/story/news/3809645/ahead-of-coherent-earnings-here-s-what-barchart-data-says-comes-next-for-cohr-stock?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 17:14:52 +0000",
+      "source": "yahoo_finance",
+      "thesis": "optics_interconnect",
+      "ticker_notes": "SiPho + 1.6T transceivers, vertically integrated."
+    },
+    {
+      "ticker": "COHR",
+      "name": "Coherent",
+      "title": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally",
+      "link": "https://finance.yahoo.com/m/1a4df130-7c08-3f7f-8a30-395b0e9950f6/dow-jones-futures%3A-cisco%2C.html?.tsrc=rss",
+      "date": "Thu, 13 Aug 2026 03:09:24 +0000",
+      "source": "yahoo_finance",
+      "thesis": "optics_interconnect",
+      "ticker_notes": "SiPho + 1.6T transceivers, vertically integrated."
+    },
+    {
+      "ticker": "COHR",
+      "name": "Coherent",
+      "title": "Lumentum Rockets 15% on Blowout Earnings, Coherent Climbs 9%, Corning Gains 5% on Optics Earnings and CoreWeave, Super Micro Read-Through",
+      "link": "https://247wallst.com/investing/2026/08/12/lumentum-rockets-15-on-blowout-earnings-coherent-climbs-9-corning-gains-5-on-optics-earnings-and-coreweave-super-micro-read-through/?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 17:22:27 +0000",
+      "source": "yahoo_finance",
+      "thesis": "optics_interconnect",
+      "ticker_notes": "SiPho + 1.6T transceivers, vertically integrated."
+    },
+    {
+      "ticker": "COHR",
+      "name": "Coherent",
+      "title": "Coherent Corp. Reports Fourth Quarter and Full Year Fiscal 2026 Results",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coherent-corp-reports-fourth-quarter-200500877.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 20:05:00 +0000",
       "source": "yahoo_finance",
       "thesis": "optics_interconnect",
       "ticker_notes": "SiPho + 1.6T transceivers, vertically integrated."
@@ -97,42 +227,32 @@
     {
       "ticker": "LITE",
       "name": "Lumentum",
-      "title": "Lumentum Stock Jumps as Stellar Earnings Extend Blazing-Hot Run",
-      "link": "https://finance.yahoo.com/m/f477b587-04cf-3527-bb2c-4f285d20521d/lumentum-stock-jumps-as.html?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 14:01:00 +0000",
+      "title": "LITE Q4 Earnings Beat as AI Demand Drives Optical Growth Surge",
+      "link": "https://finance.yahoo.com/technology/ai/articles/lite-q4-earnings-beat-ai-154200375.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 15:42:00 +0000",
       "source": "yahoo_finance",
       "thesis": "optics_interconnect",
       "ticker_notes": "200G EML near-monopoly. Ran past target unowned; re-entry on pullback."
     },
     {
-      "ticker": "LITE",
-      "name": "Lumentum",
-      "title": "Lumentum Earnings Top Estimates Amid Supply Chain Constraints",
-      "link": "https://finance.yahoo.com/m/2482cf84-861d-308c-9b6f-e3a10d2824af/lumentum-earnings-top.html?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 13:31:17 +0000",
+      "ticker": "SNDK",
+      "name": "SanDisk",
+      "title": "Sandisk (SNDK) Q4 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/08/12/sandisk-sndk-q4-2026-earnings-call-transcript/?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 23:04:31 +0000",
       "source": "yahoo_finance",
-      "thesis": "optics_interconnect",
-      "ticker_notes": "200G EML near-monopoly. Ran past target unowned; re-entry on pullback."
+      "thesis": "memory_cycle",
+      "ticker_notes": "NAND squeeze + HBF optionality (samples 2H26)."
     },
     {
-      "ticker": "LITE",
-      "name": "Lumentum",
-      "title": "Lumentum Q4 Earnings Call Focuses on AI Optics, OCS &amp; NPO Ramps",
-      "link": "https://finance.yahoo.com/technology/ai/articles/lumentum-q4-earnings-call-focuses-130600686.html?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 13:06:00 +0000",
+      "ticker": "MP",
+      "name": "MP Materials",
+      "title": "MP Gains 15% Despite Q2 Earnings Miss: How to Play the Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mp-gains-15-despite-q2-172400860.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 17:24:00 +0000",
       "source": "yahoo_finance",
-      "thesis": "optics_interconnect",
-      "ticker_notes": "200G EML near-monopoly. Ran past target unowned; re-entry on pullback."
-    },
-    {
-      "ticker": "LITE",
-      "name": "Lumentum",
-      "title": "Lumentum beats quarterly forecasts as AI demand drives stronger outlook",
-      "link": "https://investorshub.advfn.com/market-news/article/34085/lumentum-beats-quarterly-forecasts-as-ai-demand-drives-stronger-outlook?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 09:56:05 +0000",
-      "source": "yahoo_finance",
-      "thesis": "optics_interconnect",
-      "ticker_notes": "200G EML near-monopoly. Ran past target unowned; re-entry on pullback."
+      "thesis": "critical_materials",
+      "ticker_notes": "Rare earths, DoD price floor + warrants."
     },
     {
       "ticker": "WPM",
@@ -145,21 +265,31 @@
       "ticker_notes": "Silver streaming, scarcity hedge."
     },
     {
-      "ticker": "AVAV",
-      "name": "AeroVironment",
-      "title": "Drone Data Services and Analytics Market Report 2026\u20132035: Evaluating AI Reality Capture, BVLOS Integration, and Competitive Strategies of DroneDeploy, AeroVironment, and Terra Drone",
-      "link": "https://finance.yahoo.com/technology/ai/articles/drone-data-services-analytics-market-114600382.html?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 11:46:00 +0000",
+      "ticker": "AEVA",
+      "name": "Aeva Technologies",
+      "title": "Aeva (AEVA) Q2 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/08/12/aeva-aeva-q2-2026-earnings-call-transcript/?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 23:30:54 +0000",
       "source": "yahoo_finance",
-      "thesis": "defense_tech",
-      "ticker_notes": "Small UAS/loitering munitions. FY-Apr filer (stale-data trap)."
+      "thesis": "edge_ai",
+      "ticker_notes": "FMCW lidar."
+    },
+    {
+      "ticker": "FLNC",
+      "name": "Fluence Energy",
+      "title": "Fluence Energy (FLNC) Q3 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/08/12/fluence-energy-flnc-q3-2026-earnings-call-transcript/?.tsrc=rss",
+      "date": "Thu, 13 Aug 2026 01:02:47 +0000",
+      "source": "yahoo_finance",
+      "thesis": "grid_storage",
+      "ticker_notes": "Storage integrator. NVIDIA Vera Rubin exclusive partner."
     },
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "title": "AI infrastructure stocks surge after strong earnings from CoreWeave, Supermicro",
-      "link": "https://finance.yahoo.com/markets/article/ai-infrastructure-stocks-surge-after-strong-earnings-from-coreweave-supermicro-142304399.html?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 14:23:04 +0000",
+      "title": "CoreWeave Has $104 Billion of Contracted Revenue and a $59 Billion Market Value",
+      "link": "https://www.fool.com/investing/2026/08/12/coreweave-has-104-billion-of-contracted-revenue-an/?.tsrc=rss",
+      "date": "Thu, 13 Aug 2026 01:34:00 +0000",
       "source": "yahoo_finance",
       "thesis": "neo_cloud",
       "ticker_notes": "Neo-cloud bellwether. Debt issuance = fire-alarm sensor."
@@ -167,9 +297,9 @@
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "title": "\u2018Pharma Bro\u2019 Martin Shkreli Says CRWV Stock Is A \u2018Short\u2019, While Wall Street Raises Price Targets After Earnings",
-      "link": "https://stocktwits.com/news-articles/markets/equity/crwv-stock-martin-shkreli-short-wall-street-price-targets/cZo8dWQRJWT?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 13:41:09 +0000",
+      "title": "S&amp;P 500 ends higher as CoreWeave results fuel AI optimism",
+      "link": "https://finance.yahoo.com/video/p-500-ends-higher-coreweave-223924354.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 22:39:24 +0000",
       "source": "yahoo_finance",
       "thesis": "neo_cloud",
       "ticker_notes": "Neo-cloud bellwether. Debt issuance = fire-alarm sensor."
@@ -177,9 +307,9 @@
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "title": "CoreWeave Earnings Beat Amid Operating Margin Upside. AI Stock Jumps.",
-      "link": "https://finance.yahoo.com/m/8529a809-faa2-31d7-bb78-e68c8911fd6b/coreweave-earnings-beat-amid.html?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 13:37:52 +0000",
+      "title": "CoreWeave Q2 Earnings and CDO Interview, Nebius Q2 Earnings, WhiteFiber Q2 Earnings",
+      "link": "https://blockspace.media/podcast/coreweave-q2-earnings-and-cdo-interview-nebius-q2-earnings-whitefiber-q2-earnings/?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 21:11:00 +0000",
       "source": "yahoo_finance",
       "thesis": "neo_cloud",
       "ticker_notes": "Neo-cloud bellwether. Debt issuance = fire-alarm sensor."
@@ -187,12 +317,42 @@
     {
       "ticker": "CRWV",
       "name": "CoreWeave",
-      "title": "CoreWeave's Revenue Doubled, but Its Debt Keeps Climbing",
-      "link": "https://finance.yahoo.com/technology/ai/articles/coreweaves-revenue-doubled-debt-keeps-125217466.html?.tsrc=rss",
-      "date": "Wed, 12 Aug 2026 12:52:17 +0000",
+      "title": "Stock Market Today: Nasdaq Charges Higher On Inflation Report; Nvidia Partner CoreWeave Soars (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/14192882-2d0d-3020-8314-bc5352b1fdcf/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 20:22:31 +0000",
       "source": "yahoo_finance",
       "thesis": "neo_cloud",
       "ticker_notes": "Neo-cloud bellwether. Debt issuance = fire-alarm sensor."
+    },
+    {
+      "ticker": "PFE",
+      "name": "Pfizer",
+      "title": "5 Insightful Analyst Questions From Pfizer\u2019s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/healthcare/articles/5-insightful-analyst-questions-pfizer-022900266.html?.tsrc=rss",
+      "date": "Thu, 13 Aug 2026 02:29:00 +0000",
+      "source": "yahoo_finance",
+      "thesis": "value_book",
+      "ticker_notes": "6.5% yield, ~9x forward. Aug 2026 director buy cluster."
+    },
+    {
+      "ticker": "MRK",
+      "name": "Merck",
+      "title": "5 Insightful Analyst Questions From Merck\u2019s Q2 Earnings Call",
+      "link": "https://finance.yahoo.com/healthcare/articles/5-insightful-analyst-questions-merck-234100386.html?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 23:41:00 +0000",
+      "source": "yahoo_finance",
+      "thesis": "value_book",
+      "ticker_notes": "Keytruda + Winrevair. Multiple compression entry."
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "title": "Tesla Just Keeps Crashing: One of Wall Street\u2019s Most Outspoken Names Sees 80% Gains Anyway",
+      "link": "https://247wallst.com/investing/2026/08/12/tesla-just-keeps-crashing-one-of-wall-streets-most-outspoken-names-sees-80-gains-anyway/?.tsrc=rss",
+      "date": "Wed, 12 Aug 2026 16:10:49 +0000",
+      "source": "yahoo_finance",
+      "thesis": "core_holdings",
+      "ticker_notes": "Held. Autonomy/energy optionality."
     }
   ]
 }

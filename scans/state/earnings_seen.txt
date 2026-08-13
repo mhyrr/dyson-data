@@ -763,6 +763,8 @@ VST:Vistra Shares Slip After Revenue Miss Despite Strong EBITDA Growth
 VST:Vistra to Report Q2 Earnings: What to Expect From the Stock?
 VST:Where Does Vistra (VST) Valuation Sit After Revenue Miss And Firm Guidance?
 title:5 Insightful Analyst Questions From Chevron’s Q2 Earnings Call
+title:5 Insightful Analyst Questions From Merck’s Q2 Earnings Call
+title:5 Insightful Analyst Questions From Pfizer’s Q2 Earnings Call
 title:AEVA Q2 Earnings Beat on Service Growth and Gross Profit
 title:AI infrastructure stocks surge after strong earnings from CoreWeave, Supermicro
 title:ALB Q2 Earnings Beat Estimates on Lithium Pricing Strength
@@ -770,6 +772,7 @@ title:ALB Q2 Earnings Call Highlights Storage Demand, Q3 Pressure
 title:AMD (AMD) Q2 2026 Earnings Call Transcript
 title:AMD Trades at 63x Forward Earnings, While Nvidia Trades at 24x. History Says This Is the Better Buy.
 title:AMD's Bigger Risk Sits In Its Revenue Mix, Not Its Multiple
+title:AMD, Intel, and NVIDIA All Rally Wednesday After Series of Blockbuster AI Earnings Reports
 title:AMZN Stock to Close Above $300 by August End? Crypto Punters Bet on the Possibility Following Amazon's Impressive Q2 Per
 title:ARM Stock Just Posted Its Best Day In Over A Year — A Week After Q1 Beat: Retail Gets More Bullish
 title:ASML Stock Jumps 4.1% as TSMC Revenue Reignites Tool Demand
@@ -777,10 +780,12 @@ title:AST SpaceMobile vs. Vertiv: Comparing Revenue Scale and Consistency
 title:AVAV Stock Jumps 8% On Reported $400M Army Deal — Why Retail Sees AeroVironment’s Laser Weapons Moving Beyond Testing
 title:AXT Slides Before Lumentum and Coherent Report Earnings This Week.
 title:Advanced Micro Devices, Inc. (AMD) vs. Sandisk Corporation (SNDK): Chip Earnings Momentum Meets a Mixed Market Reaction
+title:Aeva (AEVA) Q2 2026 Earnings Call Transcript
 title:Aeva Reports Second Quarter 2026 Results
 title:Aeva Technologies' 'Transformational' Hyperscaler Deal Could Potentially Drive Billions in Revenue, Oppenheimer Says
 title:Aeva Technologies, Inc. (AEVA) Reports Q2 Loss, Beats Revenue Estimates
 title:After Q2 Earnings, Is Pfizer or Merck the Smarter Dividend Play?
+title:Ahead of Coherent Earnings, Here's What Barchart Data Says Comes Next for COHR Stock
 title:Albemarle (ALB) Earnings Hopes Build, Is It Still 35% Below Fair Value?
 title:Albemarle (ALB) Q2 Earnings and Revenues Surpass Estimates
 title:Albemarle (ALB) Reports Q2 Earnings: What Key Metrics Have to Say
@@ -792,6 +797,7 @@ title:Albemarle Reports Second Quarter 2026 Results
 title:Amazon Grew Revenue 20%. Here's the Only Reason I Can Think Of for Why Amazon Trades at Just 22 Times Forward Earnings.
 title:Ambarella Announces Second Quarter Fiscal Year 2027 Earnings Conference Call to be Held September 3, 2026
 title:Applied Optoelectronics Zooms 13% Higher on Pivotal Quarterly Print; Coherent Advances 13%, Lumentum Adds 8%
+title:Arista (ANET) Q2 2026 Earnings Call Transcript
 title:Arista Networks vs. Arm: Comparing Revenue Growth Trajectories for These Artificial Intelligence Companies
 title:Arista’s (ANET) Record Quarter Reignites The AI Networking Debate
 title:Arm (ARM) Q1 2027 Earnings Call Transcript
@@ -811,6 +817,7 @@ title:CEG Q2 Earnings Call Focuses on Higher Guidance and Nuclear Deals
 title:CEG Q2 Earnings Top Estimates on Calpine Contribution, View Raised
 title:CLSK Stock In Focus After CleanSpark Signs $6.6B AI Data Center Lease In First HPC Deal Ahead Of Earnings Report
 title:CNH Earnings Were So Good They Pulled Deere Stock Up
+title:COHR Stock Dips Overnight Despite Strong Q4: Retail Bulls Keep The Faith
 title:CRWV Stock Ahead of Q2 Earnings: Buy, Sell, or Wait for the Results?
 title:CRWV Stock Rallies 13% After-Hours — AI Compute Demand Has Pushed CoreWeave Revenue To More Than Double
 title:CVX's Q2 Earnings Beat: Can Strong Momentum Drive the Stock Higher?
@@ -845,8 +852,14 @@ title:CleanSpark advances 175 MW Sandersville project after funding equity commi
 title:CleanSpark earnings call reveals Sandersville financing strategy, CAPEX
 title:CleanSpark's Q3 Earnings Call Centers on Sandersville AI Lease
 title:Cleanspark Q3 Earnings Call Highlights
+title:Coherent (COHR) Q4 Earnings and Revenues Top Estimates
+title:Coherent (COHR) Reports Q2: Everything You Need To Know Ahead Of Earnings
+title:Coherent Corp. Reports Fourth Quarter and Full Year Fiscal 2026 Results
 title:Coherent Falls 12%, Lumentum Drops 7% as AI Optics Stocks Cool Ahead of Earnings
+title:Coherent Stock Drops Despite Earnings Beat and Strong Outlook
+title:Coherent posts a blowout Q4 and aggressive guidance, yet shares dip 5%
 title:Coherent shares rise after Lumentum earnings boost optical networking outlook
+title:Coherent’s (NYSE:COHR) Q2 CY2026 Sales Beat Estimates, Provides Optimistic Revenue Guidance for Next Quarter
 title:Compared to Estimates, Fluence Energy (FLNC) Q3 Earnings: A Look at Key Metrics
 title:Constellation Energy (CEG) Beat Earnings And Lifted Guidance, Is It Still 26% Undervalued?
 title:Constellation Energy Corporation (CEG) Q2 Earnings and Revenues Beat Estimates
@@ -860,10 +873,12 @@ title:CoreWeave Earnings Beat Amid Operating Margin Upside
 title:CoreWeave Earnings Beat Amid Operating Margin Upside. AI Stock Jumps.
 title:CoreWeave Earnings Will Test Its Speedrun to AI Hyperscale
 title:CoreWeave Faces a 15.5% Earnings Swing as AI Spending Gets Tested
+title:CoreWeave Has $104 Billion of Contracted Revenue and a $59 Billion Market Value
 title:CoreWeave Inc (CRWV) (Q2 2026) Earnings Call Highlights: Record Revenue and $104 Billion ...
 title:CoreWeave Must Prove Whether ‘the Revenue Ramp Can Actually Catch Up’ to Its Nearly $100 Billion Backlog, Warns Shay Bol
 title:CoreWeave Q2 Earnings Call Highlights
 title:CoreWeave Q2 Earnings Preview: What To Expect From Upcoming Report
+title:CoreWeave Q2 Earnings and CDO Interview, Nebius Q2 Earnings, WhiteFiber Q2 Earnings
 title:CoreWeave Reports Solid Earnings. The Stock Jumps.
 title:CoreWeave Stock Surges Nearly 16% After Earnings, Analyst Says Old Nvidia GPUs Can 'Still Generate Revenue Nearly a Deca
 title:CoreWeave Stock, Nebius Highlight Data Center Earnings; Tech Stars Lumentum, AMAT Also Due
@@ -886,6 +901,7 @@ title:Datadog Posts Q2 Beat as Observability, AI Demand Remain Strong, RBC Capit
 title:Datadog Q2 Earnings and Revenues Surpass Estimates, Rise Y/Y
 title:Deere to Announce Third Quarter 2026 Financial Results
 title:Dow Jones Futures Fall After Market Ramps Up; Cisco, Lumentum Earnings Ahead
+title:Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally
 title:Drone Data Services and Analytics Market Report 2026–2035: Evaluating AI Reality Capture, BVLOS Integration, and Competi
 title:Eaton (ETN) Could Be 4% Undervalued After Guidance Update And Mobility Separation Plan
 title:Eaton (ETN) Is Up 23.6% After Mixed Q2 2026 Results and Reaffirmed Guidance - What's Changed
@@ -898,6 +914,7 @@ title:Eos Energy Enterprises, Inc. Q2 2026 Earnings Call Summary
 title:FLNC Q2 2026 Deep Dive: Production Delays and Guidance Revision Amid Record Backlog Growth
 title:FLNC Q3 Earnings Call Highlights Supply Delays, Data Center Demand
 title:Fabrinet (FN) Earnings Expected to Grow: What to Know Ahead of Next Week's Release
+title:Fluence Energy (FLNC) Q3 2026 Earnings Call Transcript
 title:Fluence Energy (FLNC) Revenue Grew But Profit Turned To Loss, Is The Stock Still Undervalued?
 title:Fluence Energy (NASDAQ:FLNC) Misses Q2 CY2026 Sales Expectations, Stock Drops 27.1%
 title:Fluence Energy Inc (FLNC) (Q3 2026) Earnings Call Highlights: Record Orders and Backlog Amid ...
@@ -908,6 +925,7 @@ title:Fluence Energy, Inc. Reports Third Fiscal Quarter 2026 Results
 title:General Dynamics (GD) Could Be 5% Undervalued After Its Q2 Beat And Guidance Raise
 title:General Dynamics (GD) Q2 2026 Earnings Call Transcript
 title:Global Influenza Vaccine Market Report, 2026 Edition - Profiles GlaxoSmithKline, Pfizer, Sanofi, Moderna, and 9 Other Pl
+title:Google's Sergey Brin Has Reportedly Urged AI Talent To Go All In On Gemini Models To Tackle Rivals
 title:Here's How to Play Albemarle Stock Before Q2 Earnings Release
 title:Here’s How Much Traders See CoreWeave Stock Moving After Earnings
 title:Iren vs. AeroVironment: A Comparison of Recent Revenue Trajectories
@@ -928,6 +946,7 @@ title:Kratos Defense shares soar after earnings beat and stronger full-year outl
 title:LEU Q2 Deep Dive: Backlog Growth and Expansion Plans Meet Margin Pressures
 title:LEU Q2 Earnings Call Highlights Backlog and 2029 Build-Out
 title:LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales
+title:LITE Q4 Earnings Beat as AI Demand Drives Optical Growth Surge
 title:LNG Q2 Earnings Call Highlights Guidance Raise and Output Gains
 title:Lumentum (LITE) Q4 Earnings and Revenues Top Estimates
 title:Lumentum Announces Fourth Quarter and Full Fiscal Year 2026 Results
@@ -937,6 +956,7 @@ title:Lumentum Earnings, Revenue Top Estimates As New Products Ramp
 title:Lumentum Holdings Inc (LITE) (Q4 2026) Earnings Call Highlights: Revenue Surges 109% as ...
 title:Lumentum Q4 Earnings Call Focuses on AI Optics, OCS &amp; NPO Ramps
 title:Lumentum Q4 Earnings Call Highlights
+title:Lumentum Rockets 15% on Blowout Earnings, Coherent Climbs 9%, Corning Gains 5% on Optics Earnings and CoreWeave, Super M
 title:Lumentum Stock Jumps as Stellar Earnings Extend Blazing-Hot Run
 title:Lumentum beats estimates on AI demand, guides above consensus; shares jump
 title:Lumentum beats quarterly forecasts as AI demand drives stronger outlook
@@ -944,6 +964,7 @@ title:Lumentum's Upbeat Report Sparks Photonics Rally: Coherent's Earnings Up Ne
 title:MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin’s $65K Push
 title:MARA and CleanSpark Post $851 Million in Combined Quarterly Losses
 title:MP Earnings Show Chinese Rare-Earth Monopoly Is Fading. The Stock Is Up.
+title:MP Gains 15% Despite Q2 Earnings Miss: How to Play the Stock?
 title:MP Materials Corp. (MP) Reports Q2 Loss, Beats Revenue Estimates
 title:MP Materials Corp. Q2 2026 Earnings Call Summary
 title:MP Materials Q2 Earnings Call Highlights
@@ -951,8 +972,10 @@ title:MP Materials Reports Second Quarter 2026 Results
 title:MP Q2 Earnings Call Focuses on Magnet Ramp and Rare Earth Expansion
 title:MSFT Stock Hits Highest Level This Year: Microsoft To Reportedly Hike Production Of AI Chips
 title:MU, SNDK, SKHY: Memory Stocks Rise As Report Of Temasek’s Planned Investments In Samsung, SK Hynix Boosts KOSPI
+title:Magnificent Seven Earnings Remain Robust: MSFT, AAPL
 title:Mark Zuckerberg Published His Superintelligence Manifesto Monday Morning. Meta Still Trades at 18 Times Forward Earnings
 title:Marvell (MRVL) vs. AVGO and NVDA: Can AI Interconnect Growth Deliver the Earnings Its Premium Valuation Demands?
+title:Marvell Technology (MRVL) Stock Might Offer a Quick Bounce Before Earnings
 title:Merck (MRK) Q2 2026 Earnings Call Transcript
 title:Merck KGaA Q2 Earnings Call Highlights
 title:Micron Stock Rises Despite Reported Apple Supplier Threat
@@ -961,6 +984,7 @@ title:Micron Trades at 6 Times Next Year's Earnings. The $38 Billion of Capacity
 title:Micron poised for "structural reset" in earnings power, UBS says, as HBM squeeze tightens further
 title:Microsoft, Amazon, Micron and Alphabet are part of Zacks Earnings Preview
 title:NVDA Teams Up With Wall Street Giants On Massive $500B AI Infrastructure Funding Push: Report
+title:NuScale Power (SMR) Q2 2026 Earnings Call Transcript
 title:NuScale Power Corporation (SMR) Reports Q2 Loss, Lags Revenue Estimates
 title:NuScale Power Q2 Earnings Call Highlights
 title:NuScale Power Reports Second Quarter 2026 Results
@@ -977,11 +1001,15 @@ title:Oklo Q2 Earnings Call Highlights
 title:Oklo Reports Friday Morning With Virtually No Revenue to Report. The Stock Trades 78% Below Its High.
 title:Oklo shares rise as revenue beat offsets wider Q2 loss
 title:Oklo vs AST SpaceMobile: Two Pre-Revenue Moonshots Powering the AI-and-Space Trade
+title:Oracle (ORCL) Stock Looks Below Fair Value on Earnings Today
+title:Oracle Stock Climbs After Quantum Partnership, Layoffs Report
 title:Owens-Corning Inc (OC) (Q2 2026) Earnings Call Highlights: Strong Revenue and Synergy Gains ...
 title:POWL Q3 Earnings Call Highlights Record Orders and Capacity Push
 title:Palantir (PLTR) Q2 2026 Earnings Call Transcript
 title:Palantir Just Crushed Earnings Again. These 2 Legacy Defense Stocks Are the Cheaper Way to Play the Same Budget.
 title:Palantir Rockets 16% After Q2 Blowout; C3.ai, UiPath Sit Out the Rally
+title:Palantir Technologies (PLTR) Is Up 8.0% After Raising 2026 Revenue Guidance On Stronger Q2 Results
+title:Palantir Technologies Inc. (PLTR) vs. BigBear.ai Holdings, Inc. (BBAI): Palantir’s “Otherworldly” Quarter Sends Shares S
 title:Palantir Technologies’s Q2 Earnings Call: Our Top 5 Analyst Questions
 title:Pfizer (PFE) Could Be 12% Undervalued Following Raised 2026 Revenue Guidance
 title:Pfizer (PFE) Q2 2026 Earnings Call Transcript
@@ -1008,12 +1036,15 @@ title:Qnity Reports Second Quarter 2026 Results, Raises Full-Year Financial Guid
 title:Qnity's Q2 Earnings Surpass Estimates, Revenues Increase Y/Y
 title:Quantinuum Posts First Earnings Since IPO; Strikes Oracle Quantum Deal
 title:QuantumScape (QS) Q2 Reset Puts Its $85 Fair Value Narrative To The Test
+title:S&amp;P 500 ends higher as CoreWeave results fuel AI optimism
 title:SK hynix (NasdaqGS:SKHY) Stock Looks Cheap On Earnings Yet Faces Growth Risks
 title:SKHY Reportedly Revives China NAND Plant After 4-Year Pause, Days After $39B Korean Fabs Investment
 title:SMR Q2 Earnings Call Focuses on TVA and Deployment Readiness
 title:SMR Q2 Earnings Meet Estimates, Revenues Miss on RoPower Timing
 title:SYNA Q4 Earnings Beat Estimates, Strong Core IoT Sales Aid Revenues
+title:Salesforce Poised to Temper Revenue Growth Acceleration Outlook for Second Half, UBS Says
 title:SanDisk Traded Margin Upside For Years Of Contracted Revenue
+title:Sandisk (SNDK) Q4 2026 Earnings Call Transcript
 title:Sandisk Q4 Earnings Call Centers on AI Demand and Long-Term Deals
 title:Sandisk Stock Sold Off on Earnings and Was Rewarded With an Upgrade
 title:Should BWX Technologies’ Guidance Hike and Medical Exit Reshape BWXT’s Nuclear‑Focused Investment Case?
@@ -1024,6 +1055,7 @@ title:Should You Buy, Sell or Hold MP Stock Before Q2 Earnings Release?
 title:Should You Buy, Sell or Hold OKLO Stock Post First Revenues?
 title:Should You Stay Invested in Constellation Energy Before Q2 Earnings?
 title:Sony, TSMC to build $6.29bn image sensor plant in Japan—report
+title:Stock Market Today: Nasdaq Charges Higher On Inflation Report; Nvidia Partner CoreWeave Soars (Live Coverage)
 title:Stronger Results, AI Deals, and Buybacks Could Be A Game Changer For Vertiv Holdings Co (VRT)
 title:Supermicro Soars On Report. Why Nvidia Is Also Rallying.
 title:Synaptics (SYNA) Reports Q4 Earnings: What Key Metrics Have to Say
@@ -1033,6 +1065,8 @@ title:TSMC Faces Revenue 'Uncertainty' In 2028-29 As AI Investments Need To Prov
 title:TSMC Revenue Surges as AI Chip Demand Hold
 title:TSMC's July Revenues Soar: How Should You Play the Stock Now?
 title:Taiwan Semiconductor's July Revenue Rose 45% and the Stock Sits 13% Below Its High
+title:Tesla Just Keeps Crashing: One of Wall Street’s Most Outspoken Names Sees 80% Gains Anyway
+title:The 5 Most Interesting Analyst Questions From AMD’s Q2 Earnings Call
 title:The Williams Companies (WMB) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates
 title:The Williams Companies, Inc. Q2 2026 Earnings Call Summary
 title:This Is Where Nvidia Beats Broadcom
