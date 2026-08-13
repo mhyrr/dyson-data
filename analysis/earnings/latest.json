@@ -1,5 +1,20 @@
 {
-  "run_time": "2026-08-12T16:00:20.400211+00:00",
-  "tickers_analyzed": 0,
-  "analyses": []
+  "run_time": "2026-08-13T09:37:00.859393+00:00",
+  "tickers_analyzed": 1,
+  "analyses": [
+    {
+      "symbol": "COHR",
+      "company": "Coherent Corp",
+      "last_quarter": "Q4 2026",
+      "beat_rate": 100.0,
+      "flags": [
+        "consistent_beater",
+        "high_eps_growth"
+      ],
+      "eps_trend": "accelerating",
+      "rev_trend": "accelerating",
+      "avg_yoy_eps_growth": 110.44,
+      "avg_yoy_rev_growth": 23.04
+    }
+  ]
 }
