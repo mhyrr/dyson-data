@@ -1,5 +1,5 @@
 {
-  "run_time": "2026-08-12T09:00:18.267604+00:00",
+  "run_time": "2026-08-13T09:00:25.293248+00:00",
   "days_ahead": 45,
   "days_back": 14,
   "total_tickers": 41,
@@ -29,72 +29,6 @@
     }
   ],
   "calendar": [
-    {
-      "symbol": "COHR",
-      "company": "Coherent Corp",
-      "thesis": "ai_infra+scarcity+blackwell+tpu",
-      "conviction": "HIGH",
-      "action": "BUY",
-      "timeframe": "2026",
-      "next_earnings": "2026-08-12",
-      "next_earnings_time": "after_close",
-      "next_earnings_period": "QQ4 2026",
-      "next_earnings_confirmed": true,
-      "next_earnings_eps_est": 1.58,
-      "next_earnings_revenue_est": 1982806064,
-      "last_earnings": "2026-05-06",
-      "last_earnings_period": "QQ3 2026",
-      "last_earnings_eps_actual": 1.41,
-      "last_earnings_eps_est": 1.36,
-      "last_earnings_eps_surprise": 0.05,
-      "last_earnings_revenue_actual": 1806000000,
-      "last_earnings_revenue_surprise": 25747648,
-      "source": "stockanalysis.com",
-      "notes": "Silicon photonics + 1.6T; vertically integrated; dual ecosystem play",
-      "recent_headlines": [],
-      "last_earnings_eps_surprise_pct": 0.04,
-      "last_earnings_revenue_surprise_pct": 0.01,
-      "recent_quarters": [
-        {
-          "period": "QQ3 2026",
-          "date": "2026-05-06",
-          "eps_actual": 1.41,
-          "eps_est": 1.36,
-          "eps_surprise": 0.05,
-          "revenue_actual": 1806000000,
-          "revenue_surprise_pct": 0.01
-        },
-        {
-          "period": "QQ2 2026",
-          "date": "2026-02-04",
-          "eps_actual": 1.29,
-          "eps_est": 1.14,
-          "eps_surprise": 0.15,
-          "revenue_actual": 1686000000,
-          "revenue_surprise_pct": 0.03
-        },
-        {
-          "period": "QQ1 2026",
-          "date": "2025-11-05",
-          "eps_actual": 1.16,
-          "eps_est": 0.97,
-          "eps_surprise": 0.19,
-          "revenue_actual": 1581000000,
-          "revenue_surprise_pct": 0.03
-        },
-        {
-          "period": "QQ4 2025",
-          "date": "2025-08-13",
-          "eps_actual": 1,
-          "eps_est": 0.84,
-          "eps_surprise": 0.16,
-          "revenue_actual": 1529000000,
-          "revenue_surprise_pct": 0.01
-        }
-      ],
-      "days_until_earnings": -1,
-      "status": "overdue"
-    },
     {
       "symbol": "FN",
       "company": "Fabrinet",
@@ -158,7 +92,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": 4,
+      "days_until_earnings": 3,
       "status": "this_week"
     },
     {
@@ -172,7 +106,7 @@
       "next_earnings_time": "before_open",
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": true,
-      "next_earnings_eps_est": 4.75,
+      "next_earnings_eps_est": 4.73,
       "next_earnings_revenue_est": 10745233768,
       "last_earnings": "2026-05-21",
       "last_earnings_period": "QQ2 2026",
@@ -224,7 +158,7 @@
           "revenue_surprise_pct": 0.17
         }
       ],
-      "days_until_earnings": 7,
+      "days_until_earnings": 6,
       "status": "this_week"
     },
     {
@@ -290,7 +224,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 13,
+      "days_until_earnings": 12,
       "status": "next_2_weeks"
     },
     {
@@ -305,7 +239,7 @@
       "next_earnings_period": "QQ2 2027",
       "next_earnings_confirmed": true,
       "next_earnings_eps_est": 0.87,
-      "next_earnings_revenue_est": 2704052000,
+      "next_earnings_revenue_est": 2705964264,
       "last_earnings": "2026-05-27",
       "last_earnings_period": "QQ1 2027",
       "last_earnings_eps_actual": 0.8,
@@ -356,7 +290,7 @@
           "revenue_surprise_pct": 0
         }
       ],
-      "days_until_earnings": 14,
+      "days_until_earnings": 13,
       "status": "next_2_weeks"
     },
     {
@@ -422,7 +356,7 @@
           "revenue_surprise_pct": -0.01
         }
       ],
-      "days_until_earnings": 14,
+      "days_until_earnings": 13,
       "status": "next_2_weeks"
     },
     {
@@ -488,7 +422,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 28,
+      "days_until_earnings": 27,
       "status": "this_month"
     },
     {
@@ -554,7 +488,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": 69,
+      "days_until_earnings": 68,
       "status": "future"
     },
     {
@@ -622,7 +556,7 @@
       ],
       "schedule_date": "2026-07-22",
       "schedule_status": "reported",
-      "days_until_earnings": 69,
+      "days_until_earnings": 68,
       "status": "future"
     },
     {
@@ -688,7 +622,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 69,
+      "days_until_earnings": 68,
       "status": "future"
     },
     {
@@ -754,7 +688,7 @@
           "revenue_surprise_pct": 0.04
         }
       ],
-      "days_until_earnings": 70,
+      "days_until_earnings": 69,
       "status": "future"
     },
     {
@@ -820,7 +754,7 @@
           "revenue_surprise_pct": 0.06
         }
       ],
-      "days_until_earnings": 75,
+      "days_until_earnings": 74,
       "status": "future"
     },
     {
@@ -886,7 +820,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 75,
+      "days_until_earnings": 74,
       "status": "future"
     },
     {
@@ -952,7 +886,7 @@
           "revenue_surprise_pct": -0.02
         }
       ],
-      "days_until_earnings": 75,
+      "days_until_earnings": 74,
       "status": "future"
     },
     {
@@ -1018,7 +952,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 75,
+      "days_until_earnings": 74,
       "status": "future"
     },
     {
@@ -1086,7 +1020,7 @@
       ],
       "schedule_date": "2026-07-29",
       "schedule_status": "reported",
-      "days_until_earnings": 76,
+      "days_until_earnings": 75,
       "status": "future"
     },
     {
@@ -1152,7 +1086,7 @@
           "revenue_surprise_pct": 0.09
         }
       ],
-      "days_until_earnings": 76,
+      "days_until_earnings": 75,
       "status": "future"
     },
     {
@@ -1218,7 +1152,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 77,
+      "days_until_earnings": 76,
       "status": "future"
     },
     {
@@ -1233,7 +1167,7 @@
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
       "next_earnings_eps_est": 1.97,
-      "next_earnings_revenue_est": 201791008840,
+      "next_earnings_revenue_est": 201793463384,
       "last_earnings": "2026-07-30",
       "last_earnings_period": "QQ2 2026",
       "last_earnings_eps_actual": 5.75,
@@ -1286,7 +1220,7 @@
       ],
       "schedule_date": "2026-07-30",
       "schedule_status": "reported",
-      "days_until_earnings": 77,
+      "days_until_earnings": 76,
       "status": "future"
     },
     {
@@ -1352,7 +1286,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 77,
+      "days_until_earnings": 76,
       "status": "future"
     },
     {
@@ -1418,7 +1352,7 @@
           "revenue_surprise_pct": 0.03
         }
       ],
-      "days_until_earnings": 77,
+      "days_until_earnings": 76,
       "status": "future"
     },
     {
@@ -1484,7 +1418,7 @@
           "revenue_surprise_pct": 0.05
         }
       ],
-      "days_until_earnings": 78,
+      "days_until_earnings": 77,
       "status": "future"
     },
     {
@@ -1550,7 +1484,7 @@
           "revenue_surprise_pct": 0
         }
       ],
-      "days_until_earnings": 78,
+      "days_until_earnings": 77,
       "status": "future"
     },
     {
@@ -1565,7 +1499,7 @@
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
       "next_earnings_eps_est": 1.21,
-      "next_earnings_revenue_est": 976558328,
+      "next_earnings_revenue_est": 977799272,
       "last_earnings": "2026-08-03",
       "last_earnings_period": "QQ2 2026",
       "last_earnings_eps_actual": 1.07,
@@ -1616,7 +1550,7 @@
           "revenue_surprise_pct": 0.09
         }
       ],
-      "days_until_earnings": 81,
+      "days_until_earnings": 80,
       "status": "future"
     },
     {
@@ -1630,8 +1564,8 @@
       "next_earnings_time": "before_open",
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
-      "next_earnings_eps_est": -0.18,
-      "next_earnings_revenue_est": 36530792,
+      "next_earnings_eps_est": -0.19,
+      "next_earnings_revenue_est": 35982576,
       "last_earnings": "2026-08-04",
       "last_earnings_period": "QQ2 2026",
       "last_earnings_eps_actual": -0.65,
@@ -1682,7 +1616,7 @@
           "revenue_surprise_pct": -0.06
         }
       ],
-      "days_until_earnings": 81,
+      "days_until_earnings": 80,
       "status": "future"
     },
     {
@@ -1748,7 +1682,7 @@
           "revenue_surprise_pct": -0.02
         }
       ],
-      "days_until_earnings": 81,
+      "days_until_earnings": 80,
       "status": "future"
     },
     {
@@ -1814,7 +1748,7 @@
           "revenue_surprise_pct": -0.01
         }
       ],
-      "days_until_earnings": 82,
+      "days_until_earnings": 81,
       "status": "future"
     },
     {
@@ -1880,7 +1814,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 82,
+      "days_until_earnings": 81,
       "status": "future"
     },
     {
@@ -1894,8 +1828,8 @@
       "next_earnings_time": "after_close",
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
-      "next_earnings_eps_est": 0.2,
-      "next_earnings_revenue_est": 468674072,
+      "next_earnings_eps_est": 0.19,
+      "next_earnings_revenue_est": 469144656,
       "last_earnings": "2026-08-04",
       "last_earnings_period": "QQ2 2026",
       "last_earnings_eps_actual": 0.21,
@@ -1944,6 +1878,72 @@
           "eps_surprise": 0.04,
           "revenue_actual": 347600000,
           "revenue_surprise_pct": 0.07
+        }
+      ],
+      "days_until_earnings": 81,
+      "status": "future"
+    },
+    {
+      "symbol": "COHR",
+      "company": "Coherent Corp",
+      "thesis": "ai_infra+scarcity+blackwell+tpu",
+      "conviction": "HIGH",
+      "action": "BUY",
+      "timeframe": "2026",
+      "next_earnings": "2026-11-04",
+      "next_earnings_time": "after_close",
+      "next_earnings_period": "QQ1 2027",
+      "next_earnings_confirmed": false,
+      "next_earnings_eps_est": 1.74,
+      "next_earnings_revenue_est": 2132559056,
+      "last_earnings": "2026-08-12",
+      "last_earnings_period": "QQ4 2026",
+      "last_earnings_eps_actual": 1.74,
+      "last_earnings_eps_est": 1.58,
+      "last_earnings_eps_surprise": 0.16,
+      "last_earnings_revenue_actual": 2046000000,
+      "last_earnings_revenue_surprise": 63193936,
+      "source": "stockanalysis.com",
+      "notes": "Silicon photonics + 1.6T; vertically integrated; dual ecosystem play",
+      "recent_headlines": [],
+      "last_earnings_eps_surprise_pct": 0.1,
+      "last_earnings_revenue_surprise_pct": 0.03,
+      "recent_quarters": [
+        {
+          "period": "QQ4 2026",
+          "date": "2026-08-12",
+          "eps_actual": 1.74,
+          "eps_est": 1.58,
+          "eps_surprise": 0.16,
+          "revenue_actual": 2046000000,
+          "revenue_surprise_pct": 0.03
+        },
+        {
+          "period": "QQ3 2026",
+          "date": "2026-05-06",
+          "eps_actual": 1.41,
+          "eps_est": 1.36,
+          "eps_surprise": 0.05,
+          "revenue_actual": 1806000000,
+          "revenue_surprise_pct": 0.01
+        },
+        {
+          "period": "QQ2 2026",
+          "date": "2026-02-04",
+          "eps_actual": 1.29,
+          "eps_est": 1.14,
+          "eps_surprise": 0.15,
+          "revenue_actual": 1686000000,
+          "revenue_surprise_pct": 0.03
+        },
+        {
+          "period": "QQ1 2026",
+          "date": "2025-11-05",
+          "eps_actual": 1.16,
+          "eps_est": 0.97,
+          "eps_surprise": 0.19,
+          "revenue_actual": 1581000000,
+          "revenue_surprise_pct": 0.03
         }
       ],
       "days_until_earnings": 82,
@@ -2012,7 +2012,7 @@
           "revenue_surprise_pct": -0.18
         }
       ],
-      "days_until_earnings": 83,
+      "days_until_earnings": 82,
       "status": "future"
     },
     {
@@ -2026,7 +2026,7 @@
       "next_earnings_time": "after_close",
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
-      "next_earnings_eps_est": 0.05,
+      "next_earnings_eps_est": 0.04,
       "next_earnings_revenue_est": 67390368,
       "last_earnings": "2026-08-05",
       "last_earnings_period": "QQ2 2026",
@@ -2078,7 +2078,7 @@
           "revenue_surprise_pct": -0.05
         }
       ],
-      "days_until_earnings": 83,
+      "days_until_earnings": 82,
       "status": "future"
     },
     {
@@ -2093,7 +2093,7 @@
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
       "next_earnings_eps_est": -0.4,
-      "next_earnings_revenue_est": 82935280,
+      "next_earnings_revenue_est": 81929280,
       "last_earnings": "2026-08-05",
       "last_earnings_period": "QQ2 2026",
       "last_earnings_eps_actual": -1.2,
@@ -2144,7 +2144,7 @@
           "revenue_surprise_pct": -0.23
         }
       ],
-      "days_until_earnings": 83,
+      "days_until_earnings": 82,
       "status": "future"
     },
     {
@@ -2159,7 +2159,7 @@
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
       "next_earnings_eps_est": 1.21,
-      "next_earnings_revenue_est": 912388768,
+      "next_earnings_revenue_est": 908050768,
       "last_earnings": "2026-08-06",
       "last_earnings_period": "QQ2 2026",
       "last_earnings_eps_actual": 1.19,
@@ -2210,7 +2210,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 84,
+      "days_until_earnings": 83,
       "status": "future"
     },
     {
@@ -2225,7 +2225,7 @@
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
       "next_earnings_eps_est": -0.01,
-      "next_earnings_revenue_est": 118251600,
+      "next_earnings_revenue_est": 118120072,
       "last_earnings": "2026-08-06",
       "last_earnings_period": "QQ2 2026",
       "last_earnings_eps_actual": -0.01,
@@ -2276,7 +2276,7 @@
           "revenue_surprise_pct": 0.01
         }
       ],
-      "days_until_earnings": 84,
+      "days_until_earnings": 83,
       "status": "future"
     },
     {
@@ -2342,7 +2342,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 89,
+      "days_until_earnings": 88,
       "status": "future"
     },
     {
@@ -2356,8 +2356,8 @@
       "next_earnings_time": "after_close",
       "next_earnings_period": "QQ3 2026",
       "next_earnings_confirmed": false,
-      "next_earnings_eps_est": -0.19,
-      "next_earnings_revenue_est": 475310,
+      "next_earnings_eps_est": -0.21,
+      "next_earnings_revenue_est": 728880,
       "last_earnings": "2026-08-07",
       "last_earnings_period": "QQ2 2026",
       "last_earnings_eps_actual": -0.28,
@@ -2408,7 +2408,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 89,
+      "days_until_earnings": 88,
       "status": "future"
     },
     {
@@ -2447,7 +2447,7 @@
           "revenue_surprise_pct": null
         }
       ],
-      "days_until_earnings": 92,
+      "days_until_earnings": 91,
       "status": "future"
     },
     {
@@ -2513,7 +2513,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 96,
+      "days_until_earnings": 95,
       "status": "future"
     },
     {
@@ -2527,7 +2527,7 @@
       "next_earnings_time": "before_open",
       "next_earnings_period": "QQ4 2026",
       "next_earnings_confirmed": false,
-      "next_earnings_eps_est": 1.1,
+      "next_earnings_eps_est": 1.11,
       "next_earnings_revenue_est": 688070536,
       "last_earnings": "2026-08-03",
       "last_earnings_period": "QQ3 2026",
@@ -2579,7 +2579,7 @@
           "revenue_surprise_pct": 0.02
         }
       ],
-      "days_until_earnings": 98,
+      "days_until_earnings": 97,
       "status": "future"
     },
     {
@@ -2593,8 +2593,8 @@
       "next_earnings_time": "after_close",
       "next_earnings_period": "QQ4 2026",
       "next_earnings_confirmed": false,
-      "next_earnings_eps_est": 0.27,
-      "next_earnings_revenue_est": 1482349696,
+      "next_earnings_eps_est": 0.26,
+      "next_earnings_revenue_est": 1456177512,
       "last_earnings": "2026-08-05",
       "last_earnings_period": "QQ3 2026",
       "last_earnings_eps_actual": -0.24,
@@ -2645,7 +2645,7 @@
           "revenue_surprise_pct": -0.25
         }
       ],
-      "days_until_earnings": 102,
+      "days_until_earnings": 101,
       "status": "future"
     },
     {
